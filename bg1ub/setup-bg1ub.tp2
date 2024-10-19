@@ -321,6 +321,7 @@ LANGUAGE ~Polish~ // Bartek
 
 LANGUAGE ~Simplified Chinese~ //Lzw104522773, yoshimo0417, MephistoSatanDevil
 	 ~schinese~
+	 ~bg1ub/tra/schinese/prompts.tra~
 	 ~bg1ub/tra/schinese/setup.tra~
      ~bg1ub/tra/schinese/bg1ub.tra~
 
