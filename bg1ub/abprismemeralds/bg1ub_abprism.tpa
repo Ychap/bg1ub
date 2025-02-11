@@ -8,11 +8,11 @@
 LOAD_TRA "bg1ub/tra/%LANGUAGE%/ubprism.tra"
 
 ACTION_IF GAME_IS ~bg1~ THEN BEGIN
- INCLUDE ~bg1ub/abPrismEmeralds/tph/prism_bg1_addvars.tpa~
+ INCLUDE ~bg1ub/abprismemeralds/tph/prism_bg1_addvars.tpa~
 END
 
 ACTION_IF GAME_IS ~totsc~ THEN BEGIN
- INCLUDE ~bg1ub/abPrismEmeralds/tph/prism_totsc_addvars.tpa~
+ INCLUDE ~bg1ub/abprismemeralds/tph/prism_totsc_addvars.tpa~
 END
 
 ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
@@ -24,15 +24,15 @@ ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
 END
 
 ACTION_IF GAME_IS ~tutu tutu_totsc~ THEN BEGIN
- INCLUDE ~bg1ub/abPrismEmeralds/tph/prism_tutu_addvars.tpa~
+ INCLUDE ~bg1ub/abprismemeralds/tph/prism_tutu_addvars.tpa~
 END
 
 ACTION_IF GAME_IS ~bgt~ THEN BEGIN
- INCLUDE ~bg1ub/abPrismEmeralds/tph/prism_bgt_addvars.tpa~
+ INCLUDE ~bg1ub/abprismemeralds/tph/prism_bgt_addvars.tpa~
 END
 
 ACTION_IF GAME_IS ~bgee~ THEN BEGIN
- INCLUDE ~bg1ub/abPrismEmeralds/tph/prism_bgee_addvars.tpa~
+ INCLUDE ~bg1ub/abprismemeralds/tph/prism_bgee_addvars.tpa~
  ADD_JOURNAL EXISTING TITLE (#31383) @127 @128 @129 @130 @131 @132 @133 @134 USING ~bg1ub/tra/%LANGUAGE%/ubprism.tra~
 END
 
@@ -149,22 +149,22 @@ COPY_EXISTING ~%tutu_var%prism.cre~ ~override~
  READ_ASCII 0x0248 ~overridescript~
  PATCH_IF (FILE_EXISTS_IN_GAME ~%overridescript%~) BEGIN
   INNER_ACTION BEGIN
-   EXTEND_BOTTOM ~%overridescript%.bcs~ ~bg1ub/abPrismEmeralds/abgfprsm.baf~ //add our stuff -- creates new if doesn't exist
+   EXTEND_BOTTOM ~%overridescript%.bcs~ ~bg1ub/abprismemeralds/abgfprsm.baf~ //add our stuff -- creates new if doesn't exist
   END
  END ELSE BEGIN
   WRITE_ASCIIE 0x0248 ~abgfprsm~
   READ_ASCII 0x0248 ~overridescript~
   INNER_ACTION BEGIN
-   EXTEND_BOTTOM ~%overridescript%.bcs~ ~bg1ub/abPrismEmeralds/abgfprsm.baf~ //add our stuff -- creates new if doesn't exist
+   EXTEND_BOTTOM ~%overridescript%.bcs~ ~bg1ub/abprismemeralds/abgfprsm.baf~ //add our stuff -- creates new if doesn't exist
   END
  END
 
 BUT_ONLY
 //compile the script for the eye container traps
-COMPILE EVALUATE_BUFFER ~bg1ub/abPrismEmeralds/abitrp.baf~
+COMPILE EVALUATE_BUFFER ~bg1ub/abprismemeralds/abitrp.baf~
 
 //compile the dialog changes to oublek and prism
-COMPILE EVALUATE_BUFFER ~bg1ub/abPrismEmeralds/oublek.d~
+COMPILE EVALUATE_BUFFER ~bg1ub/abprismemeralds/oublek.d~
 
 
 /* hacking attempt to make the mod compatible with mods I_C_T into Prism state 7 and Oublek state 4: (BG1NPC Project and Gavin), if installed before bg1ub */
