@@ -1,6 +1,6 @@
 // Svlast CRE
 @4201 = ~Svlast~
-@4202 = ~[LOTHANDER 2] La mia vita Ë un disastro.~ [%tutu_var%LOTHR02]
+@4202 = ~[LOTHANDER 2] La mia vita √® un disastro.~ [%tutu_var%LOTHR02]
 @4203 = ~[LOTHANDER 3]~ [%tutu_var%LOTHR03]
 @4204 = ~[LOTHANDER 4]~ [%tutu_var%LOTHR04]
 
@@ -19,51 +19,51 @@
 
 // UBSVLAST.D
 /* #14889 */
-@4220 = ~» lÏ. Sta venendo. Riesco a sentire i suoi passi che mi seguono. Il tanfo della carne in putrefazione. Sta venendo per noi tutti.~ 
+@4220 = ~√à l√¨. Sta venendo. Riesco a sentire i suoi passi che mi seguono. Il tanfo della carne in putrefazione. Sta venendo per noi tutti.~ 
 /* #14890 */
-@4221 = ~Io... l'ho ucciso. Ma Ë lÏ, sta venendo, riesco a sen-sentirlo.~ 
+@4221 = ~Io... l'ho ucciso. Ma √® l√¨, sta venendo, riesco a sen-sentirlo.~ 
 /* #14891 - MODIFIED */
-@4222 = ~Un tempo ero un paladino. Combattevo dalla parte del bene, ma alla fine non servÏ a nulla... Uccisi a sangue freddo il mio fratello d'armi... Quando arriver‡, non interferire.~ 
+@4222 = ~Un tempo ero un paladino. Combattevo dalla parte del bene, ma alla fine non serv√¨ a nulla... Uccisi a sangue freddo il mio fratello d'armi... Quando arriver√†, non interferire.~ 
 /* #14893 - MODIFIED */
-@4223 = ~Cosa hai fatto? Adesso sono doppiamente maledetto! Uccidimi in questo maledetto posto! Alla fine ci sar‡ un po' di giustizia.~ 
+@4223 = ~Cosa hai fatto? Adesso sono doppiamente maledetto! Uccidimi in questo maledetto posto! Alla fine ci sar√† un po' di giustizia.~ 
 /* #14894 */
-@4224 = ~Cosa potresti mai sperare di imparare da un pazzo tormentato come me? Impara dal mio esempio, almeno, e cerca di non uccidere ciÚ che c'Ë di buono nel mondo.~ 
+@4224 = ~Cosa potresti mai sperare di imparare da un pazzo tormentato come me? Impara dal mio esempio, almeno, e cerca di non uccidere ci√≤ che c'√® di buono nel mondo.~ 
 /* #14895 */
 @4225 = ~Ti prego, lasciami alla mia miseria.~ 
 /* #14896 */
-@4226 = ~Per quanto desideri la morte, non l'affronterÚ senza combattere.~ 
-@4227 = ~Mi dispiace, fratello mio... Ero geloso, ero... un pazzo. La mia vita Ë tua.~ 
+@4226 = ~Per quanto desideri la morte, non l'affronter√≤ senza combattere.~ 
+@4227 = ~Mi dispiace, fratello mio... Ero geloso, ero... un pazzo. La mia vita √® tua.~ 
 
 // Replies
 @4240 = ~Di cosa stai parlando? Chi sta venendo per noi?~
-@4241 = ~Chi era questa persona? PerchÈ ti da la caccia dall'aldil‡?~
-@4242 = ~Sei pazzo? Non starÚ con le mani in mano mentre questa creatura ti uccide!~
-@4243 = ~Come desideri. Non sono d'accordo con la tua decisione, ma se vuoi morire per mano di questa creatura, non interferirÚ.~ 
-@4244 = ~Nessun problema. » una questione tra te e lui. Non voglio averne a che fare!~
-@4245 = ~Una creatura non morta vuole la *tua* morte? Forse dovremmo darle ciÚ che vuole!~
+@4241 = ~Chi era questa persona? Perch√© ti da la caccia dall'aldil√†?~
+@4242 = ~Sei pazzo? Non star√≤ con le mani in mano mentre questa creatura ti uccide!~
+@4243 = ~Come desideri. Non sono d'accordo con la tua decisione, ma se vuoi morire per mano di questa creatura, non interferir√≤.~ 
+@4244 = ~Nessun problema. √à una questione tra te e lui. Non voglio averne a che fare!~
+@4245 = ~Una creatura non morta vuole la *tua* morte? Forse dovremmo darle ci√≤ che vuole!~
 @4246 = ~Come desideri. Che giustizia sia fatta.~
-@4247 = ~Mi rifiuto. Non sarÚ il tuo boia. Dovrai fare ammenda per i tuoi crimini. Forse gli altri potranno imparare dai tuoi errori.~ 
+@4247 = ~Mi rifiuto. Non sar√≤ il tuo boia. Dovrai fare ammenda per i tuoi crimini. Forse gli altri potranno imparare dai tuoi errori.~ 
 @4248 = ~Bel modo di mostrare gratitudine! Ho appena salvato la tua miserabile vita!~
-@4249 = ~Se Ë ciÚ che desideri, sar‡ un piacere.~
+@4249 = ~Se √® ci√≤ che desideri, sar√† un piacere.~
 
 // Journal Entries
 //  (Strref: 15713)
 @4290 = ~Il tormento di Svlast
-Sono stato testimone di tristi eventi nelle rovine di Firewine. Un ex-paladino di nome Svlast Ë perseguitato dallo spirito del suo fratello d'armi che ha ucciso per errore. Non ho mai visto un'anima pi˘ abbattuta e contrita del povero Svlast. Ci ha chiesto di non interferire, ma il mio cuore non accetta una simile decisione...~ ~Il tormento di Svlast
-Sono stata testimone di tristi eventi nelle rovine di Firewine. Un ex-paladino di nome Svlast Ë perseguitato dallo spirito del suo fratello d'armi che ha ucciso per errore. Non ho mai visto un'anima pi˘ abbattuta e contrita del povero Svlast. Ci ha pregato di non interferire, ma il mio cuore non accetta una simile decisione...~
+Sono stato testimone di tristi eventi nelle rovine di Firewine. Un ex-paladino di nome Svlast √® perseguitato dallo spirito del suo fratello d'armi che ha ucciso per errore. Non ho mai visto un'anima pi√π abbattuta e contrita del povero Svlast. Ci ha chiesto di non interferire, ma il mio cuore non accetta una simile decisione...~ ~Il tormento di Svlast
+Sono stata testimone di tristi eventi nelle rovine di Firewine. Un ex-paladino di nome Svlast √® perseguitato dallo spirito del suo fratello d'armi che ha ucciso per errore. Non ho mai visto un'anima pi√π abbattuta e contrita del povero Svlast. Ci ha pregato di non interferire, ma il mio cuore non accetta una simile decisione...~
 @4291 = ~Il tormento di Svlast
-Un ex-paladino di nome Svlast Ë perseguitato dallo spirito del suo fratello d'armi che ha ucciso per errore. Ci ha pregato di non interferire.~
+Un ex-paladino di nome Svlast √® perseguitato dallo spirito del suo fratello d'armi che ha ucciso per errore. Ci ha pregato di non interferire.~
 @4292 = ~Il tormento di Svlast
-Un ex-paladino di nome Svlast Ë perseguitato dallo spirito del suo fratello d'armi che ha ucciso per errore. Ho dato alla creatura ciÚ che voleva uccidendo io stesso il paladino decaduto.~ ~Il tormento di Svlast
-Un ex-paladino di nome Svlast Ë perseguitato dallo spirito del suo fratello d'armi che ha ucciso per errore. Ho dato alla creatura ciÚ che voleva uccidendo io stessa il paladino decaduto.~
+Un ex-paladino di nome Svlast √® perseguitato dallo spirito del suo fratello d'armi che ha ucciso per errore. Ho dato alla creatura ci√≤ che voleva uccidendo io stesso il paladino decaduto.~ ~Il tormento di Svlast
+Un ex-paladino di nome Svlast √® perseguitato dallo spirito del suo fratello d'armi che ha ucciso per errore. Ho dato alla creatura ci√≤ che voleva uccidendo io stessa il paladino decaduto.~
 @4293 = ~Il tormento di Svlast
-Il tormento di Svlast Ë giunto alla fine. La creatura ha avuto la sua vendetta.~
+Il tormento di Svlast √® giunto alla fine. La creatura ha avuto la sua vendetta.~
 // (Strref: 15703)
 @4295 = ~Il tormento di Svlast
-Sopravvissuto all'assalto del revenant con il nostro aiuto, il povero e tormentato Svlast ci ha pregato di portare a termine il suo incarico... Giornata nera in queste rovine... e temo che adesso lo sia ancora di pi˘.~
+Sopravvissuto all'assalto del revenant con il nostro aiuto, il povero e tormentato Svlast ci ha pregato di portare a termine il suo incarico... Giornata nera in queste rovine... e temo che adesso lo sia ancora di pi√π.~
 @4296 = ~Il tormento di Svlast
-Sopravvissuto all'assalto del revenant con il nostro aiuto, il povero e tormentato Svlast ci ha pregato di portare a termine il suo incarico... Mi sono categoricamente rifiutato. Dovr‡ fare ammenda per i suoi crimini.~ ~Il tormento di Svlast
-Sopravvissuto all'assalto del revenant con il nostro aiuto, il povero e tormentato Svlast ci ha pregato di portare a termine il suo incarico... Mi sono categoricamente rifiutata. Dovr‡ fare ammenda per i suoi crimini.~
+Sopravvissuto all'assalto del revenant con il nostro aiuto, il povero e tormentato Svlast ci ha pregato di portare a termine il suo incarico... Mi sono categoricamente rifiutato. Dovr√† fare ammenda per i suoi crimini.~ ~Il tormento di Svlast
+Sopravvissuto all'assalto del revenant con il nostro aiuto, il povero e tormentato Svlast ci ha pregato di portare a termine il suo incarico... Mi sono categoricamente rifiutata. Dovr√† fare ammenda per i suoi crimini.~
 @4297 = ~Il tormento di Svlast
 Sopravvissuto all'assalto del revenant con il nostro aiuto, il povero e tormentato Svlast ci ha pregato di portare a termine il suo incarico... E pensare che mi sarei aspettato un po' di gratitudine!~ ~Il tormento di Svlast
 Sopravvissuto all'assalto del revenant con il nostro aiuto, il povero e tormentato Svlast ci ha pregato di portare a termine il suo incarico... E pensare che mi sarei aspettata un po' di gratitudine!~

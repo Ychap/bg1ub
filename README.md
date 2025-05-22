@@ -551,3 +551,7 @@ Below are links to community-related sites:
 
 * Version 16.6
   * Fix for malformed tra\deutsch\bg1ub.tra.
+
+* Version 17
+
+  * Converted the mod to use UTF8 encoding for translation files.

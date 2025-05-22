@@ -1,130 +1,130 @@
 //item strings for Prism Emeralds
-@117 = ~Szmaragd jest lœni¹cym zielonym berylem, oszlifowanym wed³ug ustalonego wzoru. Jest on czêsto kojarzony ze zdrowiem i bywa u¿ywany do ozdabiania przedmiotów ze zdrowiem zwi¹zanych. Na szmaragdzie tym wygrawerowano niewielk¹ literê „L”. Zosta³ on wykradziony przez Prisma na potrzeby pos¹gu, rzeŸbionego przezeñ dla swej mi³oœci, Ellesime. Mówi siê, ¿e kamieñ ów mia³ pos³u¿yæ za jego lewe oko. Bez wzglêdu na to, czy mia³ on byæ w³o¿ony w oczodó³ pos¹gu, za zwrócenie go odpowiednim w³adzom przewidziana jest nagroda.~
-@118 = ~Szmaragd jest lœni¹cym zielonym berylem, oszlifowanym wed³ug ustalonego wzoru. Jest on czêsto kojarzony ze zdrowiem i bywa u¿ywany do ozdabiania przedmiotów ze zdrowiem zwi¹zanych. Na szmaragdzie tym wygrawerowano niewielk¹ literê „P”. Zosta³ on wykradziony przez Prisma na potrzeby pos¹gu, rzeŸbionego przezeñ dla swej mi³oœci, Ellesime. Mówi siê, ¿e kamieñ ów mia³ pos³u¿yæ za jego prawe oko. Bez wzglêdu na to, czy mia³ on byæ w³o¿ony w oczodó³ pos¹gu, za zwrócenie go odpowiednim w³adzom przewidziana jest nagroda.~
+@117 = ~Szmaragd jest lÅ›niÄ…cym zielonym berylem, oszlifowanym wedÅ‚ug ustalonego wzoru. Jest on czÄ™sto kojarzony ze zdrowiem i bywa uÅ¼ywany do ozdabiania przedmiotÃ³w ze zdrowiem zwiÄ…zanych. Na szmaragdzie tym wygrawerowano niewielkÄ… literÄ™ â€Lâ€. ZostaÅ‚ on wykradziony przez Prisma na potrzeby posÄ…gu, rzeÅºbionego przezeÅ„ dla swej miÅ‚oÅ›ci, Ellesime. MÃ³wi siÄ™, Å¼e kamieÅ„ Ã³w miaÅ‚ posÅ‚uÅ¼yÄ‡ za jego lewe oko. Bez wzglÄ™du na to, czy miaÅ‚ on byÄ‡ wÅ‚oÅ¼ony w oczodÃ³Å‚ posÄ…gu, za zwrÃ³cenie go odpowiednim wÅ‚adzom przewidziana jest nagroda.~
+@118 = ~Szmaragd jest lÅ›niÄ…cym zielonym berylem, oszlifowanym wedÅ‚ug ustalonego wzoru. Jest on czÄ™sto kojarzony ze zdrowiem i bywa uÅ¼ywany do ozdabiania przedmiotÃ³w ze zdrowiem zwiÄ…zanych. Na szmaragdzie tym wygrawerowano niewielkÄ… literÄ™ â€Pâ€. ZostaÅ‚ on wykradziony przez Prisma na potrzeby posÄ…gu, rzeÅºbionego przezeÅ„ dla swej miÅ‚oÅ›ci, Ellesime. MÃ³wi siÄ™, Å¼e kamieÅ„ Ã³w miaÅ‚ posÅ‚uÅ¼yÄ‡ za jego prawe oko. Bez wzglÄ™du na to, czy miaÅ‚ on byÄ‡ wÅ‚oÅ¼ony w oczodÃ³Å‚ posÄ…gu, za zwrÃ³cenie go odpowiednim wÅ‚adzom przewidziana jest nagroda.~
 
 //journal entries for vanilla BG1: no title
-@119 = ~Ale¿ g³upiec z tego Prisma. On doprawdy uwierzy³ w me zaprzeczenia, jakobym wiedzia³ cokolwiek o stracie tych szmaragdów. No có¿...jego stracie. Dla mnie to czysty zysk.~ ~Ale¿ g³upiec z tego Prisma. On doprawdy uwierzy³ w me zaprzeczenia, jakobym wiedzia³a cokolwiek o stracie tych szmaragdów. No có¿...jego stracie. Dla mnie to czysty zysk.~
-@120 = ~Byæ mo¿e by³ to b³¹d, lecz po tym, jak pozwoli³em Prismowi dokoñczyæ swe „dzie³o ¿ycia”", wyj¹³em z oczodo³u pos¹gu jeden ze szmaragdów. Powinienem dostaæ za niego niez³¹ sumkê, w odpowiednim miejscu, lub przyzwoit¹ nagrodê...~ ~Byæ mo¿e by³ to b³¹d, lecz po tym, jak pozwoli³am Prismowi dokoñczyæ swe „dzie³o ¿ycia”, wyjê³am z oczodo³u pos¹gu jeden ze szmaragdów. Powinnam dostaæ za niego niez³¹ sumkê, w odpowiednim miejscu, lub przyzwoit¹ nagrodê...~
-@121 = ~Choæ wymaga³o to nieco pracy, uda³o mi siê wreszcie wydobyæ drugi ze skradzionych przez Prisma szmaragdów, który mia³ pos³u¿yæ mu za jedno z oczu w rzeŸbionym przez niego „dziele ¿ycia”.~
-@122 = ~Opowieœæ Prisma to zaiste smutna historia. Szkoda, ¿e nie mog³a mieæ lepszego zakoñczenia. No có¿, koniec koñców na niej zarobi³em. Zgarn¹³em trzysta sztuk z³ota za skradzione przez niego szmaragdy.~ ~Opowieœæ Prisma to zaiste smutna historia. Szkoda, ¿e nie mog³a mieæ lepszego zakoñczenia. No có¿, koniec koñców na niej zarobi³am. Zgarnê³am trzysta sztuk z³ota za skradzione przez niego szmaragdy.~
-@123 = ~Nastêpnym razem muszê pamiêtaæ, by nigdy wiêcej nie udawaæ kogoœ innego dla szybkiego zysku. Uda³o mi siê jednak w koñcu otrzymaæ nagrodê za zwrócenie skradzionych przez Prisma szmaragdów, chocia¿ Oublek wzi¹³ za to swoj¹ dolê.~
+@119 = ~AleÅ¼ gÅ‚upiec z tego Prisma. On doprawdy uwierzyÅ‚ w me zaprzeczenia, jakobym wiedziaÅ‚ cokolwiek o stracie tych szmaragdÃ³w. No cÃ³Å¼...jego stracie. Dla mnie to czysty zysk.~ ~AleÅ¼ gÅ‚upiec z tego Prisma. On doprawdy uwierzyÅ‚ w me zaprzeczenia, jakobym wiedziaÅ‚a cokolwiek o stracie tych szmaragdÃ³w. No cÃ³Å¼...jego stracie. Dla mnie to czysty zysk.~
+@120 = ~ByÄ‡ moÅ¼e byÅ‚ to bÅ‚Ä…d, lecz po tym, jak pozwoliÅ‚em Prismowi dokoÅ„czyÄ‡ swe â€dzieÅ‚o Å¼yciaâ€", wyjÄ…Å‚em z oczodoÅ‚u posÄ…gu jeden ze szmaragdÃ³w. Powinienem dostaÄ‡ za niego niezÅ‚Ä… sumkÄ™, w odpowiednim miejscu, lub przyzwoitÄ… nagrodÄ™...~ ~ByÄ‡ moÅ¼e byÅ‚ to bÅ‚Ä…d, lecz po tym, jak pozwoliÅ‚am Prismowi dokoÅ„czyÄ‡ swe â€dzieÅ‚o Å¼yciaâ€, wyjÄ™Å‚am z oczodoÅ‚u posÄ…gu jeden ze szmaragdÃ³w. Powinnam dostaÄ‡ za niego niezÅ‚Ä… sumkÄ™, w odpowiednim miejscu, lub przyzwoitÄ… nagrodÄ™...~
+@121 = ~ChoÄ‡ wymagaÅ‚o to nieco pracy, udaÅ‚o mi siÄ™ wreszcie wydobyÄ‡ drugi ze skradzionych przez Prisma szmaragdÃ³w, ktÃ³ry miaÅ‚ posÅ‚uÅ¼yÄ‡ mu za jedno z oczu w rzeÅºbionym przez niego â€dziele Å¼yciaâ€.~
+@122 = ~OpowieÅ›Ä‡ Prisma to zaiste smutna historia. Szkoda, Å¼e nie mogÅ‚a mieÄ‡ lepszego zakoÅ„czenia. No cÃ³Å¼, koniec koÅ„cÃ³w na niej zarobiÅ‚em. ZgarnÄ…Å‚em trzysta sztuk zÅ‚ota za skradzione przez niego szmaragdy.~ ~OpowieÅ›Ä‡ Prisma to zaiste smutna historia. Szkoda, Å¼e nie mogÅ‚a mieÄ‡ lepszego zakoÅ„czenia. No cÃ³Å¼, koniec koÅ„cÃ³w na niej zarobiÅ‚am. ZgarnÄ™Å‚am trzysta sztuk zÅ‚ota za skradzione przez niego szmaragdy.~
+@123 = ~NastÄ™pnym razem muszÄ™ pamiÄ™taÄ‡, by nigdy wiÄ™cej nie udawaÄ‡ kogoÅ› innego dla szybkiego zysku. UdaÅ‚o mi siÄ™ jednak w koÅ„cu otrzymaÄ‡ nagrodÄ™ za zwrÃ³cenie skradzionych przez Prisma szmaragdÃ³w, chociaÅ¼ Oublek wziÄ…Å‚ za to swojÄ… dolÄ™.~
 /* Unused line for Captain Brage Journal entry
-@1 = ~Nastêpnym razem muszê pamiêtaæ, by nigdy wiêcej nie udawaæ kogoœ innego dla szybkiego zysku. Uda³o mi siê jednak w koñcu otrzymaæ nagrodê za doprowadzenie kapitana Brage'a, chocia¿ Oublek wzi¹³ za to swoj¹ dolê.~
+@1 = ~NastÄ™pnym razem muszÄ™ pamiÄ™taÄ‡, by nigdy wiÄ™cej nie udawaÄ‡ kogoÅ› innego dla szybkiego zysku. UdaÅ‚o mi siÄ™ jednak w koÅ„cu otrzymaÄ‡ nagrodÄ™ za doprowadzenie kapitana Brage'a, chociaÅ¼ Oublek wziÄ…Å‚ za to swojÄ… dolÄ™.~
 */
-@124 = ~Uda³o mi siê zwêdziæ trochê szmaragdów, które rzeŸbiarz Prism u¿ywa³ jako oczu w swym pos¹gu. Niestety, zauwa¿y³ mnie, wiêc musia³em uciszyæ go, po tym, jak rzuci³ siê na mnie ze swym d³utem.~ ~Uda³o mi siê zwêdziæ trochê szmaragdów, które rzeŸbiarz Prism u¿ywa³ jako oczu w swym pos¹gu. Niestety, zauwa¿y³ mnie, wiêc musia³am uciszyæ go, po tym, jak rzuci³ siê na mnie ze swym d³utem.~
-@125 = ~Zwróci³em jeden ze szmaragdów, dostaj¹c za niego sto piêædziesi¹t sztuk z³ota. Mogê zgarn¹æ te¿ drug¹ po³owê nagrody, jeœli zdo³am przynieœæ brakuj¹cy szmaragd. Musi byæ w pobli¿u miejsca, gdzie znalaz³em poprzedni.~ ~Zwróci³am jeden ze szmaragdów, dostaj¹c za niego sto piêædziesi¹t sztuk z³ota sztuk z³ota. Mogê zgarn¹æ te¿ drug¹ po³owê nagrody, jeœli zdo³am przynieœæ brakuj¹cy szmaragd. Musi byæ w pobli¿u miejsca, gdzie znalaz³am poprzedni.~
-@126 = ~Zwróci³em jeden ze szmaragdów Prisma, dostaj¹c za niego jedynie po³owê kwoty. Nêdzne siedemdziesi¹t piêæ sztuk z³ota. Jeœli uda mi siê odzyskaæ drugi szmaragd, dobrze by³oby, gdybym skonsultowa³ siê wpierw z paroma kupcami, nim zdecydujê siê na odebranie nagrody.~ ~Zwróci³am jeden ze szmaragdów Prisma, dostaj¹c za niego jedynie po³owê kwoty. Nêdzne siedemdziesi¹t piêæ sztuk z³ota. Jeœli uda mi siê odzyskaæ drugi szmaragd, dobrze by³oby, gdybym skonsultowa³a siê wpierw z paroma kupcami, nim zdecydujê siê na odebranie nagrody.~
+@124 = ~UdaÅ‚o mi siÄ™ zwÄ™dziÄ‡ trochÄ™ szmaragdÃ³w, ktÃ³re rzeÅºbiarz Prism uÅ¼ywaÅ‚ jako oczu w swym posÄ…gu. Niestety, zauwaÅ¼yÅ‚ mnie, wiÄ™c musiaÅ‚em uciszyÄ‡ go, po tym, jak rzuciÅ‚ siÄ™ na mnie ze swym dÅ‚utem.~ ~UdaÅ‚o mi siÄ™ zwÄ™dziÄ‡ trochÄ™ szmaragdÃ³w, ktÃ³re rzeÅºbiarz Prism uÅ¼ywaÅ‚ jako oczu w swym posÄ…gu. Niestety, zauwaÅ¼yÅ‚ mnie, wiÄ™c musiaÅ‚am uciszyÄ‡ go, po tym, jak rzuciÅ‚ siÄ™ na mnie ze swym dÅ‚utem.~
+@125 = ~ZwrÃ³ciÅ‚em jeden ze szmaragdÃ³w, dostajÄ…c za niego sto piÄ™Ä‡dziesiÄ…t sztuk zÅ‚ota. MogÄ™ zgarnÄ…Ä‡ teÅ¼ drugÄ… poÅ‚owÄ™ nagrody, jeÅ›li zdoÅ‚am przynieÅ›Ä‡ brakujÄ…cy szmaragd. Musi byÄ‡ w pobliÅ¼u miejsca, gdzie znalazÅ‚em poprzedni.~ ~ZwrÃ³ciÅ‚am jeden ze szmaragdÃ³w, dostajÄ…c za niego sto piÄ™Ä‡dziesiÄ…t sztuk zÅ‚ota sztuk zÅ‚ota. MogÄ™ zgarnÄ…Ä‡ teÅ¼ drugÄ… poÅ‚owÄ™ nagrody, jeÅ›li zdoÅ‚am przynieÅ›Ä‡ brakujÄ…cy szmaragd. Musi byÄ‡ w pobliÅ¼u miejsca, gdzie znalazÅ‚am poprzedni.~
+@126 = ~ZwrÃ³ciÅ‚em jeden ze szmaragdÃ³w Prisma, dostajÄ…c za niego jedynie poÅ‚owÄ™ kwoty. NÄ™dzne siedemdziesiÄ…t piÄ™Ä‡ sztuk zÅ‚ota. JeÅ›li uda mi siÄ™ odzyskaÄ‡ drugi szmaragd, dobrze byÅ‚oby, gdybym skonsultowaÅ‚ siÄ™ wpierw z paroma kupcami, nim zdecydujÄ™ siÄ™ na odebranie nagrody.~ ~ZwrÃ³ciÅ‚am jeden ze szmaragdÃ³w Prisma, dostajÄ…c za niego jedynie poÅ‚owÄ™ kwoty. NÄ™dzne siedemdziesiÄ…t piÄ™Ä‡ sztuk zÅ‚ota. JeÅ›li uda mi siÄ™ odzyskaÄ‡ drugi szmaragd, dobrze byÅ‚oby, gdybym skonsultowaÅ‚a siÄ™ wpierw z paroma kupcami, nim zdecydujÄ™ siÄ™ na odebranie nagrody.~
 //journal entries for bg2 engine
 //Tutu
-@127 = ~RzeŸbiarz Prism
+@127 = ~RzeÅºbiarz Prism
 
-Ale¿ g³upiec z tego Prisma. On doprawdy uwierzy³ w me zaprzeczenia, jakobym wiedzia³ cokolwiek o stracie tych szmaragdów. No có¿...jego stracie. Dla mnie to czysty zysk.~ ~RzeŸbiarz Prism
+AleÅ¼ gÅ‚upiec z tego Prisma. On doprawdy uwierzyÅ‚ w me zaprzeczenia, jakobym wiedziaÅ‚ cokolwiek o stracie tych szmaragdÃ³w. No cÃ³Å¼...jego stracie. Dla mnie to czysty zysk.~ ~RzeÅºbiarz Prism
 
-Ale¿ g³upiec z tego Prisma. On doprawdy uwierzy³ w me zaprzeczenia, jakobym wiedzia³a cokolwiek o stracie tych szmaragdów. No có¿...jego stracie. Dla mnie to czysty zysk.~
-@128 = ~RzeŸbiarz Prism
+AleÅ¼ gÅ‚upiec z tego Prisma. On doprawdy uwierzyÅ‚ w me zaprzeczenia, jakobym wiedziaÅ‚a cokolwiek o stracie tych szmaragdÃ³w. No cÃ³Å¼...jego stracie. Dla mnie to czysty zysk.~
+@128 = ~RzeÅºbiarz Prism
 
-Byæ mo¿e by³ to b³¹d, lecz po tym, jak pozwoli³em Prismowi dokoñczyæ swe „dzie³o ¿ycia”, wyj¹³em z oczodo³u pos¹gu jeden ze szmaragdów. Powinienem dostaæ za niego niez³¹ sumkê, w odpowiednim miejscu, lub przyzwoit¹ nagrodê...~ ~RzeŸbiarz Prism
+ByÄ‡ moÅ¼e byÅ‚ to bÅ‚Ä…d, lecz po tym, jak pozwoliÅ‚em Prismowi dokoÅ„czyÄ‡ swe â€dzieÅ‚o Å¼yciaâ€, wyjÄ…Å‚em z oczodoÅ‚u posÄ…gu jeden ze szmaragdÃ³w. Powinienem dostaÄ‡ za niego niezÅ‚Ä… sumkÄ™, w odpowiednim miejscu, lub przyzwoitÄ… nagrodÄ™...~ ~RzeÅºbiarz Prism
 
-Byæ mo¿e by³ to b³¹d, lecz po tym, jak pozwoli³am Prismowi dokoñczyæ swe „dzie³o ¿ycia”, wyjê³am z oczodo³u pos¹gu jeden ze szmaragdów. Powinnam dostaæ za niego niez³¹ sumkê, w odpowiednim miejscu, lub przyzwoit¹ nagrodê...~
-@129 = ~RzeŸbiarz Prism
+ByÄ‡ moÅ¼e byÅ‚ to bÅ‚Ä…d, lecz po tym, jak pozwoliÅ‚am Prismowi dokoÅ„czyÄ‡ swe â€dzieÅ‚o Å¼yciaâ€, wyjÄ™Å‚am z oczodoÅ‚u posÄ…gu jeden ze szmaragdÃ³w. Powinnam dostaÄ‡ za niego niezÅ‚Ä… sumkÄ™, w odpowiednim miejscu, lub przyzwoitÄ… nagrodÄ™...~
+@129 = ~RzeÅºbiarz Prism
 
-Choæ wymaga³o to nieco pracy, uda³o mi siê wreszcie wydobyæ drugi ze skradzionych przez Prisma szmaragdów, który mia³ pos³u¿yæ mu za jedno z oczu w rzeŸbionym przez niego „dziele ¿ycia”.~ 
-@130 = ~RzeŸbiarz Prism
+ChoÄ‡ wymagaÅ‚o to nieco pracy, udaÅ‚o mi siÄ™ wreszcie wydobyÄ‡ drugi ze skradzionych przez Prisma szmaragdÃ³w, ktÃ³ry miaÅ‚ posÅ‚uÅ¼yÄ‡ mu za jedno z oczu w rzeÅºbionym przez niego â€dziele Å¼yciaâ€.~ 
+@130 = ~RzeÅºbiarz Prism
 
-Opowieœæ Prisma to zaiste smutna historia. Szkoda, ¿e nie mog³a mieæ lepszego zakoñczenia. No có¿, koniec koñców na niej zarobi³em. Zgarn¹³em trzysta sztuk z³ota za skradzione przez niego szmaragdy.~ ~RzeŸbiarz Prism
+OpowieÅ›Ä‡ Prisma to zaiste smutna historia. Szkoda, Å¼e nie mogÅ‚a mieÄ‡ lepszego zakoÅ„czenia. No cÃ³Å¼, koniec koÅ„cÃ³w na niej zarobiÅ‚em. ZgarnÄ…Å‚em trzysta sztuk zÅ‚ota za skradzione przez niego szmaragdy.~ ~RzeÅºbiarz Prism
 
-Opowieœæ Prisma to zaiste smutna historia. Szkoda, ¿e nie mog³a mieæ lepszego zakoñczenia. No có¿, koniec koñców na niej zarobi³am. Zgarnê³am trzysta sztuk z³ota za skradzione przez niego szmaragdy.~
-@131 = ~RzeŸbiarz Prism
+OpowieÅ›Ä‡ Prisma to zaiste smutna historia. Szkoda, Å¼e nie mogÅ‚a mieÄ‡ lepszego zakoÅ„czenia. No cÃ³Å¼, koniec koÅ„cÃ³w na niej zarobiÅ‚am. ZgarnÄ™Å‚am trzysta sztuk zÅ‚ota za skradzione przez niego szmaragdy.~
+@131 = ~RzeÅºbiarz Prism
 
-Nastêpnym razem muszê pamiêtaæ, by nigdy wiêcej nie udawaæ kogoœ innego dla szybkiego zysku. Uda³o mi siê jednak w koñcu otrzymaæ nagrodê za zwrócenie skradzionych przez Prisma szmaragdów, chocia¿ Oublek wzi¹³ za to swoj¹ dolê.~
+NastÄ™pnym razem muszÄ™ pamiÄ™taÄ‡, by nigdy wiÄ™cej nie udawaÄ‡ kogoÅ› innego dla szybkiego zysku. UdaÅ‚o mi siÄ™ jednak w koÅ„cu otrzymaÄ‡ nagrodÄ™ za zwrÃ³cenie skradzionych przez Prisma szmaragdÃ³w, chociaÅ¼ Oublek wziÄ…Å‚ za to swojÄ… dolÄ™.~
 /* Unused line for Captain Brage Journal entry
-@ = ~RzeŸbiarz Prism
+@ = ~RzeÅºbiarz Prism
 
-Nastêpnym razem muszê pamiêtaæ, by nigdy wiêcej nie udawaæ kogoœ innego dla szybkiego zysku. Uda³o mi siê jednak w koñcu otrzymaæ nagrodê za doprowadzenie kapitana Brage'a, chocia¿ Oublek wzi¹³ za to swoj¹ dolê.~
+NastÄ™pnym razem muszÄ™ pamiÄ™taÄ‡, by nigdy wiÄ™cej nie udawaÄ‡ kogoÅ› innego dla szybkiego zysku. UdaÅ‚o mi siÄ™ jednak w koÅ„cu otrzymaÄ‡ nagrodÄ™ za doprowadzenie kapitana Brage'a, chociaÅ¼ Oublek wziÄ…Å‚ za to swojÄ… dolÄ™.~
 */
-@132 = ~RzeŸbiarz Prism
+@132 = ~RzeÅºbiarz Prism
 
-Uda³o mi siê zwêdziæ trochê szmaragdów, które rzeŸbiarz Prism u¿ywa³ jako oczu w swym pos¹gu. Niestety, zauwa¿y³ mnie, wiêc musia³em uciszyæ go, po tym, jak rzuci³ siê na mnie ze swym d³utem.~ ~RzeŸbiarz Prism
+UdaÅ‚o mi siÄ™ zwÄ™dziÄ‡ trochÄ™ szmaragdÃ³w, ktÃ³re rzeÅºbiarz Prism uÅ¼ywaÅ‚ jako oczu w swym posÄ…gu. Niestety, zauwaÅ¼yÅ‚ mnie, wiÄ™c musiaÅ‚em uciszyÄ‡ go, po tym, jak rzuciÅ‚ siÄ™ na mnie ze swym dÅ‚utem.~ ~RzeÅºbiarz Prism
 
-Uda³o mi siê zwêdziæ trochê szmaragdów, które rzeŸbiarz Prism u¿ywa³ jako oczu w swym pos¹gu. Niestety, zauwa¿y³ mnie, wiêc musia³am uciszyæ go, po tym, jak rzuci³ siê na mnie ze swym d³utem.~
-@133 = ~RzeŸbiarz Prism
+UdaÅ‚o mi siÄ™ zwÄ™dziÄ‡ trochÄ™ szmaragdÃ³w, ktÃ³re rzeÅºbiarz Prism uÅ¼ywaÅ‚ jako oczu w swym posÄ…gu. Niestety, zauwaÅ¼yÅ‚ mnie, wiÄ™c musiaÅ‚am uciszyÄ‡ go, po tym, jak rzuciÅ‚ siÄ™ na mnie ze swym dÅ‚utem.~
+@133 = ~RzeÅºbiarz Prism
 
-Zwróci³em jeden ze szmaragdów, dostaj¹c za niego sto piêædziesi¹t sztuk z³ota. Mogê zgarn¹æ te¿ drug¹ po³owê nagrody, jeœli zdo³am przynieœæ brakuj¹cy szmaragd. Musi byæ w pobli¿u miejsca, gdzie znalaz³em poprzedni.~ ~RzeŸbiarz Prism
+ZwrÃ³ciÅ‚em jeden ze szmaragdÃ³w, dostajÄ…c za niego sto piÄ™Ä‡dziesiÄ…t sztuk zÅ‚ota. MogÄ™ zgarnÄ…Ä‡ teÅ¼ drugÄ… poÅ‚owÄ™ nagrody, jeÅ›li zdoÅ‚am przynieÅ›Ä‡ brakujÄ…cy szmaragd. Musi byÄ‡ w pobliÅ¼u miejsca, gdzie znalazÅ‚em poprzedni.~ ~RzeÅºbiarz Prism
 
-Zwróci³am jeden ze szmaragdów, dostaj¹c za niego sto piêædziesi¹t sztuk z³ota. Mogê zgarn¹æ te¿ drug¹ po³owê nagrody, jeœli zdo³am przynieœæ brakuj¹cy szmaragd. Musi byæ w pobli¿u miejsca, gdzie znalaz³am poprzedni.~
-@134 = ~RzeŸbiarz Prism
+ZwrÃ³ciÅ‚am jeden ze szmaragdÃ³w, dostajÄ…c za niego sto piÄ™Ä‡dziesiÄ…t sztuk zÅ‚ota. MogÄ™ zgarnÄ…Ä‡ teÅ¼ drugÄ… poÅ‚owÄ™ nagrody, jeÅ›li zdoÅ‚am przynieÅ›Ä‡ brakujÄ…cy szmaragd. Musi byÄ‡ w pobliÅ¼u miejsca, gdzie znalazÅ‚am poprzedni.~
+@134 = ~RzeÅºbiarz Prism
 
-Zwróci³em jeden ze szmaragdów Prisma, dostaj¹c za niego jedynie po³owê kwoty. Nêdzne siedemdziesi¹t piêæ sztuk z³ota. Jeœli uda mi siê odzyskaæ drugi szmaragd, dobrze by³oby, gdybym skonsultowa³ siê wpierw z paroma kupcami, nim zdecydujê siê na odebranie nagrody.~ ~RzeŸbiarz Prism
+ZwrÃ³ciÅ‚em jeden ze szmaragdÃ³w Prisma, dostajÄ…c za niego jedynie poÅ‚owÄ™ kwoty. NÄ™dzne siedemdziesiÄ…t piÄ™Ä‡ sztuk zÅ‚ota. JeÅ›li uda mi siÄ™ odzyskaÄ‡ drugi szmaragd, dobrze byÅ‚oby, gdybym skonsultowaÅ‚ siÄ™ wpierw z paroma kupcami, nim zdecydujÄ™ siÄ™ na odebranie nagrody.~ ~RzeÅºbiarz Prism
 
-Zwróci³am jeden ze szmaragdów Prisma, dostaj¹c za niego jedynie po³owê kwoty. Nêdzne siedemdziesi¹t piêæ sztuk z³ota. Jeœli uda mi siê odzyskaæ drugi szmaragd, dobrze by³oby, gdybym skonsultowa³a siê wpierw z paroma kupcami, nim zdecydujê siê na odebranie nagrody.~
+ZwrÃ³ciÅ‚am jeden ze szmaragdÃ³w Prisma, dostajÄ…c za niego jedynie poÅ‚owÄ™ kwoty. NÄ™dzne siedemdziesiÄ…t piÄ™Ä‡ sztuk zÅ‚ota. JeÅ›li uda mi siÄ™ odzyskaÄ‡ drugi szmaragd, dobrze byÅ‚oby, gdybym skonsultowaÅ‚a siÄ™ wpierw z paroma kupcami, nim zdecydujÄ™ siÄ™ na odebranie nagrody.~
 //BGT
-@210 = ~Prism, z³odziej szmaragdów
+@210 = ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Ale¿ g³upiec z tego Prisma. On doprawdy uwierzy³ w me zaprzeczenia, jakobym wiedzia³ cokolwiek o stracie tych szmaragdów. No có¿...jego stracie. Dla mnie to czysty zysk.~ ~Prism, z³odziej szmaragdów
+AleÅ¼ gÅ‚upiec z tego Prisma. On doprawdy uwierzyÅ‚ w me zaprzeczenia, jakobym wiedziaÅ‚ cokolwiek o stracie tych szmaragdÃ³w. No cÃ³Å¼...jego stracie. Dla mnie to czysty zysk.~ ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Ale¿ g³upiec z tego Prisma. On doprawdy uwierzy³ w me zaprzeczenia, jakobym wiedzia³a cokolwiek o stracie tych szmaragdów. No có¿...jego stracie. Dla mnie to czysty zysk.~
-@211 = ~Prism, z³odziej szmaragdów
+AleÅ¼ gÅ‚upiec z tego Prisma. On doprawdy uwierzyÅ‚ w me zaprzeczenia, jakobym wiedziaÅ‚a cokolwiek o stracie tych szmaragdÃ³w. No cÃ³Å¼...jego stracie. Dla mnie to czysty zysk.~
+@211 = ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Byæ mo¿e by³ to b³¹d, lecz po tym, jak pozwoli³em Prismowi dokoñczyæ swe „dzie³o ¿ycia”, wyj¹³em z oczodo³u pos¹gu jeden ze szmaragdów. Powinienem dostaæ za niego niez³¹ sumkê, w odpowiednim miejscu, lub przyzwoit¹ nagrodê...~ ~Prism, z³odziej szmaragdów
+ByÄ‡ moÅ¼e byÅ‚ to bÅ‚Ä…d, lecz po tym, jak pozwoliÅ‚em Prismowi dokoÅ„czyÄ‡ swe â€dzieÅ‚o Å¼yciaâ€, wyjÄ…Å‚em z oczodoÅ‚u posÄ…gu jeden ze szmaragdÃ³w. Powinienem dostaÄ‡ za niego niezÅ‚Ä… sumkÄ™, w odpowiednim miejscu, lub przyzwoitÄ… nagrodÄ™...~ ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Byæ mo¿e by³ to b³¹d, lecz po tym, jak pozwoli³am Prismowi dokoñczyæ swe „dzie³o ¿ycia”, wyjê³am z oczodo³u pos¹gu jeden ze szmaragdów. Powinnam dostaæ za niego niez³¹ sumkê, w odpowiednim miejscu, lub przyzwoit¹ nagrodê...~
-@212 = ~Prism, z³odziej szmaragdów
+ByÄ‡ moÅ¼e byÅ‚ to bÅ‚Ä…d, lecz po tym, jak pozwoliÅ‚am Prismowi dokoÅ„czyÄ‡ swe â€dzieÅ‚o Å¼yciaâ€, wyjÄ™Å‚am z oczodoÅ‚u posÄ…gu jeden ze szmaragdÃ³w. Powinnam dostaÄ‡ za niego niezÅ‚Ä… sumkÄ™, w odpowiednim miejscu, lub przyzwoitÄ… nagrodÄ™...~
+@212 = ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Choæ wymaga³o to nieco pracy, uda³o mi siê wreszcie wydobyæ drugi ze skradzionych przez Prisma szmaragdów, który mia³ pos³u¿yæ mu za jedno z oczu w rzeŸbionym przez niego „dziele ¿ycia”.~ 
-@213 = ~Prism, z³odziej szmaragdów
+ChoÄ‡ wymagaÅ‚o to nieco pracy, udaÅ‚o mi siÄ™ wreszcie wydobyÄ‡ drugi ze skradzionych przez Prisma szmaragdÃ³w, ktÃ³ry miaÅ‚ posÅ‚uÅ¼yÄ‡ mu za jedno z oczu w rzeÅºbionym przez niego â€dziele Å¼yciaâ€.~ 
+@213 = ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Opowieœæ Prisma to zaiste smutna historia. Szkoda, ¿e nie mog³a mieæ lepszego zakoñczenia. No có¿, koniec koñców na niej zarobi³em. Zgarn¹³em trzysta sztuk z³ota za skradzione przez niego szmaragdy.~ ~Prism, z³odziej szmaragdów
+OpowieÅ›Ä‡ Prisma to zaiste smutna historia. Szkoda, Å¼e nie mogÅ‚a mieÄ‡ lepszego zakoÅ„czenia. No cÃ³Å¼, koniec koÅ„cÃ³w na niej zarobiÅ‚em. ZgarnÄ…Å‚em trzysta sztuk zÅ‚ota za skradzione przez niego szmaragdy.~ ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Opowieœæ Prisma to zaiste smutna historia. Szkoda, ¿e nie mog³a mieæ lepszego zakoñczenia. No có¿, koniec koñców na niej zarobi³am. Zgarnê³am trzysta sztuk z³ota za skradzione przez niego szmaragdy.~
-@214 = ~Prism, z³odziej szmaragdów
+OpowieÅ›Ä‡ Prisma to zaiste smutna historia. Szkoda, Å¼e nie mogÅ‚a mieÄ‡ lepszego zakoÅ„czenia. No cÃ³Å¼, koniec koÅ„cÃ³w na niej zarobiÅ‚am. ZgarnÄ™Å‚am trzysta sztuk zÅ‚ota za skradzione przez niego szmaragdy.~
+@214 = ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Nastêpnym razem muszê pamiêtaæ, by nigdy wiêcej nie udawaæ kogoœ innego dla szybkiego zysku. Uda³o mi siê jednak w koñcu otrzymaæ nagrodê za zwrócenie skradzionych przez Prisma szmaragdów, chocia¿ Oublek wzi¹³ za to swoj¹ dolê.~
+NastÄ™pnym razem muszÄ™ pamiÄ™taÄ‡, by nigdy wiÄ™cej nie udawaÄ‡ kogoÅ› innego dla szybkiego zysku. UdaÅ‚o mi siÄ™ jednak w koÅ„cu otrzymaÄ‡ nagrodÄ™ za zwrÃ³cenie skradzionych przez Prisma szmaragdÃ³w, chociaÅ¼ Oublek wziÄ…Å‚ za to swojÄ… dolÄ™.~
 /* Unused line for Captain Brage Journal entry
-@215 = ~Prism, z³odziej szmaragdów
+@215 = ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Nastêpnym razem muszê pamiêtaæ, by nigdy wiêcej nie udawaæ kogoœ innego dla szybkiego zysku. Uda³o mi siê jednak w koñcu otrzymaæ nagrodê za doprowadzenie kapitana Brage'a, chocia¿ Oublek wzi¹³ za to swoj¹ dolê.~
+NastÄ™pnym razem muszÄ™ pamiÄ™taÄ‡, by nigdy wiÄ™cej nie udawaÄ‡ kogoÅ› innego dla szybkiego zysku. UdaÅ‚o mi siÄ™ jednak w koÅ„cu otrzymaÄ‡ nagrodÄ™ za doprowadzenie kapitana Brage'a, chociaÅ¼ Oublek wziÄ…Å‚ za to swojÄ… dolÄ™.~
 */
-@216 = ~Prism, z³odziej szmaragdów
+@216 = ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Uda³o mi siê zwêdziæ trochê szmaragdów, które rzeŸbiarz Prism u¿ywa³ jako oczu w swym pos¹gu. Niestety, zauwa¿y³ mnie, wiêc musia³em uciszyæ go, po tym, jak rzuci³ siê na mnie ze swym d³utem.~ ~Prism, z³odziej szmaragdów
+UdaÅ‚o mi siÄ™ zwÄ™dziÄ‡ trochÄ™ szmaragdÃ³w, ktÃ³re rzeÅºbiarz Prism uÅ¼ywaÅ‚ jako oczu w swym posÄ…gu. Niestety, zauwaÅ¼yÅ‚ mnie, wiÄ™c musiaÅ‚em uciszyÄ‡ go, po tym, jak rzuciÅ‚ siÄ™ na mnie ze swym dÅ‚utem.~ ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Uda³o mi siê zwêdziæ trochê szmaragdów, które rzeŸbiarz Prism u¿ywa³ jako oczu w swym pos¹gu. Niestety, zauwa¿y³ mnie, wiêc musia³am uciszyæ go, po tym, jak rzuci³ siê na mnie ze swym d³utem.~
-@217 = ~Prism, z³odziej szmaragdów
+UdaÅ‚o mi siÄ™ zwÄ™dziÄ‡ trochÄ™ szmaragdÃ³w, ktÃ³re rzeÅºbiarz Prism uÅ¼ywaÅ‚ jako oczu w swym posÄ…gu. Niestety, zauwaÅ¼yÅ‚ mnie, wiÄ™c musiaÅ‚am uciszyÄ‡ go, po tym, jak rzuciÅ‚ siÄ™ na mnie ze swym dÅ‚utem.~
+@217 = ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Zwróci³em jeden ze szmaragdów, dostaj¹c za niego sto piêædziesi¹t sztuk z³ota. Mogê zgarn¹æ te¿ drug¹ po³owê nagrody, jeœli zdo³am przynieœæ brakuj¹cy szmaragd. Musi byæ w pobli¿u miejsca, gdzie znalaz³em poprzedni.~ ~Prism, z³odziej szmaragdów
+ZwrÃ³ciÅ‚em jeden ze szmaragdÃ³w, dostajÄ…c za niego sto piÄ™Ä‡dziesiÄ…t sztuk zÅ‚ota. MogÄ™ zgarnÄ…Ä‡ teÅ¼ drugÄ… poÅ‚owÄ™ nagrody, jeÅ›li zdoÅ‚am przynieÅ›Ä‡ brakujÄ…cy szmaragd. Musi byÄ‡ w pobliÅ¼u miejsca, gdzie znalazÅ‚em poprzedni.~ ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Zwróci³am jeden ze szmaragdów, dostaj¹c za niego sto piêædziesi¹t sztuk z³ota. Mogê zgarn¹æ te¿ drug¹ po³owê nagrody, jeœli zdo³am przynieœæ brakuj¹cy szmaragd. Musi byæ w pobli¿u miejsca, gdzie znalaz³am poprzedni.~
-@218 = ~Prism, z³odziej szmaragdów
+ZwrÃ³ciÅ‚am jeden ze szmaragdÃ³w, dostajÄ…c za niego sto piÄ™Ä‡dziesiÄ…t sztuk zÅ‚ota. MogÄ™ zgarnÄ…Ä‡ teÅ¼ drugÄ… poÅ‚owÄ™ nagrody, jeÅ›li zdoÅ‚am przynieÅ›Ä‡ brakujÄ…cy szmaragd. Musi byÄ‡ w pobliÅ¼u miejsca, gdzie znalazÅ‚am poprzedni.~
+@218 = ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Zwróci³em jeden ze szmaragdów Prisma, dostaj¹c za niego jedynie po³owê kwoty. Nêdzne siedemdziesi¹t piêæ sztuk z³ota. Jeœli uda mi siê odzyskaæ drugi szmaragd, dobrze by³oby, gdybym skonsultowa³ siê wpierw z paroma kupcami, nim zdecydujê siê na odebranie nagrody.~ ~Prism, z³odziej szmaragdów
+ZwrÃ³ciÅ‚em jeden ze szmaragdÃ³w Prisma, dostajÄ…c za niego jedynie poÅ‚owÄ™ kwoty. NÄ™dzne siedemdziesiÄ…t piÄ™Ä‡ sztuk zÅ‚ota. JeÅ›li uda mi siÄ™ odzyskaÄ‡ drugi szmaragd, dobrze byÅ‚oby, gdybym skonsultowaÅ‚ siÄ™ wpierw z paroma kupcami, nim zdecydujÄ™ siÄ™ na odebranie nagrody.~ ~Prism, zÅ‚odziej szmaragdÃ³w
 
-Zwróci³am jeden ze szmaragdów Prisma, dostaj¹c za niego jedynie po³owê kwoty. Nêdzne siedemdziesi¹t piêæ sztuk z³ota. Jeœli uda mi siê odzyskaæ drugi szmaragd, dobrze by³oby, gdybym skonsultowa³a siê wpierw z paroma kupcami, nim zdecydujê siê na odebranie nagrody.~
+ZwrÃ³ciÅ‚am jeden ze szmaragdÃ³w Prisma, dostajÄ…c za niego jedynie poÅ‚owÄ™ kwoty. NÄ™dzne siedemdziesiÄ…t piÄ™Ä‡ sztuk zÅ‚ota. JeÅ›li uda mi siÄ™ odzyskaÄ‡ drugi szmaragd, dobrze byÅ‚oby, gdybym skonsultowaÅ‚a siÄ™ wpierw z paroma kupcami, nim zdecydujÄ™ siÄ™ na odebranie nagrody.~
 
 
 //oublek dialog
-@1000 = ~Jeden ze szmaragdów! Oto twoje sto piêædziesi¹t sztuk z³ota. Jeœli uda ci siê odnaleŸæ równie¿ i drugi, nie zapomnij go przynieœæ.~
-@1001 = ~Ostatni ze szmaragdów! Oto kolejne sto piêædziesi¹t sztuk z³ota dla ciebie. No có¿, jeœli w dalszym ci¹gu bêdzie ci tak dobrze sz³o, wkrótce wyrobisz sobie renomê poœród ³owców nagród. Nie wiem jednak, czy wyjdzie ci to na dobre, czy na z³e.~
-@1002 = ~Jeden ze szmaragdów! Dobrze widzieæ, ¿e próbujesz zarobiæ uczciwe pieni¹dze, nawet jeœli mia³oby to siê odbywaæ poprzez podejrzane zlecenia dla ³owców nagród. Zap³acê ci, choæ nie tyle, ile widnieje na og³oszeniu. Jeœli uda ci siê odnaleŸæ drugi, nie zapomnij go przynieœæ.~
-@1003 = ~Ostatni ze szmaragdów! Dobrze widzieæ, ¿e próbujesz zarobiæ uczciwe pieni¹dze, nawet jeœli mia³oby to siê odbywaæ poprzez podejrzane zlecenia dla ³owców nagród. Zap³acê ci, choæ nie tyle, ile widnieje na og³oszeniu. Dorzucimy coœ ponadto, jeœli zdecydujesz siê...nagi¹æ fakty podczas naszych przysz³ych kontaktów.~
-@1004 = ~Przyszed³em oddaæ zgubê i odebraæ nagrodê, która mi siê nale¿y.~ ~Przysz³am oddaæ zgubê i odebraæ nagrodê, która mi siê nale¿y.~
+@1000 = ~Jeden ze szmaragdÃ³w! Oto twoje sto piÄ™Ä‡dziesiÄ…t sztuk zÅ‚ota. JeÅ›li uda ci siÄ™ odnaleÅºÄ‡ rÃ³wnieÅ¼ i drugi, nie zapomnij go przynieÅ›Ä‡.~
+@1001 = ~Ostatni ze szmaragdÃ³w! Oto kolejne sto piÄ™Ä‡dziesiÄ…t sztuk zÅ‚ota dla ciebie. No cÃ³Å¼, jeÅ›li w dalszym ciÄ…gu bÄ™dzie ci tak dobrze szÅ‚o, wkrÃ³tce wyrobisz sobie renomÄ™ poÅ›rÃ³d Å‚owcÃ³w nagrÃ³d. Nie wiem jednak, czy wyjdzie ci to na dobre, czy na zÅ‚e.~
+@1002 = ~Jeden ze szmaragdÃ³w! Dobrze widzieÄ‡, Å¼e prÃ³bujesz zarobiÄ‡ uczciwe pieniÄ…dze, nawet jeÅ›li miaÅ‚oby to siÄ™ odbywaÄ‡ poprzez podejrzane zlecenia dla Å‚owcÃ³w nagrÃ³d. ZapÅ‚acÄ™ ci, choÄ‡ nie tyle, ile widnieje na ogÅ‚oszeniu. JeÅ›li uda ci siÄ™ odnaleÅºÄ‡ drugi, nie zapomnij go przynieÅ›Ä‡.~
+@1003 = ~Ostatni ze szmaragdÃ³w! Dobrze widzieÄ‡, Å¼e prÃ³bujesz zarobiÄ‡ uczciwe pieniÄ…dze, nawet jeÅ›li miaÅ‚oby to siÄ™ odbywaÄ‡ poprzez podejrzane zlecenia dla Å‚owcÃ³w nagrÃ³d. ZapÅ‚acÄ™ ci, choÄ‡ nie tyle, ile widnieje na ogÅ‚oszeniu. Dorzucimy coÅ› ponadto, jeÅ›li zdecydujesz siÄ™...nagiÄ…Ä‡ fakty podczas naszych przyszÅ‚ych kontaktÃ³w.~
+@1004 = ~PrzyszedÅ‚em oddaÄ‡ zgubÄ™ i odebraÄ‡ nagrodÄ™, ktÃ³ra mi siÄ™ naleÅ¼y.~ ~PrzyszÅ‚am oddaÄ‡ zgubÄ™ i odebraÄ‡ nagrodÄ™, ktÃ³ra mi siÄ™ naleÅ¼y.~
 //#665 + #664
-@1005 = ~Nashkel ma ju¿ doœæ takich, co oszukuj¹ innych i okradaj¹ ich z ciê¿ko zarobionych pieniêdzy. Nie mam ani czasu, ani nastroju, ¿eby siê wami zajmowaæ.~
+@1005 = ~Nashkel ma juÅ¼ doÅ›Ä‡ takich, co oszukujÄ… innych i okradajÄ… ich z ciÄ™Å¼ko zarobionych pieniÄ™dzy. Nie mam ani czasu, ani nastroju, Å¼eby siÄ™ wami zajmowaÄ‡.~
 
 //prism dialog
-@1100 = ~Jak œmiesz! Jak œmiesz odbieraæ oczom jej tê iskrê!~
-@1101 = ~Wiele pracy mnie jeszcze czeka. Mo¿e pomoglibyœcie g³upiemu rzeŸbiarzowi dokoñczyæ to dzie³o? Proszê, stójcie na stra¿y tego miejsca, gdy¿ Szary Wilk niechybnie siê tu zjawi. Oddam wam wszystko, co tylko posiadam!~
-@1102 = ~Stójcie! Ukradliœcie me szmaragdy. Muszê je odzyskaæ. Potrzebujê ich, by dokoñczyæ to dzie³o. Proszê, zwróæcie mi je. Oddam wam wszystko, co tylko posiadam.~
-@1103 = ~Ju¿ ich nie mamy. Zwróciliœmy je w³adzom. Nigdy ju¿ nie dokoñczysz rzeŸbiæ tej bry³y kamienia.~
-@1104 = ~Ju¿ ich nie mamy. Sprzedaliœmy je i wisz¹ ju¿ pewnie sobie na szyi jakieœ grubej matrony.~
-@1105 = ~Tak, wzi¹³em je. Wci¹¿ mam jeden z nich. Drugiego ju¿ dawno temu siê pozby³em.~ ~Tak, wziê³am je. Wci¹¿ mam jeden z nich. Drugiego ju¿ dawno temu siê pozby³am.~
-@1106 = ~A co to ma byæ? Jakaœ panienka oskar¿a mnie o kradzie¿? Zginiesz za tê zniewagê.~
-@1107 = ~Stójcie! Ukradliœcie mój szmaragd. Muszê go odzyskaæ. Potrzebujê go, by dokoñczyæ to dzie³o. Proszê, zwróæcie mi go. Oddam wam wszystko, co tylko posiadam.~ 
-@1108 = ~Wszystko, co tylko posiadasz, tak? Niech i tak bêdzie.~
-@1109 = ~„Wszystko, co tylko posiadasz” mnie nie interesuje. Zabieram ciebie i szmaragdy wprost do stra¿nika, który wrêczy mi za was pokaŸn¹ nagrodê.~
-@1110 = ~Nie wiem, o czym mówisz.~
-@1111 = ~Zwróæcie mi ten, który macie. IdŸcie te¿ po drugi i przynieœcie mi go tu. Muszê dokoñczyæ to dzie³o. Oddam wam wszystko, co tylko posiadam.~
-@1112 = ~Odda³em go w³adzom. Nigdy ju¿ go nie odzyskasz.~ ~Odda³am go w³adzom. Nigdy ju¿ go nie odzyskasz.~ 
-@1113 = ~Niemo¿liwe. Odda³em go w³adzom i wróci³em odzyskaæ drugi, dla reszty nagrody.~ ~Niemo¿liwe. Odda³am go w³adzom i wróci³am odzyskaæ drugi, dla reszty nagrody.~
-@1114 = ~Niemo¿liwe. Sprzeda³em go ju¿ jakiemuœ kupcowi, albo ukry³em w jakimœ dawno zapomnianym miejscu.~ ~Niemo¿liwe. Sprzeda³am go ju¿ jakiemuœ kupcowi, albo ukry³am w jakimœ dawno zapomnianym miejscu.~ 
-@1115 = ~Mo¿e i kamieñ ju¿ przepad³, ale z chêci¹ wezmê wszystko, co masz przy sobie. Gotuj siê na œmieræ.~
-@1116 = ~Zwróæcie mi go, proszê. Muszê dokoñczyæ to dzie³o. Oddam wam wszystko, co tylko posiadam.~
+@1100 = ~Jak Å›miesz! Jak Å›miesz odbieraÄ‡ oczom jej tÄ™ iskrÄ™!~
+@1101 = ~Wiele pracy mnie jeszcze czeka. MoÅ¼e pomoglibyÅ›cie gÅ‚upiemu rzeÅºbiarzowi dokoÅ„czyÄ‡ to dzieÅ‚o? ProszÄ™, stÃ³jcie na straÅ¼y tego miejsca, gdyÅ¼ Szary Wilk niechybnie siÄ™ tu zjawi. Oddam wam wszystko, co tylko posiadam!~
+@1102 = ~StÃ³jcie! UkradliÅ›cie me szmaragdy. MuszÄ™ je odzyskaÄ‡. PotrzebujÄ™ ich, by dokoÅ„czyÄ‡ to dzieÅ‚o. ProszÄ™, zwrÃ³Ä‡cie mi je. Oddam wam wszystko, co tylko posiadam.~
+@1103 = ~JuÅ¼ ich nie mamy. ZwrÃ³ciliÅ›my je wÅ‚adzom. Nigdy juÅ¼ nie dokoÅ„czysz rzeÅºbiÄ‡ tej bryÅ‚y kamienia.~
+@1104 = ~JuÅ¼ ich nie mamy. SprzedaliÅ›my je i wiszÄ… juÅ¼ pewnie sobie na szyi jakieÅ› grubej matrony.~
+@1105 = ~Tak, wziÄ…Å‚em je. WciÄ…Å¼ mam jeden z nich. Drugiego juÅ¼ dawno temu siÄ™ pozbyÅ‚em.~ ~Tak, wziÄ™Å‚am je. WciÄ…Å¼ mam jeden z nich. Drugiego juÅ¼ dawno temu siÄ™ pozbyÅ‚am.~
+@1106 = ~A co to ma byÄ‡? JakaÅ› panienka oskarÅ¼a mnie o kradzieÅ¼? Zginiesz za tÄ™ zniewagÄ™.~
+@1107 = ~StÃ³jcie! UkradliÅ›cie mÃ³j szmaragd. MuszÄ™ go odzyskaÄ‡. PotrzebujÄ™ go, by dokoÅ„czyÄ‡ to dzieÅ‚o. ProszÄ™, zwrÃ³Ä‡cie mi go. Oddam wam wszystko, co tylko posiadam.~ 
+@1108 = ~Wszystko, co tylko posiadasz, tak? Niech i tak bÄ™dzie.~
+@1109 = ~â€Wszystko, co tylko posiadaszâ€ mnie nie interesuje. Zabieram ciebie i szmaragdy wprost do straÅ¼nika, ktÃ³ry wrÄ™czy mi za was pokaÅºnÄ… nagrodÄ™.~
+@1110 = ~Nie wiem, o czym mÃ³wisz.~
+@1111 = ~ZwrÃ³Ä‡cie mi ten, ktÃ³ry macie. IdÅºcie teÅ¼ po drugi i przynieÅ›cie mi go tu. MuszÄ™ dokoÅ„czyÄ‡ to dzieÅ‚o. Oddam wam wszystko, co tylko posiadam.~
+@1112 = ~OddaÅ‚em go wÅ‚adzom. Nigdy juÅ¼ go nie odzyskasz.~ ~OddaÅ‚am go wÅ‚adzom. Nigdy juÅ¼ go nie odzyskasz.~ 
+@1113 = ~NiemoÅ¼liwe. OddaÅ‚em go wÅ‚adzom i wrÃ³ciÅ‚em odzyskaÄ‡ drugi, dla reszty nagrody.~ ~NiemoÅ¼liwe. OddaÅ‚am go wÅ‚adzom i wrÃ³ciÅ‚am odzyskaÄ‡ drugi, dla reszty nagrody.~
+@1114 = ~NiemoÅ¼liwe. SprzedaÅ‚em go juÅ¼ jakiemuÅ› kupcowi, albo ukryÅ‚em w jakimÅ› dawno zapomnianym miejscu.~ ~NiemoÅ¼liwe. SprzedaÅ‚am go juÅ¼ jakiemuÅ› kupcowi, albo ukryÅ‚am w jakimÅ› dawno zapomnianym miejscu.~ 
+@1115 = ~MoÅ¼e i kamieÅ„ juÅ¼ przepadÅ‚, ale z chÄ™ciÄ… wezmÄ™ wszystko, co masz przy sobie. Gotuj siÄ™ na Å›mierÄ‡.~
+@1116 = ~ZwrÃ³Ä‡cie mi go, proszÄ™. MuszÄ™ dokoÅ„czyÄ‡ to dzieÅ‚o. Oddam wam wszystko, co tylko posiadam.~
