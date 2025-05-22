@@ -1,58 +1,58 @@
 // Avec Berrun Tuemort
-@0    = ~Vous êtes de retour ! Il semble que j'ai eu raison de vous faire confiance. Que pouvez-vous me dire sur les évènements qui se sont produits dans les mines ?~
-@1    = ~Je préfèrerais ne pas partager les ficelles du métier, si ça ne vous fait rien.~
-@2    = ~Il n'y a vraiment pas grand-chose à dire. Quelques kobolds ont trouvé le moyen d'entrer dans les mines et y ont fait de grands ravages. Mais vous n'avez plus besoin de vous soucier d'eux.~
-@3    = ~Un demi-orque du nom de Mulahey contaminait le minerai de fer d'une manière ou d'une autre, mais il est mort maintenant.~
-@4    = ~Un demi-orque du nom de Mulahey contaminait le minerai de fer avec un poison minéral. J'en ai un échantillon sur moi.~
-@5    = ~Un demi-orque du nom de Mulahey contaminait le minerai de fer avec un poison minéral. J'ai un échantillon de minerai contaminé sur moi.~
-@6    = ~Un demi-orque du nom de Mulahey contaminait le minerai de fer avec un poison minéral. Je fais une enquête sur ce problème.~
-@7    = ~Comme vous voulez. La ville vous remercie de tout coeur, et est heureuse de vous remettre une récompense bien méritée. Veuillez accepter ces 900 pièces d'or en contrepartie de vos efforts. C'est une petite fortune. Encore merci.~
-@8    = ~Je vois. C'est curieux qu'une bande organisée ait pu surgir ainsi sans être remarquée. Néanmoins, la ville vous remercie de tout coeur, et est heureuse de vous remettre une récompense bien méritée. Veuillez accepter ces 900 pièces d'or en contrepartie de vos efforts. C'est une petite fortune. Encore merci.~
-@9    = ~Je me demande quelles pouvaient être ses raisons et comment il a réussi à contaminer le fer de façon si efficace. Néanmoins, la ville vous remercie de tout coeur, et est heureuse de vous remettre une récompense bien méritée. Veuillez accepter ces 900 pièces d'or en contrepartie de vos efforts. C'est une petite fortune. Encore merci.~
-@10   = ~Qu'avez-vous dit que c'était ? Vous êtes avisé de rapporter un échantillon. Cependant, je crains qu'avec notre défiance vis à vis de la magie, nous ne soyons démunis pour analyser le poison. Notre isolation n'arrange rien. Il serait plus rapide d'apporter la fiole à Thalantyr de Berégost, au nord, que de voyager vers le sud à la recherche d'un archimage Amnien.~
-        ~Qu'avez-vous dit que c'était ? Vous êtes avisée de rapporter un échantillon. Cependant, je crains qu'avec notre défiance vis à vis de la magie, nous ne soyons démunis pour analyser le poison. Notre isolation n'arrange rien. Il serait plus rapide d'apporter la fiole à Thalantyr de Berégost, au nord, que de voyager vers le sud à la recherche d'un archimage Amnien.~
-@11   = ~Si vous avez du minerai contaminé, vous pourriez envisager de l'apporter à Taërom Fuiruim tant que vous y êtes. Je ne doute pas de sa capacité à inventer un moyen de contourner sa fragilité.~
-@12   = ~Toutefois il vaudrait mieux que vous gardiez ça pour vous. Les relations entre la Porte de Baldur et l'Amn sont tendues, c'est le moins qu'on puisse dire, et je ne devrais peut-être pas envoyer quelque chose d'aussi précieux hors des mains Amniennes.~
-@13   = ~Quoi qu'il en soit, la ville vous remercie de tout coeur, et est heureuse de vous remettre une récompense bien méritée. Veuillez accepter ces 900 pièces d'or en contrepartie de vos efforts. C'est une petite fortune. Encore merci.~
-@14   = ~Qu'avez-vous dit que c'était ? Vous êtes avisé de rapporter un échantillon. Vous pourriez envisager de l'apporter à Taërom Fuiruim à Berégost. Je ne doute pas de sa capacité à inventer un moyen de contourner sa fragilité, et il est bien plus près que n'importe quel forgeron Amnien de même renommée.~
-        ~Qu'avez-vous dit que c'était ? Vous êtes avisée de rapporter un échantillon. Vous pourriez envisager de l'apporter à Taërom Fuiruim à Berégost. Je ne doute pas de sa capacité à inventer un moyen de contourner sa fragilité, et il est bien plus près que n'importe quel forgeron Amnien de même renommée.~
-@15   = ~Ravi de l'entendre. Je me demande quelles pouvaient être ses raisons. Néanmoins, la ville vous remercie de tout coeur, et est heureuse de vous remettre une récompense bien méritée. Veuillez accepter ces 900 pièces d'or en contrepartie de vos efforts. C'est une petite fortune. Encore merci.~
-// Avec Taërom Fuiruim
-// En réponse aux propositions concernant la carapace d'Ankleg
-@16   = ~Tant pis pour ça pour le moment. J'ai ce morceau de minerai de fer, que je crois contaminé. C'est la cause de la crise du fer le long de la Côte des Épées.~
-// Cas général
-@17   = ~J'ai ce morceau de minerai de fer, que je crois contaminé. C'est la cause de la crise du fer le long de la Côte des Épées.~
+@0    = ~Vous Ãªtes de retour ! Il semble que j'ai eu raison de vous faire confiance. Que pouvez-vous me dire sur les Ã©vÃ¨nements qui se sont produits dans les mines ?~
+@1    = ~Je prÃ©fÃ¨rerais ne pas partager les ficelles du mÃ©tier, si Ã§a ne vous fait rien.~
+@2    = ~Il n'y a vraiment pas grand-chose Ã  dire. Quelques kobolds ont trouvÃ© le moyen d'entrer dans les mines et y ont fait de grands ravages. Mais vous n'avez plus besoin de vous soucier d'eux.~
+@3    = ~Un demi-orque du nom de Mulahey contaminait le minerai de fer d'une maniÃ¨re ou d'une autre, mais il est mort maintenant.~
+@4    = ~Un demi-orque du nom de Mulahey contaminait le minerai de fer avec un poison minÃ©ral. J'en ai un Ã©chantillon sur moi.~
+@5    = ~Un demi-orque du nom de Mulahey contaminait le minerai de fer avec un poison minÃ©ral. J'ai un Ã©chantillon de minerai contaminÃ© sur moi.~
+@6    = ~Un demi-orque du nom de Mulahey contaminait le minerai de fer avec un poison minÃ©ral. Je fais une enquÃªte sur ce problÃ¨me.~
+@7    = ~Comme vous voulez. La ville vous remercie de tout coeur, et est heureuse de vous remettre une rÃ©compense bien mÃ©ritÃ©e. Veuillez accepter ces 900 piÃ¨ces d'or en contrepartie de vos efforts. C'est une petite fortune. Encore merci.~
+@8    = ~Je vois. C'est curieux qu'une bande organisÃ©e ait pu surgir ainsi sans Ãªtre remarquÃ©e. NÃ©anmoins, la ville vous remercie de tout coeur, et est heureuse de vous remettre une rÃ©compense bien mÃ©ritÃ©e. Veuillez accepter ces 900 piÃ¨ces d'or en contrepartie de vos efforts. C'est une petite fortune. Encore merci.~
+@9    = ~Je me demande quelles pouvaient Ãªtre ses raisons et comment il a rÃ©ussi Ã  contaminer le fer de faÃ§on si efficace. NÃ©anmoins, la ville vous remercie de tout coeur, et est heureuse de vous remettre une rÃ©compense bien mÃ©ritÃ©e. Veuillez accepter ces 900 piÃ¨ces d'or en contrepartie de vos efforts. C'est une petite fortune. Encore merci.~
+@10   = ~Qu'avez-vous dit que c'Ã©tait ? Vous Ãªtes avisÃ© de rapporter un Ã©chantillon. Cependant, je crains qu'avec notre dÃ©fiance vis Ã  vis de la magie, nous ne soyons dÃ©munis pour analyser le poison. Notre isolation n'arrange rien. Il serait plus rapide d'apporter la fiole Ã  Thalantyr de BerÃ©gost, au nord, que de voyager vers le sud Ã  la recherche d'un archimage Amnien.~
+        ~Qu'avez-vous dit que c'Ã©tait ? Vous Ãªtes avisÃ©e de rapporter un Ã©chantillon. Cependant, je crains qu'avec notre dÃ©fiance vis Ã  vis de la magie, nous ne soyons dÃ©munis pour analyser le poison. Notre isolation n'arrange rien. Il serait plus rapide d'apporter la fiole Ã  Thalantyr de BerÃ©gost, au nord, que de voyager vers le sud Ã  la recherche d'un archimage Amnien.~
+@11   = ~Si vous avez du minerai contaminÃ©, vous pourriez envisager de l'apporter Ã  TaÃ«rom Fuiruim tant que vous y Ãªtes. Je ne doute pas de sa capacitÃ© Ã  inventer un moyen de contourner sa fragilitÃ©.~
+@12   = ~Toutefois il vaudrait mieux que vous gardiez Ã§a pour vous. Les relations entre la Porte de Baldur et l'Amn sont tendues, c'est le moins qu'on puisse dire, et je ne devrais peut-Ãªtre pas envoyer quelque chose d'aussi prÃ©cieux hors des mains Amniennes.~
+@13   = ~Quoi qu'il en soit, la ville vous remercie de tout coeur, et est heureuse de vous remettre une rÃ©compense bien mÃ©ritÃ©e. Veuillez accepter ces 900 piÃ¨ces d'or en contrepartie de vos efforts. C'est une petite fortune. Encore merci.~
+@14   = ~Qu'avez-vous dit que c'Ã©tait ? Vous Ãªtes avisÃ© de rapporter un Ã©chantillon. Vous pourriez envisager de l'apporter Ã  TaÃ«rom Fuiruim Ã  BerÃ©gost. Je ne doute pas de sa capacitÃ© Ã  inventer un moyen de contourner sa fragilitÃ©, et il est bien plus prÃ¨s que n'importe quel forgeron Amnien de mÃªme renommÃ©e.~
+        ~Qu'avez-vous dit que c'Ã©tait ? Vous Ãªtes avisÃ©e de rapporter un Ã©chantillon. Vous pourriez envisager de l'apporter Ã  TaÃ«rom Fuiruim Ã  BerÃ©gost. Je ne doute pas de sa capacitÃ© Ã  inventer un moyen de contourner sa fragilitÃ©, et il est bien plus prÃ¨s que n'importe quel forgeron Amnien de mÃªme renommÃ©e.~
+@15   = ~Ravi de l'entendre. Je me demande quelles pouvaient Ãªtre ses raisons. NÃ©anmoins, la ville vous remercie de tout coeur, et est heureuse de vous remettre une rÃ©compense bien mÃ©ritÃ©e. Veuillez accepter ces 900 piÃ¨ces d'or en contrepartie de vos efforts. C'est une petite fortune. Encore merci.~
+// Avec TaÃ«rom Fuiruim
+// En rÃ©ponse aux propositions concernant la carapace d'Ankleg
+@16   = ~Tant pis pour Ã§a pour le moment. J'ai ce morceau de minerai de fer, que je crois contaminÃ©. C'est la cause de la crise du fer le long de la CÃ´te des Ã‰pÃ©es.~
+// Cas gÃ©nÃ©ral
+@17   = ~J'ai ce morceau de minerai de fer, que je crois contaminÃ©. C'est la cause de la crise du fer le long de la CÃ´te des Ã‰pÃ©es.~
 // Attente de l'armure
-@18   = ~J'ai hâte de voir le résultat.~
-@19   = ~Donnez-le moi. Hmm. Étrange, en effet. Le fer a certainement été contaminé avec quelque composé. Je suppose que vous n'avez aucune idée de quoi il pourrait s'agir ?~
-@20   = ~En fait, si. J'ai ici une fiole que j'ai trouvée dans la même mine que le minerai.~
-@21   = ~Non, mais je pourrais essayer de le découvrir, si cela peut aider.~
-@22   = ~Malheureusement non. Vous ne pouvez rien faire avec le minerai lui-même ?~
-@23   = ~Ah, excellent. Mais examiner le contenu est au-delà de mes capacités. Apportez-le à Thalantyr ; il ne devrait avoir aucun problème à discerner ses propriétés. Pendant ce temps, je verrai ce que je peux faire pour neutraliser les propriétés de ce minerai. Je devrais pouvoir réduire les effets du composé.~
-@24   = ~J'ai déjà apporté un échantillon à Thalantyr, et il a accepté de l'examiner.~
-@25   = ~Taerom Fuiruim examine le minerai contaminé que j'ai récupéré des mines de Nashkel. Il croit qu'il devrait maintenant pouvoir produire du fer moins fragile en conséquence.~
-@26   = ~Je ne peux rien faire de plus. Si vous pouvez trouver un échantillon du poison, apportez-le à Thalantyr ; il ne devrait avoir aucun problème à discerner ses propriétés. Pendant ce temps, je verrai ce que je peux faire pour neutraliser les propriétés de ce minerai. Je devrais pouvoir réduire les effets du composé.~
-@27   = ~Alors je le contacterai pour découvrir ce qu'il a trouvé. Je vous remercie d'avoir attiré mon attention sur ce point.~
+@18   = ~J'ai hÃ¢te de voir le rÃ©sultat.~
+@19   = ~Donnez-le moi. Hmm. Ã‰trange, en effet. Le fer a certainement Ã©tÃ© contaminÃ© avec quelque composÃ©. Je suppose que vous n'avez aucune idÃ©e de quoi il pourrait s'agir ?~
+@20   = ~En fait, si. J'ai ici une fiole que j'ai trouvÃ©e dans la mÃªme mine que le minerai.~
+@21   = ~Non, mais je pourrais essayer de le dÃ©couvrir, si cela peut aider.~
+@22   = ~Malheureusement non. Vous ne pouvez rien faire avec le minerai lui-mÃªme ?~
+@23   = ~Ah, excellent. Mais examiner le contenu est au-delÃ  de mes capacitÃ©s. Apportez-le Ã  Thalantyr ; il ne devrait avoir aucun problÃ¨me Ã  discerner ses propriÃ©tÃ©s. Pendant ce temps, je verrai ce que je peux faire pour neutraliser les propriÃ©tÃ©s de ce minerai. Je devrais pouvoir rÃ©duire les effets du composÃ©.~
+@24   = ~J'ai dÃ©jÃ  apportÃ© un Ã©chantillon Ã  Thalantyr, et il a acceptÃ© de l'examiner.~
+@25   = ~Taerom Fuiruim examine le minerai contaminÃ© que j'ai rÃ©cupÃ©rÃ© des mines de Nashkel. Il croit qu'il devrait maintenant pouvoir produire du fer moins fragile en consÃ©quence.~
+@26   = ~Je ne peux rien faire de plus. Si vous pouvez trouver un Ã©chantillon du poison, apportez-le Ã  Thalantyr ; il ne devrait avoir aucun problÃ¨me Ã  discerner ses propriÃ©tÃ©s. Pendant ce temps, je verrai ce que je peux faire pour neutraliser les propriÃ©tÃ©s de ce minerai. Je devrais pouvoir rÃ©duire les effets du composÃ©.~
+@27   = ~Alors je le contacterai pour dÃ©couvrir ce qu'il a trouvÃ©. Je vous remercie d'avoir attirÃ© mon attention sur ce point.~
 // Thalantyr
-@28   = ~Berrun Tuemort a suggéré que vous pourriez avoir envie d'analyser ce liquide. C'est un poison qui a servi à contaminer le minerai des mines de Nashkel, causant ainsi des problèmes avec le fer tout le long de la Côte des Épées.~
-@29   = ~Taërom Fuiruim a suggéré que vous pourriez avoir envie d'analyser ce liquide. C'est un poison qui a servi à contaminer le minerai des mines de Nashkel, causant ainsi des problèmes avec le fer tout le long de la Côte des Épées.~
-@30   = ~Un composé remarquable. Il a dû falloir un alchimiste qualifié pour le concocter. Il se peut que je sois en mesure de formuler un antidote pour récupérer certains des stocks de fer actuels, bien que je doute que ce soit suffisant pour résoudre la crise. Laissez-le moi, je contacterai Taërom si j'ai de la réussite.~
-@31   = ~J'ai montré une fiole de poison minéral des mines de Nashkel à Thalantyr. Il a accepté de l'examiner et d'essayer de créer un antidote. Espérons que cela aura un effet sur la crise du fer, bien que nous ne puissions pas espérer grand-chose.~
+@28   = ~Berrun Tuemort a suggÃ©rÃ© que vous pourriez avoir envie d'analyser ce liquide. C'est un poison qui a servi Ã  contaminer le minerai des mines de Nashkel, causant ainsi des problÃ¨mes avec le fer tout le long de la CÃ´te des Ã‰pÃ©es.~
+@29   = ~TaÃ«rom Fuiruim a suggÃ©rÃ© que vous pourriez avoir envie d'analyser ce liquide. C'est un poison qui a servi Ã  contaminer le minerai des mines de Nashkel, causant ainsi des problÃ¨mes avec le fer tout le long de la CÃ´te des Ã‰pÃ©es.~
+@30   = ~Un composÃ© remarquable. Il a dÃ» falloir un alchimiste qualifiÃ© pour le concocter. Il se peut que je sois en mesure de formuler un antidote pour rÃ©cupÃ©rer certains des stocks de fer actuels, bien que je doute que ce soit suffisant pour rÃ©soudre la crise. Laissez-le moi, je contacterai TaÃ«rom si j'ai de la rÃ©ussite.~
+@31   = ~J'ai montrÃ© une fiole de poison minÃ©ral des mines de Nashkel Ã  Thalantyr. Il a acceptÃ© de l'examiner et d'essayer de crÃ©er un antidote. EspÃ©rons que cela aura un effet sur la crise du fer, bien que nous ne puissions pas espÃ©rer grand-chose.~
 
-@32 = ~Le minerai contaminé
+@32 = ~Le minerai contaminÃ©
 
-Berrun Tuemort veut que j'apporte la fiole du mystérieux poison minéral que j'ai récupérée dans les mines de Nashkel à Thalantyr à Haute haie. Le puissant mage pourrait être en mesure de l'analyser. Et si jamais je trouvais un autre morceau de minerai contaminé, il faudrait que j'aille voir Taërom Fuiruim.~
+Berrun Tuemort veut que j'apporte la fiole du mystÃ©rieux poison minÃ©ral que j'ai rÃ©cupÃ©rÃ©e dans les mines de Nashkel Ã  Thalantyr Ã  Haute haie. Le puissant mage pourrait Ãªtre en mesure de l'analyser. Et si jamais je trouvais un autre morceau de minerai contaminÃ©, il faudrait que j'aille voir TaÃ«rom Fuiruim.~
 
-@33 = ~Le minerai contaminé
+@33 = ~Le minerai contaminÃ©
 
-Berrun Tuemort veut que j'apporte le minerai contaminé que j'ai récupéré dans les mines de Nashkel à Taërom Fuiruim à Bérégost. Ce forgeron très compétent pourra peut-être nous aider à ce sujet.~
+Berrun Tuemort veut que j'apporte le minerai contaminÃ© que j'ai rÃ©cupÃ©rÃ© dans les mines de Nashkel Ã  TaÃ«rom Fuiruim Ã  BÃ©rÃ©gost. Ce forgeron trÃ¨s compÃ©tent pourra peut-Ãªtre nous aider Ã  ce sujet.~
 
 //@25 with header:
-@34 = ~Le minerai contaminé
+@34 = ~Le minerai contaminÃ©
 
-Taerom Fuiruim examine le minerai contaminé que j'ai récupéré des mines de Nashkel. Il croit qu'il devrait maintenant pouvoir produire du fer moins fragile en conséquence.~
+Taerom Fuiruim examine le minerai contaminÃ© que j'ai rÃ©cupÃ©rÃ© des mines de Nashkel. Il croit qu'il devrait maintenant pouvoir produire du fer moins fragile en consÃ©quence.~
 
 //@31 with header:
-@35 = ~Le minerai contaminé
+@35 = ~Le minerai contaminÃ©
 
-J'ai montré une fiole de poison minéral des mines de Nashkel à Thalantyr. Il a accepté de l'examiner et d'essayer de créer un antidote. Espérons que cela aura un effet sur la crise du fer, bien que nous ne puissions pas espérer grand-chose.~
+J'ai montrÃ© une fiole de poison minÃ©ral des mines de Nashkel Ã  Thalantyr. Il a acceptÃ© de l'examiner et d'essayer de crÃ©er un antidote. EspÃ©rons que cela aura un effet sur la crise du fer, bien que nous ne puissions pas espÃ©rer grand-chose.~

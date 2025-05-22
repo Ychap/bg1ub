@@ -1,20 +1,20 @@
-//Game text - use Windows encoding
+//Game text
 @6     = ~Eddard Srebrna Tarcza~
 
 @11    = ~Flirt~
 
-@15    = ~Cia³o szlachcianki~
+@15    = ~CiaÅ‚o szlachcianki~
 
-@16    = ~Zw³oki szlachcianki~
+@16    = ~ZwÅ‚oki szlachcianki~
 
-@19    = ~Rêkawice kieszonkowca~
-@20    = ~Rêkawice kieszonkowca
-Kilka lat temu, Fong Moo, s³awny rzezimieszek, znany zarówno we Wrotach Baldura, jak i w Athkatli, zosta³ znaleziony martwy na drodze pomiêdzy Wrotami a Beregostem. Zdaje siê, i¿ ukrad³ potê¿nemu magowi jakiœ artefakt i stara³ siê uciec, ale z niewielkim skutkiem. Jego w³asnoœæ dosta³a siê jego kuzynowi, który podj¹³ to samo zajêcie, co wuj, i sta³ siê wyj¹tkowo dobry w kradzie¿y kieszonkowej. Nie wiadomo, czy owe rêkawice by³y magiczne, zanim wpad³y w rêce Fonga, czy w jakiœ sposób zosta³a w nich zawarta esencja mistrza.
+@19    = ~RÄ™kawice kieszonkowca~
+@20    = ~RÄ™kawice kieszonkowca
+Kilka lat temu, Fong Moo, sÅ‚awny rzezimieszek, znany zarÃ³wno we Wrotach Baldura, jak i w Athkatli, zostaÅ‚ znaleziony martwy na drodze pomiÄ™dzy Wrotami a Beregostem. Zdaje siÄ™, iÅ¼ ukradÅ‚ potÄ™Å¼nemu magowi jakiÅ› artefakt i staraÅ‚ siÄ™ uciec, ale z niewielkim skutkiem. Jego wÅ‚asnoÅ›Ä‡ dostaÅ‚a siÄ™ jego kuzynowi, ktÃ³ry podjÄ…Å‚ to samo zajÄ™cie, co wuj, i staÅ‚ siÄ™ wyjÄ…tkowo dobry w kradzieÅ¼y kieszonkowej. Nie wiadomo, czy owe rÄ™kawice byÅ‚y magiczne, zanim wpadÅ‚y w rÄ™ce Fonga, czy w jakiÅ› sposÃ³b zostaÅ‚a w nich zawarta esencja mistrza.
 
 PARAMETRY:
 
 Specjalne:
- +20% do Kradzie¿y kieszonkowej~
+ +20% do KradzieÅ¼y kieszonkowej~
 
 @25    = ~Rolnik~
 
@@ -55,150 +55,150 @@ Specjalne:
 @90    = ~Lekarstwa i mikstury Alvanhendara~
 @91    = ~Sklep Czarnej Lilii~
 @92    = ~Tawerna~
-@93    = ~Opiekuñcza Tarcza~
+@93    = ~OpiekuÅ„cza Tarcza~
 
-@95    = ~Pierœcieñ korowej skóry~
-@96    = ~Topór Bali: „Wróg magów”
-Bala by³ doœæ gwa³townym z usposobienia ksiêciem klanu krasnoludów-kanalarzy, zniewolonym przez okrutnego elfickiego maga w Thesk. Choæ nie by³ tak tchórzliwy, jak inni przedstawiciele jego klanu, to by³ od nich jeszcze bardziej brudny. Chc¹c przerwaæ straszn¹ niewolê, Bala zakrad³ siê do siedziby maga i roztrzaska³ mu czaszkê. I choæ plotki mówi¹, ¿e to jego smród zabi³ czarodzieja, w rzeczywistoœci pomóg³ mu w tym topór, którego u¿y³ do rozproszenia magicznych zabezpieczeñ w siedzibie elfa. Niska jakoœæ tego orê¿a œwiadczy o tym, ¿e Bala sam go wykona³, jednak nikt nie wie, sk¹d wziê³a siê jego moc. Po d³ugiej karierze pogromcy magów, Bala umar³, nie wyjawiwszy tajemnicy tym, którzy zaryzykowali zawszenie i zbli¿yli siê, ¿eby o to zapytaæ. Niektórzy twierdz¹, ¿e moc wziê³a siê z wielkiej nienawiœci, jak¹ Bala czu³ do czarodziejów.
+@95    = ~PierÅ›cieÅ„ korowej skÃ³ry~
+@96    = ~TopÃ³r Bali: â€WrÃ³g magÃ³wâ€
+Bala byÅ‚ doÅ›Ä‡ gwaÅ‚townym z usposobienia ksiÄ™ciem klanu krasnoludÃ³w-kanalarzy, zniewolonym przez okrutnego elfickiego maga w Thesk. ChoÄ‡ nie byÅ‚ tak tchÃ³rzliwy, jak inni przedstawiciele jego klanu, to byÅ‚ od nich jeszcze bardziej brudny. ChcÄ…c przerwaÄ‡ strasznÄ… niewolÄ™, Bala zakradÅ‚ siÄ™ do siedziby maga i roztrzaskaÅ‚ mu czaszkÄ™. I choÄ‡ plotki mÃ³wiÄ…, Å¼e to jego smrÃ³d zabiÅ‚ czarodzieja, w rzeczywistoÅ›ci pomÃ³gÅ‚ mu w tym topÃ³r, ktÃ³rego uÅ¼yÅ‚ do rozproszenia magicznych zabezpieczeÅ„ w siedzibie elfa. Niska jakoÅ›Ä‡ tego orÄ™Å¼a Å›wiadczy o tym, Å¼e Bala sam go wykonaÅ‚, jednak nikt nie wie, skÄ…d wziÄ™Å‚a siÄ™ jego moc. Po dÅ‚ugiej karierze pogromcy magÃ³w, Bala umarÅ‚, nie wyjawiwszy tajemnicy tym, ktÃ³rzy zaryzykowali zawszenie i zbliÅ¼yli siÄ™, Å¼eby o to zapytaÄ‡. NiektÃ³rzy twierdzÄ…, Å¼e moc wziÄ™Å‚a siÄ™ z wielkiej nienawiÅ›ci, jakÄ… Bala czuÅ‚ do czarodziejÃ³w.
 
 PARAMETRY:
 
-Obra¿enia: 1k8
-Typ obra¿eñ: sieczne
+ObraÅ¼enia: 1k8
+Typ obraÅ¼eÅ„: sieczne
 
 Specjalne:
- Przy ka¿dym udanym trafieniu rzuca na ofiarê Pozbawienie magii
+ Przy kaÅ¼dym udanym trafieniu rzuca na ofiarÄ™ Pozbawienie magii
 
 Waga: 6
-OpóŸnienie: 7
-Rodzaj bieg³oœci: topór
-Typ broni: 1-rêczna
-Wymagana si³a: 10
-Nie mo¿e u¿ywaæ:
+OpÃ³Åºnienie: 7
+Rodzaj biegÅ‚oÅ›ci: topÃ³r
+Typ broni: 1-rÄ™czna
+Wymagana siÅ‚a: 10
+Nie moÅ¼e uÅ¼ywaÄ‡:
  Druid
- Kap³an
+ KapÅ‚an
  Mag
- Z³odziej~
-@97   = ~Obciêta g³owa wiwerny jest zarazem przera¿aj¹cym i uspokajaj¹cym widokiem. Strach w cz³owieku zbiera na widok pe³nej k³ów szczêki i iskrz¹cych siê œlepiów, a jednoczeœnie jest to pocieszaj¹ce, ¿e stwory te mog¹ zostaæ pokonane przez zwyk³ych, s³abych œmiertelników.
+ ZÅ‚odziej~
+@97   = ~ObciÄ™ta gÅ‚owa wiwerny jest zarazem przeraÅ¼ajÄ…cym i uspokajajÄ…cym widokiem. Strach w czÅ‚owieku zbiera na widok peÅ‚nej kÅ‚Ã³w szczÄ™ki i iskrzÄ…cych siÄ™ Å›lepiÃ³w, a jednoczeÅ›nie jest to pocieszajÄ…ce, Å¼e stwory te mogÄ… zostaÄ‡ pokonane przez zwykÅ‚ych, sÅ‚abych Å›miertelnikÃ³w.
 
 PARAMETRY:
 
 Waga: 30~
-@98   = ~Œnie¿nobia³e futro zimowego wilka jest miêkkie i luksusowe. Czêsto wykorzystuje siê je do wytwarzania ubiorów tak ró¿nych, jak surowe kamizelki pó³nocnych barbarzyñców Uthgardtu czy delikatnych i przepiêknych zimowych stu³, noszonych przez szlachetnie urodzone kobiety na Wybrze¿u Mieczy.
+@98   = ~ÅšnieÅ¼nobiaÅ‚e futro zimowego wilka jest miÄ™kkie i luksusowe. CzÄ™sto wykorzystuje siÄ™ je do wytwarzania ubiorÃ³w tak rÃ³Å¼nych, jak surowe kamizelki pÃ³Å‚nocnych barbarzyÅ„cÃ³w Uthgardtu czy delikatnych i przepiÄ™knych zimowych stuÅ‚, noszonych przez szlachetnie urodzone kobiety na WybrzeÅ¼u Mieczy.
 
 PARAMETRY:
 
 Waga: 10~
-@99   = ~Ankhegi s¹ podziemnymi istotami pokrewnymi owadom. Maj¹ od trzech do szeœciu metrów d³ugoœci i zamieszkuj¹ g³ównie lasy i tereny uprawne. Pokryte s¹ bardzo wytrzyma³ymi i lekkimi chitynowymi skorupami. Dziêki swoje wielkoœci, wadze i sile s¹ one u¿ywane do ró¿nych celów, miêdzy innymi do produkcji zbroi.
+@99   = ~Ankhegi sÄ… podziemnymi istotami pokrewnymi owadom. MajÄ… od trzech do szeÅ›ciu metrÃ³w dÅ‚ugoÅ›ci i zamieszkujÄ… gÅ‚Ã³wnie lasy i tereny uprawne. Pokryte sÄ… bardzo wytrzymaÅ‚ymi i lekkimi chitynowymi skorupami. DziÄ™ki swoje wielkoÅ›ci, wadze i sile sÄ… one uÅ¼ywane do rÃ³Å¼nych celÃ³w, miÄ™dzy innymi do produkcji zbroi.
 
 PARAMETRY:
 
 Waga: 100~
 
 @105  = ~Przewodzi im Sarevok Anchev.~
-@106  = ~Odpowiada za to cz³owiek imieniem Sarevok Anchev.~
-@107  = ~Wieszcz powiedzia³ nam, ¿e dowódc¹ ¯elaznego Tronu jest Sarevok Anchev.~
-@108  = ~Wieszcz powiedzia³ nam, ¿e to Sarevok Anchev wrobi³ nas w morderstwa w Candlekeep.~
+@106  = ~Odpowiada za to czÅ‚owiek imieniem Sarevok Anchev.~
+@107  = ~Wieszcz powiedziaÅ‚ nam, Å¼e dowÃ³dcÄ… Å»elaznego Tronu jest Sarevok Anchev.~
+@108  = ~Wieszcz powiedziaÅ‚ nam, Å¼e to Sarevok Anchev wrobiÅ‚ nas w morderstwa w Candlekeep.~
 @109  = ~[Pierwszy list do Davaeorna] Davaeornie,
 
-Otrzyma³em twoj¹ proœbê o dodatkowych niewolników. Wyœlê ich tak szybko, jak bêdzie to mo¿liwe. Sprawy we Wrotach Baldura uk³adaj¹ siê ca³kiem pomyœlnie. Kupiliœmy jeden z tych szlacheckich dworów na zachodzie jako bazê dla naszych operacji. To bardzo stary budynek, wzniesiony zapewne jeszcze przed postawieniem drugiego muru. Jego architektura sprawia, ¿e jest bardzo odporny na zakusy takich, którzy chcieliby go okraœæ. Nie zapomnij zapytaæ Yeslicka jak mu siê podoba jego nowe mieszkanie.
+OtrzymaÅ‚em twojÄ… proÅ›bÄ™ o dodatkowych niewolnikÃ³w. WyÅ›lÄ™ ich tak szybko, jak bÄ™dzie to moÅ¼liwe. Sprawy we Wrotach Baldura ukÅ‚adajÄ… siÄ™ caÅ‚kiem pomyÅ›lnie. KupiliÅ›my jeden z tych szlacheckich dworÃ³w na zachodzie jako bazÄ™ dla naszych operacji. To bardzo stary budynek, wzniesiony zapewne jeszcze przed postawieniem drugiego muru. Jego architektura sprawia, Å¼e jest bardzo odporny na zakusy takich, ktÃ³rzy chcieliby go okraÅ›Ä‡. Nie zapomnij zapytaÄ‡ Yeslicka jak mu siÄ™ podoba jego nowe mieszkanie.
 
 Rieltar.
 Eleint 14, 1367~
 @110   = ~[Drugi list do Davaeorna] Davaeornie,
 
-Realizacja naszych planów przebiega g³adko i bez zak³óceñ. Z naszej kwatery g³ównej w Ordulinie przyby³ mój syn Sarevok. Przyniós³ wieœci od naszych prze³o¿onych – dotychczas s¹ zadowoleni z postêpów, jakie zrobiliœmy. Zamierzam mianowaæ Sarevoka dowódc¹ naszych najemnych si³ w tym rejonie. On ju¿ zacz¹³ dzia³aæ i wys³a³ swego podkomendnego, Tazoka, do Lasu Ostrych K³ów, ¿eby ten przej¹³ dowodzenie nad stacjonuj¹cymi tam oddzia³ami. Równie szybko dzia³amy tu, we Wrotach Baldura. Uda³o nam siê umieœciæ naszego pierwszego agenta w kompanii handlowej Siedem S³oñc.
+Realizacja naszych planÃ³w przebiega gÅ‚adko i bez zakÅ‚Ã³ceÅ„. Z naszej kwatery gÅ‚Ã³wnej w Ordulinie przybyÅ‚ mÃ³j syn Sarevok. PrzyniÃ³sÅ‚ wieÅ›ci od naszych przeÅ‚oÅ¼onych â€“ dotychczas sÄ… zadowoleni z postÄ™pÃ³w, jakie zrobiliÅ›my. Zamierzam mianowaÄ‡ Sarevoka dowÃ³dcÄ… naszych najemnych siÅ‚ w tym rejonie. On juÅ¼ zaczÄ…Å‚ dziaÅ‚aÄ‡ i wysÅ‚aÅ‚ swego podkomendnego, Tazoka, do Lasu Ostrych KÅ‚Ã³w, Å¼eby ten przejÄ…Å‚ dowodzenie nad stacjonujÄ…cymi tam oddziaÅ‚ami. RÃ³wnie szybko dziaÅ‚amy tu, we Wrotach Baldura. UdaÅ‚o nam siÄ™ umieÅ›ciÄ‡ naszego pierwszego agenta w kompanii handlowej Siedem SÅ‚oÅ„c.
 
 Rieltar.
 Uktar 4, 1367~
 @111   = ~[Trzeci list do Daveaorna] Davaeornie,
 
-Jak zapewne s³ysza³eœ, efekty dzia³ania „¿elaznej trucizny” zaczynaj¹ byæ widoczne na ca³ym wybrze¿u. Poniewa¿ wiêkszoœæ karawan z importowanym ¿elazem jest przechwytywana i rozbijana przez Tazoka, niemal ca³oœæ dostaw pochodzi teraz z zatrutej kopalni w Nashkel. Sythillisiañskie powstanie w Amn gwarantuje, ¿e przeciw naszym najemnym si³om nie zostan¹ wys³ane ¿adne amnijskie oddzia³y. Kilku najemników z Czarnego Szponu zosta³o ostatnio schwytanych przez P³omienn¹ Pieœæ, jednak wszyscy oni zgodnie stwierdzili, ¿e zostali wynajêci przez Zhentarimów i w ten sposób oddalili podejrzenia od ¯elaznego Tronu. Wys³a³em Tranziga, ¿eby wraz z najemnikami zabezpieczy³ transporty ¿elaza do twojej bazy w Kniei Otulisko. Zosta³ on wyposa¿ony w kilka toreb przechowywania, wiêc bêdzie móg³ odbywaæ podró¿e do Kniei Otulisko samotnie, zmniejszaj¹c niebezpieczeñstwo, i¿ tropiciele z P³omiennej Piêœci trafi¹ po œladach do twojej warowni.
+Jak zapewne sÅ‚yszaÅ‚eÅ›, efekty dziaÅ‚ania â€Å¼elaznej truciznyâ€ zaczynajÄ… byÄ‡ widoczne na caÅ‚ym wybrzeÅ¼u. PoniewaÅ¼ wiÄ™kszoÅ›Ä‡ karawan z importowanym Å¼elazem jest przechwytywana i rozbijana przez Tazoka, niemal caÅ‚oÅ›Ä‡ dostaw pochodzi teraz z zatrutej kopalni w Nashkel. SythillisiaÅ„skie powstanie w Amn gwarantuje, Å¼e przeciw naszym najemnym siÅ‚om nie zostanÄ… wysÅ‚ane Å¼adne amnijskie oddziaÅ‚y. Kilku najemnikÃ³w z Czarnego Szponu zostaÅ‚o ostatnio schwytanych przez PÅ‚omiennÄ… PieÅ›Ä‡, jednak wszyscy oni zgodnie stwierdzili, Å¼e zostali wynajÄ™ci przez ZhentarimÃ³w i w ten sposÃ³b oddalili podejrzenia od Å»elaznego Tronu. WysÅ‚aÅ‚em Tranziga, Å¼eby wraz z najemnikami zabezpieczyÅ‚ transporty Å¼elaza do twojej bazy w Kniei Otulisko. ZostaÅ‚ on wyposaÅ¼ony w kilka toreb przechowywania, wiÄ™c bÄ™dzie mÃ³gÅ‚ odbywaÄ‡ podrÃ³Å¼e do Kniei Otulisko samotnie, zmniejszajÄ…c niebezpieczeÅ„stwo, iÅ¼ tropiciele z PÅ‚omiennej PiÄ™Å›ci trafiÄ… po Å›ladach do twojej warowni.
 
 Rieltar.
 Ches 21, 1368~
-@112   = ~Pamiêtnik Sarevoka
+@112   = ~PamiÄ™tnik Sarevoka
 
-14 Eleint 1367: Dziœ Cormyr zakaza³ ¯elaznemu Tronowi dzia³aæ w jego granicach. To wielki cios i idealna okazja dla ojca, by wyst¹pi³ ze sw¹ propozycj¹ przed Najwy¿sz¹ Rad¹ Tronu. Jeœli wszystko dobrze pójdzie, rozpoczniemy prace w przeci¹gu roku.
+14 Eleint 1367: DziÅ› Cormyr zakazaÅ‚ Å»elaznemu Tronowi dziaÅ‚aÄ‡ w jego granicach. To wielki cios i idealna okazja dla ojca, by wystÄ…piÅ‚ ze swÄ… propozycjÄ… przed NajwyÅ¼szÄ… RadÄ… Tronu. JeÅ›li wszystko dobrze pÃ³jdzie, rozpoczniemy prace w przeciÄ…gu roku.
 
-28 Eleint, 1367: Davaeorn informuje, ¿e kopalnie w Kniei Otulisko zosta³y oczyszczone i mo¿na je wykorzystaæ. Te rewelacje bardzo pomog¹ w przekonaniu Najwy¿szej Rady Tronu. 
+28 Eleint, 1367: Davaeorn informuje, Å¼e kopalnie w Kniei Otulisko zostaÅ‚y oczyszczone i moÅ¼na je wykorzystaÄ‡. Te rewelacje bardzo pomogÄ… w przekonaniu NajwyÅ¼szej Rady Tronu. 
 
-19 Marpenoth, 1367: Rada ¯elaznego Tronu zgodzi³a siê wesprzeæ plan ojca. Otrzyma on wszelk¹ niezbêdn¹ pomoc i oczywiœcie zostanie przywódc¹ ca³ego przedsiêwziêcia. Wyrazi³em swe zainteresowanie i mój „ojciec” obieca³ w³¹czyæ mnie do dzia³añ tocz¹cych siê wzd³u¿ Wybrze¿a Mieczy. Wysy³a mnie przy tym jako swego reprezentanta, abym nawi¹za³ kontakt z kilkoma grupami najemników dzia³aj¹cymi na wschodzie. Wspomnia³ te¿ w rozmowie o matce, stwierdzi³, ¿e nie mogê byæ wobec niego równie nielojalny, jak ona. Da³ mi jasno do zrozumienia, ¿e jeœli coœ takiego siê zdarzy, podzielê jej los. Jego groŸby s¹ nêdzne i p³askie; na szczêœcie ju¿ wkrótce nie bêdê musia³ ich wys³uchiwaæ.
+19 Marpenoth, 1367: Rada Å»elaznego Tronu zgodziÅ‚a siÄ™ wesprzeÄ‡ plan ojca. Otrzyma on wszelkÄ… niezbÄ™dnÄ… pomoc i oczywiÅ›cie zostanie przywÃ³dcÄ… caÅ‚ego przedsiÄ™wziÄ™cia. WyraziÅ‚em swe zainteresowanie i mÃ³j â€ojciecâ€ obiecaÅ‚ wÅ‚Ä…czyÄ‡ mnie do dziaÅ‚aÅ„ toczÄ…cych siÄ™ wzdÅ‚uÅ¼ WybrzeÅ¼a Mieczy. WysyÅ‚a mnie przy tym jako swego reprezentanta, abym nawiÄ…zaÅ‚ kontakt z kilkoma grupami najemnikÃ³w dziaÅ‚ajÄ…cymi na wschodzie. WspomniaÅ‚ teÅ¼ w rozmowie o matce, stwierdziÅ‚, Å¼e nie mogÄ™ byÄ‡ wobec niego rÃ³wnie nielojalny, jak ona. DaÅ‚ mi jasno do zrozumienia, Å¼e jeÅ›li coÅ› takiego siÄ™ zdarzy, podzielÄ™ jej los. Jego groÅºby sÄ… nÄ™dzne i pÅ‚askie; na szczÄ™Å›cie juÅ¼ wkrÃ³tce nie bÄ™dÄ™ musiaÅ‚ ich wysÅ‚uchiwaÄ‡.
 
-30 Marpenoth, 1367: Spotka³em siê z przywódcami Ch³odu i Czarnych Szponów. Niezbyt podoba³ mi siê Ardenor, wódz Ch³odu, ale Taurgosz na szczêœcie wygl¹da na s³ownego mê¿czyznê. To dobrze, gdy¿ bêdê musia³ pracowaæ z tymi najemnikami przez ca³y czas trwania operacji.
+30 Marpenoth, 1367: SpotkaÅ‚em siÄ™ z przywÃ³dcami ChÅ‚odu i Czarnych SzponÃ³w. Niezbyt podobaÅ‚ mi siÄ™ Ardenor, wÃ³dz ChÅ‚odu, ale Taurgosz na szczÄ™Å›cie wyglÄ…da na sÅ‚ownego mÄ™Å¼czyznÄ™. To dobrze, gdyÅ¼ bÄ™dÄ™ musiaÅ‚ pracowaÄ‡ z tymi najemnikami przez caÅ‚y czas trwania operacji.
 
-3 Uktar, 1367: Tej nocy mia³em kolejny sen. Mówi³a do mnie matka, ale jej twarz by³a napuchniêta i blada. Z ka¿dym s³owem jej g³os by³ coraz s³abszy. Prosi³a mnie, bym uratowa³ j¹ przed Rieltarem. Widzia³em garotê przecinaj¹c¹ jej szyjê, ale nic nie zrobi³em. To by³ tylko sen.
+3 Uktar, 1367: Tej nocy miaÅ‚em kolejny sen. MÃ³wiÅ‚a do mnie matka, ale jej twarz byÅ‚a napuchniÄ™ta i blada. Z kaÅ¼dym sÅ‚owem jej gÅ‚os byÅ‚ coraz sÅ‚abszy. ProsiÅ‚a mnie, bym uratowaÅ‚ jÄ… przed Rieltarem. WidziaÅ‚em garotÄ™ przecinajÄ…cÄ… jej szyjÄ™, ale nic nie zrobiÅ‚em. To byÅ‚ tylko sen.
 
-8 Uktar, 1367: Dziœ wróci³em do Wrót Baldura i zda³em raport Rieltarowi. G³upiec wci¹¿ upiera siê przy nazywaniu mnie synem, na co na razie mu pozwalam. Pewnie uwa¿a, ¿e jestem lojalny, gdy¿ mnie wychowa³. Có¿, bêdê lojalny, póki bêdzie mi to pasowa³o. Za³o¿y³ siedzibê w dworze zubo¿a³ej szlachty i powiedzia³, ¿e wszystko idzie zgodnie z planem.
+8 Uktar, 1367: DziÅ› wrÃ³ciÅ‚em do WrÃ³t Baldura i zdaÅ‚em raport Rieltarowi. GÅ‚upiec wciÄ…Å¼ upiera siÄ™ przy nazywaniu mnie synem, na co na razie mu pozwalam. Pewnie uwaÅ¼a, Å¼e jestem lojalny, gdyÅ¼ mnie wychowaÅ‚. CÃ³Å¼, bÄ™dÄ™ lojalny, pÃ³ki bÄ™dzie mi to pasowaÅ‚o. ZaÅ‚oÅ¼yÅ‚ siedzibÄ™ w dworze zuboÅ¼aÅ‚ej szlachty i powiedziaÅ‚, Å¼e wszystko idzie zgodnie z planem.
 
-17 Nightal, 1367: Mulahey zainstalowa³ siê w kopalniach Nashkel i powinien ju¿ przekonywaæ ¿yj¹ce tam koboldy, by uzna³y go za przywódcê. Jedynie kilku niewolników zajmuje siê wydobywaniem rudy z kopalni w Kniei Otulisko, mimo to, gdy tylko rozpoczn¹ siê napady bandytów, bêdê regularnie wysy³a³ Davaeornowi nowe zasoby niewolników.
+17 Nightal, 1367: Mulahey zainstalowaÅ‚ siÄ™ w kopalniach Nashkel i powinien juÅ¼ przekonywaÄ‡ Å¼yjÄ…ce tam koboldy, by uznaÅ‚y go za przywÃ³dcÄ™. Jedynie kilku niewolnikÃ³w zajmuje siÄ™ wydobywaniem rudy z kopalni w Kniei Otulisko, mimo to, gdy tylko rozpocznÄ… siÄ™ napady bandytÃ³w, bÄ™dÄ™ regularnie wysyÅ‚aÅ‚ Davaeornowi nowe zasoby niewolnikÃ³w.
 
-6 Hammer, 1368: P³omienna Piêœæ zaczê³a wreszcie dostrzegaæ nasz¹ ma³¹ wspóln¹ operacjê, wysy³aj¹c kilka ma³ych kontyngentów wzd³u¿ Nadbrze¿nego Traktu do odparcia bandyckich napadów. Wiêkszoœæ najemników s¹dzi, ¿e pracuje dla Zhentów, wiêc gdyby zdarzy³o siê, ¿e któryœ z nich wpadnie w rêce Piêœci, wina nie spadnie na ¯elazny Tron. Jestem pewien, ¿e Zhentowie z Czarnej Twierdzy nie bêd¹ szczêœliwi, wiedz¹c, ¿e ich imiê jest szargane, nie mo¿emy jednak pozwoliæ, by w³adze skupi³y uwagê na nas.
+6 Hammer, 1368: PÅ‚omienna PiÄ™Å›Ä‡ zaczÄ™Å‚a wreszcie dostrzegaÄ‡ naszÄ… maÅ‚Ä… wspÃ³lnÄ… operacjÄ™, wysyÅ‚ajÄ…c kilka maÅ‚ych kontyngentÃ³w wzdÅ‚uÅ¼ NadbrzeÅ¼nego Traktu do odparcia bandyckich napadÃ³w. WiÄ™kszoÅ›Ä‡ najemnikÃ³w sÄ…dzi, Å¼e pracuje dla ZhentÃ³w, wiÄ™c gdyby zdarzyÅ‚o siÄ™, Å¼e ktÃ³ryÅ› z nich wpadnie w rÄ™ce PiÄ™Å›ci, wina nie spadnie na Å»elazny Tron. Jestem pewien, Å¼e Zhentowie z Czarnej Twierdzy nie bÄ™dÄ… szczÄ™Å›liwi, wiedzÄ…c, Å¼e ich imiÄ™ jest szargane, nie moÅ¼emy jednak pozwoliÄ‡, by wÅ‚adze skupiÅ‚y uwagÄ™ na nas.
 
-9 Hammer, 1368: Zdecydowa³em siê w koñcu odwiedziæ Candlekeep. Spêdzam wiele czasu nad przepowiedniami Alaundo. Muszê w koñcu siê dowiedzieæ, czy sny mówi¹ prawdê. Nie uwierzê s³owom mira¿y bez ¿adnego dowodu, a kap³an Bhaala, z którym siê spotka³em, nie powiedzia³ mi nic nowego. By³ stary i szybko zmar³ w mym uœcisku. Jeœli owe s³owa s¹ prawdziwe, bêdê musia³ znaleŸæ silniejszych akolitów ni¿ on.
+9 Hammer, 1368: ZdecydowaÅ‚em siÄ™ w koÅ„cu odwiedziÄ‡ Candlekeep. SpÄ™dzam wiele czasu nad przepowiedniami Alaundo. MuszÄ™ w koÅ„cu siÄ™ dowiedzieÄ‡, czy sny mÃ³wiÄ… prawdÄ™. Nie uwierzÄ™ sÅ‚owom miraÅ¼y bez Å¼adnego dowodu, a kapÅ‚an Bhaala, z ktÃ³rym siÄ™ spotkaÅ‚em, nie powiedziaÅ‚ mi nic nowego. ByÅ‚ stary i szybko zmarÅ‚ w mym uÅ›cisku. JeÅ›li owe sÅ‚owa sÄ… prawdziwe, bÄ™dÄ™ musiaÅ‚ znaleÅºÄ‡ silniejszych akolitÃ³w niÅ¼ on.
 
-14 Alturiak, 1368: Nareszcie dotar³em do Candlekeep, a tutejsi mnisi okazali siê nad wyraz pomocni. Z tego, co przeczyta³em, nie ma cienia w¹tpliwoœci, ¿e w moich ¿y³ach p³ynie krew Bhaala. Przepowiednie Alaundo s¹ oczywiœcie niejednoznaczne, ale wydaje mi siê, ¿e je rozumiem. Bhaal przewidzia³ nadchodz¹c¹ œmieræ i rozsia³ sw¹ esencjê po œwiecie. Te pomioty nosz¹ œlad chaosu, posiadaj¹ potêgê i zapewne czuj¹ p³yn¹c¹ w ¿y³ach krew boga, która napêdza ich do niesienia œmierci i zniszczenia. „Œmierci, do których doprowadz¹, obudz¹ ich ojca i pozwol¹ mu raz jeszcze powstaæ.” Sformu³owanie jest dosyæ dwuznaczne, ale mo¿na siê domyœliæ, ¿e zadane przez dzieci œmierci pozwol¹ im wznieœæ siê ku panteonowi. Tak wiêc mój ojciec jest Panem Mordu i dowodem wartoœci bêdzie czyn odpowiadaj¹cy jego wizerunkowi. Wiem ju¿, co muszê uczyniæ. Spowodowaæ rzeŸ na iœcie bosk¹ skalê.
+14 Alturiak, 1368: Nareszcie dotarÅ‚em do Candlekeep, a tutejsi mnisi okazali siÄ™ nad wyraz pomocni. Z tego, co przeczytaÅ‚em, nie ma cienia wÄ…tpliwoÅ›ci, Å¼e w moich Å¼yÅ‚ach pÅ‚ynie krew Bhaala. Przepowiednie Alaundo sÄ… oczywiÅ›cie niejednoznaczne, ale wydaje mi siÄ™, Å¼e je rozumiem. Bhaal przewidziaÅ‚ nadchodzÄ…cÄ… Å›mierÄ‡ i rozsiaÅ‚ swÄ… esencjÄ™ po Å›wiecie. Te pomioty noszÄ… Å›lad chaosu, posiadajÄ… potÄ™gÄ™ i zapewne czujÄ… pÅ‚ynÄ…cÄ… w Å¼yÅ‚ach krew boga, ktÃ³ra napÄ™dza ich do niesienia Å›mierci i zniszczenia. â€Åšmierci, do ktÃ³rych doprowadzÄ…, obudzÄ… ich ojca i pozwolÄ… mu raz jeszcze powstaÄ‡.â€ SformuÅ‚owanie jest dosyÄ‡ dwuznaczne, ale moÅ¼na siÄ™ domyÅ›liÄ‡, Å¼e zadane przez dzieci Å›mierci pozwolÄ… im wznieÅ›Ä‡ siÄ™ ku panteonowi. Tak wiÄ™c mÃ³j ojciec jest Panem Mordu i dowodem wartoÅ›ci bÄ™dzie czyn odpowiadajÄ…cy jego wizerunkowi. Wiem juÅ¼, co muszÄ™ uczyniÄ‡. SpowodowaÄ‡ rzeÅº na iÅ›cie boskÄ… skalÄ™.
 
-15 Alturiak, 1368: Moje badania trwaj¹. Wygl¹da na to, ¿e Bhaal sp³odzi³ setki, jeœli nie tysi¹ce bêkartów, z których tylko dwadzieœcioro siêgnie po realn¹ w³adzê... a z nich jedynie piêcioro wzbudzi strach w samych bogach. Ale niepokoi mnie ten mnich, Gorion. Przepowiednie Alaundo zawieraj¹ te¿ niejasne fragmenty mówi¹ce o „wychowanku Goriona”, a mnich rzeczywiœcie wychowuje dziecko i imieniu <CHARNAME>, które mimo i¿ wygl¹da na nieœwiadomego niczego bachora, z jakichœ wzglêdów wydaje mi siê znajome. Gorion zacz¹³ siê interesowaæ tym, co czytam, muszê wiêc byæ ostro¿niejszy w moich poszukiwaniach.
+15 Alturiak, 1368: Moje badania trwajÄ…. WyglÄ…da na to, Å¼e Bhaal spÅ‚odziÅ‚ setki, jeÅ›li nie tysiÄ…ce bÄ™kartÃ³w, z ktÃ³rych tylko dwadzieÅ›cioro siÄ™gnie po realnÄ… wÅ‚adzÄ™... a z nich jedynie piÄ™cioro wzbudzi strach w samych bogach. Ale niepokoi mnie ten mnich, Gorion. Przepowiednie Alaundo zawierajÄ… teÅ¼ niejasne fragmenty mÃ³wiÄ…ce o â€wychowanku Gorionaâ€, a mnich rzeczywiÅ›cie wychowuje dziecko i imieniu <CHARNAME>, ktÃ³re mimo iÅ¼ wyglÄ…da na nieÅ›wiadomego niczego bachora, z jakichÅ› wzglÄ™dÃ³w wydaje mi siÄ™ znajome. Gorion zaczÄ…Å‚ siÄ™ interesowaÄ‡ tym, co czytam, muszÄ™ wiÄ™c byÄ‡ ostroÅ¼niejszy w moich poszukiwaniach.
 
-16 Alturiak, 1368: Opuszczam ju¿ Candlekeep ani chwili za wczeœnie, jestem bowiem pewien, ¿e Gorion odkry³ moje dziedzictwo. Szkoda, ¿e nie mogê go tak po prostu zabiæ, ale morderstwo nie usz³oby mi raczej p³azem na terenie tej przeklêtej biblioteki. Jeszcze jednej rzeczy jestem teraz pewien: <CHARNAME> równie¿ jest dzieckiem Bhaala. Wskazuj¹ na to wszystkie znaki, a ponadto fakt ten wyjaœni³by zainteresowanie Goriona moimi studiami i to, ¿e imiê <CHARNAME> pojawia siê w przepowiedni. Có¿, teraz nic nie mogê uczyniæ, muszê jednak postaraæ siê wróciæ i zabiæ bachora. G³upot¹ by³oby pozwoliæ ¿yæ rodzeñstwu – szczególnie temu, którym interesuj¹ siê Harfiarze (jestem pewien, ¿e w³aœnie z nimi zwi¹zany jest Gorion).
+16 Alturiak, 1368: Opuszczam juÅ¼ Candlekeep ani chwili za wczeÅ›nie, jestem bowiem pewien, Å¼e Gorion odkryÅ‚ moje dziedzictwo. Szkoda, Å¼e nie mogÄ™ go tak po prostu zabiÄ‡, ale morderstwo nie uszÅ‚oby mi raczej pÅ‚azem na terenie tej przeklÄ™tej biblioteki. Jeszcze jednej rzeczy jestem teraz pewien: <CHARNAME> rÃ³wnieÅ¼ jest dzieckiem Bhaala. WskazujÄ… na to wszystkie znaki, a ponadto fakt ten wyjaÅ›niÅ‚by zainteresowanie Goriona moimi studiami i to, Å¼e imiÄ™ <CHARNAME> pojawia siÄ™ w przepowiedni. CÃ³Å¼, teraz nic nie mogÄ™ uczyniÄ‡, muszÄ™ jednak postaraÄ‡ siÄ™ wrÃ³ciÄ‡ i zabiÄ‡ bachora. GÅ‚upotÄ… byÅ‚oby pozwoliÄ‡ Å¼yÄ‡ rodzeÅ„stwu â€“ szczegÃ³lnie temu, ktÃ³rym interesujÄ… siÄ™ Harfiarze (jestem pewien, Å¼e wÅ‚aÅ›nie z nimi zwiÄ…zany jest Gorion).
 
-17 Ches, 1368: Wszystko zmierza w dobrym kierunku. Ruda z Nashkel straci³a na jakoœci, a moi ludzie œwietnie daj¹ sobie radê z przejmowaniem karawan wioz¹cych ¿elazo do Wrót Baldura. Mimo i¿ z³apano kilku moich podw³adnych, historyjka o Zhentach spe³nia swe zadanie, tak wiêc ¿adna wina nie spadnie na ¯elazny Tron. W najbli¿szym czasie bêdê musia³ jednak uwa¿aæ na ich agentów.
+17 Ches, 1368: Wszystko zmierza w dobrym kierunku. Ruda z Nashkel straciÅ‚a na jakoÅ›ci, a moi ludzie Å›wietnie dajÄ… sobie radÄ™ z przejmowaniem karawan wiozÄ…cych Å¼elazo do WrÃ³t Baldura. Mimo iÅ¼ zÅ‚apano kilku moich podwÅ‚adnych, historyjka o Zhentach speÅ‚nia swe zadanie, tak wiÄ™c Å¼adna wina nie spadnie na Å»elazny Tron. W najbliÅ¼szym czasie bÄ™dÄ™ musiaÅ‚ jednak uwaÅ¼aÄ‡ na ich agentÃ³w.
 
-28 Tarsakh, 1368: Nadszed³ w koñcu moment rozprawienia siê z tym starym g³upcem Gorionem i jego ma³ym bachorem. Muszê poinformowaæ moich podw³adnych, ¿e nie bêdzie mnie przez najbli¿sze kilka dni.
+28 Tarsakh, 1368: NadszedÅ‚ w koÅ„cu moment rozprawienia siÄ™ z tym starym gÅ‚upcem Gorionem i jego maÅ‚ym bachorem. MuszÄ™ poinformowaÄ‡ moich podwÅ‚adnych, Å¼e nie bÄ™dzie mnie przez najbliÅ¼sze kilka dni.
 
-19 Kythorn, 1368: Ledwie mam czas, by pisaæ, ale nie powinienem tak zaniedbywaæ mego pamiêtnika. Przysz³oœæ musi poznaæ, jak Pan Mordu narodzi³ siê na nowo. Jeœli czas pozwoli, najmê kiedyœ do tego skrybê. Teraz jednak przysz³a pora na nasz ma³y dramat. Mój samozwañczy ojciec, Rieltar rozmawia w³aœnie na górze z dwoma przedstawicielami Rycerzy Tarczy. Tak jak przewidzia³em próbuje on utr¹ciæ wszystkie moje starania maj¹ce na celu wzrost wrogoœci pomiêdzy Wrotami Baldura i Amn. Przykro mi, „ojcze”, ale wzywa mnie zew mej prawdziwej krwi. W razie gdyby nadchodz¹ce wydarzenia nie wywo³a³y natychmiastowego rozlewu krwi, muszê dok³adnie poinstruowaæ sobowtórniaki, w jaki sposób maj¹ zabiæ Rieltara. Myœlê, ¿e garota doskonale siê do tego nada.
+19 Kythorn, 1368: Ledwie mam czas, by pisaÄ‡, ale nie powinienem tak zaniedbywaÄ‡ mego pamiÄ™tnika. PrzyszÅ‚oÅ›Ä‡ musi poznaÄ‡, jak Pan Mordu narodziÅ‚ siÄ™ na nowo. JeÅ›li czas pozwoli, najmÄ™ kiedyÅ› do tego skrybÄ™. Teraz jednak przyszÅ‚a pora na nasz maÅ‚y dramat. MÃ³j samozwaÅ„czy ojciec, Rieltar rozmawia wÅ‚aÅ›nie na gÃ³rze z dwoma przedstawicielami Rycerzy Tarczy. Tak jak przewidziaÅ‚em prÃ³buje on utrÄ…ciÄ‡ wszystkie moje starania majÄ…ce na celu wzrost wrogoÅ›ci pomiÄ™dzy Wrotami Baldura i Amn. Przykro mi, â€ojczeâ€, ale wzywa mnie zew mej prawdziwej krwi. W razie gdyby nadchodzÄ…ce wydarzenia nie wywoÅ‚aÅ‚y natychmiastowego rozlewu krwi, muszÄ™ dokÅ‚adnie poinstruowaÄ‡ sobowtÃ³rniaki, w jaki sposÃ³b majÄ… zabiÄ‡ Rieltara. MyÅ›lÄ™, Å¼e garota doskonale siÄ™ do tego nada.
 
-(Dziennik wydaje siê bardzo wa¿ny. Lepiej trzymaj go przez ca³y czas przy sobie).~
+(Dziennik wydaje siÄ™ bardzo waÅ¼ny. Lepiej trzymaj go przez caÅ‚y czas przy sobie).~
 
 @113   = ~Sygnet~
 @114   = ~To jest sygnet z rubinem.~
 
 /* new v13.1 */
 //Additions for BGEE
-@115    = ~Topór Bali: „Wróg magów”
+@115    = ~TopÃ³r Bali: â€WrÃ³g magÃ³wâ€
 
-Bala by³ doœæ gwa³townym z usposobienia ksiêciem klanu krasnoludów-kanalarzy, zniewolonym przez okrutnego elfickiego maga w Thesk. Choæ nie by³ tak tchórzliwy, jak inni przedstawiciele jego klanu, to by³ od nich jeszcze bardziej brudny. Chc¹c przerwaæ straszn¹ niewolê, Bala zakrad³ siê do siedziby maga i roztrzaska³ mu czaszkê. I choæ plotki mówi¹, ¿e to jego smród zabi³ czarodzieja, w rzeczywistoœci pomóg³ mu w tym topór, którego u¿y³ do rozproszenia magicznych zabezpieczeñ w siedzibie elfa. Niska jakoœæ tego orê¿a œwiadczy o tym, ¿e Bala sam go wykona³, jednak nikt nie wie, sk¹d wziê³a siê jego moc. Po d³ugiej karierze pogromcy magów, Bala umar³, nie wyjawiwszy tajemnicy tym, którzy zaryzykowali zawszenie i zbli¿yli siê, ¿eby o to zapytaæ. Niektórzy twierdz¹, ¿e moc wziê³a siê z wielkiej nienawiœci, jak¹ Bala czu³ do czarodziejów.
+Bala byÅ‚ doÅ›Ä‡ gwaÅ‚townym z usposobienia ksiÄ™ciem klanu krasnoludÃ³w-kanalarzy, zniewolonym przez okrutnego elfickiego maga w Thesk. ChoÄ‡ nie byÅ‚ tak tchÃ³rzliwy, jak inni przedstawiciele jego klanu, to byÅ‚ od nich jeszcze bardziej brudny. ChcÄ…c przerwaÄ‡ strasznÄ… niewolÄ™, Bala zakradÅ‚ siÄ™ do siedziby maga i roztrzaskaÅ‚ mu czaszkÄ™. I choÄ‡ plotki mÃ³wiÄ…, Å¼e to jego smrÃ³d zabiÅ‚ czarodzieja, w rzeczywistoÅ›ci pomÃ³gÅ‚ mu w tym topÃ³r, ktÃ³rego uÅ¼yÅ‚ do rozproszenia magicznych zabezpieczeÅ„ w siedzibie elfa. Niska jakoÅ›Ä‡ tego orÄ™Å¼a Å›wiadczy o tym, Å¼e Bala sam go wykonaÅ‚, jednak nikt nie wie, skÄ…d wziÄ™Å‚a siÄ™ jego moc. Po dÅ‚ugiej karierze pogromcy magÃ³w, Bala umarÅ‚, nie wyjawiwszy tajemnicy tym, ktÃ³rzy zaryzykowali zawszenie i zbliÅ¼yli siÄ™, Å¼eby o to zapytaÄ‡. NiektÃ³rzy twierdzÄ…, Å¼e moc wziÄ™Å‚a siÄ™ z wielkiej nienawiÅ›ci, jakÄ… Bala czuÅ‚ do czarodziejÃ³w.
 
 PARAMETRY:
 
 Specjalne:
-– Pozbawienie magii, na nastêpn¹ turê, po ka¿dym udanym trafieniu (80% szans, ¿e ofierze nie powiedzie siê zaklêcie, rzut obronny przeciw czarom z modyfikatorem -2 neguje)
+â€“ Pozbawienie magii, na nastÄ™pnÄ… turÄ™, po kaÅ¼dym udanym trafieniu (80% szans, Å¼e ofierze nie powiedzie siÄ™ zaklÄ™cie, rzut obronny przeciw czarom z modyfikatorem -2 neguje)
 
-Obra¿enia: 1k8
-Typ obra¿eñ: sieczne
-OpóŸnienie: 7
-Rodzaj bieg³oœci: topór
-Typ broni: 1-rêczna
+ObraÅ¼enia: 1k8
+Typ obraÅ¼eÅ„: sieczne
+OpÃ³Åºnienie: 7
+Rodzaj biegÅ‚oÅ›ci: topÃ³r
+Typ broni: 1-rÄ™czna
 
 Wymagania:
-– Si³a: 10
+â€“ SiÅ‚a: 10
 
 Waga: 6~
 
 // Unshey Dialog Restoration
-@120 = ~Praktyczny przewodnik zdrowia fizycznego wysokiej kap³anki Unshey~
-@121 = ~Typowy Grimuar zdrowego cia³a dostarcza czytaj¹cemu cennych informacji na temat medycyny prewencyjnej, sztuki udzielania pierwszej pomocy i sposobów w³aœciwego æwiczenia miêœni.
+@120 = ~Praktyczny przewodnik zdrowia fizycznego wysokiej kapÅ‚anki Unshey~
+@121 = ~Typowy Grimuar zdrowego ciaÅ‚a dostarcza czytajÄ…cemu cennych informacji na temat medycyny prewencyjnej, sztuki udzielania pierwszej pomocy i sposobÃ³w wÅ‚aÅ›ciwego Ä‡wiczenia miÄ™Å›ni.
 
 Waga: 2~
 
 // Gloves of Pick Pocketing - BGEE Description
 
-@123 = ~Rêkawice kieszonkowca
+@123 = ~RÄ™kawice kieszonkowca
 
-Kilka lat temu, Fong Moo, s³awny rzezimieszek, znany zarówno we Wrotach Baldura, jak i w Athkatli, zosta³ znaleziony martwy na drodze pomiêdzy Wrotami a Beregostem. Zdaje siê, i¿ ukrad³ potê¿nemu magowi jakiœ artefakt i stara³ siê uciec, ale z niewielkim skutkiem. Jego w³asnoœæ dosta³a siê jego kuzynowi, który podj¹³ to samo zajêcie, co wuj, i sta³ siê wyj¹tkowo dobry w kradzie¿y kieszonkowej. Nie wiadomo, czy owe rêkawice by³y magiczne, zanim wpad³y w rêce Fonga, czy w jakiœ sposób zosta³a w nich zawarta esencja mistrza.
+Kilka lat temu, Fong Moo, sÅ‚awny rzezimieszek, znany zarÃ³wno we Wrotach Baldura, jak i w Athkatli, zostaÅ‚ znaleziony martwy na drodze pomiÄ™dzy Wrotami a Beregostem. Zdaje siÄ™, iÅ¼ ukradÅ‚ potÄ™Å¼nemu magowi jakiÅ› artefakt i staraÅ‚ siÄ™ uciec, ale z niewielkim skutkiem. Jego wÅ‚asnoÅ›Ä‡ dostaÅ‚a siÄ™ jego kuzynowi, ktÃ³ry podjÄ…Å‚ to samo zajÄ™cie, co wuj, i staÅ‚ siÄ™ wyjÄ…tkowo dobry w kradzieÅ¼y kieszonkowej. Nie wiadomo, czy owe rÄ™kawice byÅ‚y magiczne, zanim wpadÅ‚y w rÄ™ce Fonga, czy w jakiÅ› sposÃ³b zostaÅ‚a w nich zawarta esencja mistrza.
 
 PARAMETRY:
 
 Specjalne:
-– Kradzie¿ kieszonkowa: +20%
+â€“ KradzieÅ¼ kieszonkowa: +20%
 
 Waga: 2~
 
 // Ice Island Level 2 Restoration
-@1001 = ~Œnie¿ny golem~
-@1002 = ~Oddech œnie¿nego golema~
+@1001 = ~ÅšnieÅ¼ny golem~
+@1002 = ~Oddech Å›nieÅ¼nego golema~
 
 // Nim Furlwing Encounter
 @4001 = ~Nim Furlwing~
-@4002 = ~Pies myœliwski~
+@4002 = ~Pies myÅ›liwski~

@@ -3,13 +3,13 @@
 @1 = ~Gran bell'aiuto. I miei migliori segugi da caccia purosangue giacciono morti e sanguinanti. Ad essere sincera, gli avventurieri come te danno sempre l'impressione di combattere meglio come banditi che come guardie del corpo.~ 
 
 /* #14899 */
-@2 = ~Hmph. Più che altro, mi sei stato d'intralcio. Guarda che disastro... Erano dei purosangue, sai?~ ~Hmph. Più che altro, mi sei stata d'intralcio. Guarda che disastro... Erano dei purosangue, sai?~
+@2 = ~Hmph. PiÃ¹ che altro, mi sei stato d'intralcio. Guarda che disastro... Erano dei purosangue, sai?~ ~Hmph. PiÃ¹ che altro, mi sei stata d'intralcio. Guarda che disastro... Erano dei purosangue, sai?~
 
 /* #14900 */
 @3 = ~Ti ringrazio per il tuo tempestivo aiuto. Sono dei bei cani da caccia, nevvero? Tutti purosangue. Ecco, prendi questa pergamena di Attirare Animali come segno della mia gratitudine.~ 
 
 /* #14901 */
-@4 = ~Non è consigliabile mettersi tra una cacciatrice elfica e i suoi segugi, amico.~ ~Non è consigliabile mettersi tra una cacciatrice elfica e i suoi segugi, amica.~
+@4 = ~Non Ã¨ consigliabile mettersi tra una cacciatrice elfica e i suoi segugi, amico.~ ~Non Ã¨ consigliabile mettersi tra una cacciatrice elfica e i suoi segugi, amica.~
 
 /* #14902 */
 @5 = ~Passo troppo del mio tempo a cacciare per preoccuparmi del mondo della politica.~ 
@@ -18,10 +18,10 @@
 
 //Journal Entries
 /* #15715 */
-@7 = ~Oggi mi sento più uno sciocco che un coraggioso avventuriero. Sembra che sia arrivato troppo tardi e che abbia fatto troppo poco per salvare i bei segugi da caccia di una certa Nim Furlwing nel Bosco dei Denti Aguzzi.~ ~Oggi mi sento più una sciocca che una coraggiosa avventuriera. Sembra che sia arrivata troppo tardi e che abbia fatto troppo poco per salvare i bei segugi da caccia di una certa Nim Furlwing nel Bosco dei Denti Aguzzi.~
+@7 = ~Oggi mi sento piÃ¹ uno sciocco che un coraggioso avventuriero. Sembra che sia arrivato troppo tardi e che abbia fatto troppo poco per salvare i bei segugi da caccia di una certa Nim Furlwing nel Bosco dei Denti Aguzzi.~ ~Oggi mi sento piÃ¹ una sciocca che una coraggiosa avventuriera. Sembra che sia arrivata troppo tardi e che abbia fatto troppo poco per salvare i bei segugi da caccia di una certa Nim Furlwing nel Bosco dei Denti Aguzzi.~
 
 /* #15718 */
-@8 = ~Oggi mi sento più uno sciocco che un coraggioso avventuriero. Sembra che sia arrivato troppo tardi e che abbia fatto troppo poco per salvare i bei segugi da caccia di una certa Nim Furlwing nel Bosco dei Denti Aguzzi.~ ~Oggi mi sento più una sciocca che una coraggiosa avventuriera. Sembra che sia arrivata troppo tardi e che abbia fatto troppo poco per salvare i bei segugi da caccia di una certa Nim Furlwing nel Bosco dei Denti Aguzzi.~
+@8 = ~Oggi mi sento piÃ¹ uno sciocco che un coraggioso avventuriero. Sembra che sia arrivato troppo tardi e che abbia fatto troppo poco per salvare i bei segugi da caccia di una certa Nim Furlwing nel Bosco dei Denti Aguzzi.~ ~Oggi mi sento piÃ¹ una sciocca che una coraggiosa avventuriera. Sembra che sia arrivata troppo tardi e che abbia fatto troppo poco per salvare i bei segugi da caccia di una certa Nim Furlwing nel Bosco dei Denti Aguzzi.~
 
 /* #15717 */
 @9 = ~Eccolo, il Bosco dei Denti Aguzzi! Oggi ho salvato i segugi da caccia purosangue di Nim Furlwing da alcuni lupi feroci e devo ammettere che sono ancora un po' dolorante per lo sforzo.~ 
