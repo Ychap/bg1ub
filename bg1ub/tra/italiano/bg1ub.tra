@@ -5,16 +5,16 @@
 @11   = ~Seduzione~
 
 @15   = ~Corpo di Nobildonna~
-@16   = ~Questo Ë il corpo senza vita di una nobildonna.~
+@16   = ~Questo √® il corpo senza vita di una nobildonna.~
 
 @19   = ~Guanti del Borseggio~
 @20   = ~Guanti del Borseggio
 
-Qualche anno fa, un famoso tagliaborse di nome Fong Moo, conosciuto tanto a Baldur's Gate quanto ad Athkatla, fu trovato morto sulla strada che collega Baldur's Gate a Beregost. Sembra che avesse provato a rubare un artefatto ad un potente mago e che la sua fuga non abbia avuto successo. I suoi averi andarono ad un nipote che seguÏ le orme dello zio, diventando particolarmente abile nel borseggio. Se questi guanti fossero gi‡ magici prima di cadere nelle mani di Fong o se siano invece imbevuti dell'essenza del maestro, rimane un mistero ancora irrisolto. 
+Qualche anno fa, un famoso tagliaborse di nome Fong Moo, conosciuto tanto a Baldur's Gate quanto ad Athkatla, fu trovato morto sulla strada che collega Baldur's Gate a Beregost. Sembra che avesse provato a rubare un artefatto ad un potente mago e che la sua fuga non abbia avuto successo. I suoi averi andarono ad un nipote che segu√¨ le orme dello zio, diventando particolarmente abile nel borseggio. Se questi guanti fossero gi√† magici prima di cadere nelle mani di Fong o se siano invece imbevuti dell'essenza del maestro, rimane un mistero ancora irrisolto. 
 
 STATISTICHE:
 
-Abilit‡ durante l'uso:
+Abilit√† durante l'uso:
 - Svuotare Tasche: +20%
 
 Peso: 2~
@@ -62,15 +62,15 @@ Peso: 2~
 @95   = ~Anello di Pelle Coriacea~
 @96   = ~Ascia di Bala, l'Ammazzastregoni
 
-Bala era un principe dal pessimo carattere di un clan di nani dei fossi che venne imprigionato da un crudele mago elfo a Thesk. Pur non essendo tanto codardo quanto la maggior parte della sua razza, Bala era addirittura pi˘ ripugnante e sgradevole della media dei nani delle fogne. Esasperato dalla sua condizione di schiavit˘, un giorno si insinuÚ nel covo del mago e gli fracassÚ il cranio. BenchÈ corra voce che sia stato il fetore di Bala ad uccidere il mago, la verit‡ Ë che fu la sua ascia incantata a dissolvere le protezioni magiche dell'elfo. Vista la rozzezza della fattura, Ë evidente che l'ascia fu costruita da Bala stesso. Resta invece un mistero da dove provenga il suo potere. Dopo una lunga carriera costellata da uccisioni di maghi, Bala morÏ senza mai rivelare il suo segreto, nemmeno a coloro che rischiarono di venire aggrediti dai pidocchi per avvicinarsi a lui. Alcuni sostengono che l'ascia tragga il suo potere dal forte odio che Bala nutriva per gli stregoni. Comunque sia, l'ascia dona al suo possessore l'abilit‡ di dissolvere le magie una volta al giorno.
+Bala era un principe dal pessimo carattere di un clan di nani dei fossi che venne imprigionato da un crudele mago elfo a Thesk. Pur non essendo tanto codardo quanto la maggior parte della sua razza, Bala era addirittura pi√π ripugnante e sgradevole della media dei nani delle fogne. Esasperato dalla sua condizione di schiavit√π, un giorno si insinu√≤ nel covo del mago e gli fracass√≤ il cranio. Bench√© corra voce che sia stato il fetore di Bala ad uccidere il mago, la verit√† √® che fu la sua ascia incantata a dissolvere le protezioni magiche dell'elfo. Vista la rozzezza della fattura, √® evidente che l'ascia fu costruita da Bala stesso. Resta invece un mistero da dove provenga il suo potere. Dopo una lunga carriera costellata da uccisioni di maghi, Bala mor√¨ senza mai rivelare il suo segreto, nemmeno a coloro che rischiarono di venire aggrediti dai pidocchi per avvicinarsi a lui. Alcuni sostengono che l'ascia tragga il suo potere dal forte odio che Bala nutriva per gli stregoni. Comunque sia, l'ascia dona al suo possessore l'abilit√† di dissolvere le magie una volta al giorno.
 
 STATISTICHE:
 
-Abilit‡ in combattimento:
-- La vittima, ad ogni colpo subito, Ë colpita dagli effetti di Magia Inibita per il round successivo (80% di probabilit‡ di fallimento nel lancio degli incantesimi; se la vittima effettua con successo un tiro-salvezza contro Incantesimi con penalit‡ pari a -2, nega gli effetti)
+Abilit√† in combattimento:
+- La vittima, ad ogni colpo subito, √® colpita dagli effetti di Magia Inibita per il round successivo (80% di probabilit√† di fallimento nel lancio degli incantesimi; se la vittima effettua con successo un tiro-salvezza contro Incantesimi con penalit√† pari a -2, nega gli effetti)
 
 Danno: 1d8 (tagliente)
-Fattore-velocit‡: 7
+Fattore-velocit√†: 7
 Tipo di Competenza: Ascia
 Tipo: A una mano
 
@@ -78,74 +78,74 @@ Richiede:
 Forza 10
 
 Peso: 6~
-@97   = ~La testa decapitata di una viverna Ë una visione allo stesso tempo spaventosa e tranquillizzante. Per quanto le zanne delle sue fauci e i suoi occhi penetranti siano orrendi, sapere che possono essere conquistate da semplici e modesti mortali Ë rassicurante.
+@97   = ~La testa decapitata di una viverna √® una visione allo stesso tempo spaventosa e tranquillizzante. Per quanto le zanne delle sue fauci e i suoi occhi penetranti siano orrendi, sapere che possono essere conquistate da semplici e modesti mortali √® rassicurante.
 
 STATISTICHE:
 
 Peso: 30~
-@98   = ~La pelliccia perfettamente bianca del lupo invernale Ë soffice e preziosa. Spesso viene utilizzata per confezionare indumenti che vanno dai pesanti abiti dei barbari Uthgardt del nord alle sofisticate ed eleganti stole invernali indossate dalle nobildonne nella regione della Costa della Spada.
+@98   = ~La pelliccia perfettamente bianca del lupo invernale √® soffice e preziosa. Spesso viene utilizzata per confezionare indumenti che vanno dai pesanti abiti dei barbari Uthgardt del nord alle sofisticate ed eleganti stole invernali indossate dalle nobildonne nella regione della Costa della Spada.
 
 STATISTICHE:
 
 Peso: 10~
-@99   = ~L'ankheg Ë una creatura simile a un verme, lunga tra i 3 e i 6 metri, che vive principalmente nelle foreste o nelle migliori zone agricole. » protetto da placche o da gusci ricoperti sulla superficie da una sostanza estremamente dura ma leggera chiamata chitina. A causa del peso, della dimensione e della durezza, i gusci sono molto ricercati per vari usi, tra cui la creazione delle armature.
+@99   = ~L'ankheg √® una creatura simile a un verme, lunga tra i 3 e i 6 metri, che vive principalmente nelle foreste o nelle migliori zone agricole. √à protetto da placche o da gusci ricoperti sulla superficie da una sostanza estremamente dura ma leggera chiamata chitina. A causa del peso, della dimensione e della durezza, i gusci sono molto ricercati per vari usi, tra cui la creazione delle armature.
 
 STATISTICHE:
 
 Peso: 100~
 
 @105  = ~Sono guidati da Sarevok Anchev.~
-@106  = ~» stato un uomo chiamato Sarevok Anchev ad incastrarti.~
-@107  = ~Il veggente ha detto che alla guida del Trono di Ferro c'Ë Sarevok Anchev.~
-@108  = ~Il veggente ha detto che Ë stato Sarevok Anchev ad incastrarmi per gli omicidi a Candlekeep.~
+@106  = ~√à stato un uomo chiamato Sarevok Anchev ad incastrarti.~
+@107  = ~Il veggente ha detto che alla guida del Trono di Ferro c'√® Sarevok Anchev.~
+@108  = ~Il veggente ha detto che √® stato Sarevok Anchev ad incastrarmi per gli omicidi a Candlekeep.~
 @109  = ~[Nota per Davaeorn 1]Davaeorn,
 
-Ho ricevuto la tua richiesta di altri schiavi. Verranno mandati il pi˘ presto possibile. Le cose procedono bene a Baldur's Gate. Abbiamo comprato una delle tenute nobiliari a ovest da usare come base operativa. » un edificio antico, costruito molto probabilmente prima che venisse eretto il secondo muro. Ha una struttura che lo rende difendibile da chiunque voglia infiltrarsi al suo interno. Ricordati di chiedere a Yeslick se gradisce la sua nuova sistemazione.
+Ho ricevuto la tua richiesta di altri schiavi. Verranno mandati il pi√π presto possibile. Le cose procedono bene a Baldur's Gate. Abbiamo comprato una delle tenute nobiliari a ovest da usare come base operativa. √à un edificio antico, costruito molto probabilmente prima che venisse eretto il secondo muro. Ha una struttura che lo rende difendibile da chiunque voglia infiltrarsi al suo interno. Ricordati di chiedere a Yeslick se gradisce la sua nuova sistemazione.
 
 Rieltar
 14 Eleint 1367~
 @110  = ~[Nota per Davaeorn 2]Davaeorn,
 
-I nostri piani procedono bene. Mio figlio Sarevok Ë arrivato dal nostro quartier generale a Ordulin. Ci ha portato notizie dai nostri superiori, i quali si dicono soddisfatti dei risultati ottenuti finora. Vorrei mettere Sarevok al comando degli eserciti mercenari nella regione. Ha gi‡ inviato il suo subalterno Tazok nel Bosco dei Denti Aguzzi allo scopo di assumere il comando delle forze in quella zona. Non si perde tempo qui a Baldur's Gate. Abbiamo messo il nostro primo agente tra le fila dell'organizzazione commerciale dei Sette Soli.
+I nostri piani procedono bene. Mio figlio Sarevok √® arrivato dal nostro quartier generale a Ordulin. Ci ha portato notizie dai nostri superiori, i quali si dicono soddisfatti dei risultati ottenuti finora. Vorrei mettere Sarevok al comando degli eserciti mercenari nella regione. Ha gi√† inviato il suo subalterno Tazok nel Bosco dei Denti Aguzzi allo scopo di assumere il comando delle forze in quella zona. Non si perde tempo qui a Baldur's Gate. Abbiamo messo il nostro primo agente tra le fila dell'organizzazione commerciale dei Sette Soli.
 
 Rieltar
 4 Uktar 1367~
 @111  = ~[Nota per Davaeorn 3]Davaeorn,
 
-Come avrai probabilmente saputo, il ferro trattato con il nostro veleno ha cominciato a produrre i suoi effetti lungo la costa. Con il crollo della maggior parte delle importazioni ad opera di Tazok, adesso quasi tutto il ferro proviene dalle miniere contaminate di Nashkel. La rivolta dei Sythillis nell'Amn ci garantisce che gli eserciti di questa nazione non possano occuparsi dei nostri mercenari. Tuttavia, il Pugno Fiammante ha catturato alcuni mercenari degli Artigli Neri. Hanno tutti sostenuto di essere al servizio degli Zhentarim, il che ha allontanato i sospetti dal Trono di Ferro. Ho mandato Tranzig ad aiutare i mercenari per trasportare il ferro alla tua base nel Bosco Ammantato. Ha portato con sÈ diverse borse conservanti. Questo gli permetter‡ di viaggiare da solo verso il Bosco Ammantato e quindi di diminuire le probabilit‡ che i segugi del Pugno Fiammante possano scoprire il nostro rifugio.
+Come avrai probabilmente saputo, il ferro trattato con il nostro veleno ha cominciato a produrre i suoi effetti lungo la costa. Con il crollo della maggior parte delle importazioni ad opera di Tazok, adesso quasi tutto il ferro proviene dalle miniere contaminate di Nashkel. La rivolta dei Sythillis nell'Amn ci garantisce che gli eserciti di questa nazione non possano occuparsi dei nostri mercenari. Tuttavia, il Pugno Fiammante ha catturato alcuni mercenari degli Artigli Neri. Hanno tutti sostenuto di essere al servizio degli Zhentarim, il che ha allontanato i sospetti dal Trono di Ferro. Ho mandato Tranzig ad aiutare i mercenari per trasportare il ferro alla tua base nel Bosco Ammantato. Ha portato con s√© diverse borse conservanti. Questo gli permetter√† di viaggiare da solo verso il Bosco Ammantato e quindi di diminuire le probabilit√† che i segugi del Pugno Fiammante possano scoprire il nostro rifugio.
 
 Rieltar
 21 Ches 1368~
 @112  = ~Diario di Sarevok
 
-14 Eleint 1365. Da oggi il Cormyr ha vietato al Trono di Ferro di operare all'interno dei suoi confini. BenchÈ questo sia un grave colpo per la compagnia, Ë la perfetta occasione per Rieltar per avanzare la sua proposta all'Alto Consiglio del Trono. Se tutto va bene, potremo iniziare l'operazione entro un anno.
+14 Eleint 1365. Da oggi il Cormyr ha vietato al Trono di Ferro di operare all'interno dei suoi confini. Bench√© questo sia un grave colpo per la compagnia, √® la perfetta occasione per Rieltar per avanzare la sua proposta all'Alto Consiglio del Trono. Se tutto va bene, potremo iniziare l'operazione entro un anno.
 
-25 Marpenoth 1365. Davaeorn ha inviato un messaggio a Rieltar, informandolo che la miniera nel Bosco Ammantato Ë stata prosciugata e che Ë pronta all'uso. Questa notizia dovrebbe contribuire molto a convincere l'Alto Consiglio del Trono.
+25 Marpenoth 1365. Davaeorn ha inviato un messaggio a Rieltar, informandolo che la miniera nel Bosco Ammantato √® stata prosciugata e che √® pronta all'uso. Questa notizia dovrebbe contribuire molto a convincere l'Alto Consiglio del Trono.
 
-2 Nightal 1365. Il Consiglio del Trono di Ferro appogger‡ il piano di Rieltar. Gli sono state fornite tutte le risorse di cui ha bisogno in qualit‡ di capo del progetto. Ho espresso interesse a mio "padre" e lui ha promesso di farmi prendere parte alle operazioni lungo la Costa della Spada. Durante la nostra conversazione ha menzionato mia madre. Ha detto che non dovrÚ tradirlo come ha fatto lei. Ha precisato che in tal caso farei la sua stessa fine. Le sue minacce sono deboli e patetiche e le ho sentite cosÏ a lungo. Ho deciso di approfittarne per visitare Candlekeep. Ho aspettato molto tempo per indagare sulle profezie di Alaundo e adesso devo sapere se i miei sogni dicono il vero. Non crederÚ alle parole di un fantasma senza uno straccio di prova. Il confronto con il sacerdote di Bhaal non mi Ë servito a nulla. Era vecchio ed Ë morto rapidamente nella stretta delle mie mani. Se le sue parole sono vere, dovrÚ preparare accoliti pi˘ forti di lui.
+2 Nightal 1365. Il Consiglio del Trono di Ferro appogger√† il piano di Rieltar. Gli sono state fornite tutte le risorse di cui ha bisogno in qualit√† di capo del progetto. Ho espresso interesse a mio "padre" e lui ha promesso di farmi prendere parte alle operazioni lungo la Costa della Spada. Durante la nostra conversazione ha menzionato mia madre. Ha detto che non dovr√≤ tradirlo come ha fatto lei. Ha precisato che in tal caso farei la sua stessa fine. Le sue minacce sono deboli e patetiche e le ho sentite cos√¨ a lungo. Ho deciso di approfittarne per visitare Candlekeep. Ho aspettato molto tempo per indagare sulle profezie di Alaundo e adesso devo sapere se i miei sogni dicono il vero. Non creder√≤ alle parole di un fantasma senza uno straccio di prova. Il confronto con il sacerdote di Bhaal non mi √® servito a nulla. Era vecchio ed √® morto rapidamente nella stretta delle mie mani. Se le sue parole sono vere, dovr√≤ preparare accoliti pi√π forti di lui.
 
-11 Ches 1366. La mia ricerca ha dato i suoi frutti. I monaci di Candlekeep sono stati di grande aiuto. Da quanto ho letto, sembrerebbe che nelle mie vene scorra davvero il sangue di Bhaal. Le sue profezie sono (indubbiamente) ambigue, ma credo di averle capite. Bhaal aveva previsto la sua imminente morte, quindi ha sparso il suo seme per questa terra. I suoi figli portano il marchio del caos, hanno un potere senza controllo, condividono il sangue di un dio. Le morti che causeranno risveglieranno il padre, il quale risorger‡ attraverso loro. Non viene detto in maniera esplicita, ma ovviamente questo significa che le morti causate dai suoi figli porteranno uno di loro all'ascensione. Lo trovo appropriato e, poichÈ mio padre era il Signore dell'Omicidio, dovrÚ agire in conformit‡ alla sua area di influenza per dimostrare di essere il suo unico degno erede. Inizio a capire ciÚ che devo fare. Morte in vasta scala degna di un dio.
+11 Ches 1366. La mia ricerca ha dato i suoi frutti. I monaci di Candlekeep sono stati di grande aiuto. Da quanto ho letto, sembrerebbe che nelle mie vene scorra davvero il sangue di Bhaal. Le sue profezie sono (indubbiamente) ambigue, ma credo di averle capite. Bhaal aveva previsto la sua imminente morte, quindi ha sparso il suo seme per questa terra. I suoi figli portano il marchio del caos, hanno un potere senza controllo, condividono il sangue di un dio. Le morti che causeranno risveglieranno il padre, il quale risorger√† attraverso loro. Non viene detto in maniera esplicita, ma ovviamente questo significa che le morti causate dai suoi figli porteranno uno di loro all'ascensione. Lo trovo appropriato e, poich√© mio padre era il Signore dell'Omicidio, dovr√≤ agire in conformit√† alla sua area di influenza per dimostrare di essere il suo unico degno erede. Inizio a capire ci√≤ che devo fare. Morte in vasta scala degna di un dio.
 
-3 Tarsahk 1366. Il monaco di nome Gorion mi infastidisce. Sembra interessato alle mie letture. Devo essere pi˘ cauto nelle ricerche. Vorrei semplicemente poterlo uccidere, ma dubito di poterlo ammazzare in tranquillit‡ dentro questa dannata biblioteca.
+3 Tarsahk 1366. Il monaco di nome Gorion mi infastidisce. Sembra interessato alle mie letture. Devo essere pi√π cauto nelle ricerche. Vorrei semplicemente poterlo uccidere, ma dubito di poterlo ammazzare in tranquillit√† dentro questa dannata biblioteca.
 
-11 Tarsahk 1366. Ho fatto un sogno stanotte. Mia madre mi parlava, ma nel frattempo il suo volto si gonfiava e impallidiva. La sua voce diventava sempre pi˘ debole mentre mi chiedeva di salvarla da Rieltar. Ho visto che veniva strangolata, ma non ho fatto niente. Era solo un sogno.
+11 Tarsahk 1366. Ho fatto un sogno stanotte. Mia madre mi parlava, ma nel frattempo il suo volto si gonfiava e impallidiva. La sua voce diventava sempre pi√π debole mentre mi chiedeva di salvarla da Rieltar. Ho visto che veniva strangolata, ma non ho fatto niente. Era solo un sogno.
 
-27 Tarsahk 1366. Lascio subito Candlekeep, senza indugiare pi˘ a lungo, perchÈ sono sicuro che Gorion ha intuito il mio retaggio. C'Ë un'altra cosa di cui sono certo: anche <CHARNAME> in realt‡ Ë una progenie di Bhaal. <CHARNAME> ne ha tutte le caratteristiche e questo spiegherebbe la curiosit‡ di Gorion circa i miei studi. Sebbene non ci sia nulla che possa fare adesso, mi assicurerÚ di tornare e di ammazzare quel piccolo marmocchio. Sarebbe stupido da parte mia lasciare in vita uno dei miei fratelli, specialmente uno cresciuto tra gli Arpisti (perchÈ sono sicuro che Gorion sia dalla loro parte).
+27 Tarsahk 1366. Lascio subito Candlekeep, senza indugiare pi√π a lungo, perch√© sono sicuro che Gorion ha intuito il mio retaggio. C'√® un'altra cosa di cui sono certo: anche <CHARNAME> in realt√† √® una progenie di Bhaal. <CHARNAME> ne ha tutte le caratteristiche e questo spiegherebbe la curiosit√† di Gorion circa i miei studi. Sebbene non ci sia nulla che possa fare adesso, mi assicurer√≤ di tornare e di ammazzare quel piccolo marmocchio. Sarebbe stupido da parte mia lasciare in vita uno dei miei fratelli, specialmente uno cresciuto tra gli Arpisti (perch√© sono sicuro che Gorion sia dalla loro parte).
 
-5 Mirtul 1366. Oggi ho incontrato Rieltar a Baldur's Gate. Lo sciocco insiste ancora a chiamarmi suo figlio, ma per il momento glielo lascerÚ fare. Crede che gli sia fedele perchÈ mi ha cresciuto lui. Beh, io gli sono fedele, ma soltanto finchÈ mi sar‡ utile. Ha stabilito una base nel palazzo di una nobile famiglia decaduta e sostiene che stia andando tutto liscio. Mulahey si Ë stabilito nelle miniere di Nashkel e i suoi servitori coboldi dovrebbero gi‡ essere impegnati a contaminare il ferro. Soltanto pochi schiavi hanno iniziato ad estrarre il metallo nel Bosco Ammantato, ma Rieltar mi ha assicurato che avremo una folta schiera di nuovi schiavi non appena inizieranno gli assalti dei banditi.
+5 Mirtul 1366. Oggi ho incontrato Rieltar a Baldur's Gate. Lo sciocco insiste ancora a chiamarmi suo figlio, ma per il momento glielo lascer√≤ fare. Crede che gli sia fedele perch√© mi ha cresciuto lui. Beh, io gli sono fedele, ma soltanto finch√© mi sar√† utile. Ha stabilito una base nel palazzo di una nobile famiglia decaduta e sostiene che stia andando tutto liscio. Mulahey si √® stabilito nelle miniere di Nashkel e i suoi servitori coboldi dovrebbero gi√† essere impegnati a contaminare il ferro. Soltanto pochi schiavi hanno iniziato ad estrarre il metallo nel Bosco Ammantato, ma Rieltar mi ha assicurato che avremo una folta schiera di nuovi schiavi non appena inizieranno gli assalti dei banditi.
 
-8 Hammer 1367. Ho incontrato i capi dei Gelo e degli Artigli Neri. Non mi piace particolarmente Ardenor, il capo dei Gelo, ma Taugosz sembra un uomo di parola. » una buona cosa, visto che per tutto l'anno dovrÚ lavorare con questi mercenari.
+8 Hammer 1367. Ho incontrato i capi dei Gelo e degli Artigli Neri. Non mi piace particolarmente Ardenor, il capo dei Gelo, ma Taugosz sembra un uomo di parola. √à una buona cosa, visto che per tutto l'anno dovr√≤ lavorare con questi mercenari.
 
-3 Tarsahk 1368. Tutto procede bene. Il metallo proveniente da Nashkel ha iniziato a deteriorarsi e i miei mercenari hanno fatto un buon lavoro distruggendo tutte le carovane dirette a Baldur's Gate che trasportavano ferro. Sebbene alcuni dei miei mercenari siano stati catturati, la gente crede che lavorino per gli Zhent, pertanto il Trono di Ferro ne Ë rimasto fuori. Sono sicuro che gli Zhent di Darkhold non saranno per nulla contenti di sapere che Ë stato fatto il loro nome. Nei prossimi mesi dovrÚ fare attenzione ai loro agenti.
+3 Tarsahk 1368. Tutto procede bene. Il metallo proveniente da Nashkel ha iniziato a deteriorarsi e i miei mercenari hanno fatto un buon lavoro distruggendo tutte le carovane dirette a Baldur's Gate che trasportavano ferro. Sebbene alcuni dei miei mercenari siano stati catturati, la gente crede che lavorino per gli Zhent, pertanto il Trono di Ferro ne √® rimasto fuori. Sono sicuro che gli Zhent di Darkhold non saranno per nulla contenti di sapere che √® stato fatto il loro nome. Nei prossimi mesi dovr√≤ fare attenzione ai loro agenti.
 
-19 Kythorn 1368. Adesso credo di avere finalmente il tempo per occuparmi di quel vecchiaccio di Gorion e del suo cagnolino. DirÚ ai miei uomini che sarÚ via per alcune settimane.
+19 Kythorn 1368. Adesso credo di avere finalmente il tempo per occuparmi di quel vecchiaccio di Gorion e del suo cagnolino. Dir√≤ ai miei uomini che sar√≤ via per alcune settimane.
 
-? Myrtle. Non ho tempo per scrivere, ma non posso trascurare il mio diario. Coloro che presto moriranno devono sapere come il Signore dell'Omicidio sia di nuovo tornato tra loro. DovrÚ assumere uno scriba quando il tempo me lo permetter‡. Le cose non sono andate esattamente come avevo immaginato, ma sono ancora in grado di salvare il salvabile. <CHARNAME> Ë sulla via per Baldur's Gate; se riuscissi a deviare il cammino di quel randagio verso Candlekeep, allora avrei il perfetto capro espiatorio per il mio piano. Mio "padre" Ë lÏ per incontrare i Cavalieri dello Scudo. Ha ostacolato tutti i miei tentativi di far scoppiare le ostilit‡ tra Amn e Baldur's Gate e questo incontro servir‡ soltanto a calmare le acque. Devo sbarazzarmi di tutti loro e assumere il controllo del Trono di Ferro. Spiacente, "padre", ma il mio vero retaggio mi chiama e tu sei sulla mia strada. FarÚ in modo di dare disposizioni ai doppelganger sull'esatto modo in cui Rieltar dovr‡ morire. Penso che lo strangolamento sarebbe ideale.
+? Myrtle. Non ho tempo per scrivere, ma non posso trascurare il mio diario. Coloro che presto moriranno devono sapere come il Signore dell'Omicidio sia di nuovo tornato tra loro. Dovr√≤ assumere uno scriba quando il tempo me lo permetter√†. Le cose non sono andate esattamente come avevo immaginato, ma sono ancora in grado di salvare il salvabile. <CHARNAME> √® sulla via per Baldur's Gate; se riuscissi a deviare il cammino di quel randagio verso Candlekeep, allora avrei il perfetto capro espiatorio per il mio piano. Mio "padre" √® l√¨ per incontrare i Cavalieri dello Scudo. Ha ostacolato tutti i miei tentativi di far scoppiare le ostilit√† tra Amn e Baldur's Gate e questo incontro servir√† soltanto a calmare le acque. Devo sbarazzarmi di tutti loro e assumere il controllo del Trono di Ferro. Spiacente, "padre", ma il mio vero retaggio mi chiama e tu sei sulla mia strada. Far√≤ in modo di dare disposizioni ai doppelganger sull'esatto modo in cui Rieltar dovr√† morire. Penso che lo strangolamento sarebbe ideale.
 
 Questo diario sembra essere importante. Dovresti tenerlo.~
 
 @113   = ~Anello con Sigillo~
-@114   = ~Questo Ë un anello con sigillo con un rubino incastonato.
+@114   = ~Questo √® un anello con sigillo con un rubino incastonato.
 
 STATISTICHE:
 
@@ -156,15 +156,15 @@ Peso: 0~
 //For bgee
 @115   = ~Ascia di Bala, l'Ammazzastregoni
 
-Bala era un principe dal pessimo carattere di un clan di nani dei fossi che venne imprigionato da un crudele mago elfo a Thesk. Pur non essendo tanto codardo quanto la maggior parte della sua razza, Bala era addirittura pi˘ ripugnante e sgradevole della media dei nani delle fogne. Esasperato dalla sua condizione di schiavit˘, un giorno si insinuÚ nel covo del mago e gli fracassÚ il cranio. BenchÈ corra voce che sia stato il fetore di Bala ad uccidere il mago, la verit‡ Ë che fu la sua ascia incantata a dissolvere le protezioni magiche dell'elfo. Vista la rozzezza della fattura, Ë evidente che l'ascia fu costruita da Bala stesso. Resta invece un mistero da dove provenga il suo potere. Dopo una lunga carriera costellata da uccisioni di maghi, Bala morÏ senza mai rivelare il suo segreto, nemmeno a coloro che rischiarono di venire aggrediti dai pidocchi per avvicinarsi a lui. Alcuni sostengono che l'ascia tragga il suo potere dal forte odio che Bala nutriva per gli stregoni. Comunque sia, l'ascia dona al suo possessore l'abilit‡ di dissolvere le magie una volta al giorno.
+Bala era un principe dal pessimo carattere di un clan di nani dei fossi che venne imprigionato da un crudele mago elfo a Thesk. Pur non essendo tanto codardo quanto la maggior parte della sua razza, Bala era addirittura pi√π ripugnante e sgradevole della media dei nani delle fogne. Esasperato dalla sua condizione di schiavit√π, un giorno si insinu√≤ nel covo del mago e gli fracass√≤ il cranio. Bench√© corra voce che sia stato il fetore di Bala ad uccidere il mago, la verit√† √® che fu la sua ascia incantata a dissolvere le protezioni magiche dell'elfo. Vista la rozzezza della fattura, √® evidente che l'ascia fu costruita da Bala stesso. Resta invece un mistero da dove provenga il suo potere. Dopo una lunga carriera costellata da uccisioni di maghi, Bala mor√¨ senza mai rivelare il suo segreto, nemmeno a coloro che rischiarono di venire aggrediti dai pidocchi per avvicinarsi a lui. Alcuni sostengono che l'ascia tragga il suo potere dal forte odio che Bala nutriva per gli stregoni. Comunque sia, l'ascia dona al suo possessore l'abilit√† di dissolvere le magie una volta al giorno.
 
 STATISTICHE:
 
-Abilit‡ in combattimento:
-- La vittima, ad ogni colpo subito, Ë colpita dagli effetti di Magia Inibita per il round successivo (80% di probabilit‡ di fallimento nel lancio degli incantesimi; se la vittima effettua con successo un tiro-salvezza contro Incantesimi con penalit‡ pari a -2, nega gli effetti)
+Abilit√† in combattimento:
+- La vittima, ad ogni colpo subito, √® colpita dagli effetti di Magia Inibita per il round successivo (80% di probabilit√† di fallimento nel lancio degli incantesimi; se la vittima effettua con successo un tiro-salvezza contro Incantesimi con penalit√† pari a -2, nega gli effetti)
 
 Danno: 1d8 (tagliente)
-Fattore-velocit‡: 7
+Fattore-velocit√†: 7
 Tipo di Competenza: Ascia
 Tipo: A una mano
 
@@ -181,11 +181,11 @@ Peso: 2~
 
 @123   = ~Guanti del Borseggio
 
-Qualche anno fa, un famoso tagliaborse di nome Fong Moo, conosciuto tanto a Baldur's Gate quanto ad Athkatla, fu trovato morto sulla strada che collega Baldur's Gate a Beregost. Sembra che avesse provato a rubare un artefatto ad un potente mago e che la sua fuga non abbia avuto successo. I suoi averi andarono ad un nipote che seguÏ le orme dello zio, diventando particolarmente abile nel borseggio. Se questi guanti fossero gi‡ magici prima di cadere nelle mani di Fong o se siano invece imbevuti dell'essenza del maestro, rimane un mistero ancora irrisolto. 
+Qualche anno fa, un famoso tagliaborse di nome Fong Moo, conosciuto tanto a Baldur's Gate quanto ad Athkatla, fu trovato morto sulla strada che collega Baldur's Gate a Beregost. Sembra che avesse provato a rubare un artefatto ad un potente mago e che la sua fuga non abbia avuto successo. I suoi averi andarono ad un nipote che segu√¨ le orme dello zio, diventando particolarmente abile nel borseggio. Se questi guanti fossero gi√† magici prima di cadere nelle mani di Fong o se siano invece imbevuti dell'essenza del maestro, rimane un mistero ancora irrisolto. 
 
 STATISTICHE:
 
-Abilit‡ durante l'uso:
+Abilit√† durante l'uso:
 - Svuotare Tasche: +20%
 
 Peso: 2~
