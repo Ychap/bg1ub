@@ -1,15 +1,15 @@
 // Svlast CRE
 @4201 = ~Svlast~
-@4202 = ~Moje ¿ycie to jedno pasmo niepowodzeñ.~ [%tutu_var%LOTHR02]
+@4202 = ~Moje Å¼ycie to jedno pasmo niepowodzeÅ„.~ [%tutu_var%LOTHR02]
 @4203 = ~~ [%tutu_var%LOTHR03]
 @4204 = ~~ [%tutu_var%LOTHR04]
 
 // Revenant
-@4210 = ~Upiór~
+@4210 = ~UpiÃ³r~
 @4211 = ~~ [%tutu_var%REVEN01]
-@4212 = ~Wyduszê z ciebie ¿ycie...~ [%tutu_var%REVEN02]
-@4213 = ~Przyby³em po ciebie...~ [%tutu_var%REVEN03]
-@4214 = ~Zap³acisz...~ [%tutu_var%REVEN04]
+@4212 = ~WyduszÄ™ z ciebie Å¼ycie...~ [%tutu_var%REVEN02]
+@4213 = ~PrzybyÅ‚em po ciebie...~ [%tutu_var%REVEN03]
+@4214 = ~ZapÅ‚acisz...~ [%tutu_var%REVEN04]
 @4215 = ~~ [%tutu_var%REVEN05]
 @4216 = ~~ [%tutu_var%REVEN06]
 @4217 = ~Zemsta...~
@@ -19,61 +19,61 @@
 
 // UBSVLAST.D
 /* #14889 */
-@4220 = ~On tam jest. Idzie. Czujê jego kroki pod¹¿aj¹ce moim œladem. Odór rozk³adaj¹cego siê cia³a. On przychodzi po nas wszystkich.~ 
+@4220 = ~On tam jest. Idzie. CzujÄ™ jego kroki podÄ…Å¼ajÄ…ce moim Å›ladem. OdÃ³r rozkÅ‚adajÄ…cego siÄ™ ciaÅ‚a. On przychodzi po nas wszystkich.~ 
 /* #14890 */
-@4221 = ~Za... zabi³em go. Ale jest tam ca³y czas, idzie t¹ drog¹. Ja t-to czujê.~ 
+@4221 = ~Za... zabiÅ‚em go. Ale jest tam caÅ‚y czas, idzie tÄ… drogÄ…. Ja t-to czujÄ™.~ 
 /* #14891 - MODIFIED */
-@4222 = ~Kiedyœ by³em paladynem. Walczy³em po stronie dobra, ale ta walka nie prowadzi³a do niczego... Zamordowa³em go z zimn¹ krwi¹. Mego brata w wierze... Kiedy przyjdzie, pozwólcie mu na to.~ 
+@4222 = ~KiedyÅ› byÅ‚em paladynem. WalczyÅ‚em po stronie dobra, ale ta walka nie prowadziÅ‚a do niczego... ZamordowaÅ‚em go z zimnÄ… krwiÄ…. Mego brata w wierze... Kiedy przyjdzie, pozwÃ³lcie mu na to.~ 
 /* #14893 - MODIFIED */
-@4223 = ~Có¿eœ uczyni³? Teraz jestem po dwakroæ przeklêty! Zabij mnie na tej udrêczonej ziemi! Czas, aby sprawiedliwoœci sta³o siê zadoœæ.~~Có¿eœ uczyni³a? Teraz jestem po dwakroæ przeklêty! Zabij mnie na tej udrêczonej ziemi! Czas, aby sprawiedliwoœci sta³o siê zadoœæ.~ 
+@4223 = ~CÃ³Å¼eÅ› uczyniÅ‚? Teraz jestem po dwakroÄ‡ przeklÄ™ty! Zabij mnie na tej udrÄ™czonej ziemi! Czas, aby sprawiedliwoÅ›ci staÅ‚o siÄ™ zadoÅ›Ä‡.~~CÃ³Å¼eÅ› uczyniÅ‚a? Teraz jestem po dwakroÄ‡ przeklÄ™ty! Zabij mnie na tej udrÄ™czonej ziemi! Czas, aby sprawiedliwoÅ›ci staÅ‚o siÄ™ zadoÅ›Ä‡.~ 
 /* #14894 */
-@4224 = ~Czy moglibyœcie mieæ nadziejê, by nauczyæ siê czegokolwiek od takiego g³upca jak ja? Uczcie siê na moim przyk³adzie i nie zabijajcie tego, co jest dobre na tym œwiecie.~ 
+@4224 = ~Czy moglibyÅ›cie mieÄ‡ nadziejÄ™, by nauczyÄ‡ siÄ™ czegokolwiek od takiego gÅ‚upca jak ja? Uczcie siÄ™ na moim przykÅ‚adzie i nie zabijajcie tego, co jest dobre na tym Å›wiecie.~ 
 /* #14895 */
-@4225 = ~Proszê, pozostawcie mnie mojemu nieszczêœciu.~ 
+@4225 = ~ProszÄ™, pozostawcie mnie mojemu nieszczÄ™Å›ciu.~ 
 /* #14896 */
-@4226 = ~Choæ radoœnie przyjmê œmieræ, nie poddam siê jej bez walki.~ 
-@4227 = ~Przykro mi, bracie... By³em zazdrosny, by³em g³upi... Moje ¿ycie nale¿y do ciebie.~ 
+@4226 = ~ChoÄ‡ radoÅ›nie przyjmÄ™ Å›mierÄ‡, nie poddam siÄ™ jej bez walki.~ 
+@4227 = ~Przykro mi, bracie... ByÅ‚em zazdrosny, byÅ‚em gÅ‚upi... Moje Å¼ycie naleÅ¼y do ciebie.~ 
 
 // Replies
-@4240 = ~O czym tym mówisz? Kto po nas idzie?~
-@4241 = ~Kim by³ ten cz³owiek? Dlaczego œciga ciê zza grobu?~
-@4242 = ~Oszala³eœ? Nie bêdê patrzy³ bezczynnie, jak ta istota ciê zabija!~~Oszala³eœ? Nie bêdê patrzy³a bezczynnie, jak ta istota ciê zabija!~
-@4243 = ~Jak sobie ¿yczysz. Nie pochwalam twojej decyzji, ale skoro twoim pragnieniem jest zgin¹æ z rêki tego stworzenia, nie bêdê ci sta³ na drodze.~~Jak sobie ¿yczysz. Nie pochwalam twojej decyzji, ale skoro twoim pragnieniem jest zgin¹æ z rêki tego stworzenia, nie bêdê ci sta³a na drodze.~ 
-@4244 = ~Nie ma problemu. To s¹ sprawy pomiêdzy tob¹ a nim. Nie chcê mieæ z tym nic do czynienia!~
-@4245 = ~Nieumar³e stworzenie chce *twojej* œmierci? Mo¿e powinniœmy mu daæ to, czego chce?!~
-@4246 = ~Jak sobie ¿yczysz. Niech sprawiedliwoœci stanie siê zadoœæ.~
-@4247 = ~Odmawiam. Nie bêdê twoim katem. Bêdziesz musia³ odpokutowaæ za swoje grzechy. Byæ mo¿e inni wynios¹ nauki z twoich b³êdów.~ 
-@4248 = ~Có¿ za doskona³y sposób na okazanie wdziêcznoœci! W³aœnie uratowa³em twoje ¿a³osne ¿ycie!~~Có¿ za doskona³y sposób na okazanie wdziêcznoœci! W³aœnie uratowa³am twoje ¿a³osne ¿ycie!~
-@4249 = ~Jeœli tego w³aœnie pragniesz, uczyniê to z przyjemnoœci¹.~
+@4240 = ~O czym tym mÃ³wisz? Kto po nas idzie?~
+@4241 = ~Kim byÅ‚ ten czÅ‚owiek? Dlaczego Å›ciga ciÄ™ zza grobu?~
+@4242 = ~OszalaÅ‚eÅ›? Nie bÄ™dÄ™ patrzyÅ‚ bezczynnie, jak ta istota ciÄ™ zabija!~~OszalaÅ‚eÅ›? Nie bÄ™dÄ™ patrzyÅ‚a bezczynnie, jak ta istota ciÄ™ zabija!~
+@4243 = ~Jak sobie Å¼yczysz. Nie pochwalam twojej decyzji, ale skoro twoim pragnieniem jest zginÄ…Ä‡ z rÄ™ki tego stworzenia, nie bÄ™dÄ™ ci staÅ‚ na drodze.~~Jak sobie Å¼yczysz. Nie pochwalam twojej decyzji, ale skoro twoim pragnieniem jest zginÄ…Ä‡ z rÄ™ki tego stworzenia, nie bÄ™dÄ™ ci staÅ‚a na drodze.~ 
+@4244 = ~Nie ma problemu. To sÄ… sprawy pomiÄ™dzy tobÄ… a nim. Nie chcÄ™ mieÄ‡ z tym nic do czynienia!~
+@4245 = ~NieumarÅ‚e stworzenie chce *twojej* Å›mierci? MoÅ¼e powinniÅ›my mu daÄ‡ to, czego chce?!~
+@4246 = ~Jak sobie Å¼yczysz. Niech sprawiedliwoÅ›ci stanie siÄ™ zadoÅ›Ä‡.~
+@4247 = ~Odmawiam. Nie bÄ™dÄ™ twoim katem. BÄ™dziesz musiaÅ‚ odpokutowaÄ‡ za swoje grzechy. ByÄ‡ moÅ¼e inni wyniosÄ… nauki z twoich bÅ‚Ä™dÃ³w.~ 
+@4248 = ~CÃ³Å¼ za doskonaÅ‚y sposÃ³b na okazanie wdziÄ™cznoÅ›ci! WÅ‚aÅ›nie uratowaÅ‚em twoje Å¼aÅ‚osne Å¼ycie!~~CÃ³Å¼ za doskonaÅ‚y sposÃ³b na okazanie wdziÄ™cznoÅ›ci! WÅ‚aÅ›nie uratowaÅ‚am twoje Å¼aÅ‚osne Å¼ycie!~
+@4249 = ~JeÅ›li tego wÅ‚aÅ›nie pragniesz, uczyniÄ™ to z przyjemnoÅ›ciÄ….~
 
 // Journal Entries
 //  (Strref: 15713)
-@4290 = ~Mêki Svlasta
+@4290 = ~MÄ™ki Svlasta
 
-Byliœmy œwiadkami smutnych wydarzeñ w ruinach Firewine. By³y paladyn o imieniu Svlast jest przeœladowany przez ducha, jego brata w wierze, którego niesprawiedliwie zabi³. Nigdy przedtem nie dane mi by³o widzieæ kogoœ bardziej przygnêbionego i skruszonego ni¿ biedny Svlast. B³aga³ nas, abyœmy siê nie wtr¹cali, ale trudno by³o mi siê z tym pogodziæ...~
-@4291 = ~Mêki Svlasta
+ByliÅ›my Å›wiadkami smutnych wydarzeÅ„ w ruinach Firewine. ByÅ‚y paladyn o imieniu Svlast jest przeÅ›ladowany przez ducha, jego brata w wierze, ktÃ³rego niesprawiedliwie zabiÅ‚. Nigdy przedtem nie dane mi byÅ‚o widzieÄ‡ kogoÅ› bardziej przygnÄ™bionego i skruszonego niÅ¼ biedny Svlast. BÅ‚agaÅ‚ nas, abyÅ›my siÄ™ nie wtrÄ…cali, ale trudno byÅ‚o mi siÄ™ z tym pogodziÄ‡...~
+@4291 = ~MÄ™ki Svlasta
 
-By³y paladyn o imieniu Svlast jest przeœladowany przez ducha, jego brata w wierze, którego niesprawiedliwie zabi³. B³aga³ nas, abyœmy siê nie wtr¹cali.~
-@4292 = ~Mêki Svlasta
+ByÅ‚y paladyn o imieniu Svlast jest przeÅ›ladowany przez ducha, jego brata w wierze, ktÃ³rego niesprawiedliwie zabiÅ‚. BÅ‚agaÅ‚ nas, abyÅ›my siÄ™ nie wtrÄ…cali.~
+@4292 = ~MÄ™ki Svlasta
 
-By³y paladyn o imieniu Svlast jest przeœladowany przez ducha, jego brata w wierze, którego niesprawiedliwie zabi³. Da³em istocie to, czego chcia³a, i w³asnorêcznie zabi³em upad³ego paladyna.~~Mêki Svlasta
+ByÅ‚y paladyn o imieniu Svlast jest przeÅ›ladowany przez ducha, jego brata w wierze, ktÃ³rego niesprawiedliwie zabiÅ‚. DaÅ‚em istocie to, czego chciaÅ‚a, i wÅ‚asnorÄ™cznie zabiÅ‚em upadÅ‚ego paladyna.~~MÄ™ki Svlasta
 
-By³y paladyn o imieniu Svlast jest przeœladowany przez ducha, jego brata w wierze, którego niesprawiedliwie zabi³. Da³am istocie to, czego chcia³a, i w³asnorêcznie zabi³am upad³ego paladyna.~
-@4293 = ~Mêki Svlasta
+ByÅ‚y paladyn o imieniu Svlast jest przeÅ›ladowany przez ducha, jego brata w wierze, ktÃ³rego niesprawiedliwie zabiÅ‚. DaÅ‚am istocie to, czego chciaÅ‚a, i wÅ‚asnorÄ™cznie zabiÅ‚am upadÅ‚ego paladyna.~
+@4293 = ~MÄ™ki Svlasta
 
-Mêki Svlasta dobieg³y koñca. Istota dope³ni³a swej zemsty.~
+MÄ™ki Svlasta dobiegÅ‚y koÅ„ca. Istota dopeÅ‚niÅ‚a swej zemsty.~
 // (Strref: 15703)
-@4295 = ~Mêki Svlasta
+@4295 = ~MÄ™ki Svlasta
 
-Prze¿ywszy dziêki naszej pomocy atak upiora, nieszczêœliwy Svlast b³aga³, abyœmy dokoñczyli jego zadanie... Dzieñ wydaje siê byæ posêpny wewn¹trz tych ruin i bojê siê, ¿e bêdzie jeszcze posêpniejszy.~
-@4296 = ~Mêki Svlasta
+PrzeÅ¼ywszy dziÄ™ki naszej pomocy atak upiora, nieszczÄ™Å›liwy Svlast bÅ‚agaÅ‚, abyÅ›my dokoÅ„czyli jego zadanie... DzieÅ„ wydaje siÄ™ byÄ‡ posÄ™pny wewnÄ…trz tych ruin i bojÄ™ siÄ™, Å¼e bÄ™dzie jeszcze posÄ™pniejszy.~
+@4296 = ~MÄ™ki Svlasta
 
-Prze¿ywszy dziêki naszej pomocy atak upiora, nieszczêœliwy Svlast b³aga³, abyœmy dokoñczyli jego zadanie... Kategorycznie odmówi³em. Bêdzie musia³ odpokutowaæ za swoje zbrodnie.~~Svlast's Torment
+PrzeÅ¼ywszy dziÄ™ki naszej pomocy atak upiora, nieszczÄ™Å›liwy Svlast bÅ‚agaÅ‚, abyÅ›my dokoÅ„czyli jego zadanie... Kategorycznie odmÃ³wiÅ‚em. BÄ™dzie musiaÅ‚ odpokutowaÄ‡ za swoje zbrodnie.~~Svlast's Torment
 
-Prze¿ywszy dziêki naszej pomocy atak upiora, nieszczêœliwy Svlast b³aga³, abyœmy dokoñczyli jego zadanie... Kategorycznie odmówi³am. Bêdzie musia³ odpokutowaæ za swoje zbrodnie.~
-@4297 = ~Mêki Svlasta
+PrzeÅ¼ywszy dziÄ™ki naszej pomocy atak upiora, nieszczÄ™Å›liwy Svlast bÅ‚agaÅ‚, abyÅ›my dokoÅ„czyli jego zadanie... Kategorycznie odmÃ³wiÅ‚am. BÄ™dzie musiaÅ‚ odpokutowaÄ‡ za swoje zbrodnie.~
+@4297 = ~MÄ™ki Svlasta
 
-Prze¿ywszy dziêki naszej pomocy atak upiora, nieszczêœliwy Svlast b³aga³, abyœmy dokoñczyli jego zadanie... I gdzie tu wdziêcznoœæ!~
-@4298 = ~Mêki Svlasta
+PrzeÅ¼ywszy dziÄ™ki naszej pomocy atak upiora, nieszczÄ™Å›liwy Svlast bÅ‚agaÅ‚, abyÅ›my dokoÅ„czyli jego zadanie... I gdzie tu wdziÄ™cznoÅ›Ä‡!~
+@4298 = ~MÄ™ki Svlasta
 
-Prze¿ywszy dziêki naszej pomocy atak upiora, nieszczêœliwy Svlast b³aga³, abyœmy dokoñczyli jego zadanie... Kim¿e jestem, by cz³owiekowi odmówiæ?~
+PrzeÅ¼ywszy dziÄ™ki naszej pomocy atak upiora, nieszczÄ™Å›liwy Svlast bÅ‚agaÅ‚, abyÅ›my dokoÅ„czyli jego zadanie... KimÅ¼e jestem, by czÅ‚owiekowi odmÃ³wiÄ‡?~
