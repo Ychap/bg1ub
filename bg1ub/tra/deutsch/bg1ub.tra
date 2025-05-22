@@ -3,9 +3,13 @@
 
 @11    = ~Flirten~
 
-@15    = ~Leiche einer weiblichen Adligen~
+@15    = ~Leiche einer Adligen~
 
-@16    = ~Das ist der tote Körper einer weiblichen Adligen~
+@16    = ~Das ist der tote Körper einer adligen Frau
+
+EIGENSCHAFTEN:
+
+Gewicht: 130~
 
 @19    = ~Handschuhe des Taschendiebstahls~
 //#39607 in BG2
@@ -42,11 +46,11 @@ Gewicht: 2~
 @46    = ~Quincy~
 @47    = ~Christian~
 @48    = ~Marlon~
-// 
+//
 @49    = ~Fürstin Areana~
 @50    = ~Wade~
 @51    = ~Ludrug~
-@52    = ~Palin~
+@52    = ~Ted~
 @53    = ~Sarah~
 @54    = ~Selaad Gan~
 @55    = ~Baresh~
@@ -62,16 +66,16 @@ Gewicht: 2~
 @93    = ~Der Wachsame Schild~
 
 @95    = ~Ring der Rindenhaut~
-@96    = ~Balas Axt - Magierschlächter
+@96    = ~Balas Axt: Magierschlächter
 
 Bala war ein stets missmutiger Prinz eines Clans der Gossenzwerge, der von einem grausamen Elfenmagier in Thesk versklavt wurde. Bala war zwar nicht ganz so feige wie der gewöhnliche Gossenzwerg, dafür war er aber erheblich schmutziger und abstoßender. Als ihm seine Gefangenschaft unerträglich wurde, kroch Bala in den Schlafsaal des Magiers und schlug dem Elfen den Schädel ein. Manche behaupten zwar, Bala habe den Magier mit seinen Körperausdünstungen erstickt, aber es war tatsächlich die magische Axt des Gossenzwerges, die die arkanen Abwehrzauber des Magiers überwand.
 Die schlampige Verarbeitung ist Beweis dafür, dass es Bala selbst war, der die Axt gefertigt hat. Das große Geheimnis ist aber, woher die Macht der Waffe stammt. Nach einer langen Karriere als Magiertöter starb Bala, ohne dieses Geheimnis preiszugeben - nicht einmal den wenigen, die mutig genug waren, die völlige Verlausung zu riskieren, indem sie ihn aufsuchten. Einige sagen, dass wohl Balas intensiver Hass auf Magier die Machtquelle der Axt gewesen sein muss.
 
 EIGENSCHAFTEN:
 
-Bei jedem Treffer wird auf das Ziel "Magie fehlwirken" gewirkt (Rettungswurf gg. Zauber, +2 Malus).
+Magie bannen (1x täglich)
 
-Magie fehlwirken: Wenn ein Wesen von diesem Zauber getroffen wird, wird es ihm fast unmöglich, zu zaubern. Jedes Mal, wenn das Wesen einen Zauber einsetzen möchte, besteht eine Chance von 80%, dass der Zauber fehlschlägt.
+Bei jedem Treffer wird auf das Ziel "Magie fehlwirken" gewirkt (Rettungswurf gg. Zauber, +2 Malus).
 
 Schaden: 1W8 (Klinge)
 Gewicht: 6
@@ -85,21 +89,9 @@ Kann nicht verwendet werden von:
 - Druiden
 - Klerikern
 - Magiern~
-@97    = ~Der abgetrennte Kopf eines Lindwurms ist zwar furchteinflößend, aber zugleich auch beruhigend. Sein mit Fangzähnen bewehrtes Maul und seine stechenden Augen lassen einen erschauern, doch zugleich ist der Gedanke, dass er auch von gewöhnlichen und bescheidenen Sterblichen besiegt werden kann, sehr beruhigend.
-
-EIGENSCHAFTEN:
-
-Gewicht: 30~
-@98    = ~Der schneeweiße Pelz des Winterwolfes ist weich und edel. Er wird zu den unterschiedlichsten Kleidungsstücken verarbeitet, angefangen von den einfachen Westen der Barbaren im Norden Uthgardts bis hin zu den eleganten Winterstolen, die von den Edelfrauen an der gesamten Schwertküste getragen werden.
-
-EIGENSCHAFTEN:
-
-Gewicht: 10~
-@99    = ~Der Ankheg ist ein in der Erde lebendes insektenähnliches Wesen von drei bis sechs Metern Länge. Er ist hauptsächlich in Wäldern oder guten Ackerböden zu finden. Ankhegs haben einen Panzer aus einer Substanz, die Chitin genannt wird. Chitin ist äußerst hart und dabei doch sehr leicht. Größe, Gewicht und Härte des Panzers machen diesen zu einem vielgesuchten Material. Es können daraus zum Beispiel Rüstungen gefertigt werden.
-
-EIGENSCHAFTEN:
-
-Gewicht: 100~
+@97    = ~Der abgetrennte Kopf eines Lindwurms ist zwar furchteinflößend, aber zugleich auch beruhigend. Sein mit Fangzähnen bewehrtes Maul und seine stechenden Augen lassen einen erschauern, doch zugleich ist der Gedanke, dass er auch von gewöhnlichen Sterblichen niedriger Stufe besiegt werden kann, sehr beruhigend.~
+@98    = ~Der schneeweiße Pelz des Winterwolfes ist weich und edel. Er wird zu den unterschiedlichsten Kleidungsstücken verarbeitet, angefangen von den einfachen Westen der Barbaren im Norden Uthgardts bis hin zu den eleganten Winterstolen, die von den Edelfrauen an der gesamten Schwertküste getragen werden.~
+@99    = ~Der Ankheg ist ein in der Erde lebendes, insektenähnliches Wesen von drei bis sechs Metern Länge. Er ist hauptsächlich in Wäldern oder guten Ackerböden zu finden. Ankhegs haben einen Panzer aus einer Substanz, die Chitin genannt wird. Chitin ist äußerst hart und dabei doch sehr leicht. Größe, Gewicht und Härte des Panzers machen diesen zu einem vielgesuchten Material. Es können daraus zum Beispiel Rüstungen gefertigt werden.~
 
 @105   = ~Sie werden von Sarevok Anchev angeführt.~
 @106   = ~Ein Mann namens Sarevok Anchev ist für die Verleumdung verantwortlich.~
@@ -159,32 +151,36 @@ Rieltar
 Dieses Tagebuch sieht sehr wichtig aus. Ihr solltet es persönlich bei Euch tragen.~
 
 @113   = ~Siegelring~
-@114   = ~Dies ist ein Siegelring, in den ein Rubin eingelassen ist.~
-
-//Additions for BGEE
-@115 = ~Balas Axt - Magierschlächter
-
-Bala war ein stets missmutiger Prinz eines Clans der Gossenzwerge, der von einem grausamen Elfenmagier in Thesk versklavt wurde. Bala war zwar nicht ganz so feige wie der gewöhnliche Gossenzwerg, dafür war er aber erheblich schmutziger und abstoßender. Als ihm seine Gefangenschaft unerträglich wurde, kroch Bala in den Schlafsaal des Magiers und schlug dem Elfen den Schädel ein. Manche behaupten zwar, Bala habe den Magier mit seinen Körperausdünstungen erstickt, aber es war tatsächlich die magische Axt des Gossenzwerges, die die arkanen Abwehrzauber des Magiers überwand.
-Die schlampige Verarbeitung ist Beweis dafür, dass es Bala selbst war, der die Axt gefertigt hat. Das große Geheimnis ist aber, woher die Macht der Waffe stammt. Nach einer langen Karriere als Magiertöter starb Bala, ohne dieses Geheimnis preiszugeben - nicht einmal den wenigen, die mutig genug waren, die völlige Verlausung zu riskieren, indem sie ihn aufsuchten. Einige sagen, dass wohl Balas intensiver Hass auf Magier die Machtquelle der Axt gewesen sein muss.
+@114   = ~Dies ist ein Siegelring, in den ein Rubin eingelassen ist.
 
 EIGENSCHAFTEN:
 
-Bei jedem Treffer wird auf das Ziel "Magie fehlwirken" gewirkt (Rettungswurf gg. Zauber, +2 Malus).
+Gewicht: 0~
 
-Magie fehlwirken: Wenn ein Wesen von diesem Zauber getroffen wird, wird es ihm fast unmöglich, zu zaubern. Jedes Mal, wenn das Wesen einen Zauber einsetzen möchte, besteht eine Chance von 80%, dass der Zauber fehlschlägt.
+//Additions for BGEE
+@115 = ~Balas Axt: Magierschlächter
+
+Bala war ein stets missmutiger Prinz eines Clans der Gossenzwerge, der von einem grausamen Elfenmagier in Thesk gefangen genommen und versklavt wurde. Bala war zwar nicht ganz so feige wie der gewöhnliche Gossenzwerg, dafür aber war er erheblich schmutziger und abstoßender als der Durchschnitt. Als seine Gefangenschaft unerträglich wurde, kroch Bala in den Schlafsaal des Magiers und schlug dem Elfen den Schädel ein. Manche behaupten zwar, Bala habe den Magier mit seinen Körperausdünstungen erstickt, aber es war tatsächlich die magische Axt des Gossenzwerges, die die arkanen Abwehrzauber des Magiers überwand. Die schlampige Verarbeitung ist Beweis dafür, dass es Bala selbst war, der die Axt hergestellt hat. Das wahre Geheimnis aber ist die Frage, woher die Macht der Waffe stammt. Nach einer langen Karriere als Magiertöter starb Bala, ohne dieses Geheimnis preiszugeben – nicht einmal den wenigen Neugierigen, die mutig genug waren, die völlige Verlausung zu riskieren, indem sie ihn in seinem Heim aufsuchten. Man einigte sich schließlich darauf, dass wohl Balas intensiver Hass auf Magier die Quelle gewesen sein muss. Die Axt ermöglicht es dem Träger, einmal pro Tag den Zauber „Magie bannen“ einzusetzen.
+
+EIGENSCHAFTEN:
+
+Magie bannen (1x täglich)
+ Reichweite: 12 m
+ Bereich: 4,5 m Radius
+
+Bei jedem Treffer wird „Magie fehlwirken“ für 100 Sekunden auf das Ziel gewirkt (Rettungswurf -2 gg. Zauber). Dadurch scheitern dessen Zauber zu 80 %.
 
 Schaden: 1W8 (Klinge)
-Gewicht: 6
-Initiativefaktor: 5
-Mindeststärke: 10
+Initiativefaktor: 7
 Fertigkeit: Axt
-Typ: 1-händig~
+Typ: 1-händig
+Mindeststärke: 10
+
+Gewicht: 6~
 
 // Unshey Dialog Restoration
 @120 = ~Oberkleriker Unsheys praktischer Leitfaden der Körperhygiene~
-@121 = ~Ein typisches Handbuch der Gesundheit enthält wertvolle Informationen zu vorbeugender Medizin, grundlegenden Erste-Hilfe-Maßnahmen und Wegen zur Stärkung der Muskulatur.
-
-Gewicht: 2~
+@121 = ~Ein typisches Handbuch der Gesundheit enthält wertvolle Informationen zu vorbeugender Medizin, grundlegenden Erste-Hilfe-Maßnahmen und Wegen zur Stärkung der Muskulatur.~
 
 // Handschuhe des Taschendiebstahls - BGEE Description
 @123 = ~Handschuhe des Taschendiebstahls
@@ -201,7 +197,7 @@ Gewicht: 2~
 
 // Ice Island Level 2 Restoration
 @1001 = ~Schneegolem~
-@1002 = ~Steife Briese~
+@1002 = ~Frostatem~
 
 // Nim Furlwing Encounter
 @4001 = ~Nim Furlwing~
