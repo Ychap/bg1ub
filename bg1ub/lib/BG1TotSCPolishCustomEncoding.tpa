@@ -1,0 +1,27 @@
+//in order for patch to work correctly, this file must have cp1250/Windows-1250 encoding
+//and processed *.tra files must already have cp1250/Windows-1250 encoding (it's expected after UTF8>cp1250 converstion for non-EE games)
+ACTION_IF NOT ("%BG1TotSCPolishEncoding%" STRING_EQUAL "1") BEGIN
+    COPY ~%MOD_FOLDER%/tra/polish~  ~%MOD_FOLDER%/tra/polish~
+        PATCH_IF (~%SOURCE_EXT%~ STRING_EQUAL_CASE ~TRA~)
+        BEGIN //TRA are BG2 coded
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+            REPLACE_TEXTUALLY CASE_SENSITIVE "�" "�"
+        END
+    BUT_ONLY
+    OUTER_SPRINT "BG1TotSCPolishEncoding" "1"
+END
