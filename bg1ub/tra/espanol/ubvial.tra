@@ -1,50 +1,50 @@
-@0  = ~¬°Hab√©is regresado! Parece que hice bien en confiar en vos. ¬øQu√© pod√©is decirme de los eventos que tuvieron lugar en las minas?~ 
-@1  = ~Preferir√≠a no dar a conocer los detalles del oficio, si no os importa.~
-@2  = ~No hay mucho que contar. Unos kobolds entraron en la mina y causaron problemas. Pero ya no ten√©is por qu√© preocuparos por ellos.~ 
-@3  = ~Un semiorco llamado Mulahey estaba corrompiendo el mineral de hierro de alguna forma, pero ya est√° muerto.~
-@4  = ~Un semiorco llamado Mulahey estaba corrompiendo el mineral de hierro con un veneno. Tengo una muestra aqu√≠.~ 
-@5  = ~Un semiorco llamado Mulahey estaba corrompiendo el mineral de hierro con un veneno. Tengo una muestra del mineral corrompido aqu√≠.~
+@0  = ~°HabÈis regresado! Parece que hice bien en confiar en vos. øQuÈ podÈis decirme de los eventos que tuvieron lugar en las minas?~ 
+@1  = ~PreferirÌa no dar a conocer los detalles del oficio, si no os importa.~
+@2  = ~No hay mucho que contar. Unos kobolds entraron en la mina y causaron problemas. Pero ya no tenÈis por quÈ preocuparos por ellos.~ 
+@3  = ~Un semiorco llamado Mulahey estaba corrompiendo el mineral de hierro de alguna forma, pero ya est· muerto.~
+@4  = ~Un semiorco llamado Mulahey estaba corrompiendo el mineral de hierro con un veneno. Tengo una muestra aquÌ.~ 
+@5  = ~Un semiorco llamado Mulahey estaba corrompiendo el mineral de hierro con un veneno. Tengo una muestra del mineral corrompido aquÌ.~
 @6  = ~Un semiorco llamado Mulahey estaba corrompiendo el mineral de hierro con un veneno. Estoy investigando el problema.~
-@7  = ~Como quer√°is. El pueblo os lo agradece, y os daremos una recompensa. Por favor, tomad estas 900 piezas por vuestros esfuerzos. Es una peque√±a fortuna. Gracias otra vez.~ 
-@8  = ~Ya veo. Es curioso como una banda organizada pudo emerger sin ser vista. A√∫n as√≠, el pueblo os lo agradece, y os daremos una recompensa. Por favor, tomad estas 900 piezas por vuestros esfuerzos. Es una peque√±a fortuna. Gracias otra vez.~
-@9  = ~Me pregunto cu√°l ser√≠a el motivo, y como pudo hacer semejante cosa tan eficazmente. A√∫n as√≠, el pueblo os lo agradece, y os daremos una recompensa. Por favor, tomad estas 900 piezas por vuestros esfuerzos. Es una peque√±a fortuna. Gracias otra vez.~ 
-@10 = ~¬øQu√© es lo que dec√≠s? Fue muy sabio de vuestra parte el traer una muestra. Pero me temo que la poca confianza en la magia quiere decir que no tenemos el equipamiento suficiente para analizar el veneno. Nuestro problema es el aislamiento. Ser√° m√°s f√°cil llevar la muestra al norte, a Thalantyr de Beregost, que ir al sur en busca de un archimago de Amn.~
-@11 = ~Si ten√©is una muestra del mineral contaminado podr√≠ais llev√°rsela a Taerom Fuiruim mientras est√°is all√≠. No dudo en su habilidad para encontrar una forma de conocer sus propiedades.~
-@12 = ~Sin embargo, es mejor que no mencion√©is esto a nadie. Las relaciones entre Puerta de Baldur y Amn son tensas, y tal vez no deba enviar algo tan valioso a manos de Amn.~ 
-@13 = ~Sin embargo, el pueblo os lo agradece, y os daremos una recompensa. Por favor, tomad estas 900 piezas por vuestros esfuerzos. Es una peque√±a fortuna. Gracias otra vez.~
-@14 = ~¬øQu√© es lo que dec√≠s? Fue muy sabio por vuestra parte el traer una muestra. Podr√≠ais llev√°rsela a Taerom Fuiruim en Beregost. No dudo en su habilidad de encontrar una forma de conocer sus propiedades, y est√° m√°s cerca que el renombrado herrero de Amn.~ 
-@15 = ~Me alegra saberlo. Me pregunto cu√°l ser√≠a el motivo. A√∫n as√≠, el pueblo os lo agradece, y os daremos una recompensa. Por favor, tomad estas 900 piezas por vuestros esfuerzos. Es una peque√±a fortuna. Gracias otra vez.~
-@16 = ~Eso no importa ahora. Tengo este trozo de mineral de hierro, que creo est√° contaminada. Es la causa de la crisis del hierro en la Costa de la Espada.~
-@17 = ~Tengo este trozo de mineral de hierro, que creo est√° contaminada. Es la causa de la crisis del hierro en la Costa de la Espada.~
+@7  = ~Como quer·is. El pueblo os lo agradece, y os daremos una recompensa. Por favor, tomad estas 900 piezas por vuestros esfuerzos. Es una pequeÒa fortuna. Gracias otra vez.~ 
+@8  = ~Ya veo. Es curioso como una banda organizada pudo emerger sin ser vista. A˙n asÌ, el pueblo os lo agradece, y os daremos una recompensa. Por favor, tomad estas 900 piezas por vuestros esfuerzos. Es una pequeÒa fortuna. Gracias otra vez.~
+@9  = ~Me pregunto cu·l serÌa el motivo, y como pudo hacer semejante cosa tan eficazmente. A˙n asÌ, el pueblo os lo agradece, y os daremos una recompensa. Por favor, tomad estas 900 piezas por vuestros esfuerzos. Es una pequeÒa fortuna. Gracias otra vez.~ 
+@10 = ~øQuÈ es lo que decÌs? Fue muy sabio de vuestra parte el traer una muestra. Pero me temo que la poca confianza en la magia quiere decir que no tenemos el equipamiento suficiente para analizar el veneno. Nuestro problema es el aislamiento. Ser· m·s f·cil llevar la muestra al norte, a Thalantyr de Beregost, que ir al sur en busca de un archimago de Amn.~
+@11 = ~Si tenÈis una muestra del mineral contaminado podrÌais llev·rsela a Taerom Fuiruim mientras est·is allÌ. No dudo en su habilidad para encontrar una forma de conocer sus propiedades.~
+@12 = ~Sin embargo, es mejor que no mencionÈis esto a nadie. Las relaciones entre Puerta de Baldur y Amn son tensas, y tal vez no deba enviar algo tan valioso a manos de Amn.~ 
+@13 = ~Sin embargo, el pueblo os lo agradece, y os daremos una recompensa. Por favor, tomad estas 900 piezas por vuestros esfuerzos. Es una pequeÒa fortuna. Gracias otra vez.~
+@14 = ~øQuÈ es lo que decÌs? Fue muy sabio por vuestra parte el traer una muestra. PodrÌais llev·rsela a Taerom Fuiruim en Beregost. No dudo en su habilidad de encontrar una forma de conocer sus propiedades, y est· m·s cerca que el renombrado herrero de Amn.~ 
+@15 = ~Me alegra saberlo. Me pregunto cu·l serÌa el motivo. A˙n asÌ, el pueblo os lo agradece, y os daremos una recompensa. Por favor, tomad estas 900 piezas por vuestros esfuerzos. Es una pequeÒa fortuna. Gracias otra vez.~
+@16 = ~Eso no importa ahora. Tengo este trozo de mineral de hierro, que creo est· contaminada. Es la causa de la crisis del hierro en la Costa de la Espada.~
+@17 = ~Tengo este trozo de mineral de hierro, que creo est· contaminada. Es la causa de la crisis del hierro en la Costa de la Espada.~
 @18 = ~Espero ver el resultado.~ 
-@19 = ~D√°dmela. Hmm. S√≠ que es extra√±o. El mineral de hierro ha sido contaminado con alguna sustancia. ¬øNo creo que sep√°is que puede ser?~
-@20 = ~S√≠ que lo s√©. Tambi√©n tengo este recipiente que encontr√© en la misma mina que el mineral.~ 
-@21 = ~No, pero intentar√© encontrar algo que pueda ayudarnos.~ 
-@22 = ~Desafortunadamente no. ¬øNo hay nada que pod√°is hacer s√≥lo con el mineral?~
-@23 = ~Ah, excelente. Pero no tengo la habilidad para examinar esto. Llev√°dsela a Thalantyr; no tendr√° problema en examinar sus propiedades. Mientras tanto, ver√© como puedo contrarrestar las propiedades de este mineral. Deber√≠a ser capaz de reducir los efectos de este compuesto.~ 
+@19 = ~D·dmela. Hmm. SÌ que es extraÒo. El mineral de hierro ha sido contaminado con alguna sustancia. øNo creo que sep·is que puede ser?~
+@20 = ~SÌ que lo sÈ. TambiÈn tengo este recipiente que encontrÈ en la misma mina que el mineral.~ 
+@21 = ~No, pero intentarÈ encontrar algo que pueda ayudarnos.~ 
+@22 = ~Desafortunadamente no. øNo hay nada que pod·is hacer sÛlo con el mineral?~
+@23 = ~Ah, excelente. Pero no tengo la habilidad para examinar esto. Llev·dsela a Thalantyr; no tendr· problema en examinar sus propiedades. Mientras tanto, verÈ como puedo contrarrestar las propiedades de este mineral. DeberÌa ser capaz de reducir los efectos de este compuesto.~ 
 @24 = ~Ya he llevado una muestra a Thalantyr, y ha accedido a examinarlo.~
-@25 = ~Taerom Fuiruim est√° examinando el mineral que recuper√© de las minas de Nashkel. √âl cree que ser√° capaz de producir un hierro menos quebradizo.~
-@26 = ~Ya no puedo hacer m√°s. Si encontr√°is una muestra de veneno, llev√°dsela a Thalantyr; no tendr√° problema en examinar sus propiedades. Mientras tanto, ver√© como puedo contrarrestar las propiedades de este mineral. Deber√≠a ser capaz de reducir los efectos de este compuesto.~
-@27 = ~Entonces me pondr√© en contacto con √©l y ver√© que ha descubierto. Os doy mis gracias por llamarlo a mi atenci√≥n.~
-@28 = ~Berrun Matanecrario sugiri√≥ que estar√≠ais interesado en examinar este recipiente. Es un veneno que se us√≥ para contaminar el hierro de las minas de Nashkel, causando los problemas con el hierro a lo largo de la Costa de la Espada.~
-@29 = ~Taerom Fuiruim sugiri√≥ que estar√≠ais interesado en examinar este recipiente. Es un veneno que se us√≥ para contaminar el hierro de las minas de Nashkel, causando los problemas con el hierro a lo largo de la Costa de la Espada.~
-@30 = ~Un compuesto impresionante. Debi√≥ ser creado por un alquimista muy habilidoso. Deber√≠a ser capaz de crear el ant√≠doto para salvar algo del hierro, aunque no creo que sea suficiente para resolver la crisis. Dej√°dmelo y contactar√© con Taerom si tengo suerte.~
-@31 = ~Le mostr√© el recipiente que contiene el veneno de las minas de Nashkel a Thalantyr. √âl accedi√≥ a examinarlo e intentar encontrar un ant√≠doto. Espero que tenga efecto sobre la crisis del hierro, aunque no podemos esperar demasiado.~
+@25 = ~Taerom Fuiruim est· examinando el mineral que recuperÈ de las minas de Nashkel. …l cree que ser· capaz de producir un hierro menos quebradizo.~
+@26 = ~Ya no puedo hacer m·s. Si encontr·is una muestra de veneno, llev·dsela a Thalantyr; no tendr· problema en examinar sus propiedades. Mientras tanto, verÈ como puedo contrarrestar las propiedades de este mineral. DeberÌa ser capaz de reducir los efectos de este compuesto.~
+@27 = ~Entonces me pondrÈ en contacto con Èl y verÈ que ha descubierto. Os doy mis gracias por llamarlo a mi atenciÛn.~
+@28 = ~Berrun Matanecrario sugiriÛ que estarÌais interesado en examinar este recipiente. Es un veneno que se usÛ para contaminar el hierro de las minas de Nashkel, causando los problemas con el hierro a lo largo de la Costa de la Espada.~
+@29 = ~Taerom Fuiruim sugiriÛ que estarÌais interesado en examinar este recipiente. Es un veneno que se usÛ para contaminar el hierro de las minas de Nashkel, causando los problemas con el hierro a lo largo de la Costa de la Espada.~
+@30 = ~Un compuesto impresionante. DebiÛ ser creado por un alquimista muy habilidoso. DeberÌa ser capaz de crear el antÌdoto para salvar algo del hierro, aunque no creo que sea suficiente para resolver la crisis. Dej·dmelo y contactarÈ con Taerom si tengo suerte.~
+@31 = ~Le mostrÈ el recipiente que contiene el veneno de las minas de Nashkel a Thalantyr. …l accediÛ a examinarlo e intentar encontrar un antÌdoto. Espero que tenga efecto sobre la crisis del hierro, aunque no podemos esperar demasiado.~
 
 @32 = ~El mineral corrompido
 
-Berrun Muertenecrario quiere que lleve el vial del misterioso veneno del mineral que recuper√© de las minas de Nashkel a Thalantyr en Seto Alto. El poderoso mago deber√≠a ser capaz de analizarlo. Adem√°s, en el caso de que encuentre otro trozo de mineral corrompido deber√≠a llev√°rselo a Taerom Fuiruim.~
+Berrun Muertenecrario quiere que lleve el vial del misterioso veneno del mineral que recuperÈ de las minas de Nashkel a Thalantyr en Seto Alto. El poderoso mago deberÌa ser capaz de analizarlo. Adem·s, en el caso de que encuentre otro trozo de mineral corrompido deberÌa llev·rselo a Taerom Fuiruim.~
 
 @33 = ~El mineral corrompido
 
-Berrun Muertenecrario quiere que lleve el vial del misterioso veneno del mineral que recuper√© de las minas de Nashkel a Taerom Fuiruim en Beregost. Tal vez el habilidoso herrero pueda ayudarnos con esto.~
+Berrun Muertenecrario quiere que lleve el vial del misterioso veneno del mineral que recuperÈ de las minas de Nashkel a Taerom Fuiruim en Beregost. Tal vez el habilidoso herrero pueda ayudarnos con esto.~
 
 //@25 with header:
 @34 = ~El mineral corrompido
 
-Taerom Fuiruim est√° examinando el mineral que recuper√© de las minas de Nashkel. √âl cree que ser√° capaz de producir un hierro menos quebradizo.~
+Taerom Fuiruim est· examinando el mineral que recuperÈ de las minas de Nashkel. …l cree que ser· capaz de producir un hierro menos quebradizo.~
 
 //@31 with header:
 @35 = ~El mineral corrompido
 
-Le mostr√© el recipiente que contiene el veneno de las minas de Nashkel a Thalantyr. √âl accedi√≥ a examinarlo e intentar encontrar un ant√≠doto. Espero que tenga efecto sobre la crisis del hierro, aunque no podemos esperar demasiado.~
+Le mostrÈ el recipiente que contiene el veneno de las minas de Nashkel a Thalantyr. …l accediÛ a examinarlo e intentar encontrar un antÌdoto. Espero que tenga efecto sobre la crisis del hierro, aunque no podemos esperar demasiado.~

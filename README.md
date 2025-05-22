@@ -228,14 +228,11 @@ Below are links to community-related sites:
 ## VERSION HISTORY
 
 * Version BETA1 (8 April, 2006) - Initial BETA Release
-
 * Version BETA2 (29 April, 2006) - Second BETA Release
-
 * Version 1 (7 May, 2006) - Initial Public Release
   * NEW ADDITIONS
     * Initial public release of the mod
     * Components include: Ice Island Level Two Restoration, The Mysterious Vial, Additional Elminster Encounter, Angelo Notices Shar-teel, Finishable Kagain Caravan Quest, Coran and the Wyverns, Kivan and Tazok, Branwen and Tranzig, Safana the Flirt, Appropriate Albert and Rufie Reward, Place Entar Silvershield in His Home, Scar and the Sashenstar's Daughter, Quoningar, the Cleric, Shilo Chen and the Ogre-Magi, Edie, the Merchant League Applicant, Flaming Fist Mercenary Reinforcements, Creature Corrections, Creature Restorations, Creature Name Restorations, Minor Dialogue Restorations, Audio Restorations, Store, Tavern and Inn Fixes and Restorations, Item Corrections and Restorations, Area Corrections and Restorations, Permanent Corpses, Elven Charm & Sleep Racial Immunity, The Original Saga Music Playlist Corrections, Sarevok's Diary Corrections
-
 * Version 2 (14 May, 2006)
   * BUGFIXES
     * Fixed a typo in the journal entry for Quoningar's quest ('bring'-->'bringing')
@@ -243,7 +240,6 @@ Below are links to community-related sites:
     * Transferred changes to other TotSC creature dialog files to the u!totscminor.d so that non-TotSC installs won't fail
     * Fixed a coding error that would cause Dezkiel to spawn twice on the Ice Island
     * Corrected various readme typos
-
 * Version 3 (29 May, 2006)
   * NEW ADDITIONS
     * Spanish translation (Thanks, Immortality!)
@@ -260,7 +256,6 @@ Below are links to community-related sites:
     * Fixed a typo in Vial quest: "Nashkell"-->"Nashkel"
     * Fixed typo on Scar's quest: "Sashenstar's" --> "Sashenstars'"
     * Fixed a bug where Arkion wouldn't take the female body from the party's inventory
-
 * Version 4 (Dawn of the Ding0)
   * NEW ADDITIONS
     * Item Corrections and Restorations now restore numerous unused item graphics
@@ -279,7 +274,6 @@ Below are links to community-related sites:
     * Fixed wrong gold amount given in Edie quest
     * Removed Corianna's script to initiate dialogue which could prevent the game from being saved while in the area
     * Bunsen's dialogue responses are no longer duplicated
-
 * Version 5 (Ascension64 Dabbles)
   * NEW ADDITIONS
     * Added Italian translation (by Andrea Colombo)
@@ -299,13 +293,11 @@ Below are links to community-related sites:
     * Removed redundant and erroneous \t regexps
     * Revised coding of Appropriate Albert/Rufie Reward
     * Reworked coding of "Minor Dialogue Restorations" component
-
 * Version 6 (Return of the Ding0)
   * BUGFIXES
     * Baresh no longer erroneously transforms into Kaishas Gan
     * Further corrected Root of the Problem
     * Failed stealing from the Jovial Juggler now turns the bartender hostile
-
 * Version 7 (The Saga Coalesces)
   * NEW ADDITIONS
     * Added German translation (by Timothy)
@@ -332,7 +324,6 @@ Below are links to community-related sites:
     * Potion of Freedom (POTN45) now gives immunity to hold creature but not charm creature (ineffectual in BGT and Tutu)
     * Corrected misleading readme description of Coran and the Wyverns component
     * Blink Dog (DOGBLINK) now has a real bite
-
 * Version 8 (It)
   * NEW ADDITIONS
     * Added German translation (by Timothy)
@@ -345,11 +336,9 @@ Below are links to community-related sites:
 * Version 9 (Damage Control)
   * BUGFIXES
     * Fixed typo that could cause problems installing Scar and the Sashenstar's daughter on modded installations
-
 * Version 10
     * Added Russian translation (aerie.ru, Darktech)
     * Revised Italian translation (Stone Angel, ilot)
-
 * Version 11
   * BUGFIXES
     * Angelo now properly kills some player, not just Player2, so that Player2 already being dead does not result in no death
@@ -358,12 +347,10 @@ Below are links to community-related sites:
   * CHANGES
     * Placeholder file is now 1 byte to allow detection by FILE\_EXISTS\_*
     * Updated compatibility checks for BG1NPC components to be in line with v18
-
 * Version 12
     * Added Polish translation (Barek)
     * Revised German translation (Leomar)
     * Updated to WeiDU v215
-
 * Version 13
   * BUGFIXES
     * Imoen portrait patching now checks whether another portrait was assigned
@@ -384,7 +371,6 @@ Below are links to community-related sites:
     * "Corianna, the Petrified Ranger": Reward unified to 100 XP and a potion of mirrored eyes (Creature restorations)
     * Revised Russian translation (arcanecoast.ru team). Sound references in "extra\_tmp.tra" are unified (formerly missing the Tutu-recognition)
     * Updated to WeiDU v231
-
 * Version 13.1
   * BUGFIXES
     * "Scar and the Sashenstar's Daughter": corrected the OUTER\_SPRINT to %tutu\_scriptbg%MISC79.ITM. Now the correct file BGMISC79 for the body is used instead of a replica of "Raissa's skin" (MISC79) (BGT).
@@ -400,7 +386,6 @@ Below are links to community-related sites:
     * New Component: Duke Eltan in the Harbor Master's Building, by Balquo and jastey. New line translated by: Cahir (Polish), Isaya (French), jastey (German, English), Salk (Italian), Immortality/ClanDLAN (Spanish)
     * Edited Russian translation by aerie.ru & Darktech (now maintained by arcanecoast.ru team)
     * Update to WeiDU v236
-
 * Version 13.2
   * CHANGES
     * BG-version: "Minor Dialogue Restorations" Compatibility with Dudleyfixes: Several charmed dialogues fixed so gifts are not doubled
@@ -412,7 +397,6 @@ Below are links to community-related sites:
     * BGT/Tutu: "Prism": Journal entried of Prism quest should now be correctly erased after turning the gems in. (Changed the custom tphs for the Prism component: giving the OUTER\_SPRINT variables unique names to prevent mixup with the ones from the lib, although that was not necessary, and changed the REPLACE method to replacing high numbers with string references in the tp2 because REPLACE\_TRANS\_ACTION does not evaluate tra-references, which did the trick. Also, the folder structure and the place of INCLUDE for the Prism tpas was changed slightly.
     * Polish: for BG1, the correct text format is applied - by Zed Nocear
     * Prism and the Emeralds Tweak: Added fix to make install order for bg1ub and BG1NPC Project / Gavin no longer a problem (Added a REPLACE\_ACTION\_TEXT for the whole Oublek.dlg and Prism.dlg to account for new states introduced by NPC mods doing I\_C\_T with passback line (namely BG1NPC Project and Gavin))
-
 * Version 14 (BGEE Compatibility)
   * CHANGES
     * General Updates for BGEE Compatibility: Replace FILE\_EXISTS checks to GAME\_IS checks where appropriate. Add BGEE variables to getcpmvara/getcpmvarp calls.
@@ -463,7 +447,6 @@ Below are links to community-related sites:
     * Prevent Coran Wyvern Quest component from installing on BGEEv2/SoD.
     * Updated Italian Translation - thanks Aedan!
     * Added extra\_tmp\_ee.tra with BGEE Dialog.tlk strings
-
 * Version 14.1
   * BUGFIXES
   	* Fixed bug on Tutu with Unshey's restored dialog
@@ -471,7 +454,6 @@ Below are links to community-related sites:
     * Updated Italian Translation - thanks Aedan!
     * Svlast, the Fallen Paladin: Made Svlast's items unidentified
     * Updating BGT\_VAR for EET Support
-
 * Version 15
   * NEW COMPONENT: Chapter 6 Dialog Restorations
   * Mal-Kalen updates:
@@ -484,16 +466,13 @@ Below are links to community-related sites:
     * Adding NTotSC check for Svlast component
     * Updating DV changes to write 32 bytes
     * Removing change of DV for %tutu_var%NOBW4.cre
-
 * Version 15.1
   * Ch 6 Restorations: Updates to improve scripting and dialog options
   * Shilo Chen: Updated item description for Gloves of Pick Pocketing in BGEE
   * Updated Polish translations - Thanks Cahir!
-
 * Version 15.2
   * Updated French translations - Thanks Isaya!
   * Updated Italian translations - Thanks Aedan!
-
 * Version 16.0
   * Block the following components from being installed on BGEE v2.5:
     * The Mysterious Vial
@@ -513,42 +492,4 @@ Below are links to community-related sites:
     * Give Taurgosz Khosann FR-canon colors in BGEE v2.5
   * Nim Furlwing Encounter: Fix issue with reward scroll
   * Chapter 6 Dialogue Restorations: Fixed issue installing on BG1-TotSC
-
-* Version 16.1
-  * Russian version completed by d0lphin.
-  * Component "Additional Elminster Encounter" will be skipped for BGT (encounter is already restored in BGT)
-  * Component "Coran and the Wyverns" will be skipped for BGT: Wyvern is already unique, and dialogue fix currently destroys Coran's greetings dialogue.
-  * "Chapter 6 Dialogue Restorations": Watch on 6th floor should not constantly try to talk to the PC.
-  * Readme renamed to README.bg1ub.english.html.
-  * bg1ub.ini with mod info added.
-
-* Version 16.2
-
-  * Re-eabled Coran and The Wyvern component for BGT
-  * Svlast will be at his place at all times of day.
-  * Moved NimFurlwing and her dogs further south to make the encounter compatible with Aurora Shoes and Boots which spawns a great horde of monsters where bg1ub placed the Furlwing encounter * originally.
-  * Chapter 6 Dialogue Restorations: Watch on level 6 will now have same random dialogue as the watches on the other library levels (spawn watch9.cre instead of custom version of watch2).
-
-* Version 16.3
-
-  * Update and correction of Russian translation by d0lphin.
-
-* Version 16.4
-
-  * Changed syntax of Kivan's interjection with Tazok to make it more stable (I_C_T instead of I_C_T2).
-  * Spanish version updated and completed by OmegaZeroVIII.
-  * Corrected entry for "Beregost_House08_L2" in cpmvars.tpas.
-  * Readme updated.
-
-* Version 16.5
-
-  * Fix Arkion dialog tree on BGEE/EET.
-  * Fix for EE compat by Jastey (https://forums.pocketplane.net/index.php?topic=30046.msg340860#msg340860).
-  * Fix folder abprismemeralds appeared twice.
-  * Normalize file endings.
-  * Update German translation.
-  * Update Chinese translation.
-
-* Version 16.6
-
-  * Converted the mod to use UTF8 encoding for translation files.
+ 

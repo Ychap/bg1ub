@@ -1,27 +1,27 @@
 //Nim Furlwing Dialog
 /* #14897 */
-@1 = ~To dopiero pomoc. Moje najlepsze psy myÅ›liwskie leÅ¼Ä… bez Å¼ycia, caÅ‚e we krwi. PrzysiÄ™gam, Å¼e wy poszukiwacze przygÃ³d zwykle znacznie lepiej radzicie sobie jako bandyci, a nie ochroniarze.~
+@1 = ~To dopiero pomoc. Moje najlepsze psy myœliwskie le¿¹ bez ¿ycia, ca³e we krwi. Przysiêgam, ¿e wy poszukiwacze przygód zwykle znacznie lepiej radzicie sobie jako bandyci, a nie ochroniarze.~
 
  /* #14899 */
-@2 = ~Hmm, staliÅ›cie tylko na mojej drodze. Teraz popatrzcie na ten baÅ‚agan... PowinniÅ›cie wiedzieÄ‡, Å¼e one byÅ‚y rasowe.~ 
+@2 = ~Hmm, staliœcie tylko na mojej drodze. Teraz popatrzcie na ten ba³agan... Powinniœcie wiedzieæ, ¿e one by³y rasowe.~ 
 
 /* #14900 */
-@3 = ~DziÄ™kuje wam za pomoc. Åšwietna rasa psÃ³w myÅ›liwskich, prawda? ProszÄ™, weÅºcie ten pergamin pozwalajÄ…cy na wezwanie zwierzÄ™cia jako wyraz mojej wdziÄ™cznoÅ›ci.~ 
+@3 = ~Dziêkuje wam za pomoc. Œwietna rasa psów myœliwskich, prawda? Proszê, weŸcie ten pergamin pozwalaj¹cy na wezwanie zwierzêcia jako wyraz mojej wdziêcznoœci.~ 
 
 /* #14901 */
-@4 = ~Nie radzÄ™ wchodziÄ‡ pomiÄ™dzy elfiego myÅ›liwego i jego psy, przyjaciele.~
+@4 = ~Nie radzê wchodziæ pomiêdzy elfiego myœliwego i jego psy, przyjaciele.~
 
 /* #14902 */
-@5 = ~Zbyt duÅ¼o czasu spÄ™dzam na polowaniach, by kÅ‚opotaÄ‡ siÄ™ politykÄ….~ 
+@5 = ~Zbyt du¿o czasu spêdzam na polowaniach, by k³opotaæ siê polityk¹.~ 
 
-@6 = ~Tua amin! Pomocy! Te plugawe bestie atakujÄ… moje psy!~
+@6 = ~Tua amin! Pomocy! Te plugawe bestie atakuj¹ moje psy!~
 
 //Journal Entries
 /* #15715 */
-@7 = ~WyszliÅ›my dzisiaj na gÅ‚upcÃ³w, a nie doÅ›wiadczonych poszukiwaczy przygÃ³d. WyglÄ…da na to, Å¼e przybyliÅ›my zbyt pÃ³Åºno i zrobiliÅ›my za maÅ‚o, by uratowaÄ‡ wspaniaÅ‚e psy myÅ›liwskie Nima Furlwinga w Lesie Ostrych KÅ‚Ã³w.~
+@7 = ~Wyszliœmy dzisiaj na g³upców, a nie doœwiadczonych poszukiwaczy przygód. Wygl¹da na to, ¿e przybyliœmy zbyt póŸno i zrobiliœmy za ma³o, by uratowaæ wspania³e psy myœliwskie Nima Furlwinga w Lesie Ostrych K³ów.~
 
 /* #15718 */
-@8 = ~WyszliÅ›my dzisiaj na gÅ‚upcÃ³w, a nie doÅ›wiadczonych poszukiwaczy przygÃ³d. WyglÄ…da na to, Å¼e przybyliÅ›my zbyt pÃ³Åºno i zrobiliÅ›my za maÅ‚o, by uratowaÄ‡ wspaniaÅ‚e psy myÅ›liwskie Nima Furlwinga w Lesie Ostrych KÅ‚Ã³w.~  
+@8 = ~Wyszliœmy dzisiaj na g³upców, a nie doœwiadczonych poszukiwaczy przygód. Wygl¹da na to, ¿e przybyliœmy zbyt póŸno i zrobiliœmy za ma³o, by uratowaæ wspania³e psy myœliwskie Nima Furlwinga w Lesie Ostrych K³ów.~  
 
 /* #15717 */
-@9 = ~Las Ostrych KÅ‚Ã³w! Dzisiaj uratowaliÅ›my rasowe psy Nima Furlwinga przed sforÄ… wÅ›ciekÅ‚ych wilkÃ³w i muszÄ™ przyznaÄ‡, Å¼e jestem po tym zdarzeniu nadal trochÄ™ obolaÅ‚y.~ ~Las Ostrych KÅ‚Ã³w! Dzisiaj uratowaliÅ›my rasowe psy Nima Furlwinga przed sforÄ… wÅ›ciekÅ‚ych wilkÃ³w i muszÄ™ przyznaÄ‡, Å¼e jestem po tym zdarzeniu nadal trochÄ™ obolaÅ‚a.~
+@9 = ~Las Ostrych K³ów! Dzisiaj uratowaliœmy rasowe psy Nima Furlwinga przed sfor¹ wœciek³ych wilków i muszê przyznaæ, ¿e jestem po tym zdarzeniu nadal trochê obola³y.~ ~Las Ostrych K³ów! Dzisiaj uratowaliœmy rasowe psy Nima Furlwinga przed sfor¹ wœciek³ych wilków i muszê przyznaæ, ¿e jestem po tym zdarzeniu nadal trochê obola³a.~

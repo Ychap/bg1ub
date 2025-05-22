@@ -1,7 +1,7 @@
 // Svlast CRE
 @4201 = ~Svlast~
 // #4710
-@4202 = ~[LOTHANDER 2] Ma vie est un dÃ©sastre.~ [%tutu_var%LOTHR02]
+@4202 = ~[LOTHANDER 2] Ma vie est un désastre.~ [%tutu_var%LOTHR02]
 @4203 = ~[LOTHANDER 3]~ [%tutu_var%LOTHR03]
 @4204 = ~[LOTHANDER 4]~ [%tutu_var%LOTHR04]
 
@@ -11,7 +11,7 @@
 // #5144
 @4212 = ~[REVENANT 02] Il faut que je me venge...~ [%tutu_var%REVEN02]
 // #5145
-@4213 = ~[REVENANT0 3] J'suis lÃ  pour vous.~ [%tutu_var%REVEN03]
+@4213 = ~[REVENANT0 3] J'suis là pour vous.~ [%tutu_var%REVEN03]
 // #5146
 @4214 = ~[REVENANT 04] Vous allez me le payer.~ [%tutu_var%REVEN04]
 @4215 = ~[REVENANT 05] ~ [%tutu_var%REVEN05]
@@ -24,53 +24,53 @@
 // UBSVLAST.D
 
 /* #14889 */
-@4220 = ~Il est lÃ , dehors. Il vient. J'entends ses pas qui me suivent. L'odeur de chair pourrie. Il vient nous chercher tous.~
+@4220 = ~Il est là, dehors. Il vient. J'entends ses pas qui me suivent. L'odeur de chair pourrie. Il vient nous chercher tous.~
 /* #14890 */
-@4221 = ~J... Je l'ai tuÃ©. Mais il est dehors, il vient par ici, j... je le sens.~
+@4221 = ~J... Je l'ai tué. Mais il est dehors, il vient par ici, j... je le sens.~
 /* #14891 - MODIFIED */
-@4222 = ~J'Ã©tais paladin autrefois. J'ai combattu aux cÃ´tÃ©s du bien mais tout Ã§a ne sert Ã  rien... Je l'ai assassinÃ© de sang froid, mon frÃ¨re de religion... Quand il va venir, qu'il agisse Ã  sa guise.~
+@4222 = ~J'étais paladin autrefois. J'ai combattu aux côtés du bien mais tout ça ne sert à rien... Je l'ai assassiné de sang froid, mon frère de religion... Quand il va venir, qu'il agisse à sa guise.~
 /* #14893 - MODIFIED */
-@4223 = ~Qu'avez-vous fait ? Maintenant, je suis deux fois plus misÃ©rable ! Tuez-moi en ce lieu de supplice ! Au moins, justice sera faite.~
+@4223 = ~Qu'avez-vous fait ? Maintenant, je suis deux fois plus misérable ! Tuez-moi en ce lieu de supplice ! Au moins, justice sera faite.~
 /* #14894 */
-@4224 = ~Qu'espÃ©rez-vous apprendre de quelqu'un d'aussi misÃ©rable que moi ? Au moins, que mon exemple vous serve de leÃ§on : ne cherchez pas Ã  tuer ce qui est bon dans le monde.~
+@4224 = ~Qu'espérez-vous apprendre de quelqu'un d'aussi misérable que moi ? Au moins, que mon exemple vous serve de leçon : ne cherchez pas à tuer ce qui est bon dans le monde.~
 /* #14895 */
-@4225 = ~Je vous en supplie, laissez-moi Ã  mon malheur.~
+@4225 = ~Je vous en supplie, laissez-moi à mon malheur.~
 /* #14896 */
 @4226 = ~J'ai beau souhaiter la mort, je ne l'affronterai pas sans combattre.~
 /* #14893 en partie */
-@4227 = ~Je suis dÃ©solÃ©, mon frÃ¨re... Je t'enviais, j'Ã©tais... idiot. Ma vie t'appartient.~
+@4227 = ~Je suis désolé, mon frère... Je t'enviais, j'étais... idiot. Ma vie t'appartient.~
 
 // Replies
 @4240 = ~De quoi parlez-vous ? Qui vient nous chercher ?~
-@4241 = ~Qui est cette personne ? Pourquoi vous traque-t-il d'au-delÃ  de la mort ?~
-@4242 = ~ÃŠtes-vous fou ? Je ne vais pas me contenter de m'Ã©carter et de laisser cette crÃ©ature vous tuer !~
-@4243 = ~Comme vous souhaitez. Je n'approuve pas votre dÃ©cision mais, si c'est votre choix de mourir des mains de cette crÃ©ature, je ne vais pas m'interposer.~
-@4244 = ~Aucun problÃ¨me. C'est entre lui et vous. Je ne veux pas y Ãªtre mÃªlÃ© !~
-        ~Aucun problÃ¨me. C'est entre lui et vous. Je ne veux pas y Ãªtre mÃªlÃ©e !~
-@4245 = ~Une crÃ©ature morte-vivante veut *votre* mort ? Peut-Ãªtre que nous devrions simplement lui donner ce qu'elle veut !~
+@4241 = ~Qui est cette personne ? Pourquoi vous traque-t-il d'au-delà de la mort ?~
+@4242 = ~Êtes-vous fou ? Je ne vais pas me contenter de m'écarter et de laisser cette créature vous tuer !~
+@4243 = ~Comme vous souhaitez. Je n'approuve pas votre décision mais, si c'est votre choix de mourir des mains de cette créature, je ne vais pas m'interposer.~
+@4244 = ~Aucun problème. C'est entre lui et vous. Je ne veux pas y être mêlé !~
+        ~Aucun problème. C'est entre lui et vous. Je ne veux pas y être mêlée !~
+@4245 = ~Une créature morte-vivante veut *votre* mort ? Peut-être que nous devrions simplement lui donner ce qu'elle veut !~
 @4246 = ~Comme vous le souhaitez. Que justice soit faite.~
-@4247 = ~Je refuse. Je ne serai pas votre bourreau. Vous allez devoir expier vos crimes. Alors peut-Ãªtre que d'autres pourront apprendre de vos erreurs.~
-@4248 = ~VoilÃ  une belle faÃ§on de faire preuve de gratitude ! Je viens de sauver votre misÃ©rable vie !~
-@4249 = ~Si tel est votre dÃ©sir, ce sera avec plaisir.~
+@4247 = ~Je refuse. Je ne serai pas votre bourreau. Vous allez devoir expier vos crimes. Alors peut-être que d'autres pourront apprendre de vos erreurs.~
+@4248 = ~Voilà une belle façon de faire preuve de gratitude ! Je viens de sauver votre misérable vie !~
+@4249 = ~Si tel est votre désir, ce sera avec plaisir.~
 
 // Journal Entries
 //  (Strref: 15713)
 // Correction de traduction "par erreur" -> "injustement"
 @4290 = ~Le tourment de Svlast
-J'ai Ã©tÃ© tÃ©moin d'Ã©vÃ©nements tristes dans les ruines de Flammevin. Un ex-paladin du nom de Svlast est hantÃ© par l'esprit de son frÃ¨re de religion, qu'il a injustement tuÃ©. Jamais je n'ai vu Ã¢me plus dÃ©pitÃ©e et repentante que celle de ce pauvre Svlast. Il nous a suppliÃ©s de ne pas nous en mÃªler mais mon coeur ne peut rester indiffÃ©rent.~
+J'ai été témoin d'événements tristes dans les ruines de Flammevin. Un ex-paladin du nom de Svlast est hanté par l'esprit de son frère de religion, qu'il a injustement tué. Jamais je n'ai vu âme plus dépitée et repentante que celle de ce pauvre Svlast. Il nous a suppliés de ne pas nous en mêler mais mon coeur ne peut rester indifférent.~
 @4291 = ~Le tourment de Svlast
-Un ex-paladin du nom de Svlast est hantÃ© par l'esprit de son frÃ¨re de religion, qu'il a injustement tuÃ©. Il nous a suppliÃ©s de ne pas nous en mÃªler.~
+Un ex-paladin du nom de Svlast est hanté par l'esprit de son frère de religion, qu'il a injustement tué. Il nous a suppliés de ne pas nous en mêler.~
 @4292 = ~Le tourment de Svlast
-Un ex-paladin du nom de Svlast Ã©tait hantÃ© par l'esprit de son frÃ¨re de religion, qu'il avait injustement tuÃ©. J'ai accordÃ© Ã  la crÃ©ature ce qu'elle voulait en tuant moi-mÃªme le paladin dÃ©chu.~
+Un ex-paladin du nom de Svlast était hanté par l'esprit de son frère de religion, qu'il avait injustement tué. J'ai accordé à la créature ce qu'elle voulait en tuant moi-même le paladin déchu.~
 @4293 = ~Le tourment de Svlast
-Le tourment de Svlast s'est achevÃ©. La crÃ©ature a obtenu sa vengeance.~
+Le tourment de Svlast s'est achevé. La créature a obtenu sa vengeance.~
 // (Strref: 15703)
-// ComplÃ©ment "et misÃ©rable" non prÃ©sent dans la traduction officielle
+// Complément "et misérable" non présent dans la traduction officielle
 @4295 = ~Le tourment de Svlast
-Ayant survÃ©cu Ã  l'assaut du revenant grÃ¢ce Ã  notre aide, le pauvre et misÃ©rable Svlast nous a suppliÃ©s de finir son travail... Il fait sombre dans ces ruines et je crains que l'obscuritÃ© ne s'Ã©paississe encore.~
+Ayant survécu à l'assaut du revenant grâce à notre aide, le pauvre et misérable Svlast nous a suppliés de finir son travail... Il fait sombre dans ces ruines et je crains que l'obscurité ne s'épaississe encore.~
 @4296 = ~Le tourment de Svlast
-Ayant survÃ©cu Ã  l'assaut du revenant grÃ¢ce Ã  notre aide, le pauvre et misÃ©rable Svlast nous a suppliÃ©s de finir son travail... J'ai refusÃ© catÃ©goriquement. Il lui faudra expier ses crimes.~
+Ayant survécu à l'assaut du revenant grâce à notre aide, le pauvre et misérable Svlast nous a suppliés de finir son travail... J'ai refusé catégoriquement. Il lui faudra expier ses crimes.~
 @4297 = ~Le tourment de Svlast
-Ayant survÃ©cu Ã  l'assaut du revenant grÃ¢ce Ã  notre aide, le pauvre et misÃ©rable Svlast nous a suppliÃ©s de finir son travail... On aurait pu penser qu'il fasse preuve d'un peu de gratitude !~
+Ayant survécu à l'assaut du revenant grâce à notre aide, le pauvre et misérable Svlast nous a suppliés de finir son travail... On aurait pu penser qu'il fasse preuve d'un peu de gratitude !~
 @4298 = ~Le tourment de Svlast
-Ayant survÃ©cu Ã  l'assaut du revenant grÃ¢ce Ã  notre aide, le pauvre et misÃ©rable Svlast nous a suppliÃ©s de finir son travail... Au nom de quoi aurais-je refusÃ© ?~
+Ayant survécu à l'assaut du revenant grâce à notre aide, le pauvre et misérable Svlast nous a suppliés de finir son travail... Au nom de quoi aurais-je refusé ?~
