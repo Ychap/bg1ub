@@ -2,55 +2,55 @@
 
 //CRE Sounds
 /* 4852 */
-@4302 = ~UwolniÄ‡! UwolniÄ‡! WrÃ³ciÄ‡ ciaÅ‚o! DopeÅ‚niÄ‡ Å¼ycie! Zemsta!~ [MALKL01]
-@4303 = ~UwolniÄ‡ ciaÅ‚o! Raz jeszcze Å¼yÄ‡!~ [MALKL02]
+@4302 = ~Uwolniæ! Uwolniæ! Wróciæ cia³o! Dope³niæ ¿ycie! Zemsta!~ [MALKL01]
+@4303 = ~Uwolniæ cia³o! Raz jeszcze ¿yæ!~ [MALKL02]
 @4304 = ~~ [MALKL03]
 @4305 = ~~ [MALKL04]
 @4306 = ~~ [REVEN01]
-@4307 = ~WyduszÄ™ z ciebie Å¼ycie...~ [REVEN02]
+@4307 = ~Wyduszê z ciebie ¿ycie...~ [REVEN02]
 @4308 = ~~ [REVEN05]
 @4309 = ~~ [REVEN06]
 
 //Dialog
-@4310 = ~Pomocy... do ciaÅ‚a... tylko cieÅ„... ja do ciaÅ‚a... znowu Å¼ywy! ZemÅ›ciÄ‡ siÄ™ na niszczycielach!~ /* #2472 */
-@4311 = ~Biedne stworzenie, kimÅ¼e byÅ‚o za Å¼ycia?~ /* #2474 */ 
-@4312 = ~Nie ma dla ciebie spokoju, nieszczÄ™sny duchu? Co wiÄ…Å¼e ciÄ™ z tym miejscem?~ /* #2476 */
-@4313 = ~Precz, martwiaku! Precz, chyba Å¼e chcesz umrzeÄ‡ po raz wtÃ³ry!~ /* #2475 */ 
-@4314 = ~Mal-Kalen ...ja uczeÅ„... zemÅ›ciÄ‡ siÄ™ na niszczycielach... uwolniÄ‡ ciaÅ‚o!~ /* #2473 */
-@4315 = ~SzkoÅ‚a podstÄ™pnie zniszczona... Ulcaster zniknÄ…Å‚... mÃ³wili: broÅ„cie siÄ™... chcÄ™ pomsty!~ /* #2477 */
-@4316 = ~Teraz ciaÅ‚o w Å›rodku... nie ma dla niego ucieczki... uwolniÄ‡ je, bym powrÃ³ciÅ‚ do Å¼ycia! ZemÅ›ciÄ‡ siÄ™ na niszczycielach!~ /* #2478 */
-@4317 = ~Wstrzymaj swe ataki, zaklinam ciÄ™! Nie jestem twoim wrogiem!~ /* #2481 */
-@4318 = ~Zostaw mnie! Nie mnie siÄ™ naleÅ¼y twÃ³j wiekowy gniew!~ /* #2482 */
-@4319 = ~UwaÅ¼aÅ‚eÅ› siÄ™ za martwego? Poczekaj, aÅ¼ z tobÄ… skoÅ„czÄ™!~ /* #2483 */
-@4320 = ~Nie wrogowie... ciaÅ‚o... uwolniÄ‡ ciaÅ‚o, ja Å¼ywy! ZemÅ›ciÄ‡ siÄ™ na niszczycielach!~ /* #2479 */
-@4321 = ~O tej bitwie wszyscy juÅ¼ zapomnieli! Przerwij swe bezcelowe poszukiwania!~ /* #2488 */
-@4322 = ~Uwalniam swe ciaÅ‚o i znikam! Do zobaczenia!~ /* #2489 */ 
-@4323 = ~Zaczekaj! MoÅ¼esz zabraÄ‡ ciaÅ‚o Samuela. Mnie zostaw w spokoju!~ 
-@4324 = ~Zaczekaj! MoÅ¼esz zabraÄ‡ ciaÅ‚o Evana. Mnie zostaw w spokoju!~ 
-@4325 = ~Zaczekaj! MoÅ¼esz zabraÄ‡ ciaÅ‚o Brage'a. Mnie zostaw w spokoju!~ 
-@4326 = ~Zaczekaj! MoÅ¼esz zabraÄ‡ ciaÅ‚o Nathana. Mnie zostaw w spokoju!~ 
-@4327 = ~Zaczekaj! MoÅ¼esz zabraÄ‡ ciaÅ‚o Chelaka. Mnie zostaw w spokoju!~ 
-@4328 = ~Zaczekaj! MoÅ¼esz zabraÄ‡ ciaÅ‚o tej kobiety. Mnie zostaw w spokoju!~ 
-@4329 = ~Zaczekaj! MoÅ¼esz zabraÄ‡ ciaÅ‚o tego mÄ™Å¼czyzny. Mnie zostaw w spokoju!~ 
-@4330 = ~To tylko dziesiÄ™Ä‡ dni... musieÄ‡ zemÅ›ciÄ‡ siÄ™ na niszczycielach! UwolniÄ‡ moje ciaÅ‚o!~ /* #2480 */
-@4331 = ~To juÅ¼ trzysta lat! Czas istotnie zrobiÅ‚ swoje!~ /* #2487 */ 
-@4332 = ~â€Uwolnij ciaÅ‚o! Uwolnij ciaÅ‚o!â€ UwolniÄ™ twÃ³j kark od ciÄ™Å¼aru czerepu i wyÅ›lÄ™ go do DziewiÄ™ciu PiekieÅ‚!~ /* #2490 */ 
-@4333 = ~Nie zapomniaÅ‚em... tylko dziesiÄ™Ä‡ dni... uwolniÄ‡ ciaÅ‚o!~ /* #2491 */
-@4334 = ~Trzysta lat... niemoÅ¼liwe... trzysta... wszyscy nie Å¼yjÄ…...~ /* #2496 */
-@4335 = ~Wszyscy nieÅ¼ywi... ja przeÅ¼yÅ‚em... odpokutujÄ… za to ich potomkowie... zemsta na niszczycielach! UwolniÄ‡ ciaÅ‚o!~ /* #2497 */
-@4336 = ~Walka... nie... uwolniÄ‡ ciaÅ‚o... UWOLNIÄ†!~ /* #2498 */
-@4337 = ~Znowu Å¼ywy... zemÅ›ciÄ‡ siÄ™ na niszczycielach!~ /* #2499 */
-@4338 = ~Nieeee...! ZemÅ›ciÄ‡ siÄ™ na niszczycielach... pomsta...~ /* #2500 */
+@4310 = ~Pomocy... do cia³a... tylko cieñ... ja do cia³a... znowu ¿ywy! Zemœciæ siê na niszczycielach!~ /* #2472 */
+@4311 = ~Biedne stworzenie, kim¿e by³o za ¿ycia?~ /* #2474 */ 
+@4312 = ~Nie ma dla ciebie spokoju, nieszczêsny duchu? Co wi¹¿e ciê z tym miejscem?~ /* #2476 */
+@4313 = ~Precz, martwiaku! Precz, chyba ¿e chcesz umrzeæ po raz wtóry!~ /* #2475 */ 
+@4314 = ~Mal-Kalen ...ja uczeñ... zemœciæ siê na niszczycielach... uwolniæ cia³o!~ /* #2473 */
+@4315 = ~Szko³a podstêpnie zniszczona... Ulcaster znikn¹³... mówili: broñcie siê... chcê pomsty!~ /* #2477 */
+@4316 = ~Teraz cia³o w œrodku... nie ma dla niego ucieczki... uwolniæ je, bym powróci³ do ¿ycia! Zemœciæ siê na niszczycielach!~ /* #2478 */
+@4317 = ~Wstrzymaj swe ataki, zaklinam ciê! Nie jestem twoim wrogiem!~ /* #2481 */
+@4318 = ~Zostaw mnie! Nie mnie siê nale¿y twój wiekowy gniew!~ /* #2482 */
+@4319 = ~Uwa¿a³eœ siê za martwego? Poczekaj, a¿ z tob¹ skoñczê!~ /* #2483 */
+@4320 = ~Nie wrogowie... cia³o... uwolniæ cia³o, ja ¿ywy! Zemœciæ siê na niszczycielach!~ /* #2479 */
+@4321 = ~O tej bitwie wszyscy ju¿ zapomnieli! Przerwij swe bezcelowe poszukiwania!~ /* #2488 */
+@4322 = ~Uwalniam swe cia³o i znikam! Do zobaczenia!~ /* #2489 */ 
+@4323 = ~Zaczekaj! Mo¿esz zabraæ cia³o Samuela. Mnie zostaw w spokoju!~ 
+@4324 = ~Zaczekaj! Mo¿esz zabraæ cia³o Evana. Mnie zostaw w spokoju!~ 
+@4325 = ~Zaczekaj! Mo¿esz zabraæ cia³o Brage'a. Mnie zostaw w spokoju!~ 
+@4326 = ~Zaczekaj! Mo¿esz zabraæ cia³o Nathana. Mnie zostaw w spokoju!~ 
+@4327 = ~Zaczekaj! Mo¿esz zabraæ cia³o Chelaka. Mnie zostaw w spokoju!~ 
+@4328 = ~Zaczekaj! Mo¿esz zabraæ cia³o tej kobiety. Mnie zostaw w spokoju!~ 
+@4329 = ~Zaczekaj! Mo¿esz zabraæ cia³o tego mê¿czyzny. Mnie zostaw w spokoju!~ 
+@4330 = ~To tylko dziesiêæ dni... musieæ zemœciæ siê na niszczycielach! Uwolniæ moje cia³o!~ /* #2480 */
+@4331 = ~To ju¿ trzysta lat! Czas istotnie zrobi³ swoje!~ /* #2487 */ 
+@4332 = ~„Uwolnij cia³o! Uwolnij cia³o!” Uwolniê twój kark od ciê¿aru czerepu i wyœlê go do Dziewiêciu Piekie³!~ /* #2490 */ 
+@4333 = ~Nie zapomnia³em... tylko dziesiêæ dni... uwolniæ cia³o!~ /* #2491 */
+@4334 = ~Trzysta lat... niemo¿liwe... trzysta... wszyscy nie ¿yj¹...~ /* #2496 */
+@4335 = ~Wszyscy nie¿ywi... ja prze¿y³em... odpokutuj¹ za to ich potomkowie... zemsta na niszczycielach! Uwolniæ cia³o!~ /* #2497 */
+@4336 = ~Walka... nie... uwolniæ cia³o... UWOLNIÆ!~ /* #2498 */
+@4337 = ~Znowu ¿ywy... zemœciæ siê na niszczycielach!~ /* #2499 */
+@4338 = ~Nieeee...! Zemœciæ siê na niszczycielach... pomsta...~ /* #2500 */
 
 
 // Journal Entries  
 @4350 = ~Mal-Kalen, duch z Ulcaster
 
-SpotkaliÅ›my ducha o imieniu Mal-Kalen, ktÃ³ry byÅ‚ niegdyÅ› uczniem szkoÅ‚y Ulcaster. Istota nawiedza ruiny szkoÅ‚y od wiekÃ³w, poszukujÄ…c ciaÅ‚a, w ktÃ³rym mÃ³gÅ‚by zamieszkaÄ‡, by zemÅ›ciÄ‡ siÄ™ za zniszczenie szkoÅ‚y. OdmÃ³wiÅ‚em jego proÅ›bie przy uÅ¼yciu siÅ‚y.~ ~Mal-Kalen, duch z Ulcaster
+Spotkaliœmy ducha o imieniu Mal-Kalen, który by³ niegdyœ uczniem szko³y Ulcaster. Istota nawiedza ruiny szko³y od wieków, poszukuj¹c cia³a, w którym móg³by zamieszkaæ, by zemœciæ siê za zniszczenie szko³y. Odmówi³em jego proœbie przy u¿yciu si³y.~ ~Mal-Kalen, duch z Ulcaster
 
-SpotkaliÅ›my ducha o imieniu Mal-Kalen, ktÃ³ry byÅ‚ niegdyÅ› uczniem szkoÅ‚y Ulcaster. Istota nawiedza ruiny szkoÅ‚y od wiekÃ³w, poszukujÄ…c ciaÅ‚a, w ktÃ³rym mÃ³gÅ‚by zamieszkaÄ‡, by zemÅ›ciÄ‡ siÄ™ za zniszczenie szkoÅ‚y. OdmÃ³wiÅ‚am jego proÅ›bie przy uÅ¼yciu siÅ‚y.~ 
+Spotkaliœmy ducha o imieniu Mal-Kalen, który by³ niegdyœ uczniem szko³y Ulcaster. Istota nawiedza ruiny szko³y od wieków, poszukuj¹c cia³a, w którym móg³by zamieszkaæ, by zemœciæ siê za zniszczenie szko³y. Odmówi³am jego proœbie przy u¿yciu si³y.~ 
 @4351 = ~Mal-Kalen, duch z Ulcaster
 
-SpotkaliÅ›my ducha o imieniu Mal-Kalen, ktÃ³ry byÅ‚ niegdyÅ› uczniem szkoÅ‚y Ulcaster. Istota nawiedza ruiny szkoÅ‚y od wiekÃ³w, poszukujÄ…c ciaÅ‚a, w ktÃ³rym mÃ³gÅ‚by zamieszkaÄ‡, by zemÅ›ciÄ‡ siÄ™ za zniszczenie szkoÅ‚y. DaÅ‚em mu to, czego chciaÅ‚, zachowujÄ…c przy tym wÅ‚asne ciaÅ‚o w stanie nienaruszonym.~ ~Mal-Kalen, duch z Ulcaster
+Spotkaliœmy ducha o imieniu Mal-Kalen, który by³ niegdyœ uczniem szko³y Ulcaster. Istota nawiedza ruiny szko³y od wieków, poszukuj¹c cia³a, w którym móg³by zamieszkaæ, by zemœciæ siê za zniszczenie szko³y. Da³em mu to, czego chcia³, zachowuj¹c przy tym w³asne cia³o w stanie nienaruszonym.~ ~Mal-Kalen, duch z Ulcaster
 
-SpotkaliÅ›my ducha o imieniu Mal-Kalen, ktÃ³ry byÅ‚ niegdyÅ› uczniem szkoÅ‚y Ulcaster. Istota nawiedza ruiny szkoÅ‚y od wiekÃ³w, poszukujÄ…c ciaÅ‚a, w ktÃ³rym mÃ³gÅ‚by zamieszkaÄ‡, by zemÅ›ciÄ‡ siÄ™ za zniszczenie szkoÅ‚y. DaÅ‚am mu to, czego chciaÅ‚, zachowujÄ…c przy tym wÅ‚asne ciaÅ‚o w stanie nienaruszonym.~
+Spotkaliœmy ducha o imieniu Mal-Kalen, który by³ niegdyœ uczniem szko³y Ulcaster. Istota nawiedza ruiny szko³y od wieków, poszukuj¹c cia³a, w którym móg³by zamieszkaæ, by zemœciæ siê za zniszczenie szko³y. Da³am mu to, czego chcia³, zachowuj¹c przy tym w³asne cia³o w stanie nienaruszonym.~

@@ -1,29 +1,29 @@
 /* ITALIAN */
-//Game text - use UTF8 encoding
+//Game text - use Windows encoding
 //Prism item strings
-@117 = ~Uno smeraldo √® un berillo verde brillante, sgrezzato e tagliato a forma di prisma rettangolare in fase di raffinazione. Gli smeraldi sono spesso collegati al benessere, e come tali vengono utilizzati a scopo ornamentale. Questo smeraldo ha una piccola 'L' incisa su di esso. E' stato rubato da Prism per decorare la statua della donna amata, Ellesime. Si suppone che questa gemma fosse destinata a rappresentare l'occhio sinistro della statua. C'√® una taglia da riscattare consegnando lo smeraldo alle autorit√† competenti.~
-@118 = ~Uno smeraldo √® un berillo verde brillante, sgrezzato e tagliato a forma di prisma rettangolare in fase di raffinazione. Gli smeraldi sono spesso collegati al benessere, e come tali vengono utilizzati a scopo ornamentale. Questo smeraldo ha una piccola 'R' incisa su di esso. E' stato rubato da Prism per decorare la statua della donna amata, Ellesime. Si suppone che questa gemma fosse destinata a rappresentare l'occhio destro della statua. C'√® una taglia da riscattare consegnando lo smeraldo alle autorit√† competenti.~
+@117 = ~Uno smeraldo Ë un berillo verde brillante, sgrezzato e tagliato a forma di prisma rettangolare in fase di raffinazione. Gli smeraldi sono spesso collegati al benessere, e come tali vengono utilizzati a scopo ornamentale. Questo smeraldo ha una piccola 'L' incisa su di esso. E' stato rubato da Prism per decorare la statua della donna amata, Ellesime. Si suppone che questa gemma fosse destinata a rappresentare l'occhio sinistro della statua. C'Ë una taglia da riscattare consegnando lo smeraldo alle autorit‡ competenti.~
+@118 = ~Uno smeraldo Ë un berillo verde brillante, sgrezzato e tagliato a forma di prisma rettangolare in fase di raffinazione. Gli smeraldi sono spesso collegati al benessere, e come tali vengono utilizzati a scopo ornamentale. Questo smeraldo ha una piccola 'R' incisa su di esso. E' stato rubato da Prism per decorare la statua della donna amata, Ellesime. Si suppone che questa gemma fosse destinata a rappresentare l'occhio destro della statua. C'Ë una taglia da riscattare consegnando lo smeraldo alle autorit‡ competenti.~
 
 //journal entries ##
-@119 = ~Che babbeo quel Prism. Ha abboccato subito quando ho detto di non sapere nulla degli smeraldi scomparsi. Va beh... Pi√π povero lui. Pi√π ricco io.~
-@120 = ~Forse √® stato uno sbaglio, ma dopo aver permesso a Prism di completare il suo 'ultimo capolavoro' ho preso uno degli smeraldi incastonati nella statua. Nel posto giusto dovrebbe garantire una bella sommetta, o al limite mi prendo una bella ricompensa...~
+@119 = ~Che babbeo quel Prism. Ha abboccato subito quando ho detto di non sapere nulla degli smeraldi scomparsi. Va beh... Pi˘ povero lui. Pi˘ ricco io.~
+@120 = ~Forse Ë stato uno sbaglio, ma dopo aver permesso a Prism di completare il suo 'ultimo capolavoro' ho preso uno degli smeraldi incastonati nella statua. Nel posto giusto dovrebbe garantire una bella sommetta, o al limite mi prendo una bella ricompensa...~
 @121 = ~Dopo un po' di fatica, sono riuscito a togliere anche il secondo smeraldo rubato da Prism per farne un occhio nel suo 'ultimo capolavoro'.~
 @122 = ~La storia di Prism era davvero triste.  Un peccato che non ci sia stata lieta fine.  E va beh, alla fine io ci guadagno.  Una taglia di 300 pezzi d'oro per gli smeraldi rubati.~
-@123 = ~Meglio ricordarsi di non far finta di essere qualcun altro per fare soldi facili la prossima volta. Anche se Oublek s'√® tenuto una parte, ho comunque ricevuto la ricompensa per aver riconsegnato gli smeraldi rubati.~
+@123 = ~Meglio ricordarsi di non far finta di essere qualcun altro per fare soldi facili la prossima volta. Anche se Oublek s'Ë tenuto una parte, ho comunque ricevuto la ricompensa per aver riconsegnato gli smeraldi rubati.~
 /* Unused line for Captain Brage Journal entry
-@ = ~Meglio ricordarsi di non far finta di essere qualcun altro per fare soldi facili la prossima volta. Anche se Oublek s'√® tenuto una parte, ho comunque ricevuto la ricompensa per aver catturato Capitan Brage.~
+@ = ~Meglio ricordarsi di non far finta di essere qualcun altro per fare soldi facili la prossima volta. Anche se Oublek s'Ë tenuto una parte, ho comunque ricevuto la ricompensa per aver catturato Capitan Brage.~
 */
-@124 = ~Ero riuscito ad impossessarmi di un paio di smeraldi che lo scultore Prism stava usando come occhi di una statua. Per√≤ mi ha colto sul fatto. Sono stato costretto a farlo fuori dopo che mi ha assalito con uno scalpello.~
-@125 = ~Uno smeraldo ha fruttato 150 pezzi d'oro. Posso averne altrettanti riportando anche l'altro. Non pu√≤ essere troppo lontano da dove ho trovato il primo.~
-@126 = ~Solo met√† di una ricompensa gi√† ridotta per aver consegnato uno degli smeraldi di Prism. 75 miseri pezzi d'oro. Se dovesse capitarmi l'altro smeraldo tra le mani, sar√† pi√π furbo controllare quanto posso farci vendendolo a qualcuno prima di prendere la taglia.~
+@124 = ~Ero riuscito ad impossessarmi di un paio di smeraldi che lo scultore Prism stava usando come occhi di una statua. PerÚ mi ha colto sul fatto. Sono stato costretto a farlo fuori dopo che mi ha assalito con uno scalpello.~
+@125 = ~Uno smeraldo ha fruttato 150 pezzi d'oro. Posso averne altrettanti riportando anche l'altro. Non puÚ essere troppo lontano da dove ho trovato il primo.~
+@126 = ~Solo met‡ di una ricompensa gi‡ ridotta per aver consegnato uno degli smeraldi di Prism. 75 miseri pezzi d'oro. Se dovesse capitarmi l'altro smeraldo tra le mani, sar‡ pi˘ furbo controllare quanto posso farci vendendolo a qualcuno prima di prendere la taglia.~
 //journal entries for bg2 engine
 //Tutu
 @127 = ~Prism lo scultore
 
-Che babbeo quel Prism. Ha abboccato subito quando ho detto di non sapere nulla degli smeraldi scomparsi. Va beh... Pi√π povero lui. Pi√π ricco io.~
+Che babbeo quel Prism. Ha abboccato subito quando ho detto di non sapere nulla degli smeraldi scomparsi. Va beh... Pi˘ povero lui. Pi˘ ricco io.~
 @128 = ~Prism lo scultore
 
-Forse √® stato uno sbaglio, ma dopo aver permesso a Prism di completare il suo 'ultimo capolavoro' ho preso uno degli smeraldi incastonati nella statua. Nel posto giusto dovrebbe garantire una bella sommetta, o al limite mi prendo una bella ricompensa...~
+Forse Ë stato uno sbaglio, ma dopo aver permesso a Prism di completare il suo 'ultimo capolavoro' ho preso uno degli smeraldi incastonati nella statua. Nel posto giusto dovrebbe garantire una bella sommetta, o al limite mi prendo una bella ricompensa...~
 @129 = ~Prism lo scultore
 
 Dopo un po' di fatica, sono riuscito a togliere anche il secondo smeraldo rubato da Prism per farne un occhio nel suo 'ultimo capolavoro'.~
@@ -32,28 +32,28 @@ Dopo un po' di fatica, sono riuscito a togliere anche il secondo smeraldo rubato
 La storia di Prism era davvero triste.  Un peccato che non ci sia stata lieta fine.  E va beh, alla fine io ci guadagno.  Una taglia di 300 pezzi d'oro per gli smeraldi rubati.~
 @131 = ~Prism lo scultore
 
-Meglio ricordarsi di non far finta di essere qualcun altro per fare soldi facili la prossima volta. Anche se Oublek s'√® tenuto una parte, ho comunque ricevuto la ricompensa per aver riconsegnato gli smeraldi rubati.~
+Meglio ricordarsi di non far finta di essere qualcun altro per fare soldi facili la prossima volta. Anche se Oublek s'Ë tenuto una parte, ho comunque ricevuto la ricompensa per aver riconsegnato gli smeraldi rubati.~
 /* Unused line for Captain Brage Journal entry
 @ = ~Prism lo scultore
 
-Meglio ricordarsi di non far finta di essere qualcun altro per fare soldi facili la prossima volta. Anche se Oublek s'√® tenuto una parte, ho comunque ricevuto la ricompensa per aver catturato Capitan Brage.~
+Meglio ricordarsi di non far finta di essere qualcun altro per fare soldi facili la prossima volta. Anche se Oublek s'Ë tenuto una parte, ho comunque ricevuto la ricompensa per aver catturato Capitan Brage.~
 */
 @132 = ~Prism lo scultore
 
-Ero riuscito ad impossessarmi di un paio di smeraldi che lo scultore Prism stava usando come occhi di una statua. Per√≤ mi ha colto sul fatto. Sono stato costretto a farlo fuori dopo che mi ha assalito con uno scalpello.~
+Ero riuscito ad impossessarmi di un paio di smeraldi che lo scultore Prism stava usando come occhi di una statua. PerÚ mi ha colto sul fatto. Sono stato costretto a farlo fuori dopo che mi ha assalito con uno scalpello.~
 @133 = ~Prism lo scultore
 
-Uno smeraldo ha fruttato 150 pezzi d'oro. Posso averne altrettanti riportando anche l'altro. Non pu√≤ essere troppo lontano da dove ho trovato il primo.~
+Uno smeraldo ha fruttato 150 pezzi d'oro. Posso averne altrettanti riportando anche l'altro. Non puÚ essere troppo lontano da dove ho trovato il primo.~
 @134 = ~Prism lo scultore
 
-Solo met√† di una ricompensa gi√† ridotta per aver consegnato uno degli smeraldi di Prism. 75 miseri pezzi d'oro. Se dovesse capitarmi l'altro smeraldo tra le mani, sar√† pi√π furbo controllare quanto posso farci vendendolo a qualcuno prima di prendere la taglia.~
+Solo met‡ di una ricompensa gi‡ ridotta per aver consegnato uno degli smeraldi di Prism. 75 miseri pezzi d'oro. Se dovesse capitarmi l'altro smeraldo tra le mani, sar‡ pi˘ furbo controllare quanto posso farci vendendolo a qualcuno prima di prendere la taglia.~
 //BGT
 @210 = ~Prism, il ladro di smeraldi.
 
-Che babbeo quel Prism. Ha abboccato subito quando ho detto di non sapere nulla degli smeraldi scomparsi. Va beh... Pi√π povero lui. Pi√π ricco io.~
+Che babbeo quel Prism. Ha abboccato subito quando ho detto di non sapere nulla degli smeraldi scomparsi. Va beh... Pi˘ povero lui. Pi˘ ricco io.~
 @211 = ~Prism, il ladro di smeraldi.
 
-Forse √® stato uno sbaglio, ma dopo aver permesso a Prism di completare il suo 'ultimo capolavoro' ho preso uno degli smeraldi incastonati nella statua. Nel posto giusto dovrebbe garantire una bella sommetta, o al limite mi prendo una bella ricompensa...~
+Forse Ë stato uno sbaglio, ma dopo aver permesso a Prism di completare il suo 'ultimo capolavoro' ho preso uno degli smeraldi incastonati nella statua. Nel posto giusto dovrebbe garantire una bella sommetta, o al limite mi prendo una bella ricompensa...~
 @212 = ~Prism, il ladro di smeraldi.
 
 Dopo un po' di fatica, sono riuscito a togliere anche il secondo smeraldo rubato da Prism per farne un occhio nel suo 'ultimo capolavoro'.~
@@ -62,47 +62,47 @@ Dopo un po' di fatica, sono riuscito a togliere anche il secondo smeraldo rubato
 La storia di Prism era davvero triste.  Un peccato che non ci sia stata lieta fine.  E va beh, alla fine io ci guadagno.  Una taglia di 300 pezzi d'oro per gli smeraldi rubati.~
 @214 = ~Prism, il ladro di smeraldi.
 
-Meglio ricordarsi di non far finta di essere qualcun altro per fare soldi facili la prossima volta. Anche se Oublek s'√® tenuto una parte, ho comunque ricevuto la ricompensa per aver riconsegnato gli smeraldi rubati.~
+Meglio ricordarsi di non far finta di essere qualcun altro per fare soldi facili la prossima volta. Anche se Oublek s'Ë tenuto una parte, ho comunque ricevuto la ricompensa per aver riconsegnato gli smeraldi rubati.~
 /* Unused line for Captain Brage Journal entry
 @215 = ~Prism, il ladro di smeraldi.
 
-Meglio ricordarsi di non far finta di essere qualcun altro per fare soldi facili la prossima volta. Anche se Oublek s'√® tenuto una parte, ho comunque ricevuto la ricompensa per aver catturato Capitan Brage.~
+Meglio ricordarsi di non far finta di essere qualcun altro per fare soldi facili la prossima volta. Anche se Oublek s'Ë tenuto una parte, ho comunque ricevuto la ricompensa per aver catturato Capitan Brage.~
 */
 @216 = ~Prism, il ladro di smeraldi.
 
-Ero riuscito ad impossessarmi di un paio di smeraldi che lo scultore Prism stava usando come occhi di una statua. Per√≤ mi ha colto sul fatto. Sono stato costretto a farlo fuori dopo che mi ha assalito con uno scalpello.~
+Ero riuscito ad impossessarmi di un paio di smeraldi che lo scultore Prism stava usando come occhi di una statua. PerÚ mi ha colto sul fatto. Sono stato costretto a farlo fuori dopo che mi ha assalito con uno scalpello.~
 @217 = ~Prism, il ladro di smeraldi.
 
-Uno smeraldo ha fruttato 150 pezzi d'oro. Posso averne altrettanti riportando anche l'altro. Non pu√≤ essere troppo lontano da dove ho trovato il primo.~
+Uno smeraldo ha fruttato 150 pezzi d'oro. Posso averne altrettanti riportando anche l'altro. Non puÚ essere troppo lontano da dove ho trovato il primo.~
 @218 = ~Prism, il ladro di smeraldi.
 
-Solo met√† di una ricompensa gi√† ridotta per aver consegnato uno degli smeraldi di Prism. 75 miseri pezzi d'oro. Se dovesse capitarmi l'altro smeraldo tra le mani, sar√† pi√π furbo controllare quanto posso farci vendendolo a qualcuno prima di prendere la taglia.~
+Solo met‡ di una ricompensa gi‡ ridotta per aver consegnato uno degli smeraldi di Prism. 75 miseri pezzi d'oro. Se dovesse capitarmi l'altro smeraldo tra le mani, sar‡ pi˘ furbo controllare quanto posso farci vendendolo a qualcuno prima di prendere la taglia.~
 
 
 //oublek dialog
 @1000 = ~Uno degli smeraldi! Ci sono 150 pezzi d'oro di ricompensa per te.  Se dovessi trovare anche l'altro portalo qui da me, mi raccomando.~
-@1001 = ~L'ultimo degli smeraldi! Eccoti altri 150 pezzi d'oro di ricompensa. Caspita, se continui cos√¨ ti farei certo un nome tra i cacciatori di taglie. Se sia un bene o un male, questo non lo so.~
-@1002 = ~Uno degli smeraldi! E' bello vedere che stai cercando di guadagnare soldi onestamente, anche se cacciare taglie √® un lavoro riprovevole. Sarai pagato, ma meno di quanto stabilito. Se dovessi trovare anche l'altro portalo qui da me, mi raccomando.~
-@1003 = ~L'ultimo degli smeraldi! The last of the Emeralds! E' bello vedere che stai cercando di guadagnare soldi onestamente, anche se cacciare taglie √® un lavoro riprovevole. Sarai pagato, ma meno di quanto stabilito.  Il resto sar√† trattenuto come cauzione nel caso un giorno ti venga voglia di... "colorare" i fatti in qualche altro affare.~
+@1001 = ~L'ultimo degli smeraldi! Eccoti altri 150 pezzi d'oro di ricompensa. Caspita, se continui cosÏ ti farei certo un nome tra i cacciatori di taglie. Se sia un bene o un male, questo non lo so.~
+@1002 = ~Uno degli smeraldi! E' bello vedere che stai cercando di guadagnare soldi onestamente, anche se cacciare taglie Ë un lavoro riprovevole. Sarai pagato, ma meno di quanto stabilito. Se dovessi trovare anche l'altro portalo qui da me, mi raccomando.~
+@1003 = ~L'ultimo degli smeraldi! The last of the Emeralds! E' bello vedere che stai cercando di guadagnare soldi onestamente, anche se cacciare taglie Ë un lavoro riprovevole. Sarai pagato, ma meno di quanto stabilito.  Il resto sar‡ trattenuto come cauzione nel caso un giorno ti venga voglia di... "colorare" i fatti in qualche altro affare.~
 @1004 = ~Sono qui per una taglia, e collezionare la ricompensa che mi spetta.~
 //#665 + #664
-@1005 = ~Nashkel ha poca pazienza per coloro che fregano agli altri il necessario per vivere guadagnato con fatica. Oggi non ho n√© il tempo n√© la voglia di occuparmi di te.~
+@1005 = ~Nashkel ha poca pazienza per coloro che fregano agli altri il necessario per vivere guadagnato con fatica. Oggi non ho nÈ il tempo nÈ la voglia di occuparmi di te.~
 
 //prism dialog
 @1100 = ~Come osi! Come osi privare i suoi occhi della luce!~
-@1101 = ~Ho ancora tanto lavoro da fare. Ma forse accetteresti di aiutare un folle scultore a completare la sua ultima opera adesso?  Ti prego, stai qui di guardia perch√© sicuramente verr√† Greywolf.  Ti pagher√≤ con i miei ultimi denari!~
-@1102 = ~Fermo l√¨! Hai preso gli smeraldi. Li devo riavere. Ne ho bisogno per finire quest'opera. Per favore, ti prego di restituirli. Ti dar√≤ ogni altra cosa in mio possesso.~
-@1103 = ~Non ci sono pi√π. Restituiti alle autorit√†. Non finirai mai quel pezzo di roccia ora.~
-@1104 = ~Non ci sono pi√π. Venduti. A quest'ora saranno gi√† al collo di qualche cicciona.~
-@1105 = ~Si, li ho presi io. Ne ho uno. L'altro non ce l'ho pi√π da tempo.~
+@1101 = ~Ho ancora tanto lavoro da fare. Ma forse accetteresti di aiutare un folle scultore a completare la sua ultima opera adesso?  Ti prego, stai qui di guardia perchÈ sicuramente verr‡ Greywolf.  Ti pagherÚ con i miei ultimi denari!~
+@1102 = ~Fermo lÏ! Hai preso gli smeraldi. Li devo riavere. Ne ho bisogno per finire quest'opera. Per favore, ti prego di restituirli. Ti darÚ ogni altra cosa in mio possesso.~
+@1103 = ~Non ci sono pi˘. Restituiti alle autorit‡. Non finirai mai quel pezzo di roccia ora.~
+@1104 = ~Non ci sono pi˘. Venduti. A quest'ora saranno gi‡ al collo di qualche cicciona.~
+@1105 = ~Si, li ho presi io. Ne ho uno. L'altro non ce l'ho pi˘ da tempo.~
 @1106 = ~Come? Un pazzo che mi accusa di furto? Morirai per questo insulto.~
-@1107 = ~Fermo l√¨! Hai preso uno smeraldo. Lo devo riavere. Ne ho bisogno per finire quest'opera. Per favore, ti prego di restituirlo. Ti dar√≤ ogni altra cosa in mio possesso.~
+@1107 = ~Fermo lÏ! Hai preso uno smeraldo. Lo devo riavere. Ne ho bisogno per finire quest'opera. Per favore, ti prego di restituirlo. Ti darÚ ogni altra cosa in mio possesso.~
 @1108 = ~Ogni altra cosa in tuo possesso, eh?  Va bene, accetto.~
-@1109 = ~"Ogni altra cosa" non mi interessa.  Porto sia te che le gemme al corpo di guardia, dove mi sar√† data una bella ricompensa.~
+@1109 = ~"Ogni altra cosa" non mi interessa.  Porto sia te che le gemme al corpo di guardia, dove mi sar‡ data una bella ricompensa.~
 @1110 = ~Non so di che cosa tu stia parlando.~
-@1111 = ~Dammi quello che hai. Trova l'altro e portamelo. Devo finire la mia opera. Ti dar√≤ ogni altro mio avere.~
-@1112 = ~L'ho consegnato alle autorit√†. Non lo rivedrai mai pi√π.~
-@1113 = ~Impossibile. L'ho consegnato alle autorit√† e sono venuto a prendere anche l'altro per riscuotere la taglia.~
+@1111 = ~Dammi quello che hai. Trova l'altro e portamelo. Devo finire la mia opera. Ti darÚ ogni altro mio avere.~
+@1112 = ~L'ho consegnato alle autorit‡. Non lo rivedrai mai pi˘.~
+@1113 = ~Impossibile. L'ho consegnato alle autorit‡ e sono venuto a prendere anche l'altro per riscuotere la taglia.~
 @1114 = ~Impossibile. Venduto a un qualche mercante o messo via in qualche posto sperduto.~
-@1115 = ~Il gioiello non c'√® pi√π. Sar√† un piacere prendere anche tutto il resto. Preparati a morire.~
-@1116 = ~Ti prego di restituirlo. Devo finire la mia opera. Ti dar√≤ ogni altro mio avere.~
+@1115 = ~Il gioiello non c'Ë pi˘. Sar‡ un piacere prendere anche tutto il resto. Preparati a morire.~
+@1116 = ~Ti prego di restituirlo. Devo finire la mia opera. Ti darÚ ogni altro mio avere.~

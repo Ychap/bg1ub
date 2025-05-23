@@ -2,8 +2,8 @@
 
 //CRE Sounds
 /* 4302 et 4303 repris de 4852 et 4853 dans le jeu original */
-@4302 = ~[MAL-KALEN 1] LibÃ©rez ! LibÃ©rez ce corps ! Rendez-moi ma libertÃ© ! Je dois prendre ma revanche !~ [MALKL01]
-@4303 = ~[MAL-KALEN 2] LibÃ©rez ce corps ! Que je vive Ã  nouveau !~ [MALKL02]
+@4302 = ~[MAL-KALEN 1] Libérez ! Libérez ce corps ! Rendez-moi ma liberté ! Je dois prendre ma revanche !~ [MALKL01]
+@4303 = ~[MAL-KALEN 2] Libérez ce corps ! Que je vive à nouveau !~ [MALKL02]
 @4304 = ~[MAL-KALEN 3] ~ [MALKL03]
 @4305 = ~[MAL-KALEN 4] ~ [MALKL04]
 @4306 = ~[REVENANT 01] ~ [REVEN01]
@@ -12,19 +12,19 @@
 @4309 = ~[REVENANT 06] ~ [REVEN06]
 
 //Dialog
-@4310 = ~A l'aide... intÃ©rieur corps... juste un fantÃ´me, je... intÃ©rieur corps... Je vis encore ! Vengeance aux destructeurs !~ /* #2472 */
-@4311 = ~Pauvre crÃ©ature, qui Ã©tiez-vous dans la vie ?~ /* #2474 */
-@4312 = ~Votre Ã¢me ne trouve-t-elle aucun repos ? Qu'est-ce qui vous retient ici ?~ /* #2476 */
+@4310 = ~A l'aide... intérieur corps... juste un fantôme, je... intérieur corps... Je vis encore ! Vengeance aux destructeurs !~ /* #2472 */
+@4311 = ~Pauvre créature, qui étiez-vous dans la vie ?~ /* #2474 */
+@4312 = ~Votre âme ne trouve-t-elle aucun repos ? Qu'est-ce qui vous retient ici ?~ /* #2476 */
 @4313 = ~Pas un geste, horrible mort-vivant ! Sinon je m'occupe de vous achever une seconde fois !~ /* #2475 */
-@4314 = ~Mal-Kalen Je... Ã©tudiant, je... vengeance aux destructeurs... libÃ©rer le corps !~ /* #2473 */
-@4315 = ~Ã‰cole dÃ©truite par trahison... Ulcaster parti... protÃ©ger ils ont dit... vengeance !~ /* #2477 */
-@4316 = ~Maintenant le corps intÃ©rieur... pas d'Ã©chappatoire pour le corps... libÃ©rer le corps que je puisse vivre ! Vengeance aux destructeurs !~ /* #2478 */
+@4314 = ~Mal-Kalen Je... étudiant, je... vengeance aux destructeurs... libérer le corps !~ /* #2473 */
+@4315 = ~École détruite par trahison... Ulcaster parti... protéger ils ont dit... vengeance !~ /* #2477 */
+@4316 = ~Maintenant le corps intérieur... pas d'échappatoire pour le corps... libérer le corps que je puisse vivre ! Vengeance aux destructeurs !~ /* #2478 */
 @4317 = ~Je vous en supplie, cessez vos attaques ! Je ne suis pas votre ennemi!~ /* #2481 */
-@4318 = ~Laissez-moi tranquille ! Je ne veux pas me mÃªler de votre vieille colÃ¨re !~ /* #2482 */
+@4318 = ~Laissez-moi tranquille ! Je ne veux pas me mêler de votre vieille colère !~ /* #2482 */
 @4319 = ~Vous pensiez avoir rejoint le royaume des morts ? Attendez que je m'occupe de vous !~ /* #2483 */
-@4320 = ~Vous n'Ãªtes pas l'ennemi... vous Ãªtes le corps... libÃ©rer le corps que je puisse vivre ! Vengeance aux destructeurs !~ /* #2479 */
-@4321 = ~Tout le monde a oubliÃ© la bataille ! Abandonnez cette croisade inutile !~ /* #2488 */
-@4322 = ~Je libÃ¨re mon corps de cet endroit ! Salut !~ /* #2489 */
+@4320 = ~Vous n'êtes pas l'ennemi... vous êtes le corps... libérer le corps que je puisse vivre ! Vengeance aux destructeurs !~ /* #2479 */
+@4321 = ~Tout le monde a oublié la bataille ! Abandonnez cette croisade inutile !~ /* #2488 */
+@4322 = ~Je libère mon corps de cet endroit ! Salut !~ /* #2489 */
 @4323 = ~Attendez ! Vous pouvez prendre le corps de Samuel. Laissez-moi tranquille !~ 
 @4324 = ~Attendez ! Vous pouvez prendre le corps d'Evan. Laissez-moi tranquille !~ 
 @4325 = ~Attendez ! Vous pouvez prendre le corps de Brage. Laissez-moi tranquille !~ 
@@ -32,21 +32,21 @@
 @4327 = ~Attendez ! Vous pouvez prendre le corps de Chelak. Laissez-moi tranquille !~ 
 @4328 = ~Attendez ! Vous pouvez prendre le corps de cette femme. Laissez-moi tranquille !~ 
 @4329 = ~Attendez ! Vous pouvez prendre le corps de cet homme. Laissez-moi tranquille !~ 
-@4330 = ~Ã‡a fait dix jours seulement... vengeance aux destructeurs ! LibÃ©rer le corps !~ /* #2480 */
-// ~It has been 300 years! Time has already taken your quarry!~ en VF officielle ~Ã‡a fait 300 ans ! L'heure a sonnÃ© !~
-@4331 = ~Ã‡a fait 300 ans ! Le temps s'est chargÃ© de votre proie !~ /* #2487 */
-// ~"Release the body, release the body!" I'll release you back to the Nine Hells!~ en VF officielle ~C'est votre tÃªte qui va se libÃ©rer de votre cou !~
-@4332 = ~Â« LibÃ©rer le corps, libÃ©rer le corps Â» ! Je vais vous libÃ©rer pour que vous retourniez dans les Neuf Enfers !~ /* #2490 */
-@4333 = ~Je n'ai pas oubliÃ©... seulement dix jours... libÃ©rer le corps !~ /* #2491 */
-@4334 = ~300 ans... c'est impossible... 300... ils doivent tous Ãªtre morts...~ /* #2496 */
-// ~All dead... I remain... will exact penance from descendants... revenge the destroyers! Release the body!~ en VF officielle ~je ferai pÃ©nitence pour les descendants...~
-@4335 = ~Tous morts... sauf moi... exigerai la pÃ©nitence de leurs descendants... vengeance aux destructeurs ! LibÃ©rer le corps !~ /* #2497 */
-@4336 = ~Bataille ou non... libÃ©rer le corps... LIBERER !!!~ /* #2498 */
+@4330 = ~Ça fait dix jours seulement... vengeance aux destructeurs ! Libérer le corps !~ /* #2480 */
+// ~It has been 300 years! Time has already taken your quarry!~ en VF officielle ~Ça fait 300 ans ! L'heure a sonné !~
+@4331 = ~Ça fait 300 ans ! Le temps s'est chargé de votre proie !~ /* #2487 */
+// ~"Release the body, release the body!" I'll release you back to the Nine Hells!~ en VF officielle ~C'est votre tête qui va se libérer de votre cou !~
+@4332 = ~« Libérer le corps, libérer le corps » ! Je vais vous libérer pour que vous retourniez dans les Neuf Enfers !~ /* #2490 */
+@4333 = ~Je n'ai pas oublié... seulement dix jours... libérer le corps !~ /* #2491 */
+@4334 = ~300 ans... c'est impossible... 300... ils doivent tous être morts...~ /* #2496 */
+// ~All dead... I remain... will exact penance from descendants... revenge the destroyers! Release the body!~ en VF officielle ~je ferai pénitence pour les descendants...~
+@4335 = ~Tous morts... sauf moi... exigerai la pénitence de leurs descendants... vengeance aux destructeurs ! Libérer le corps !~ /* #2497 */
+@4336 = ~Bataille ou non... libérer le corps... LIBERER !!!~ /* #2498 */
 @4337 = ~Je vis encore... vengeance aux destructeurs.~ /* #2499 */
 @4338 = ~Noooon... vengeance aux destructeurs... vengeance...~ /* #2500 */
 
 // Journal Entries  
 @4350 = ~Mal-Kalen, l'esprit d'Ulcaster
-J'ai rencontrÃ© l'esprit de Mal-Kalen, un ancien Ã©tudiant de l'Ã©cole d'Ulcaster qui hante les ruines depuis des siÃ¨cles. L'esprit voulait un corps Ã  habiter pour se venger de la destruction de l'Ã©cole. J'ai dÃ©clinÃ© sa demande, avec force.~
+J'ai rencontré l'esprit de Mal-Kalen, un ancien étudiant de l'école d'Ulcaster qui hante les ruines depuis des siècles. L'esprit voulait un corps à habiter pour se venger de la destruction de l'école. J'ai décliné sa demande, avec force.~
 @4351 = ~Mal-Kalen, l'esprit d'Ulcaster
-J'ai rencontrÃ© l'esprit de Mal-Kalen, un ancien Ã©tudiant de l'Ã©cole d'Ulcaster qui hante les ruines depuis des siÃ¨cles. L'esprit voulait un corps Ã  habiter pour se venger de la destruction de l'Ã©cole. Je lui ai donnÃ© ce qu'il voulait et en ai rÃ©chappÃ© avec mon propre corps intact.~
+J'ai rencontré l'esprit de Mal-Kalen, un ancien étudiant de l'école d'Ulcaster qui hante les ruines depuis des siècles. L'esprit voulait un corps à habiter pour se venger de la destruction de l'école. Je lui ai donné ce qu'il voulait et en ai réchappé avec mon propre corps intact.~

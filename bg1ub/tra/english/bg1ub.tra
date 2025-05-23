@@ -1,4 +1,4 @@
-//Game text - use UTF8 encoding
+//Game text - use Windows encoding
 @6    = ~Eddard Silvershield~
 
 @11   = ~Flirt~

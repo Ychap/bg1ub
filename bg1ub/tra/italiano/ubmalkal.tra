@@ -14,16 +14,16 @@
 //Dialog
 @4310 = ~Aiutami... Dentro un corpo... Sono solo un'ombra... Dentro un corpo... Vivo di nuovo! Vendicarsi degli invasori!~ /* #2472 */
 @4311 = ~Povera creatura, chi eri in vita?~ /* #2474 */ 
-@4312 = ~Non c'√® pace per te, spirito? Cosa ti trattiene in questo posto?~ /* #2476 */
+@4312 = ~Non c'Ë pace per te, spirito? Cosa ti trattiene in questo posto?~ /* #2476 */
 @4313 = ~Allontanati, orribile non morto! Allontanati, se non vuoi morire di nuovo!~ /* #2475 */ 
 @4314 = ~Sono Mal-Kalen... Uno studente... Vendicarsi degli invasori... Liberare il corpo!~ /* #2473 */
-@4315 = ~La scuola venne distrutta da un tradimento... Ulcaster √® morto... Dicevano di proteggerci... Devo vendicarmi!~ /* #2477 */
-@4316 = ~Dentro un corpo... Nessuna via di fuga per il corpo... Liberare un corpo, cos√¨ da vivere di nuovo! Vendiscarsi dei traditori!~ /* #2478 */
+@4315 = ~La scuola venne distrutta da un tradimento... Ulcaster Ë morto... Dicevano di proteggerci... Devo vendicarmi!~ /* #2477 */
+@4316 = ~Dentro un corpo... Nessuna via di fuga per il corpo... Liberare un corpo, cosÏ da vivere di nuovo! Vendiscarsi dei traditori!~ /* #2478 */
 @4317 = ~Ti prego, ferma il tuo attacco! Non sono il tuo nemico!~ /* #2481 */
 @4318 = ~Lasciami stare! Non voglio far parte del tuo antico risentimento!~ /* #2482 */
 @4319 = ~Pensavi di essere morto? Aspetta che ti trapassi di nuovo!~ /* #2483 */
-@4320 = ~Tu non sei il nemico... Tu sei il corpo... Liberare il corpo, cos√¨ da vivere di nuovo! Vendicarsi degli invasori!~ /* #2479 */
-@4321 = ~Quella battaglia √® stata dimenticata da tutti! Piantala con questa missione senza senso!~ /* #2488 */
+@4320 = ~Tu non sei il nemico... Tu sei il corpo... Liberare il corpo, cosÏ da vivere di nuovo! Vendicarsi degli invasori!~ /* #2479 */
+@4321 = ~Quella battaglia Ë stata dimenticata da tutti! Piantala con questa missione senza senso!~ /* #2488 */
 @4322 = ~Sto portando il mio corpo fuori da questo posto! Ciao ciao!~ /* #2489 */ 
 @4323 = ~Aspetta! Puoi prendere il corpo di Samuel. Basta che mi lasci in pace!~ 
 @4324 = ~Aspetta! Puoi prendere il corpo di Evan. Basta che mi lasci in pace!~ 
@@ -32,12 +32,12 @@
 @4327 = ~Aspetta! Puoi prendere il corpo del figlio del contadino Brun. Basta che mi lasci in pace!~ 
 @4328 = ~Aspetta! Puoi prendere il corpo di questa donna. Basta che mi lasci in pace!~ 
 @4329 = ~Aspetta! Puoi prendere il corpo di quest'uomo. Basta che mi lasci in pace!~ 
-@4330 = ~Non √® passata che una decade.. Devo vendicarmi degli invasori! Liberare il corpo!~ /* #2480 */
-@4331 = ~Sono trascorsi 300 anni! Il tempo ha gi√† portato via le tue prede!~ /* #2487 */ 
+@4330 = ~Non Ë passata che una decade.. Devo vendicarmi degli invasori! Liberare il corpo!~ /* #2480 */
+@4331 = ~Sono trascorsi 300 anni! Il tempo ha gi‡ portato via le tue prede!~ /* #2487 */ 
 @4332 = ~"Liberare il corpo, liberare il corpo!" Ti spedisco nei Nove Inferi!~ /* #2490 */ 
-@4333 = ~Non √® stata dimenticata da me... Non √® trascorsa che una decade... Liberare il corpo!~ /* #2491 */
-@4334 = ~300 anni... Non pu√≤ essere... 300... Devono essere tutti morti...~ /* #2496 */
-@4335 = ~Tutti morti... Resto io... Far√≤ espiare i loro discendenti... Vendicarsi degli invasori! Liberare il corpo!~ /* #2497 */
+@4333 = ~Non Ë stata dimenticata da me... Non Ë trascorsa che una decade... Liberare il corpo!~ /* #2491 */
+@4334 = ~300 anni... Non puÚ essere... 300... Devono essere tutti morti...~ /* #2496 */
+@4335 = ~Tutti morti... Resto io... FarÚ espiare i loro discendenti... Vendicarsi degli invasori! Liberare il corpo!~ /* #2497 */
 @4336 = ~Che tu combatta o no... Liberare il corpo... LIBERARE!!!~ /* #2498 */
 @4337 = ~Vivo di nuovo... Vendicarsi degli invasori!~ /* #2499 */
 @4338 =  ~Noooo... Vendicarsi degli invasori.... Vendicarsi....~ /* #2500 */
@@ -47,5 +47,5 @@
 @4350 = ~Lo spirito di Mal-Kalen
   Ho incontrato lo spirito di Mal-Kalen, uno studente della scuola di Ulcaster che infesta le rovine da secoli. Lo spirito voleva un corpo da possedere per vendicarsi della distruzione della scuola. Ho declinato energicamente la sua richiesta.~ 
 @4351 = ~Lo spirito di Mal-Kalen
-  Ho incontrato lo spirito di Mal-Kalen, uno studente della scuola di Ulcaster che infesta le rovine da secoli. Lo spirito voleva un corpo da possedere per vendicarsi della distruzione della scuola. Gli ho dato ci√≤ che voleva, andandomene via con il mio corpo intatto.~ 
+  Ho incontrato lo spirito di Mal-Kalen, uno studente della scuola di Ulcaster che infesta le rovine da secoli. Lo spirito voleva un corpo da possedere per vendicarsi della distruzione della scuola. Gli ho dato ciÚ che voleva, andandomene via con il mio corpo intatto.~ 
 
