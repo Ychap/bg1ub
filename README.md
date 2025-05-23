@@ -556,5 +556,4 @@ Below are links to community-related sites:
   * Fix for missing LANGUAGE entry for Chinese translation.
 
 * Version 17
-
   * Converted the mod to use UTF8 encoding for translation files.
