@@ -551,3 +551,6 @@ Below are links to community-related sites:
 
 * Version 16.6
   * Fix for malformed tra\deutsch\bg1ub.tra.
+
+* Version 16.7
+  * Fix for mising LANGUAGE entry for Chinese translation.
