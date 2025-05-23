@@ -1,29 +1,29 @@
 //Nim Furlwing Dialog
 /* #14897 */
-@1 = ~Ah ça, votre aide a été efficace ! Mes meilleurs chiens de chasse pure race, saignés à mort ! Franchement, les aventuriers dans votre genre semblent avoir plus une vocation de bandits que de gardes du corps.~
+@1 = ~Ah Ã§a, votre aide a Ã©tÃ© efficace ! Mes meilleurs chiens de chasse pure race, saignÃ©s Ã  mort ! Franchement, les aventuriers dans votre genre semblent avoir plus une vocation de bandits que de gardes du corps.~
 
 /* #14899 */
-@2 = ~Arrh ! Votre intervention était plus un obstacle qu'autre chose. Regardez-moi ce massacre... C'étaient des pure race, sachez-le !~
+@2 = ~Arrh ! Votre intervention Ã©tait plus un obstacle qu'autre chose. Regardez-moi ce massacre... C'Ã©taient des pure race, sachez-le !~
 
 /* #14900 */
-@3 = ~Merci, votre aide est arrivée à point nommé. De sacrés chiens de chasse, hein !?? Des pure race. Tenez, prenez ce parchemin de convocation d'animaux en gage de reconnaissance.~
+@3 = ~Merci, votre aide est arrivÃ©e Ã  point nommÃ©. De sacrÃ©s chiens de chasse, hein !?? Des pure race. Tenez, prenez ce parchemin de convocation d'animaux en gage de reconnaissance.~
 
 /* #14901 */
 @4 = ~Je ne vous conseille pas de vous mettre entre un chasseur elfe et ses chiens, camarade.~
 
 /* #14902 */
-@5 = ~Je passe trop de temps à chasser pour me soucier de politique.~
+@5 = ~Je passe trop de temps Ã  chasser pour me soucier de politique.~
 
-@6 = ~Tua amin ! A l'aide ! Ces sales bêtes s'en prennent à mes chiens !~
+@6 = ~Tua amin ! A l'aide ! Ces sales bÃªtes s'en prennent Ã  mes chiens !~
 
 //Journal Entries
 /* #15715 */
-@7 = ~Aujourd'hui je me sens davantage comme un idiot que comme un aventurier enthousiaste. J'ai le sentiment de n'avoir pas été là à temps et d'en avoir fait trop peu pour sauver les magnifiques chiens de chasse d'une personne dénommée Nim Furlwing dans le Bois des Dents Acérées.~
-     ~Aujourd'hui je me sens davantage comme une idiote que comme une aventurière enthousiaste. J'ai le sentiment de n'avoir pas été là à temps et d'en avoir fait trop peu pour sauver les magnifiques chiens de chasse d'une personne dénommée Nim Furlwing dans le Bois des Dents Acérées.~
+@7 = ~Aujourd'hui je me sens davantage comme un idiot que comme un aventurier enthousiaste. J'ai le sentiment de n'avoir pas Ã©tÃ© lÃ  Ã  temps et d'en avoir fait trop peu pour sauver les magnifiques chiens de chasse d'une personne dÃ©nommÃ©e Nim Furlwing dans le Bois des Dents AcÃ©rÃ©es.~
+     ~Aujourd'hui je me sens davantage comme une idiote que comme une aventuriÃ¨re enthousiaste. J'ai le sentiment de n'avoir pas Ã©tÃ© lÃ  Ã  temps et d'en avoir fait trop peu pour sauver les magnifiques chiens de chasse d'une personne dÃ©nommÃ©e Nim Furlwing dans le Bois des Dents AcÃ©rÃ©es.~
 
 /* #15718 */
-@8 = ~Aujourd'hui je me sens davantage comme un idiot que comme un aventurier enthousiaste. J'ai le sentiment de n'avoir pas été là à temps et d'en avoir fait trop peu pour sauver les magnifiques chiens de chasse d'une personne dénommée Nim Furlwing dans le Bois des Dents Acérées.~
-     ~Aujourd'hui je me sens davantage comme une idiote que comme une aventurière enthousiaste. J'ai le sentiment de n'avoir pas été là à temps et d'en avoir fait trop peu pour sauver les magnifiques chiens de chasse d'une personne dénommée Nim Furlwing dans le Bois des Dents Acérées.~
+@8 = ~Aujourd'hui je me sens davantage comme un idiot que comme un aventurier enthousiaste. J'ai le sentiment de n'avoir pas Ã©tÃ© lÃ  Ã  temps et d'en avoir fait trop peu pour sauver les magnifiques chiens de chasse d'une personne dÃ©nommÃ©e Nim Furlwing dans le Bois des Dents AcÃ©rÃ©es.~
+     ~Aujourd'hui je me sens davantage comme une idiote que comme une aventuriÃ¨re enthousiaste. J'ai le sentiment de n'avoir pas Ã©tÃ© lÃ  Ã  temps et d'en avoir fait trop peu pour sauver les magnifiques chiens de chasse d'une personne dÃ©nommÃ©e Nim Furlwing dans le Bois des Dents AcÃ©rÃ©es.~
 
 /* #15717 */
-@9 = ~Le Bois des Dents Acérées, pour sûr ! Aujourd'hui, j'y ai sauvé les chiens pure race de Nim Furlwing des crocs de loups noirs et j'en ai encore, je dois l'admettre, des courbatures.~
+@9 = ~Le Bois des Dents AcÃ©rÃ©es, pour sÃ»r ! Aujourd'hui, j'y ai sauvÃ© les chiens pure race de Nim Furlwing des crocs de loups noirs et j'en ai encore, je dois l'admettre, des courbatures.~

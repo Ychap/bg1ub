@@ -19,49 +19,49 @@
 
 // UBSVLAST.D
 /* #14889 */
-@4220 = ~Está ahí fuera. Viene hacia aquí. Puedo sentir sus pasos siguiéndome. El hedor de su carne putrefacta. Viene a por todos nosotros.~ 
+@4220 = ~EstÃ¡ ahÃ­ fuera. Viene hacia aquÃ­. Puedo sentir sus pasos siguiÃ©ndome. El hedor de su carne putrefacta. Viene a por todos nosotros.~ 
 /* #14890 */
-@4221 = ~Yo... yo lo maté. Pero está ahí fuera y se dirige hacia aquí. Lo puedo sen... sentir.~ 
+@4221 = ~Yo... yo lo matÃ©. Pero estÃ¡ ahÃ­ fuera y se dirige hacia aquÃ­. Lo puedo sen... sentir.~ 
 /* #14891 - MODIFIED */
-@4222 = ~Una vez llegué a ser un paladín. Luché en el bando de los buenos, pero al final no sirvio para nada. Yo... yo lo maté a sangre fria, a mi hermano de fe... Cuando venga, dejad que haga lo que quiera.~ 
+@4222 = ~Una vez lleguÃ© a ser un paladÃ­n. LuchÃ© en el bando de los buenos, pero al final no sirvio para nada. Yo... yo lo matÃ© a sangre fria, a mi hermano de fe... Cuando venga, dejad que haga lo que quiera.~ 
 /* #14893 - MODIFIED */
-@4223 = ~¿Qué habéis hecho? ahora, me siento más miserable que nunca. ¡Matadme en este maldito lugar! Por lo menos, se hará justicia.~ 
+@4223 = ~Â¿QuÃ© habÃ©is hecho? ahora, me siento mÃ¡s miserable que nunca. Â¡Matadme en este maldito lugar! Por lo menos, se harÃ¡ justicia.~ 
 /* #14894 */
-@4224 = ~¿Qué esperáis aprender de un miserable idiota como yo? Al menos, espero que os sirva de ejemplo mi caso y no busquéis la destrucción del bien que hay en el mundo.~ 
+@4224 = ~Â¿QuÃ© esperÃ¡is aprender de un miserable idiota como yo? Al menos, espero que os sirva de ejemplo mi caso y no busquÃ©is la destrucciÃ³n del bien que hay en el mundo.~ 
 /* #14895 */
-@4225 = ~Os suplico que me dejéis pudrirme en mi miseria.~ 
+@4225 = ~Os suplico que me dejÃ©is pudrirme en mi miseria.~ 
 /* #14896 */
-@4226 = ~Por mucho que desee la muerte, no moriré sin antes haber luchado.~ 
-@4227 = ~Lo siento, hermano mío... Tenía celos. Fui... imbécil. Mi vida es tuya.~ 
+@4226 = ~Por mucho que desee la muerte, no morirÃ© sin antes haber luchado.~ 
+@4227 = ~Lo siento, hermano mÃ­o... TenÃ­a celos. Fui... imbÃ©cil. Mi vida es tuya.~ 
 
 // Replies
-@4240 = ~¿De qué estás hablando? ¿Quién viene a por nosotros?~
-@4241 = ~¿Quién era esa persona? ¿Por qué te atormenta desde más allá de la tumba?~
-@4242 = ~¿Estás loco? ¡No me quedaré de brazos cruzados mientras esa criatura te mata!~
-@4243 = ~Como desées. No estoy de acuerdo con tu decisión, pero si es tu elección morir a manos de esta criatura, no me interpondré en tu camino.~ 
-@4244 = ~No hay problema. Este asunto es entre tú y él. ¡Y no quiero ser parte de esto!~
-@4245 = ~¿Una criatura no muerta busca "tu" muerte? ¡Quizás deberíamos simplemente darle lo que desea!~
-@4246 = ~Como desées. Se hará justicia.~
-@4247 = ~Me niego. No seré tu verdugo. Tendrás que expiar tus crímenes. Quizás así otros podrán aprender de tus errores.~ 
-@4248 = ~¡Vaya manera de mostrar tu gratitud! ¡Acabo de salvar tu miserable vida!~
-@4249 = ~Si eso es lo que deseas, será un placer.~
+@4240 = ~Â¿De quÃ© estÃ¡s hablando? Â¿QuiÃ©n viene a por nosotros?~
+@4241 = ~Â¿QuiÃ©n era esa persona? Â¿Por quÃ© te atormenta desde mÃ¡s allÃ¡ de la tumba?~
+@4242 = ~Â¿EstÃ¡s loco? Â¡No me quedarÃ© de brazos cruzados mientras esa criatura te mata!~
+@4243 = ~Como desÃ©es. No estoy de acuerdo con tu decisiÃ³n, pero si es tu elecciÃ³n morir a manos de esta criatura, no me interpondrÃ© en tu camino.~ 
+@4244 = ~No hay problema. Este asunto es entre tÃº y Ã©l. Â¡Y no quiero ser parte de esto!~
+@4245 = ~Â¿Una criatura no muerta busca "tu" muerte? Â¡QuizÃ¡s deberÃ­amos simplemente darle lo que desea!~
+@4246 = ~Como desÃ©es. Se harÃ¡ justicia.~
+@4247 = ~Me niego. No serÃ© tu verdugo. TendrÃ¡s que expiar tus crÃ­menes. QuizÃ¡s asÃ­ otros podrÃ¡n aprender de tus errores.~ 
+@4248 = ~Â¡Vaya manera de mostrar tu gratitud! Â¡Acabo de salvar tu miserable vida!~
+@4249 = ~Si eso es lo que deseas, serÃ¡ un placer.~
 
 // Journal Entries
 //  (Strref: 15713)
 @4290 = ~El Tormento de Svlast
-He presenciado momentos tristes entre las ruinas de Vinoardiente. Un ex paladín llamado Svlast está siendo atormentado por el espíritu de su hermano de fe, a quien injustamente asesinó. Nunca he visto un alma tan abatida y arrepentida como la del pobre Svlast. Nos ha rogado que no interfiramos, pero a mi corazón no le resulta fácil aceptar eso...~
+He presenciado momentos tristes entre las ruinas de Vinoardiente. Un ex paladÃ­n llamado Svlast estÃ¡ siendo atormentado por el espÃ­ritu de su hermano de fe, a quien injustamente asesinÃ³. Nunca he visto un alma tan abatida y arrepentida como la del pobre Svlast. Nos ha rogado que no interfiramos, pero a mi corazÃ³n no le resulta fÃ¡cil aceptar eso...~
 @4291 = ~El Tormento de Svlast
-Un ex paladín llamado Svlast está siendo atormentado por el espíritu de su hermano de fe, a quien injustamente asesinó. Nos suplicó que no interfiriéramos.~
+Un ex paladÃ­n llamado Svlast estÃ¡ siendo atormentado por el espÃ­ritu de su hermano de fe, a quien injustamente asesinÃ³. Nos suplicÃ³ que no interfiriÃ©ramos.~
 @4292 = ~El Tormento de Svlast
-Un ex paladín llamado Svlast está siendo atormentado por el espíritu de su hermano de fe, a quien injustamente asesinó. Le di a la criatura lo que quería al matar al paladín caído con mis propias manos.~
+Un ex paladÃ­n llamado Svlast estÃ¡ siendo atormentado por el espÃ­ritu de su hermano de fe, a quien injustamente asesinÃ³. Le di a la criatura lo que querÃ­a al matar al paladÃ­n caÃ­do con mis propias manos.~
 @4293 = ~El Tormento de Svlast
 El Tormento de Svlast ha terminado. La criatura ha tomado su venganza.~
 // (Strref: 15703)
 @4295 = ~El Tormento de Svlast
-Tras sobrevivir al ataque del aparecido con nuestra ayuda, el pobre y maltrecho Svlast no ha parado de rogarnos que le ayudemos a completar su tarea... El día está oscuro entre estas ruinas y me temo que va oscureciendo más aún.~
+Tras sobrevivir al ataque del aparecido con nuestra ayuda, el pobre y maltrecho Svlast no ha parado de rogarnos que le ayudemos a completar su tarea... El dÃ­a estÃ¡ oscuro entre estas ruinas y me temo que va oscureciendo mÃ¡s aÃºn.~
 @4296 = ~El Tormento de Svlast
-Tras sobrevivir al ataque del aparecido con nuestra ayuda, el pobre y maltrecho Svlast no ha parado de rogarnos que le ayudemos a completar su tarea... Me negué rotundamente. Tendrá que expiar sus crímenes.~
+Tras sobrevivir al ataque del aparecido con nuestra ayuda, el pobre y maltrecho Svlast no ha parado de rogarnos que le ayudemos a completar su tarea... Me neguÃ© rotundamente. TendrÃ¡ que expiar sus crÃ­menes.~
 @4297 = ~El Tormento de Svlast
-Tras sobrevivir al ataque del aparecido con nuestra ayuda, el pobre y maltrecho Svlast no ha parado de rogarnos que le ayudemos a completar su tarea... ¡Pensaba que mostraría algo de gratitud!~
+Tras sobrevivir al ataque del aparecido con nuestra ayuda, el pobre y maltrecho Svlast no ha parado de rogarnos que le ayudemos a completar su tarea... Â¡Pensaba que mostrarÃ­a algo de gratitud!~
 @4298 = ~El Tormento de Svlast
-Tras sobrevivir al ataque del aparecido con nuestra ayuda, el pobre y maltrecho Svlast no ha parado de rogarnos que le ayudemos a completar su tarea... ¿Quién era yo para negarme?~
+Tras sobrevivir al ataque del aparecido con nuestra ayuda, el pobre y maltrecho Svlast no ha parado de rogarnos que le ayudemos a completar su tarea... Â¿QuiÃ©n era yo para negarme?~

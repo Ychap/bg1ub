@@ -554,3 +554,7 @@ Below are links to community-related sites:
 
 * Version 16.7
   * Fix for mising LANGUAGE entry for Chinese translation.
+
+* Version 17
+
+  * Converted the mod to use UTF8 encoding for translation files.

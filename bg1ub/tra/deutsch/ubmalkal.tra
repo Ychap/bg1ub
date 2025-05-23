@@ -2,8 +2,8 @@
 
 //CRE Sounds
 /* 4852 */
-@4302 = ~Befreiung! Befreiung! Zurück zu Fleisch und Blut! Muss mich rächen!~ [MALKL01]
-@4303 = ~Befreit den Körper! Ich will wieder leben!~ [MALKL02]
+@4302 = ~Befreiung! Befreiung! ZurÃ¼ck zu Fleisch und Blut! Muss mich rÃ¤chen!~ [MALKL01]
+@4303 = ~Befreit den KÃ¶rper! Ich will wieder leben!~ [MALKL02]
 @4304 = ~[MAL-KALEN 3] ~ [MALKL03]
 @4305 = ~[MAL-KALEN 4] ~ [MALKL04]
 @4306 = ~[REVENANT 01] ~ [REVEN01]
@@ -12,39 +12,39 @@
 @4309 = ~[REVENANT 06] ~ [REVEN06]
 
 //Dialog
-@4310 = ~Hilfe . in Körper . nur ein Schatten, ich . in Körper . ich lebe wieder! Rache den Zerstörern!~ /* #2472 */
+@4310 = ~Hilfe . in KÃ¶rper . nur ein Schatten, ich . in KÃ¶rper . ich lebe wieder! Rache den ZerstÃ¶rern!~ /* #2472 */
 @4311 = ~Armes Wesen, wer wart Ihr im Leben?~ /* #2474 */ 
-@4312 = ~Kommt Ihr denn nicht zur Ruhe, Geist? Was hält Euch an diesem Ort?~ /* #2476 */
-@4313 = ~Zurück, untoter Schrecken! Zurück, wenn Ihr nicht noch einmal sterben wollt!~ /* #2475 */ 
-@4314 = ~Ich Mal-Kalen . ich Schüler . Rache . Zerstörer . Körper freigeben!~ /* #2473 */
-@4315 = ~Schule zerstört durch Verrat . Ulcaster fort . gesagt schützen . muss rächen!~ /* #2477 */
-@4316 = ~Jetzt Körper drinnen . kein Ausweg für Körper . Körper freigeben, damit ich lebe! Rache den Zerstörern!~ /* #2478 */
+@4312 = ~Kommt Ihr denn nicht zur Ruhe, Geist? Was hÃ¤lt Euch an diesem Ort?~ /* #2476 */
+@4313 = ~ZurÃ¼ck, untoter Schrecken! ZurÃ¼ck, wenn Ihr nicht noch einmal sterben wollt!~ /* #2475 */ 
+@4314 = ~Ich Mal-Kalen . ich SchÃ¼ler . Rache . ZerstÃ¶rer . KÃ¶rper freigeben!~ /* #2473 */
+@4315 = ~Schule zerstÃ¶rt durch Verrat . Ulcaster fort . gesagt schÃ¼tzen . muss rÃ¤chen!~ /* #2477 */
+@4316 = ~Jetzt KÃ¶rper drinnen . kein Ausweg fÃ¼r KÃ¶rper . KÃ¶rper freigeben, damit ich lebe! Rache den ZerstÃ¶rern!~ /* #2478 */
 @4317 = ~Ich flehe Euch an, stoppt Euren Angriff! Ich bin nicht Euer Feind!~ /* #2481 */
-@4318 = ~Lasst mich in Frieden! Ich möchte nichts von Eurer alten Wut abbekommen!~ /* #2482 */
-@4319 = ~Ihr glaubtet, Ihr wäret schon tot gewesen? Wartet nur ab, bis ich mit Euch fertig bin!~ /* #2483 */
-@4320 = ~Du kein Feind . du der Körper . freigeben Körper, damit ich lebe! Rache den Zerstörern!~ /* #2479 */
+@4318 = ~Lasst mich in Frieden! Ich mÃ¶chte nichts von Eurer alten Wut abbekommen!~ /* #2482 */
+@4319 = ~Ihr glaubtet, Ihr wÃ¤ret schon tot gewesen? Wartet nur ab, bis ich mit Euch fertig bin!~ /* #2483 */
+@4320 = ~Du kein Feind . du der KÃ¶rper . freigeben KÃ¶rper, damit ich lebe! Rache den ZerstÃ¶rern!~ /* #2479 */
 @4321 = ~Die Schlacht ist von allen vergessen! Beendet Eure ziellose Suche!~ /* #2488 */
-@4322 = ~Dieser Ort wird gleich meinen Körper freigeben! Bis dann!~ /* #2489 */ 
-@4323 = ~Halt! Ihr könnt den Körper von Samuel übernehmen. Aber lasst mich in Ruhe!~ 
+@4322 = ~Dieser Ort wird gleich meinen KÃ¶rper freigeben! Bis dann!~ /* #2489 */ 
+@4323 = ~Halt! Ihr kÃ¶nnt den KÃ¶rper von Samuel Ã¼bernehmen. Aber lasst mich in Ruhe!~ 
 @4324 = ~Sachte, mein Freund und Kupferstecher! Nehmt Evans Leiche und geht mir nicht auf den Senkel.~ 
 @4325 = ~Ho! Brages Reste sollten Euch helfen und dann zieht Leine!~ 
-@4326 = ~Stopp! Ich gebe Euch Nathans Körper. Nur lasst mich dann in Frieden!~ 
-@4327 = ~Nun mal halblang! Wenn es Euch nach einem Körper dürstet, dann nehmt Chelak und fallt mir nicht weiter auf die Nerven!~ 
-@4328 = ~Ruhig, Brauner! Krallt Euch den Körper dieser toten Frau und zieht Eurer Wege.~ 
+@4326 = ~Stopp! Ich gebe Euch Nathans KÃ¶rper. Nur lasst mich dann in Frieden!~ 
+@4327 = ~Nun mal halblang! Wenn es Euch nach einem KÃ¶rper dÃ¼rstet, dann nehmt Chelak und fallt mir nicht weiter auf die Nerven!~ 
+@4328 = ~Ruhig, Brauner! Krallt Euch den KÃ¶rper dieser toten Frau und zieht Eurer Wege.~ 
 @4329 = ~Wartet! Die Leiche dieses Kerls steht Euch. Legt sie an und lasst mich dann!~ 
-@4330 = ~War nur ein Zehntag . muss rächen . die Zerstörer! Körper freigeben!~ /* #2480 */
+@4330 = ~War nur ein Zehntag . muss rÃ¤chen . die ZerstÃ¶rer! KÃ¶rper freigeben!~ /* #2480 */
 @4331 = ~Es sind 300 Jahre vergangen! Die Zeit hat Euer Grab bereits verschluckt!~ /* #2487 */ 
-@4332 = ~"Den Körper freigeben, den Körper freigeben!" Ich werde dafür sorgen, dass Euer Nacken Euren Kopf freigibt!~ /* #2490 */ 
-@4333 = ~Nicht vergessen, aber ich . nur ein Zehntag . Körper freigeben!~ /* #2491 */
-@4334 = ~300 Jahre . kann nicht sein . 300 . müssen alle tot sein.~ /* #2496 */
-@4335 = ~Alle tot . ich übrig . muss Nachkommen sühnen . rächen . die Zerstörer! Körper freigeben!~ /* #2497 */
-@4336 = ~Kampf oder nicht . Körper freigeben . FREIGEBEN!!!~ /* #2498 */
-@4337 = ~Ich lebe wieder . Rache den Zerstörern!~ /* #2499 */
-@4338 = ~Neiiiiiiin . Rache den Zerstörern . Rache.~ /* #2500 */
+@4332 = ~"Den KÃ¶rper freigeben, den KÃ¶rper freigeben!" Ich werde dafÃ¼r sorgen, dass Euer Nacken Euren Kopf freigibt!~ /* #2490 */ 
+@4333 = ~Nicht vergessen, aber ich . nur ein Zehntag . KÃ¶rper freigeben!~ /* #2491 */
+@4334 = ~300 Jahre . kann nicht sein . 300 . mÃ¼ssen alle tot sein.~ /* #2496 */
+@4335 = ~Alle tot . ich Ã¼brig . muss Nachkommen sÃ¼hnen . rÃ¤chen . die ZerstÃ¶rer! KÃ¶rper freigeben!~ /* #2497 */
+@4336 = ~Kampf oder nicht . KÃ¶rper freigeben . FREIGEBEN!!!~ /* #2498 */
+@4337 = ~Ich lebe wieder . Rache den ZerstÃ¶rern!~ /* #2499 */
+@4338 = ~Neiiiiiiin . Rache den ZerstÃ¶rern . Rache.~ /* #2500 */
 
 
 // Journal Entries  
 @4350 = ~Mal-Kalen: noch ein Geist in den Ulcasterruinen
-  Ich stolperte über den Geist von Mal-Kalen, einem ehemaligen Schüler Ulcasters, der seit drei Jahrhunderten in den Ruinen der Zauberakademie herumspukte. Er suchte einen Körper in Besitz zu nehmen, um sich für die Zerstörung der Schule rächen zu können. Als ich sein Ansinnen ablehnte, flogen die Fetzen.~ 
+  Ich stolperte Ã¼ber den Geist von Mal-Kalen, einem ehemaligen SchÃ¼ler Ulcasters, der seit drei Jahrhunderten in den Ruinen der Zauberakademie herumspukte. Er suchte einen KÃ¶rper in Besitz zu nehmen, um sich fÃ¼r die ZerstÃ¶rung der Schule rÃ¤chen zu kÃ¶nnen. Als ich sein Ansinnen ablehnte, flogen die Fetzen.~ 
 @4351 = ~Mal-Kalen: noch ein Geist in den Ulcasterruinen
-  Ich traf den spukenden Geist Mal-Kalen, der vor drei Jahrhunderten an der Schule Ulkasters studierte. Der Rachedurst des Geistes an den Zerstörern seiner Ausbildungsstätte konnte nur mit einem Körperopfer gestillt werden. Ich organisierte ihm, wonach er verlangte, und kam so ungeschoren davon.~
+  Ich traf den spukenden Geist Mal-Kalen, der vor drei Jahrhunderten an der Schule Ulkasters studierte. Der Rachedurst des Geistes an den ZerstÃ¶rern seiner AusbildungsstÃ¤tte konnte nur mit einem KÃ¶rperopfer gestillt werden. Ich organisierte ihm, wonach er verlangte, und kam so ungeschoren davon.~
