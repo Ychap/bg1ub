@@ -557,7 +557,6 @@ Below are links to community-related sites:
 
 * Version 17
   * Converted the mod to use UTF8 encoding for translation files.
-  * Converted the mod to use UTF8 encoding for translation files.
   * Added DESIGNATED and LABEL for each component.
   * Cosmetic and style udates to German translation.
   * Move french propmpts into separate file.
