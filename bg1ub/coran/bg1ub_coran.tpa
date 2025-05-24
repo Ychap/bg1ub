@@ -4,7 +4,7 @@
 // Website: http://www.gibberlings3.net
 
 //Ascension64: makes Coran's wyverns unique
-ACTION_IF !GAME_IS ~bgt~ THEN BEGIN //BG, BGEE and Tutu
+ACTION_IF NOT GAME_IS ~bgt~ THEN BEGIN //BG, BGEE and Tutu
   COPY_EXISTING ~%tutu_var%WYVERN.CRE~ ~override/X#CORWYV.CRE~
     WRITE_ASCII 0x280 ~X#CoranWyvern~ #32 //script name
 

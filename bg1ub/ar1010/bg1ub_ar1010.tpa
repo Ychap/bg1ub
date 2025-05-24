@@ -17,7 +17,7 @@ END ELSE BEGIN
 END 
 // AR1010.TIS and AR1010.MOS already included with TotSC
 
-ACTION_IF !GAME_IS ~bgee~ THEN BEGIN
+ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN
 	COPY ~bg1ub/AR1010/%tutuorbgt%~ ~override~
 END
 

@@ -4,7 +4,7 @@ BACKUP ~bg1ub/backup~
 // AUTHOR ~icelus, SimDing0, Ascension64, devSin, Idobek, CamDawg, SixOfSpades, and Echon~
 SUPPORT "http://forums.pocketplane.net/index.php/board,79.0.html"
 
-// MODDER
+ MODDER
 
 VERSION ~v17~
 README ~bg1ub/README.bg1ub.english.html~
@@ -370,7 +370,7 @@ INCLUDE ~bg1ub/vial/bg1ub_vial.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 BEGIN @3 DESIGNATED 2 LABEL bg1ub-AdditionalElminsterEncounter
-REQUIRE_PREDICATE (!GAME_IS ~bgt bgee~) @90019  // Fixed in BGEE + BGT
+REQUIRE_PREDICATE (NOT GAME_IS ~bgt bgee~) @90019  // Fixed in BGEE + BGT
 
 // Author: SimDing0
 // Email: SimDing0@hotmail.com
@@ -395,7 +395,7 @@ LAF replacetext_area_script STR_VAR area="%FriendlyArmInn%" oldtext=~Global("Elm
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 BEGIN @4 DESIGNATED 3 LABEL bg1ub-AngeloNoticesSharteel
-REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
+REQUIRE_PREDICATE (NOT GAME_IS ~bgee~) @90016  // Fixed in BGEE
 //FORBID_FILE ~override/X#BG1NPCPhase2.G3~ @90000
 
 // Author: Ascension64
@@ -501,7 +501,7 @@ COMPILE EVALUATE_BUFFER ~bg1ub/branwen/ubbranwen.d~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 BEGIN @10 DESIGNATED 8 LABEL bg1ub-SafanaFlirt
-REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
+REQUIRE_PREDICATE (NOT GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 // Author: Dudley
 // Email:
@@ -519,7 +519,7 @@ INCLUDE ~bg1ub/safana/bg1ub_safana.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 BEGIN @12 DESIGNATED 9 LABEL bg1ub-AppropriateAlbertRufieReward
-REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
+REQUIRE_PREDICATE (NOT GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBAlbert.UB~
 
@@ -612,7 +612,7 @@ INCLUDE ~bg1ub/edie/bg1ub_edie.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 BEGIN @22 DESIGNATED 15 LABEL bg1ub-FlamingFistMercenaryReinforcements
-REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
+REQUIRE_PREDICATE (NOT GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 // Author: devSin
 // Email:
@@ -685,7 +685,7 @@ INCLUDE ~bg1ub/dialogues/bg1ub_dialogues.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
 BEGIN @59 DESIGNATED 20 LABEL bg1ub-AudioRestorations
-REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
+REQUIRE_PREDICATE (NOT GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 // Author: devSin
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBAudio.UB~
@@ -728,7 +728,7 @@ INCLUDE ~bg1ub/item/bg1ub_itemcorr.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 BEGIN @100 DESIGNATED 23 LABEL bg1ub-AreaCorrectionsRestorations
-REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
+REQUIRE_PREDICATE (NOT GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBAreas.UB~
 INCLUDE ~bg1ub/area/bg1ub_areacorr.tpa~
@@ -742,7 +742,7 @@ INCLUDE ~bg1ub/area/bg1ub_areacorr.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 BEGIN @101 DESIGNATED 24 LABEL bg1ub-PermanentCorpses
-REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
+REQUIRE_PREDICATE (NOT GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 // Author: devSin
 // Email:
@@ -760,7 +760,7 @@ INCLUDE ~bg1ub/creature/bg1ub_crecorpse.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 BEGIN @102 DESIGNATED 25 LABEL bg1ub-ElvenCharmSleepRacialResistance
-REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
+REQUIRE_PREDICATE (NOT GAME_IS ~bgee~) @90016  // Fixed in BGEE
 REQUIRE_PREDICATE (GAME_IS ~totsc tutu_totsc bgt~) @1
 REQUIRE_PREDICATE !FILE_EXISTS_IN_GAME ~cdelfcm0.eff~ @90015
 
@@ -776,8 +776,8 @@ INCLUDE ~bg1ub/elfcharm/bg1ub_elfcharm.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 BEGIN @103 DESIGNATED 26 LABEL bg1ub-OriginalSagaMusicPlaylistCorrections
-REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
-REQUIRE_PREDICATE !GAME_IS ~bgt~ @90015 //not needed for BGT, already fixed
+REQUIRE_PREDICATE (NOT GAME_IS ~bgee~) @90016  // Fixed in BGEE
+REQUIRE_PREDICATE NOT GAME_IS ~bgt~ @90015 //not needed for BGT, already fixed
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBPlaylist.UB~
 
@@ -796,7 +796,7 @@ COPY ~bg1ub/music~ ~music~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 BEGIN @104 DESIGNATED 27 LABEL bg1ub-SarevoksDiaryCorrections
-REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
+REQUIRE_PREDICATE (NOT GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 // Author: SixOfSpades
 // Email: sixospades@yahoo.com
@@ -857,7 +857,7 @@ INCLUDE ~bg1ub/nimfur/bg1ub_nimfur.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 BEGIN @4100 DESIGNATED 31 LABEL bg1ub-RestoredElfsongTavernMovie /* ~Restored Elfsong Tavern Movie~ */
-REQUIRE_PREDICATE (!GAME_IS ~bgee~) @4101 // Unavailable for BGEE
+REQUIRE_PREDICATE (NOT GAME_IS ~bgee~) @4101 // Unavailable for BGEE
 FORBID_FILE ~data/JA#TAVER.MVE~ @90004
 
 INCLUDE ~bg1ub/tavern/bg1ub_tavern.tpa~
