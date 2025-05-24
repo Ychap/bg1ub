@@ -22,7 +22,7 @@
 
     // Convert tra files for classic games
     ACTION_IF NOT GAME_IS ~bgee eet~ BEGIN
-        ACTION_DEFINE_ARRAY ub#noconvert BEGIN setup END
+        ACTION_DEFINE_ARRAY ub#noconvert BEGIN setup prompts END
         ACTION_DEFINE_ARRAY ub#reload BEGIN bg1ub ubprism END
         LAF HANDLE_CHARSETS
             INT_VAR
