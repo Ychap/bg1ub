@@ -1,4 +1,4 @@
-//DOS prompts - use DOS encoding
+//Use UTF8 encoding
 @90000 = ~Komponent modyfikacji BG1 NPC Project "The BG1 NPC Project: Phase II (Quests and Interjections) stwarza problemy z wybranym komponentem.~
 @90001 = ~Komponent modyfikacji BG1 NPC Project "The BG1 NPC Project: Core Install" stwarza problemy z wybranym komponentem.~
 @90002 = ~Komponent modyfikacji BG1 NPC Project "The BG1 NPC Project: Phase I (Banters)" stwarza problemy z wybranym komponentem.~
