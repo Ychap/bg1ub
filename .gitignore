@@ -1,6 +1,7 @@
+*.7z
 *.bak
 *.bat
-*.7z
+*.py
 *.rar
 *.zip
 *.tar.gz
