@@ -331,7 +331,7 @@ LANGUAGE ~Simplified Chinese~ //Lzw104522773, yoshimo0417, MephistoSatanDevil
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @0
+BEGIN @0 DESIGNATED 0 LABEL bg1ub-IceIslLevelTwoRestoration
 
 // Author: devSin
 // Email:
@@ -351,7 +351,7 @@ INCLUDE ~bg1ub/ar1010/bg1ub_ar1010.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @2
+BEGIN @2 DESIGNATED 1 LABEL bg1ub-MysteriousVial
 REQUIRE_PREDICATE NOT (FILE_EXISTS_IN_GAME ~bdentboy.cre~) @90016 // Check for BGEEv2.5
 
 // Author: SimDing0
@@ -369,7 +369,7 @@ INCLUDE ~bg1ub/vial/bg1ub_vial.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @3
+BEGIN @3 DESIGNATED 2 LABEL bg1ub-AdditionalElminsterEncounter
 REQUIRE_PREDICATE (!GAME_IS ~bgt bgee~) @90019  // Fixed in BGEE + BGT
 
 // Author: SimDing0
@@ -394,7 +394,7 @@ LAF replacetext_area_script STR_VAR area="%FriendlyArmInn%" oldtext=~Global("Elm
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @4
+BEGIN @4 DESIGNATED 3 LABEL bg1ub-AngeloNoticesSharteel
 REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
 //FORBID_FILE ~override/X#BG1NPCPhase2.G3~ @90000
 
@@ -417,7 +417,7 @@ LAF extend_area_script STR_VAR area="%SWBaldursGate_FlamingFistHQ_L1%" bottom="b
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @5
+BEGIN @5 DESIGNATED 4 LABEL bg1ub-FinishableKagainCaravanQuest
 REQUIRE_PREDICATE NOT (FILE_EXISTS_IN_GAME ~bdentboy.cre~) @90016 // Check for BGEEv2.5
 FORBID_FILE ~override/X#BG1NPCPhase2.G3~ @90000
 
@@ -437,7 +437,7 @@ INCLUDE ~bg1ub/kagain/bg1ub_kagain.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @7
+BEGIN @7 DESIGNATED 5 LABEL bg1ub-CoranWyverns
 /*REQUIRE_PREDICATE NOT ((FILE_EXISTS_IN_GAME ~corwyvrn.cre~) OR (GAME_IS ~bgt~)) @90019 // Check for BGEEv2 or BGT
 */
 REQUIRE_PREDICATE NOT (FILE_EXISTS_IN_GAME ~corwyvrn.cre~) @90016
@@ -459,7 +459,7 @@ INCLUDE ~bg1ub/coran/bg1ub_coran.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @8
+BEGIN @8 DESIGNATED 6 LABEL bg1ub-KivanTazok
 REQUIRE_PREDICATE NOT (FILE_EXISTS_IN_GAME ~bdentboy.cre~) @90016 // Check for BGEEv2.5
 FORBID_FILE ~override/X#BG1NPCPhase2.G3~ @90000
 
@@ -480,7 +480,7 @@ EXTEND_BOTTOM ~%tutu_var%kivan.bcs~ ~bg1ub/kivan/ubkivan.baf~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @9
+BEGIN @9 DESIGNATED 7 LABEL bg1ub-BranwenTranzig
 REQUIRE_PREDICATE NOT (FILE_EXISTS_IN_GAME ~bdentboy.cre~) @90016 // Check for BGEEv2.5
 FORBID_FILE ~override/X#BG1NPCPhase2.G3~ @90000
 
@@ -500,7 +500,7 @@ COMPILE EVALUATE_BUFFER ~bg1ub/branwen/ubbranwen.d~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @10
+BEGIN @10 DESIGNATED 8 LABEL bg1ub-SafanaFlirt
 REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 // Author: Dudley
@@ -518,7 +518,7 @@ INCLUDE ~bg1ub/safana/bg1ub_safana.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @12
+BEGIN @12 DESIGNATED 9 LABEL bg1ub-AppropriateAlbertRufieReward
 REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBAlbert.UB~
@@ -532,7 +532,7 @@ COMPILE EVALUATE_BUFFER ~bg1ub/albert/albert.d~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @13
+BEGIN @13 DESIGNATED 10 LABEL bg1ub-PlaceEntarSilvershieldinHisHome
 REQUIRE_PREDICATE NOT (FILE_EXISTS_IN_GAME ~bdentboy.cre~) @90016 // Check for BGEEv2.5
 
 // Author: SimDing0
@@ -554,7 +554,7 @@ LAF extend_area_script STR_VAR area="%NWBaldursGate_SilvershieldEstate_L1%" bott
 /////        - Scar Quest Extention(s)                 \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @14
+BEGIN @14 DESIGNATED 11 LABEL bg1ub-ScarSashenstarsDaughter
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBScar.UB~
 INCLUDE ~bg1ub/scar/bg1ub_scar.tpa~
@@ -567,7 +567,7 @@ INCLUDE ~bg1ub/scar/bg1ub_scar.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @17
+BEGIN @17 DESIGNATED 12 LABEL bg1ub-QuoningarCleric
 
 // Author: devSin
 // Email:
@@ -584,7 +584,7 @@ INCLUDE ~bg1ub/quoningar/bg1ub_quoningar.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @18
+BEGIN @18 DESIGNATED 13 LABEL bg1ub-ShiloChenOgreMagi
 FORBID_FILE ~backup_NTotSC/dialog.tlk~ @90003
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBShiloChen.UB~
@@ -598,7 +598,7 @@ INCLUDE ~bg1ub/shilochen/bg1ub_shilochen.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @21
+BEGIN @21 DESIGNATED 14 LABEL bg1ub-EdieMerchantLeagueApplicant
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBEdie.UB~
 INCLUDE ~bg1ub/edie/bg1ub_edie.tpa~
@@ -611,7 +611,7 @@ INCLUDE ~bg1ub/edie/bg1ub_edie.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @22
+BEGIN @22 DESIGNATED 15 LABEL bg1ub-FlamingFistMercenaryReinforcements
 REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 // Author: devSin
@@ -629,7 +629,7 @@ INCLUDE ~bg1ub/ff/bg1ub_flamfist.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @23
+BEGIN @23 DESIGNATED 16 LABEL bg1ub-CreatureCorrections
 //DEPRECATED ~Ascension64~
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBCreCorrect.UB~
@@ -643,7 +643,7 @@ INCLUDE ~bg1ub/creature/bg1ub_crecorr.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @24
+BEGIN @24 DESIGNATED 17 LABEL bg1ub-CreatureRestorations
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBCreRestore.UB~
 INCLUDE ~bg1ub/creature/bg1ub_crerest.tpa~
@@ -656,7 +656,7 @@ INCLUDE ~bg1ub/creature/bg1ub_crerest.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @26
+BEGIN @26 DESIGNATED 18 LABEL bg1ub-CreatureNameRestorations
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBCreName.UB~
 INCLUDE ~bg1ub/creature/bg1ub_crename.tpa~
@@ -670,7 +670,7 @@ INCLUDE ~bg1ub/creature/bg1ub_crename.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
-BEGIN @58
+BEGIN @58 DESIGNATED 19 LABEL bg1ub-MinorDialogueRestorations
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBDialogue.UB~
 INCLUDE ~bg1ub/dialogues/bg1ub_dialogues.tpa~
@@ -684,7 +684,7 @@ INCLUDE ~bg1ub/dialogues/bg1ub_dialogues.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
-BEGIN @59
+BEGIN @59 DESIGNATED 20 LABEL bg1ub-AudioRestorations
 REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 // Author: devSin
@@ -700,7 +700,7 @@ INCLUDE ~bg1ub/audio/bg1ub_audio.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
-BEGIN @89
+BEGIN @89 DESIGNATED 21 LABEL bg1ub-StoreTavernInnFixesRestorations
 //DEPRECATED ~Ascension64~
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBStore.UB~
@@ -714,7 +714,7 @@ INCLUDE ~bg1ub/stores/bg1ub_stores.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @94
+BEGIN @94 DESIGNATED 22 LABEL bg1ub-ItemCorrectionsRestorations
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBItems.UB~
 INCLUDE ~bg1ub/item/bg1ub_itemcorr.tpa~
@@ -727,7 +727,7 @@ INCLUDE ~bg1ub/item/bg1ub_itemcorr.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @100
+BEGIN @100 DESIGNATED 23 LABEL bg1ub-AreaCorrectionsRestorations
 REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 COPY ~bg1ub/bg1ubplaceholder~ ~override/BG1UBAreas.UB~
@@ -741,7 +741,7 @@ INCLUDE ~bg1ub/area/bg1ub_areacorr.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @101
+BEGIN @101 DESIGNATED 24 LABEL bg1ub-PermanentCorpses
 REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 // Author: devSin
@@ -759,7 +759,7 @@ INCLUDE ~bg1ub/creature/bg1ub_crecorpse.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @102
+BEGIN @102 DESIGNATED 25 LABEL bg1ub-ElvenCharmSleepRacialResistance
 REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
 REQUIRE_PREDICATE (GAME_IS ~totsc tutu_totsc bgt~) @1
 REQUIRE_PREDICATE !FILE_EXISTS_IN_GAME ~cdelfcm0.eff~ @90015
@@ -775,7 +775,7 @@ INCLUDE ~bg1ub/elfcharm/bg1ub_elfcharm.tpa~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @103
+BEGIN @103 DESIGNATED 26 LABEL bg1ub-OriginalSagaMusicPlaylistCorrections
 REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
 REQUIRE_PREDICATE !GAME_IS ~bgt~ @90015 //not needed for BGT, already fixed
 
@@ -795,7 +795,7 @@ COPY ~bg1ub/music~ ~music~
 /////                                                  \\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @104
+BEGIN @104 DESIGNATED 27 LABEL bg1ub-SarevoksDiaryCorrections
 REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
 
 // Author: SixOfSpades
@@ -816,7 +816,7 @@ INCLUDE ~bg1ub/diary/bg1ub_diary.tpa~
 // ----------------------------------------------------------------------------
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @116 /* ~Prism and the Emeralds Tweak~ */
+BEGIN @116 DESIGNATED 28 LABEL bg1ub-PrismEmeraldsTweak /* ~Prism and the Emeralds Tweak~ */
 REQUIRE_PREDICATE NOT (FILE_EXISTS_IN_GAME ~bdentboy.cre~) @90016 // Check for BGEEv2.5
 
 INCLUDE ~bg1ub/abprismemeralds/bg1ub_abprism.tpa~
@@ -829,7 +829,7 @@ INCLUDE ~bg1ub/abprismemeralds/bg1ub_abprism.tpa~
 /////by Balquo and jastey
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @219 /* ~Duke Eltan in the Harbor Master's Building~ */
+BEGIN @219 DESIGNATED 29 LABEL bg1ub-DukeEltaninHarborMastersBuilding /* ~Duke Eltan in the Harbor Master's Building~ */
 
 INCLUDE ~bg1ub/eltan/bg1ub_eltan.tpa~
 
@@ -841,7 +841,7 @@ INCLUDE ~bg1ub/eltan/bg1ub_eltan.tpa~
 /////by AstroBryGuy
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @4000 /* ~Nim Furlwing Encounter~ */
+BEGIN @4000 DESIGNATED 30 LABEL bg1ub-NimFurlwingEncounter /* ~Nim Furlwing Encounter~ */
 FORBID_FILE ~override/NTNIMFUR.CRE~ @90003
 FORBID_FILE ~data/JA#NIMFU.CRE~ @90004
 
@@ -856,7 +856,7 @@ INCLUDE ~bg1ub/nimfur/bg1ub_nimfur.tpa~
 /////movie by Sams, code by AstroBryGuy
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @4100 /* ~Restored Elfsong Tavern Movie~ */
+BEGIN @4100 DESIGNATED 31 LABEL bg1ub-RestoredElfsongTavernMovie /* ~Restored Elfsong Tavern Movie~ */
 REQUIRE_PREDICATE (!GAME_IS ~bgee~) @4101 // Unavailable for BGEE
 FORBID_FILE ~data/JA#TAVER.MVE~ @90004
 
@@ -870,7 +870,7 @@ INCLUDE ~bg1ub/tavern/bg1ub_tavern.tpa~
 /////by AstroBryGuy
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @4200 /* ~Svlast, the fallen paladin~ */
+BEGIN @4200 DESIGNATED 32 LABEL bg1ub-SvlastFallenPaladinEncounter /* ~Svlast, the fallen paladin~ */
 FORBID_FILE ~override/ntsvlast.cre~ @90003
 FORBID_FILE ~override/ja#svslt.cre~ @90004
 
@@ -884,7 +884,7 @@ INCLUDE ~bg1ub/svlast/bg1ub_svlast.tpa~
 /////by AstroBryGuy
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @4300 /* ~Mal-Kalen, the Ulcaster Ghost~ */
+BEGIN @4300 DESIGNATED 33 LABEL bg1ub-MalKalenUlcasterGhost /* ~Mal-Kalen, the Ulcaster Ghost~ */
 FORBID_FILE ~override/JA#MALKA.CRE~ @90004
 
 INCLUDE ~bg1ub/malkal/bg1ub_malkal.tpa~
@@ -897,6 +897,6 @@ INCLUDE ~bg1ub/malkal/bg1ub_malkal.tpa~
 /////by AstroBryGuy
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-BEGIN @4400 /* ~Chapter 6 Dialogue Restorations~ */
+BEGIN @4400 DESIGNATED 34 LABEL bg1ub-Chapter6DialogueRestorations /* ~Chapter 6 Dialogue Restorations~ */
 
 INCLUDE ~bg1ub/ch6/bg1ub_ch6.tpa~
