@@ -12,17 +12,17 @@
 @4309 = ~[REVENANT 06] ~ [REVEN06]
 
 //Dialog
-@4310 = ~Hilfe... in Körper... nur ein Schatten, ich... in Körper... ich lebe wieder! Rache den Zerstörern!~ /* #2472 */
+@4310 = ~Hilfe … in Körper … nur ein Schatten, ich … in Körper … ich lebe wieder! Rache den Zerstörern!~ /* #2472 */
 @4311 = ~Armes Wesen, wer wart Ihr im Leben?~ /* #2474 */ 
 @4312 = ~Kommt Ihr denn nicht zur Ruhe, Geist? Was hält Euch an diesem Ort?~ /* #2476 */
 @4313 = ~Zurück, untoter Schrecken! Zurück, wenn Ihr nicht noch einmal sterben wollt!~ /* #2475 */ 
-@4314 = ~Ich Mal-Kalen... ich Schüler... Rache... Zerstörer... Körper freigeben!~ /* #2473 */
-@4315 = ~Schule zerstört durch Verrat... Ulcaster fort... gesagt schützen... muss rächen!~ /* #2477 */
-@4316 = ~Jetzt Körper drinnen... kein Ausweg für Körper... Körper freigeben, damit ich lebe! Rache den Zerstörern!~ /* #2478 */
+@4314 = ~Ich Mal-Kalen … ich Schüler … Rache … Zerstörer … Körper freigeben!~ /* #2473 */
+@4315 = ~Schule zerstört durch Verrat … Ulcaster fort … gesagt schützen … muss rächen!~ /* #2477 */
+@4316 = ~Jetzt Körper drinnen … kein Ausweg für Körper … Körper freigeben, damit ich lebe! Rache den Zerstörern!~ /* #2478 */
 @4317 = ~Ich flehe Euch an, stoppt Euren Angriff! Ich bin nicht Euer Feind!~ /* #2481 */
 @4318 = ~Lasst mich in Frieden! Ich möchte nichts von Eurer alten Wut abbekommen!~ /* #2482 */
 @4319 = ~Ihr glaubtet, Ihr wäret schon tot gewesen? Wartet nur ab, bis ich mit Euch fertig bin!~ /* #2483 */
-@4320 = ~Du kein Feind... du der Körper... freigeben Körper, damit ich lebe! Rache den Zerstörern!~ /* #2479 */
+@4320 = ~Du kein Feind … du der Körper … freigeben Körper, damit ich lebe! Rache den Zerstörern!~ /* #2479 */
 @4321 = ~Die Schlacht ist von allen vergessen! Beendet Eure ziellose Suche!~ /* #2488 */
 @4322 = ~Dieser Ort wird gleich meinen Körper freigeben! Bis dann!~ /* #2489 */ 
 @4323 = ~Halt! Ihr könnt den Körper von Samuel übernehmen. Aber lasst mich in Ruhe!~ 
@@ -32,15 +32,15 @@
 @4327 = ~Nun mal halblang! Wenn es Euch nach einem Körper dürstet, dann nehmt Chelak und fallt mir nicht weiter auf die Nerven!~ 
 @4328 = ~Ruhig, Brauner! Krallt Euch den Körper dieser toten Frau und zieht Eurer Wege.~ 
 @4329 = ~Wartet! Die Leiche dieses Kerls steht Euch. Legt sie an und lasst mich dann!~ 
-@4330 = ~War nur ein Zehntag... muss rächen... die Zerstörer! Körper freigeben!~ /* #2480 */
+@4330 = ~War nur ein Zehntag … muss rächen … die Zerstörer! Körper freigeben!~ /* #2480 */
 @4331 = ~Es sind 300 Jahre vergangen! Die Zeit hat Euer Grab bereits verschluckt!~ /* #2487 */ 
 @4332 = ~"Den Körper freigeben, den Körper freigeben!" Ich werde dafür sorgen, dass Euer Nacken Euren Kopf freigibt!~ /* #2490 */ 
-@4333 = ~Nicht vergessen, aber ich... nur ein Zehntag... Körper freigeben!~ /* #2491 */
-@4334 = ~300 Jahre... kann nicht sein... 300... müssen alle tot sein.~ /* #2496 */
-@4335 = ~Alle tot... ich übrig... muss Nachkommen sühnen... rächen... die Zerstörer! Körper freigeben!~ /* #2497 */
-@4336 = ~Kampf oder nicht... Körper freigeben... FREIGEBEN!!!~ /* #2498 */
-@4337 = ~Ich lebe wieder... Rache den Zerstörern!~ /* #2499 */
-@4338 = ~Neiiiiiiin... Rache den Zerstörern... Rache.~ /* #2500 */
+@4333 = ~Nicht vergessen, aber ich … nur ein Zehntag … Körper freigeben!~ /* #2491 */
+@4334 = ~300 Jahre … kann nicht sein … 300 … müssen alle tot sein.~ /* #2496 */
+@4335 = ~Alle tot … ich übrig … muss Nachkommen sühnen … rächen … die Zerstörer! Körper freigeben!~ /* #2497 */
+@4336 = ~Kampf oder nicht … Körper freigeben … FREIGEBEN!!!~ /* #2498 */
+@4337 = ~Ich lebe wieder … Rache den Zerstörern!~ /* #2499 */
+@4338 = ~Neiiiiiiin … Rache den Zerstörern … Rache.~ /* #2500 */
 
 
 // Journal Entries  

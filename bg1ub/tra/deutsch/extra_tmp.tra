@@ -51,7 +51,7 @@
 @10020 = ~~ [%tutu_var%GALKN04]
 
 //#4763
-@10021 = ~Argh! Mein linkes Bein hat die Gicht und ist irgendwie ganz lahm, und... ich muss noch den Wirt bezahlen, sonst nimmt er mir auch noch mein rechtes!~ [%tutu_var%GALKN02]
+@10021 = ~Argh! Mein linkes Bein hat die Gicht und ist irgendwie ganz lahm, und … ich muss noch den Wirt bezahlen, sonst nimmt er mir auch noch mein rechtes!~ [%tutu_var%GALKN02]
 
 //#9406
 @10022 = ~Mädchen~
@@ -217,7 +217,7 @@
 @10096 = ~~ [%tutu_var%MINER06]
 
 //#23929 - German: gender specification is irrelevant, text must still match the sound
-@10097 = ~Na... hallo, Jüngelchen.~ [%tutu_var%TSCMT02]
+@10097 = ~Na … hallo, Jüngelchen.~ [%tutu_var%TSCMT02]
 @10098 = ~~ [%tutu_var%VILLM06]
 
 //#23930
@@ -486,7 +486,7 @@ Kann nicht verwendet werden von:
 @20010 = ~Es ist schwer für mich, im Lärm dieser Stadt zu meditieren. Könnte ich Euch wohl um Hilfe bei der Beschaffung eines Konzentrationstrankes bitten?~
 
 //#15809
-@20011 = ~Der Priester Quoningar, der scheinbar genauso wenig an das rege Treiben in der Stadt gewöhnt ist wie ich, sucht nach einem Konzentrationstrank. Ohne ihn wird er seine Meditationen wohl nie beenden können...~
+@20011 = ~Der Priester Quoningar, der scheinbar genauso wenig an das rege Treiben in der Stadt gewöhnt ist wie ich, sucht nach einem Konzentrationstrank. Ohne ihn wird er seine Meditationen wohl nie beenden können …~
 
 //#15538
 @20012 = ~Bitte, falls Ihr nicht gerade einen Konzentrationstrank habt, muss ich mich wieder dieser wenig fruchtbaren Beschäftigung zuwenden.~
@@ -524,11 +524,11 @@ Kann nicht verwendet werden von:
 @20022 = ~Bitte seid still. Ich versuche zu lernen.~
 
 //#15178
-@20023 = ~Ich hasse Prüfungen...~
+@20023 = ~Ich hasse Prüfungen …~
 
 //creature/ubcre.d
 //#19945 - German: improved translation
-@20024 = ~Oh, hallo <CHARNAME>. Ich habe Euch schon eine ganze Weile nicht mehr gesehen. Leider ist gerade viel zu viel zu tun, um über die alten Zeiten zu plaudern. Ich muss die Konferenzräume herrichten für unsere... Gäste.~
+@20024 = ~Oh, hallo <CHARNAME>. Ich habe Euch schon eine ganze Weile nicht mehr gesehen. Leider ist gerade viel zu viel zu tun, um über die alten Zeiten zu plaudern. Ich muss die Konferenzräume herrichten für unsere … Gäste.~
 
 //#19946
 @20025 = ~Nur sehr selten haben Gäste diese Räume benutzt. Wer ist hier?~
@@ -555,7 +555,7 @@ Kann nicht verwendet werden von:
 @20032 = ~Danke für die Warnung. Ich werde aufpassen.~
 
 //#19964
-@20033 = ~Nicht sehr viel, aber Gerüchte gehen halt immer um. Ich habe gehört, dass diese Treffen eher Verhandlungen sein sollen, weil der Eisenthron gedroht hat, in das Gebiet der Ritter des Schildes vorzudringen. Ich habe, natürlich zufällig, einem von ihnen zugehört und ich glaube, dass der Eisenthron durch den Eisenmangel stark an Macht gewonnen hat. Das passt doch irgendwie zusammen, findet Ihr nicht? Sie treffen sich hier, weil ihnen der Ort neutral und ziemlich sicher erscheint. Ich bezweifle, dass Ulraunt, der Hüter der Bibliothek, ihnen den Zutritt gewährt hätte, wenn er gewusst hätte, wer sie sind... obwohl sie hier keine Gesetze übertreten haben.~
+@20033 = ~Nicht sehr viel, aber Gerüchte gehen halt immer um. Ich habe gehört, dass diese Treffen eher Verhandlungen sein sollen, weil der Eisenthron gedroht hat, in das Gebiet der Ritter des Schildes vorzudringen. Ich habe, natürlich zufällig, einem von ihnen zugehört und ich glaube, dass der Eisenthron durch den Eisenmangel stark an Macht gewonnen hat. Das passt doch irgendwie zusammen, findet Ihr nicht? Sie treffen sich hier, weil ihnen der Ort neutral und ziemlich sicher erscheint. Ich bezweifle, dass Ulraunt, der Hüter der Bibliothek, ihnen den Zutritt gewährt hätte, wenn er gewusst hätte, wer sie sind … obwohl sie hier keine Gesetze übertreten haben.~
 
 //#19967
 @20034 = ~Danke für die Informationen. Ich sollte gehen.~
@@ -582,19 +582,19 @@ Kann nicht verwendet werden von:
 @20041 = ~Verfluchte Basilisken! Ich glaube, er ist nach Osten gezogen, aber ich habe für heute wirklich genug von ihm, vielen Dank. Wenn Ihr die blöden Dinger aber unbedingt jagen wollt, dann lasst Euch von mir nicht aufhalten.~
 
 //#15810
-@20042 = ~Ich habe die Waldläuferin Corianna aus der Versteinerung eines Basilisken gerettet. Corianna möchte diesem Wesen zwar kein zweites Mal begegnen, doch sie hat mir freundlicherweise mitgeteilt, dass es nach Osten unterwegs war...~
+@20042 = ~Ich habe die Waldläuferin Corianna aus der Versteinerung eines Basilisken gerettet. Corianna möchte diesem Wesen zwar kein zweites Mal begegnen, doch sie hat mir freundlicherweise mitgeteilt, dass es nach Osten unterwegs war …~
 
 //#15544
 @20043 = ~Ich bin so froh, dass Ihr mich hier draußen gefunden habt. Basilisken sollte man nicht unbedingt alleine gegenübertreten. Ich gehe jetzt nach Hause, aber wenn Ihr ihn erlegen wollt, dann nehmt diesen Trank der Spiegelaugen mit. Sein Bau kann nicht sehr weit von hier entfernt liegen.~
 
 //#15811
-@20044 = ~Ich habe die Waldläuferin Corianna aus der Versteinerung eines Basilisken gerettet. Corianna möchte diesem Wesen zwar kein zweites Mal begegnen, doch sie hat mir freundlicherweise einen Trank der Spiegelaugen gegeben und mir mitgeteilt, dass es nach Osten unterwegs war...~
+@20044 = ~Ich habe die Waldläuferin Corianna aus der Versteinerung eines Basilisken gerettet. Corianna möchte diesem Wesen zwar kein zweites Mal begegnen, doch sie hat mir freundlicherweise einen Trank der Spiegelaugen gegeben und mir mitgeteilt, dass es nach Osten unterwegs war …~
 
 //#15545 - German: improved translation
 @20045 = ~Im Ernst? Nein, wenn Ihr dem Basilisken begegnen wollt, dann ist das Eure Angelegenheit. Ich gehe nach Hause.~
 
 //#15546 - German: improved translation
-@20046 = ~Muss das sein? Seht, es war ein langer Tag für mich... Ach, seid verdammt nach alledem!~
+@20046 = ~Muss das sein? Seht, es war ein langer Tag für mich … Ach, seid verdammt nach alledem!~
 
 //#6145
 @20047 = ~Ich bin nur ein einfacher Bauer. Ich weiß nicht viel.~
@@ -652,7 +652,7 @@ Kann nicht verwendet werden von:
 @20064 = ~Okay! Hier habt Ihr 25 Goldmünzen, und jetzt lasst uns in Ruhe.~
 
 //#5103
-@20065 = ~Nun... im Moment ist nur einer von Euch da, daher wollen wir es wagen.~
+@20065 = ~Nun … im Moment ist nur einer von Euch da, daher wollen wir es wagen.~
 
 //#5104
 @20066 = ~Du willst uns drohen, du degeneriertes, stinkendes Biest?! Bevor wir deinem trostlosen Dasein ein Ende bereiten, solltest du uns noch ein bisschen auf den Knien anflehen und vielleicht noch ein paar Informationen über die Schwarzen Krallen rausrücken.~
@@ -691,7 +691,7 @@ Kann nicht verwendet werden von:
 @20077 = ~Ich bin einer Räuberbande von Halbmenschen begegnet! Sie wollten Eisen und Gold.~
 
 //#1761
-@20078 = ~Nun... habt Ihr sonst noch Fragen?~
+@20078 = ~Nun … habt Ihr sonst noch Fragen?~
 
 //#1762
 @20079 = ~Wer sind die Schattendiebe?~
@@ -706,7 +706,7 @@ Kann nicht verwendet werden von:
 @20082 = ~Das sind erstmal genug Fragen.~
 
 //#11885
-@20083 = ~IthNal cOR dan osa KOZAH! Rrrackne dall'a osa KOZAH! Das Idol... muss das Idol finden...~
+@20083 = ~IthNal cOR dan osa KOZAH! Rrrackne dall'a osa KOZAH! Das Idol … muss das Idol finden …~
 
 //#14375 - German: improved translation
 @20084 = ~Wenn es Euch nach meiner Gesellschaft nicht länger verlangt, dann soll es so sein. Ich werde mich nicht aufdrängen, wo ich nicht erwünscht bin.~
@@ -724,7 +724,7 @@ Kann nicht verwendet werden von:
 @20088 = ~Nachdem der Vorarbeiter der Mine von Nashkell bezaubert wurde, sagte er, dass es "hundeähnliche" Geschöpfe gibt, die da unten für Ärger sorgen.~
 
 //#14736
-@20089 = ~Nun denn, ich nehme an, es wird mir die Gelegenheit geben, an dieser neuen Ballade zu arbeiten, die mir im Kopf rumschwirrt... Ich wette, Ihr werdet niemals erraten, wer die Hauptfiguren sind.~
+@20089 = ~Nun denn, ich nehme an, es wird mir die Gelegenheit geben, an dieser neuen Ballade zu arbeiten, die mir im Kopf rumschwirrt … Ich wette, Ihr werdet niemals erraten, wer die Hauptfiguren sind.~
 
 //#7592
 @20090 = ~Auch wenn das wahr ist, dürft Ihr trotzdem nich' in' Keller. Los, haut ab!~
@@ -733,13 +733,13 @@ Kann nicht verwendet werden von:
 @20091 = ~Ich stimme darin nicht mit Euch überein, aber die Entscheidung liegt bei Euch. Ihr zeigt ein gewisses Maß an Führungsqualität, und ich werde Euch in der Zukunft gerne behilflich sein. Komm, Khalid, wir müssen vorerst unseren Abschied nehmen.~
 
 //#15351
-@20092 = ~Äh, na gut. Ich muss jetzt langsam weiter... Äh... Macht weiter so.~
+@20092 = ~Äh, na gut. Ich muss jetzt langsam weiter … Äh … Macht weiter so.~
 
 //#15352
-@20093 = ~Okay, nicht ganz das, was Ihr wollt. Aber hier sind 50 Goldmünzen. Ist das... äh, genug?~
+@20093 = ~Okay, nicht ganz das, was Ihr wollt. Aber hier sind 50 Goldmünzen. Ist das … äh, genug?~
 
 //#15353
-@20094 = ~Meine Güte... danke, Leute. Der alte Trampel hätte mich fast erwischt, wenn Ihr jungen Trampel Euch nicht eingemischt hättet. Hier, falls Ihr noch eine Weile durch diese Berge zieht, könnt Ihr vielleicht ein besseres Paar Stiefel gebrauchen. Was mich betrifft, so würde ich nicht einmal hier bleiben, wenn ich dafür bezahlt würde.~
+@20094 = ~Meine Güte … danke, Leute. Der alte Trampel hätte mich fast erwischt, wenn Ihr jungen Trampel Euch nicht eingemischt hättet. Hier, falls Ihr noch eine Weile durch diese Berge zieht, könnt Ihr vielleicht ein besseres Paar Stiefel gebrauchen. Was mich betrifft, so würde ich nicht einmal hier bleiben, wenn ich dafür bezahlt würde.~
 
 //#5710
 @20095 = ~Habt Dank! Es ist westlich von Beregost. Thalantyr lebt dort in einem großen Anwesen. Bis wir diesen Ort erreichen, kuschele ich mich solange in Euer Bündel.~
@@ -769,7 +769,7 @@ Kann nicht verwendet werden von:
 @20103 = ~Wir wollen keine Schwierigkeiten. Nehmt, was Ihr wollt, und lasst uns in Frieden.~
 
 //#14740
-@20104 = ~Kann ich nicht wenigstens noch ein bisschen länger bei Euch bleiben? Unsere gemeinsame Zeit war so... angenehm. Nun gut, vielleicht werden wir uns wieder treffen.~
+@20104 = ~Kann ich nicht wenigstens noch ein bisschen länger bei Euch bleiben? Unsere gemeinsame Zeit war so … angenehm. Nun gut, vielleicht werden wir uns wieder treffen.~
 
 //#505
 @20105 = ~Ich kann es einfach nicht glauben: Ich bin unterlegen, noch dazu einem Mann! Ich fürchte, ich muss mein Wort halten. Ich stelle mein Schwert in den Dienst Eurer Sache, so schwachsinnig die auch sein mag.~
@@ -790,7 +790,7 @@ Kann nicht verwendet werden von:
 @20110 = ~Ich fürchte, du hattest Recht, Jeb, sie haben keinen Wind in Ihren Segeln. Nun geht, wir kommen auch ohne Euch klar.~
 
 //#11215
-@20111 = ~Ihr müsst aber! Ich stehe vor Euch, versperre Euch den Weg! Ich bin das Hindernis, das Euch aufhält! Ihr werdet mich befreien... mich bekämpfen!~
+@20111 = ~Ihr müsst aber! Ich stehe vor Euch, versperre Euch den Weg! Ich bin das Hindernis, das Euch aufhält! Ihr werdet mich befreien … mich bekämpfen!~
 
 //#11216
 @20112 = ~Wenn ich Euch umbringen muss, um vorbeizukommen, dann soll es wohl so sein. Ich werde es tun und Euch dabei Euren Fehltritt gegen mich vergeben.~
@@ -808,13 +808,13 @@ Kann nicht verwendet werden von:
 @20116 = ~Ich würde ja gern mit dir flüchten, Schatz, aber mein Mann kann so eifersüchtig sein! Ich möchte nicht seinen Zorn wecken. Nimm diesen Ring, damit du dich immer an mich erinnerst.~
 
 //#7926
-@20117 = ~Wenn mich meine Omi doch bloß mit Euch ziehen lassen würde! Ich will, ich will... Ach, sie wird mich niemals gehen lassen. Wie wär's, wenn ich Euch was geben würde, das Euch helfen kann, bevor Ihr geht? Das muss ziemlich wertvoll sein, weil Omi es ständig unter Verschluss hält. Ich hab's mir für 'ne Weile... ausgeborgt, aber jetzt sollt Ihr's kriegen. Hier habt Ihr's! Kommt bald wieder und erzählt mir dann von Euren Abenteuern!~
+@20117 = ~Wenn mich meine Omi doch bloß mit Euch ziehen lassen würde! Ich will, ich will … Ach, sie wird mich niemals gehen lassen. Wie wär's, wenn ich Euch was geben würde, das Euch helfen kann, bevor Ihr geht? Das muss ziemlich wertvoll sein, weil Omi es ständig unter Verschluss hält. Ich hab's mir für 'ne Weile … ausgeborgt, aber jetzt sollt Ihr's kriegen. Hier habt Ihr's! Kommt bald wieder und erzählt mir dann von Euren Abenteuern!~
 
 //#7912
 @20118 = ~Ich glaube, es wäre unfreundlich von mir, Euch bei Euren Abenteuern nicht zu unterstützen. Ich habe da noch was aus der alten Zeit, etwas, was Euch vielleicht nutzen könnte. Nehmt meine Schleuder. Sie sieht zwar nach nichts aus, aber glaubt mir, sie ist mehr als nur einmal hilfreich gewesen.~
 
 //#8855
-@20119 = ~Wenn Ihr mein Freund seid, dann helft mir, von hier wegzukommen! Ein Ghul spukt in meinem Kopf herum. Ich kann keine Sekunde wirklich ruhig schlafen. Ich wollte doch nichts von seinem Grab stehlen! Nun, vielleicht hab ich's getan... aber es tut mir wirklich leid! Bitte bringt es für mich zurück zu seinem Grab... bitte!~ ~Wenn Ihr meine Freundin seid, dann helft mir, von hier wegzukommen! Ein Ghul spukt in meinem Kopf herum. Ich kann keine Sekunde wirklich ruhig schlafen. Ich wollte doch nichts von seinem Grab stehlen! Nun, vielleicht hab ich's getan... aber es tut mir wirklich leid! Bitte bringt es für mich zurück zu seinem Grab... bitte!~
+@20119 = ~Wenn Ihr mein Freund seid, dann helft mir, von hier wegzukommen! Ein Ghul spukt in meinem Kopf herum. Ich kann keine Sekunde wirklich ruhig schlafen. Ich wollte doch nichts von seinem Grab stehlen! Nun, vielleicht hab ich's getan … aber es tut mir wirklich leid! Bitte bringt es für mich zurück zu seinem Grab … bitte!~ ~Wenn Ihr meine Freundin seid, dann helft mir, von hier wegzukommen! Ein Ghul spukt in meinem Kopf herum. Ich kann keine Sekunde wirklich ruhig schlafen. Ich wollte doch nichts von seinem Grab stehlen! Nun, vielleicht hab ich's getan … aber es tut mir wirklich leid! Bitte bringt es für mich zurück zu seinem Grab … bitte!~
 
 //#7661
 @20120 = ~Guter Freund, warum nehmt Ihr nicht diese 25 Goldmünzen und geht? Macht Euch 'nen schönen Tag!~
@@ -851,7 +851,7 @@ Kann nicht verwendet werden von:
 @20130 = ~Tretet ruhig näher, Leute, und HÖRT die Geschichte des Schreckens, der vor Euch liegt. Kommt mit mir, dem außerordentlichen Abenteurer Ike Cascadion Vendar, der eine neue Gruppe tapferer Seelen durch den SCHLUND der Gefahr in den Reichen führt. Wir werden zu Durlags Turm gehen und dort Zeugen der Gefahren sein, die Hunderten von tapferen Männern und Frauen das Leben gekostet haben. SEHT die Schrecken der verräterischen Fallen, FÜHLT die Anwesenheit der längst Verstorbenen, BESTAUNT die wunderbaren Reichtümer, die dort vergraben sind! Doch für ängstliche Naturen ist dies nicht geeignet. Ich werde KEINE Verantwortung übernehmen, wenn jemand an Herzversagen während oder nach unserem Ausflug stirbt! Kommt herbei, kommt herbei! EINER nach dem anderen!~
 
 //#21709 - German: improved translation
-@20131 = ~Ahh, gute Leute von edlem Blut, die Ihrem Schicksal den Fehdehandschuh entgegenwerfen! Kommt und seht, wie aufwendig ein Mann sein Eigentum schützen muss. Ich mache Euch einen Sonderpreis von 60 Goldmünzen für Eure ganze Gruppe... Nicht, dass Ihr es nötig hättet.~
+@20131 = ~Ahh, gute Leute von edlem Blut, die Ihrem Schicksal den Fehdehandschuh entgegenwerfen! Kommt und seht, wie aufwendig ein Mann sein Eigentum schützen muss. Ich mache Euch einen Sonderpreis von 60 Goldmünzen für Eure ganze Gruppe … Nicht, dass Ihr es nötig hättet.~
 
 //#21715
 @20132 = ~Abgemacht, mein Herr! Wann geht's los?~
@@ -884,19 +884,19 @@ Kann nicht verwendet werden von:
 @20141 = ~Ja, der Turm jagt selbst den Mutigsten von uns Angst ein. Die Führung beginnt täglich von hier - solltet Ihr einmal genug Mut haben.~
 
 //#21727
-@20142 = ~Das füllt meine Quote für diese Führung. Los geht's! Denkt daran, Euren Lieben einen Abschiedskuss zu geben, denn vielleicht werdet Ihr sie... NIEMALS... wiedersehen. Wir treffen uns am Fuße des Turms! Ohne mich würdet Ihr GARANTIERT getötet werden, doch fürchtet Euch nicht! Nur ICH kann jene Räume betreten, die andere aus ANGST meiden!~
+@20142 = ~Das füllt meine Quote für diese Führung. Los geht's! Denkt daran, Euren Lieben einen Abschiedskuss zu geben, denn vielleicht werdet Ihr sie … NIEMALS … wiedersehen. Wir treffen uns am Fuße des Turms! Ohne mich würdet Ihr GARANTIERT getötet werden, doch fürchtet Euch nicht! Nur ICH kann jene Räume betreten, die andere aus ANGST meiden!~
 
 //#23532
 @20143 = ~Ich habe einen Burschen namens Ike getroffen, der Führungen in Durlags Turm anbietet. Sieht ganz so aus, als ob er eine Art Touristenattraktion aus der alten Todesfalle gemacht hätte. Ich will die Tour auch mitmachen und sollte Ike so schnell wie möglich am Turm treffen. Da wird schon nichts passieren. Sie würden ja keine Leute reinlassen, wenn es immer noch gefährlich wäre.~
 
 //#22049
-@20144 = ~Auf meinem Schiff anheuern wollt Ihr? Ha, ich hab mehr Matrosen als das Jahr Tage hat und such bestimmt nicht nach neuen... Kommt, Leute, wir haben hier eine Quelle für Ärger gefunden, die wir ein bisschen aufräumen können!~
+@20144 = ~Auf meinem Schiff anheuern wollt Ihr? Ha, ich hab mehr Matrosen als das Jahr Tage hat und such bestimmt nicht nach neuen … Kommt, Leute, wir haben hier eine Quelle für Ärger gefunden, die wir ein bisschen aufräumen können!~
 
 //#23519
 @20145 = ~Ich wollte an Kapitän Tollar Kieres vorbei, um einen Blick auf die verdammten Seekarten zu werfen, aber mit ihm war nicht zu spaßen. Na wenn schon, ob ich jetzt kämpfe oder mit Tricks arbeite, Zeugen gibt es da eh keine.~
 
 //#22050
-@20146 = ~Zu meinen Seekarten soll ich Euch führen? Darum bittet Ihr mich? Ha, nicht nur würde es schlimmstes Unglück bedeuten, sie jemandem zu zeigen, bevor wir die Segel hissen, es würde auch sämtlichen Regeln der Liga zuwiderlaufen! Schnell, Leute, lasst uns einige Leichen für Umberlee einsammeln, bevor das Wetter wieder schlecht wird...~
+@20146 = ~Zu meinen Seekarten soll ich Euch führen? Darum bittet Ihr mich? Ha, nicht nur würde es schlimmstes Unglück bedeuten, sie jemandem zu zeigen, bevor wir die Segel hissen, es würde auch sämtlichen Regeln der Liga zuwiderlaufen! Schnell, Leute, lasst uns einige Leichen für Umberlee einsammeln, bevor das Wetter wieder schlecht wird …~
 
 //#21498
 @20147 = ~Glaubt ihm nicht! Er gehört nicht dazu! Er ist so verrückt wie die Bestien und fast genauso gefährlich.~
@@ -933,7 +933,7 @@ Kann nicht verwendet werden von:
 @20157 = ~Ich benötige im Moment nichts, aber danke für das Angebot.~
 
 //#3629
-@20158 = ~Hallo, Ihr dort. Ihr seht mir aus wie echte Abenteurer! Braucht Ihr neue Ausrüstung? Meine Preise mögen zwar ziemlich hoch sein, aber was soll ich tun, wo's Eisen doch grad so knapp ist...~
+@20158 = ~Hallo, Ihr dort. Ihr seht mir aus wie echte Abenteurer! Braucht Ihr neue Ausrüstung? Meine Preise mögen zwar ziemlich hoch sein, aber was soll ich tun, wo's Eisen doch grad so knapp ist …~
 
 //#15290
 @20159 = ~Zeigt uns Eure Waren.~
@@ -969,7 +969,7 @@ Kann nicht verwendet werden von:
 @20170 = ~An welcher Krankheit leidet Eltan?~
 
 //#11196 - German: improved translation
-@20171 = ~Da ist... noch jemand. Unter den Anführern des Eisenthrons befindet sich eine Frau... Ihr Einfluss vergiftet Sarevoks Seele. Wenn sie aus dem Weg wäre, wäre er sicherlich zugänglich für meine vernünftigen Ratschläge. Sie heißt Cythandria und hat große Macht in dieser Sache. Auch sie versucht, Sarevok zu gefallen, ist aber mit seiner Selbstzerstörung zufrieden, wenn sie nur aus den Dingen ihren Nutzen ziehen kann. Ich... muss jetzt gehen. Er darf nicht wissen, dass ich Euch geholfen habe.~
+@20171 = ~Da ist … noch jemand. Unter den Anführern des Eisenthrons befindet sich eine Frau … Ihr Einfluss vergiftet Sarevoks Seele. Wenn sie aus dem Weg wäre, wäre er sicherlich zugänglich für meine vernünftigen Ratschläge. Sie heißt Cythandria und hat große Macht in dieser Sache. Auch sie versucht, Sarevok zu gefallen, ist aber mit seiner Selbstzerstörung zufrieden, wenn sie nur aus den Dingen ihren Nutzen ziehen kann. Ich … muss jetzt gehen. Er darf nicht wissen, dass ich Euch geholfen habe.~
 
 //#1780
 @20172 = ~Wisst Ihr, wer Scar getötet hat?~
@@ -991,7 +991,7 @@ Aus irgendeinem Grund ist Herzog Eltan nicht mehr der Kommandant der Flammenden 
 //@20011 with header:
 @20176 = ~Etwas Ruhe im Treiben der Großstadt
 
-Der Priester Quoningar, der scheinbar genauso wenig an das rege Treiben in der Stadt gewöhnt ist wie ich, sucht nach einem Konzentrationstrank. Ohne ihn wird er seine Meditationen wohl nie beenden können...~
+Der Priester Quoningar, der scheinbar genauso wenig an das rege Treiben in der Stadt gewöhnt ist wie ich, sucht nach einem Konzentrationstrank. Ohne ihn wird er seine Meditationen wohl nie beenden können …~
 
 //ubquon.tra @0 with header:
 @20177 = ~Etwas Ruhe im Treiben der Großstadt
@@ -1046,10 +1046,10 @@ Nachdem die Oger Magi im Scharfzahnwald besiegt waren, hat uns Shilo Chen angeme
 @40005 = ~Guten Abend! Im "Helm und Umhang" erwarten Euch eine flinke Bedienung und Stunden der Entspannung. Ihr habt bestimmt gehört, dass bei uns Speis und Trank ein wenig mehr kosten als in anderen, "weniger gut angesehenen" Gasthäusern in der Stadt. Das ist wohl wahr, doch bin ich stets bestrebt, dafür zu sorgen, dass Ihr auch erhaltet, wofür Ihr zahlt. Kann ich etwas für Euch tun?~
 
 //#8381
-@40006 = ~Hmm? Hallo! Willkommen im "Helm und Umhang". Hier erwarten Euch ein hervorragender Service und eine ausgezeichnete Qualität... ähm... Ihr könnt doch BEZAHLEN, oder? Solange das so ist, werden wir hervorragend miteinander auskommen. Bitte versucht jeden Ärger zu vermeiden. Wir sind gut geschützt und jeglicher Rabatz stört nur die anderen Gäste. Kann ich etwas für Euch tun?~
+@40006 = ~Hmm? Hallo! Willkommen im "Helm und Umhang". Hier erwarten Euch ein hervorragender Service und eine ausgezeichnete Qualität … ähm … Ihr könnt doch BEZAHLEN, oder? Solange das so ist, werden wir hervorragend miteinander auskommen. Bitte versucht jeden Ärger zu vermeiden. Wir sind gut geschützt und jeglicher Rabatz stört nur die anderen Gäste. Kann ich etwas für Euch tun?~
 
 //#8382
-@40007 = ~Oh, nein nein nein. Ich denke nur, jemandem mit Eurem... Niveau wird es im "Helm und Umhang" wohl nicht so recht gefallen. Wir sind dafür bekannt, etwas teurer, aber dafür auch entspannter zu sein als die anderen Gasthäuser, wohingegen Ihr jemand zu sein scheint, der eher an der Atmosphäre im... nun, sagen wir... in der "Errötenden Nixe" Gefallen finden dürfte. Entschuldigt, wenn ich das sage, aber das war nicht gerade als Kompliment gemeint. Besser, Ihr geht gleich, sonst gibt's sicherlich Ärger. Kann ich sonst etwas für Euch tun?~
+@40007 = ~Oh, nein nein nein. Ich denke nur, jemandem mit Eurem … Niveau wird es im "Helm und Umhang" wohl nicht so recht gefallen. Wir sind dafür bekannt, etwas teurer, aber dafür auch entspannter zu sein als die anderen Gasthäuser, wohingegen Ihr jemand zu sein scheint, der eher an der Atmosphäre im … nun, sagen wir … in der "Errötenden Nixe" Gefallen finden dürfte. Entschuldigt, wenn ich das sage, aber das war nicht gerade als Kompliment gemeint. Besser, Ihr geht gleich, sonst gibt's sicherlich Ärger. Kann ich sonst etwas für Euch tun?~
 
 //#14220
 @40008 = ~Husch! Sind das nicht die Hühner? Erlin! Erlin, jemand ist hinter den Hühnern her!~
@@ -1151,7 +1151,7 @@ Nachdem die Oger Magi im Scharfzahnwald besiegt waren, hat uns Shilo Chen angeme
 @40040 = ~Ihr seid hier nicht willkommen!~
 
 //#8192
-@40041 = ~Ich warte auf meinen Papa. Er kommt bestimmt bald nach Hause. Er kann ja nicht für immer in der Mine bleiben... stimmt's?~
+@40041 = ~Ich warte auf meinen Papa. Er kommt bestimmt bald nach Hause. Er kann ja nicht für immer in der Mine bleiben … stimmt's?~
 
 //#8193 - German: improved translation
 @40042 = ~Er kommt nicht mehr zurück, weil er tot ist, Kleine. Er ist hinüber, abgenippelt, hat den Löffel abgegeben, schaut sich die Radieschen von unten an, ist krepiert.~
@@ -1187,7 +1187,7 @@ Nachdem die Oger Magi im Scharfzahnwald besiegt waren, hat uns Shilo Chen angeme
 @40052 = ~Ich fürchte, ich habe nicht die Zeit, bei ihm zu verweilen. Ich wollte nur kurz hereinschauen.~
 
 //#7844
-@40053 = ~Oh, es ist für jeden Halbling außerordentlich aufregend, Leute zu treffen, die den Geist des Kleinen Riesen in sich tragen. Es mag zwar ein klein wenig... exzentrisch sein, die Annehmlichkeiten eines wohlbestückten Herdes zu verlassen, aber ich bin sicher, dass Eure Eskapaden viel Spaß machen... wenn's einem gefällt. Ihr könnt jederzeit zurückkommen, wenn Ihr wollt.~
+@40053 = ~Oh, es ist für jeden Halbling außerordentlich aufregend, Leute zu treffen, die den Geist des Kleinen Riesen in sich tragen. Es mag zwar ein klein wenig … exzentrisch sein, die Annehmlichkeiten eines wohlbestückten Herdes zu verlassen, aber ich bin sicher, dass Eure Eskapaden viel Spaß machen … wenn's einem gefällt. Ihr könnt jederzeit zurückkommen, wenn Ihr wollt.~
 
 //#7845
 @40054 = ~Für viele unserer jungen Leute sind eigentümlicherweise die Taten von Leuten, wie Ihr es seid, der Inbegriff des wandernden Kleinen Riesen. Ich persönlich halte ja nicht allzu viel davon, Heim und Herd zu verlassen. Bleibt, solange Ihr wollt, aber versucht nicht, die Kinder zu sehr für Euch und Euer Leben zu begeistern!~
@@ -1199,7 +1199,7 @@ Nachdem die Oger Magi im Scharfzahnwald besiegt waren, hat uns Shilo Chen angeme
 @40056 = ~Es ist wirklich sehr schade. Anscheinend führt ständiges Schlafen auf einem kalten Kerkerboden dazu, dass man gereizt und ungesellig wird. Ihr tut mir in vielerlei Hinsicht leid. Bleibt, solange es Euch beliebt, aber versucht wenigstens etwas netter zu sein!~
 
 //#7848 - German: improved translation
-@40057 = ~Große Güte! Wie kann man nur so gemein und hintertrieben sein? Solch ein Unfrieden ist unbekannt in der Gesellschaft, in der wir Halblinge uns aufhalten. Allein schon der Diebstahl ist mehr als nur eine Unannehmlichkeit, aber Euer ungebührliches Benehmen... ist für eine zivilisierte Frau schon beinahe nicht mehr zu ertragen! Lasst mich in Ruhe!~
+@40057 = ~Große Güte! Wie kann man nur so gemein und hintertrieben sein? Solch ein Unfrieden ist unbekannt in der Gesellschaft, in der wir Halblinge uns aufhalten. Allein schon der Diebstahl ist mehr als nur eine Unannehmlichkeit, aber Euer ungebührliches Benehmen … ist für eine zivilisierte Frau schon beinahe nicht mehr zu ertragen! Lasst mich in Ruhe!~
 
 //#7849
 @40058 = ~Das Wanderleben ist nun mal sehr anziehend. Von dieser Anziehungskraft haben wir alle durch die Erzählungen des Kleinen Riesen gehört, obwohl ich ja gestehen muss, dass ich's nicht ganz verstehen kann. Es ist doch allemal bequemer, die Abende bei seiner Familie am Herd zu verbringen. So lebt denn wohl und viel Glück auf Euren Reisen!~
@@ -1241,13 +1241,13 @@ Nachdem die Oger Magi im Scharfzahnwald besiegt waren, hat uns Shilo Chen angeme
 @40070 = ~Verlassen? Bei uns ist es Sitte, dass auch bei jemandem, der sein Heim für Jahre verlässt, sich die Freunde und Nachbarn darum kümmern, dass die Hütte warm und gemütlich bleibt, so dass er stets zurückkehren kann. Käme in der Zwischenzeit ein Fremder daher und bräuchte ein Dach über dem Kopf, gäbe es wohl niemanden, der etwas dagegen hätte. Ihr müsst Euch nicht entschuldigen. Wenn mein Haus Euch verlassen vorkommt, muss ich mich umso mehr bemühen, ein einladendes und freundliches Gesicht zu machen. Cyrrollalee wäre mit weniger nicht zufrieden.~
 
 //#7814
-@40071 = ~Ich behaupte, dass Ihr niemanden unter den kleinen Leuten finden werdet, der Besuchern, ob bekannt oder nicht, seine Tür verschließen würde. Es ist bei uns gang und gäbe, jeden, der Einlass begehrt, herzlich willkommen zu heißen, gleich welches... Benehmen er an den Tag legt. Auch Ihr seid willkommen, eine Weile zu bleiben... obwohl es schon recht spät ist.~
+@40071 = ~Ich behaupte, dass Ihr niemanden unter den kleinen Leuten finden werdet, der Besuchern, ob bekannt oder nicht, seine Tür verschließen würde. Es ist bei uns gang und gäbe, jeden, der Einlass begehrt, herzlich willkommen zu heißen, gleich welches … Benehmen er an den Tag legt. Auch Ihr seid willkommen, eine Weile zu bleiben … obwohl es schon recht spät ist.~
 
 //#7815
 @40072 = ~Wenn ich etwas besitzen würde, was Ihr benötigt, müsstet Ihr nur darum bitten. Materielle Dinge sind für uns kleine Leute im Vergleich zu einem sicheren Herd nur von geringer Bedeutung. So ein unfreundlicher Auftritt wird Euch jedoch nur feindselige Blicke einbringen. Verweilt nicht zu lange in meinem Heim. Ihr seid nicht willkommen!~
 
 //#7816
-@40073 = ~Eure Höflichkeit lässt die Störung durch Euer Eindringen ganz vergessen! Für freundliche Leute ist meine Tür immer offen, ungeachtet ihrer... Herkunft. Bleibt für einige Zeit, wenn Ihr wollt.~
+@40073 = ~Eure Höflichkeit lässt die Störung durch Euer Eindringen ganz vergessen! Für freundliche Leute ist meine Tür immer offen, ungeachtet ihrer … Herkunft. Bleibt für einige Zeit, wenn Ihr wollt.~
 
 //#7817
 @40074 = ~Hallo, da seid Ihr ja wieder. Es ist mir immer wieder eine Freude!~
@@ -1268,7 +1268,7 @@ Nachdem die Oger Magi im Scharfzahnwald besiegt waren, hat uns Shilo Chen angeme
 @40079 = ~In Feldeposts Wirtshaus in Beregost logiert ein fetter Mann namens Algernon. Er bewahrt in seinem Zimmer einen Umhang auf. Ich brauche Eure diebischen Finger, um den Umhang zu entwenden und ihn mir zu bringen. Ihr sollt auch eine hübsche Belohnung dafür bekommen. Verschont wenn möglich sein Leben. Nehmt ihm lediglich den Umhang ab.~
 
 //#15742
-@40080 = ~Pheirkas, ein Zwergenkämpfer in Baldurs Tor, hat mich gebeten, auf eine, ich kann es nicht anders nennen, geheime Mission zu gehen. In Feldeposts Wirtshaus in Beregost soll gerade der übergewichtige Algernon abgestiegen sein. Er hat einen Umhang in seinem Besitz, an dem Pheirkas interessiert ist... Es ist zwar ein großes Risiko, aber bestimmt gibt es auch eine entsprechende Belohnung. Pheirkas hält sich im Nordwesten der Stadt auf.~
+@40080 = ~Pheirkas, ein Zwergenkämpfer in Baldurs Tor, hat mich gebeten, auf eine, ich kann es nicht anders nennen, geheime Mission zu gehen. In Feldeposts Wirtshaus in Beregost soll gerade der übergewichtige Algernon abgestiegen sein. Er hat einen Umhang in seinem Besitz, an dem Pheirkas interessiert ist … Es ist zwar ein großes Risiko, aber bestimmt gibt es auch eine entsprechende Belohnung. Pheirkas hält sich im Nordwesten der Stadt auf.~
 
 //#15109
 @40081 = ~Habt Ihr Algernons Umhang mitgebracht?~
@@ -1469,7 +1469,7 @@ Nachdem die Oger Magi im Scharfzahnwald besiegt waren, hat uns Shilo Chen angeme
 @40146 = ~Okay! Hier habt Ihr 25 Goldmünzen, und jetzt lasst uns in Ruhe.~
 
 //#5103
-@40147 = ~Nun... im Moment ist nur einer von Euch da, daher wollen wir es wagen.~
+@40147 = ~Nun … im Moment ist nur einer von Euch da, daher wollen wir es wagen.~
 
 //#5104
 @40148 = ~Du willst uns drohen, du degeneriertes, stinkendes Biest?! Bevor wir deinem trostlosen Dasein ein Ende bereiten, solltest du uns noch ein bisschen auf den Knien anflehen und vielleicht noch ein paar Informationen über die Schwarzen Krallen rausrücken.~

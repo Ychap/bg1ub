@@ -1,5 +1,5 @@
 //#15015
-@0  = ~Ah, gut abgehangen. Das habt Ihr wirklich gut gemacht. Hier habt Ihr 250 Goldmünzen, die stinken ja bekanntlich nicht... Na warte, Nemphre, ich krieg den Ring schon noch!~
+@0  = ~Ah, gut abgehangen. Das habt Ihr wirklich gut gemacht. Hier habt Ihr 250 Goldmünzen, die stinken ja bekanntlich nicht … Na warte, Nemphre, ich krieg den Ring schon noch!~
 @1  = ~Ich erkenne den Ring. Er gehörte Sashenstars Tochter; sie war ebenfalls unter den Vermissten. Ich denke, die Familie hätte gerne eine angemessene Beerdigung für ihre Tochter. Wärt Ihr bereit, in die Kanalisation zurückzukehren und ihre Leiche zu bergen? Ihr könnt sie zu mir bringen, dann überbringe ich den Sashenstars die Nachricht.~
 @2  = ~Ich habe die Leiche bei mir. Sie ist derart exquisit bekleidet, dass ich mir schon dachte, sie müsse eine wichtige Person sein.~
 @3  = ~Ich werde auf keinen Fall in die stinkende Kanalisation zurückkehren. Ich bin sicher, Ihr habt einen Laufburschen, den Ihr hinunterschicken könnt, um die Leiche zu holen.~
@@ -18,10 +18,10 @@
 @16 = ~Das ist die Leiche einer verdammten Adligen! Die bringt mir bloß 'nen Haufen Ärger. Könnt Ihr nicht die Leiche irgendeines Bauern finden?~
 
 /* new in v13 */
-@17   = ~Ihr... Ich habe von Euch gehört. Ihr könntet hilfreiche Dienste für mich und diese Stadt leisten. Wollt Ihr mir zuhören?~
+@17   = ~Ihr … Ich habe von Euch gehört. Ihr könntet hilfreiche Dienste für mich und diese Stadt leisten. Wollt Ihr mir zuhören?~
 @18   = ~Es tut mir leid, aber ich arbeite im Moment für Euren stellvertretenden Kommandanten, und diese Untersuchungen möchte ich erst noch abschließen.~
 @19   = ~Ja, sagt mir, was Ihr wollt. Ich bin sicher, dass Scar seine Probleme alleine lösen kann.~
-@20   = ~Noch nicht... Zuerst muss ich noch etwas erledigen.~
+@20   = ~Noch nicht … Zuerst muss ich noch etwas erledigen.~
 @21   = ~Ja, bitte sprecht.~
 @22   = ~Nicht so schnell. Zuerst möchte ich Euch sagen, dass ich in der Tat zu der Gruppe gehöre, die an dem Fiasko in den Minen von Nashkell beteiligt war.~
 @23   = ~Einen Moment. Ihr spracht davon, dass Ihr Hilfe benötigt. Ich wäre jetzt daran interessiert, für Euch zu arbeiten.~
