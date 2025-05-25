@@ -1,11 +1,53 @@
-*2da text eol=lf
-*baf text eol=lf
-*d text eol=lf
-*tp2 text eol=lf
-*tpa text eol=lf
-*tph text eol=lf
-*tra text eol=lf
-*txt text eol=lf
-*md text eol=lf
-*ini text eol=lf
-*html text eol=lf
+# Use export-ignore to skip files when downloading
+.* export-ignore
+*.gitignore text eol=crlf
+*.gitattributes text eol=crlf
+
+# Common
+*.7z binary
+*.bat text eol=crlf
+*.bmp binary
+*.command text eol=lf
+*.csv text eol=crlf
+*.dll binary
+*.eff binary
+*.exe binary
+*.gif binary
+*.htm[l] text eol=lf
+*.ico binary
+*.ini text eol=crlf
+*.jpg binary
+*.png binary
+*.ps1 text eol=crlf
+*.sh text eol=lf
+*.txt text eol=crlf
+*.y[a]ml text eol=lf
+*.zip binary
+
+# WeiDU/IE
+*.2da text eol=lf
+*.are binary
+*.baf text eol=lf
+*.bam binary
+*.bcs text eol=lf
+*.cre binary
+*.d text eol=lf
+*.dlg binary
+*.ids text eol=lf
+*.itm binary
+*.mos binary
+*.plt binary
+*.pro binary
+*.pvrz binary
+*.spl binary
+*.sto binary
+*.tp2 text eol=lf
+*.tpa text eol=lf
+*.tph text eol=lf
+*.tpp text eol=lf
+*.tra text eol=lf
+*.vef binary
+*.vvc binary
+*.wav binary
+*.wed binary
+*.wmp binary
