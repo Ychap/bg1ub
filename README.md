@@ -540,26 +540,26 @@ Below are links to community-related sites:
   - Corrected entry for "Beregost_House08_L2" in cpmvars.tpas.
   - Readme updated.
 
-* Version 16.5
+ Version 16.5
+- Fixed Arkion dialog tree on BGEE/EET.
+- Normalized file line endings.
+- Updated German translation.
+- Updated Chinese translation.
+- Removed duplicate `abprismemeralds` folder.
+- *Note: The fix code for EE compatibility by **Jastey** ([link](https://forums.pocketplane.net/index.php?topic=30046.msg340860#msg340860)) was correct but was applied to the wrong file via a PR from a community member.*
 
-  * Fix Arkion dialog tree on BGEE/EET.
-  * Fix for EE compat by Jastey (https://forums.pocketplane.net/index.php?topic=30046.msg340860#msg340860).
-  * Fix folder abprismemeralds appeared twice.
-  * Normalize file endings.
-  * Update German translation.
-  * Update Chinese translation.
+### Version 16.6
+- Fixed malformed `tra\deutsch\bg1ub.tra`.
 
-* Version 16.6
-  * Fix for malformed tra\deutsch\bg1ub.tra.
+### Version 16.7
+- Added missing `LANGUAGE` entry for the Chinese translation.
 
-* Version 16.7
-  * Fix for missing LANGUAGE entry for Chinese translation.
-
-* Version 17
-  * Converted the mod to use UTF8 encoding for translation files.
-  * Added DESIGNATED and LABEL for each component.
-  * Cosmetic and style udates to German translation.
-  * Move french propmpts into separate file.
-  * Updated PI metadata.
-  * The setup-bg1ub.tp2 renamed to bg1ub.tp2.
-  * Lowercase filenames.
+### Version 17
+- Re-applied EE compatibility fix by **Jastey** ([link](https://forums.pocketplane.net/index.php?topic=30046.msg340860#msg340860)) to the correct file.
+- Converted the mod to use **UTF-8** encoding for translation files.
+- Added `DESIGNATED` and `LABEL` entries for each component.
+- Cosmetic and style updates to the German translation.
+- Moved French prompts into a separate file.
+- Updated **PI metadata**.
+- Renamed `setup-bg1ub.tp2` to `bg1ub.tp2`.
+- Lowercased filenames.
