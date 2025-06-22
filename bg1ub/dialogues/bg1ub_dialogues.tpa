@@ -1,6 +1,6 @@
 ///// Minor Dialogue Restorations                      \\\\\
 
-ACTION_IF !GAME_IS ~bg1 totsc~ THEN BEGIN
+ACTION_IF NOT GAME_IS ~bg1 totsc~ THEN BEGIN
   COMPILE EVALUATE_BUFFER ~bg1ub/dialogues/cpm/u!minor1.d~
   COMPILE EVALUATE_BUFFER ~bg1ub/dialogues/cpm/u!ch7.d~
   COMPILE EVALUATE_BUFFER ~bg1ub/dialogues/cpm/ubhobgo5.baf~
@@ -76,7 +76,7 @@ ACTION_IF (GAME_IS ~totsc tutu_totsc bgt~) THEN BEGIN
 END // Lahl correction
 
 // Restoration of Unshey Dialogs on Girdle of Gender Bender
-ACTION_IF !GAME_IS ~bg1 totsc~ THEN BEGIN
+ACTION_IF NOT GAME_IS ~bg1 totsc~ THEN BEGIN
   COMPILE EVALUATE_BUFFER ~bg1ub/dialogues/cpm/ubunshey.d~
   COPY_EXISTING ~%tutu_var%BOOK09.ITM~ ~override/ubunbook.itm~
   	SAY NAME2 @120

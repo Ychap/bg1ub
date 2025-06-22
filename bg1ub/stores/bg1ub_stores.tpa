@@ -19,7 +19,7 @@ END
 
 /////////////////////////////////////////////////////////
 //  Bartender fixes
-ACTION_IF !GAME_IS ~bgee~ THEN BEGIN // Already included in BGEE
+ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN // Already included in BGEE
   COPY_EXISTING ~%SEBaldursGate_Inn_L1%.ARE~ ~override~ // Change bartender so that TAV1215 can be renamed
     PATCH_IF (SOURCE_SIZE > 0x11c) BEGIN
       READ_LONG 0x54 actOff
@@ -125,7 +125,7 @@ END // Bartender fixes
 
 ////////////////////////////////////////////////////////////////////////////////////////
 // Inn, Tavern, Store name restorations
-ACTION_IF !GAME_IS ~bgee~ THEN BEGIN // Already included in BGEE
+ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN // Already included in BGEE
 
    // Change "Nashkel Inn" to "The Northern Light"
   ACTION_IF !(MOD_IS_INSTALLED ~Setup-BGFixPack.tp2~ ~2~) THEN BEGIN // Do not make this change if BGFixPack's Game Text Update is installed
@@ -206,7 +206,7 @@ COPY_EXISTING ~%tutu_var%BART4.CRE~ ~override~
 
 ////////////////////////////////////////////////////////////////////////////////////////
 // Ulgoth's Beard Store and Inn fixes
-ACTION_IF !GAME_IS ~bgee~ THEN BEGIN // Already included in BGEE
+ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN // Already included in BGEE
 COPY_EXISTING ~%tutu_var%ULGOTH.STO~ ~override~ // Ulgoth's Beard Store and Inn
   PATCH_IF (%SOURCE_SIZE% > 0x78) BEGIN
     READ_LONG 0x34 saleOff
@@ -298,7 +298,7 @@ END
 
 ////////////////////////////////////////////////////////////////////////////////////////
 // Elfsong Tavern Merchant
-ACTION_IF !GAME_IS ~bgee~ THEN BEGIN // Already included in BGEE
+ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN // Already included in BGEE
 
   COPY_EXISTING ~%tutu_var%merch4.cre~ ~override/ubme0706.cre~ //Copy merchant used in Nashkel Carnival
     WRITE_ASCII 0x2cc ~ubme0706~ #8 //Dialog

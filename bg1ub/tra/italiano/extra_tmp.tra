@@ -26,13 +26,13 @@
 
 
 //#8959
-@10011 = ~Sparisci dalla mia vista! Non farÚ niente per te!~
+@10011 = ~Sparisci dalla mia vista! Non far√≤ niente per te!~
 
 //#20245
 @10012 = ~Feldane~
 
 //#4983
-@10013 = ~La nostra biblioteca Ë l'harem della conoscenza umana.~ [%tutu_var%READR01]
+@10013 = ~La nostra biblioteca √® l'harem della conoscenza umana.~ [%tutu_var%READR01]
 @10014 = ~~ [%tutu_var%READR05]
 @10015 = ~~ [%tutu_var%READR06]
 
@@ -48,7 +48,7 @@
 @10020 = ~~ [%tutu_var%GALKN04]
 
 //#4763
-@10021 = ~Uh . . . La gotta mi ha preso il piede sinistro. Un dolore bestiale! E devo pagare l'oste, o si prender‡ il piede destro!~ [%tutu_var%GALKN02]
+@10021 = ~Uh . . . La gotta mi ha preso il piede sinistro. Un dolore bestiale! E devo pagare l'oste, o si prender√† il piede destro!~ [%tutu_var%GALKN02]
 
 //#9406
 @10022 = ~Bambina~
@@ -59,7 +59,7 @@
 @10025 = ~~ [%tutu_var%FCHIL06]
 
 //#8944
-@10026 = ~Questa Ë cattiveria! Lasciatemi in pace!~
+@10026 = ~Questa √® cattiveria! Lasciatemi in pace!~
 
 //#13840
 @10027 = ~Halfling Femmina~
@@ -70,7 +70,7 @@
 @10030 = ~~ [%tutu_var%HALFF06]
 
 //#13343
-@10031 = ~Avete approfittato della nostra ospitalit‡!~
+@10031 = ~Avete approfittato della nostra ospitalit√†!~
 
 //#13344
 @10032 = ~Siete di nuovo il benvenuto. Pensavo che ormai aveste proseguito, invece, questo piacere non l'avete avuto.~
@@ -93,7 +93,7 @@
 @10039 = ~Salute di nuovo. E ancora una volta un piacere.~
 
 //#13348
-@10040 = ~Vedo che siete ritornato. Immagino che non rimarrete pi˘ a lungo dell'ultima volta, eh?~
+@10040 = ~Vedo che siete ritornato. Immagino che non rimarrete pi√π a lungo dell'ultima volta, eh?~
 
 //#12310
 @10041 = ~Elminster~
@@ -107,7 +107,7 @@
 @10045 = ~~ [%tutu_var%MTOWN06]
 
 //#8950
-@10046 = ~Non dirÚ pi˘ una sola parola dopo ciÚ che avete fatto!~
+@10046 = ~Non dir√≤ pi√π una sola parola dopo ci√≤ che avete fatto!~
 
 //#20602
 @10047 = ~Ehi!~ [%tutu_var%GENMG15]
@@ -126,10 +126,10 @@
 @10054 = ~~ [%tutu_var%OGRIL09]
 
 //#5161
-@10055 = ~Non immischiatevi con me o sarÚ io a immischiarvi con voi!~ [%tutu_var%OGRIL01]
+@10055 = ~Non immischiatevi con me o sar√≤ io a immischiarvi con voi!~ [%tutu_var%OGRIL01]
 
 //#5162
-@10056 = ~Tutti mi prendono in giro perchÈ sono alto solo due metri....~ [%tutu_var%OGRIL02]
+@10056 = ~Tutti mi prendono in giro perch√© sono alto solo due metri....~ [%tutu_var%OGRIL02]
 
 //#9356
 @10057 = ~Mezzorco~
@@ -170,7 +170,7 @@
 @10076 = ~Servetta~
 
 //#4786
-@10077 = ~Il conto, prego. Il signor Volo Ë stato qui per un po'.~ [%tutu_var%WENCH01]
+@10077 = ~Il conto, prego. Il signor Volo √® stato qui per un po'.~ [%tutu_var%WENCH01]
 @10078 = ~~ [%tutu_var%WENCH03]
 @10079 = ~~ [%tutu_var%WENCH04]
 
@@ -181,12 +181,12 @@
 @10081 = ~Wilton~
 
 //#4821
-@10082 = ~Fermatevi un momento, giovanotto, perchÈ ho sentito dove siete andato e cosa avete fatto per il vecchio Brun.~ [%tutu_var%WILTN01]
+@10082 = ~Fermatevi un momento, giovanotto, perch√© ho sentito dove siete andato e cosa avete fatto per il vecchio Brun.~ [%tutu_var%WILTN01]
 @10083 = ~~ [%tutu_var%WILTN03]
 @10084 = ~~ [%tutu_var%WILTN04]
 
 //#4822
-@10085 = ~E cosÏ difficile trovare persone civili oggigiorno.~ [%tutu_var%WILTN02]
+@10085 = ~E cos√¨ difficile trovare persone civili oggigiorno.~ [%tutu_var%WILTN02]
 
 //#9036
 @10086 = ~Lasciatemi in pace. Non ho nulla per voi.~
@@ -195,7 +195,7 @@
 @10087 = ~Mi dispiace, giovanotto, ma ho molto da fare nei campi.~
 
 //#23935
-@10088 = ~Wow, facce nuove in citt‡, eh?!~ [%tutu_var%TSCFT01]
+@10088 = ~Wow, facce nuove in citt√†, eh?!~ [%tutu_var%TSCFT01]
 
 //#13649
 @10089 = ~Non avrete nulla da me!~
@@ -214,7 +214,7 @@
 @10096 = ~~ [%tutu_var%MINER06]
 
 //#23929
-@10097 = ~Ehil‡, giovane! Come va?~ [%tutu_var%TSCMT02]
+@10097 = ~Ehil√†, giovane! Come va?~ [%tutu_var%TSCMT02]
 @10098 = ~~ [%tutu_var%VILLM06]
 
 //#23930
@@ -268,7 +268,7 @@
 @10126 = ~Guardia Halfling~
 
 //#4925
-@10127 = ~Siete gente ben stramba a gironzolare fin quaggi˘.~ [%tutu_var%HALFL02]
+@10127 = ~Siete gente ben stramba a gironzolare fin quaggi√π.~ [%tutu_var%HALFL02]
 @10128 = ~~ [%tutu_var%FTOWN06]
 
 //#12245
@@ -285,13 +285,13 @@
 @10133 = ~Spero che non sia successo nulla a Skie, la mia dolce bambina.~ [%tutu_var%ENTAR02]
 
 //#8983
-@10134 = ~Esseri del vostro rango non troveranno pi˘ la porta aperta qui da me!~
+@10134 = ~Esseri del vostro rango non troveranno pi√π la porta aperta qui da me!~
 
 //#9857
 @10135 = ~Herschel~
 
 //#4874
-@10136 = ~Non Ë il momento per chiacchierare.~ [%tutu_var%NOBLE02]
+@10136 = ~Non √® il momento per chiacchierare.~ [%tutu_var%NOBLE02]
 @10137 = ~~ [%tutu_var%NOBLE05]
 @10138 = ~~ [%tutu_var%NOBLE06]
 
@@ -299,16 +299,16 @@
 @10139 = ~Ne ho abbastanza di te, mendicante.~ [%tutu_var%NOBLE03]
 
 //#4874
-@10140 = ~Non Ë il momento per chiacchierare.~ [%tutu_var%NOBLE02]
+@10140 = ~Non √® il momento per chiacchierare.~ [%tutu_var%NOBLE02]
 
 //#4873
-@10141 = ~Un uomo non dovrebbe parlare a chi Ë migliore di lui se non viene interrogato.~ [%tutu_var%NOBLE01]
+@10141 = ~Un uomo non dovrebbe parlare a chi √® migliore di lui se non viene interrogato.~ [%tutu_var%NOBLE01]
 
 //#4876
 @10142 = ~Non mi toccare! Potrei prendermi qualcosa.~ [%tutu_var%NOBLE04]
 
 //#8909
-@10143 = ~Badate, non vi avvicinate o vi arrufferÚ le penne!~
+@10143 = ~Badate, non vi avvicinate o vi arruffer√≤ le penne!~
 
 //#9432
 @10144 = ~Mercante~
@@ -322,7 +322,7 @@
 @10148 = ~Ho i prezzi migliori qui a Cormyr.~ [%tutu_var%MERCH01]
 
 //#4960
-@10149 = ~Tutta le mia merce Ë autentica, davvero!~ [%tutu_var%MERCH02]
+@10149 = ~Tutta le mia merce √® autentica, davvero!~ [%tutu_var%MERCH02]
 
 //#4961
 @10150 = ~Quei maledetti banditi non hanno favorito per niente gli affari.~ [%tutu_var%MERCH03]
@@ -374,14 +374,14 @@
 
 //#22786
 @10170 = ~Clava +1 (+3 contro le creature innaturali) : 'La Radice del Problema':
-Si dice che questa mazza incantata esista fin dai tempi della caduta di Netheril, e della creazione del grande deserto Anauroch. Anche se il prezzo pagato dalla civilt‡ fu grande, le vere vittime di questa catastrofe furono le creature naturali, condannate a subire la decadenza e la distruzione definitiva del loro ambiente di vita. Man mano che il deserto avanzava, quelli che rimanevano indietro venivano attaccati da orde di creature selvagge, le pi˘ impazienti delle quali avanzavano sulle terre che ancora non erano state corrotte e le sfruttavano a piacimento. Si dice che quest'arma in particolare provenga dall'albero di una driade, e sia l'ultimo dono alla causa della natura da parte di uno spirito di boschi che non riuscÏ a trattenere gli invasori che erano entrati nel suo territorio. Fu un'esperienza allo stesso tempo dolce e amara per lei, visto che se il suo albero non fosse stato cosÏ forte e rigoglioso non avrebbe neanche sofferto. Alcuni studiosi con poco rispetto diedero quindi questo nome all'oggetto, anche se all'interno di ambienti devoti della natura questa scelta non fu affatto apprezzata.
+Si dice che questa mazza incantata esista fin dai tempi della caduta di Netheril, e della creazione del grande deserto Anauroch. Anche se il prezzo pagato dalla civilt√† fu grande, le vere vittime di questa catastrofe furono le creature naturali, condannate a subire la decadenza e la distruzione definitiva del loro ambiente di vita. Man mano che il deserto avanzava, quelli che rimanevano indietro venivano attaccati da orde di creature selvagge, le pi√π impazienti delle quali avanzavano sulle terre che ancora non erano state corrotte e le sfruttavano a piacimento. Si dice che quest'arma in particolare provenga dall'albero di una driade, e sia l'ultimo dono alla causa della natura da parte di uno spirito di boschi che non riusc√¨ a trattenere gli invasori che erano entrati nel suo territorio. Fu un'esperienza allo stesso tempo dolce e amara per lei, visto che se il suo albero non fosse stato cos√¨ forte e rigoglioso non avrebbe neanche sofferto. Alcuni studiosi con poco rispetto diedero quindi questo nome all'oggetto, anche se all'interno di ambienti devoti della natura questa scelta non fu affatto apprezzata.
 
 STATISTICHE:
 THACO: +1,+3 contro creature innaturali
 Danni:+1,+3 contro creature innaturali, +1 danno da acido
 Tipo di danno: impatto ed acido
 Peso:3
-Fattore-Velocit‡:3
+Fattore-Velocit√†:3
 Tipo di Competenza: Clava
 Tipo: ad una mano
 Non utilizzabile da:
@@ -391,7 +391,7 @@ Mago~
 @10171 = ~Libro~
 
 //#7414
-@10172 = ~La gente di Gullykin non vede di buon occhio chi approfitta della loro ospitalit‡ per rubare ciÚ che hanno guadagnato con fatica. Arrendetevi, ladri!~
+@10172 = ~La gente di Gullykin non vede di buon occhio chi approfitta della loro ospitalit√† per rubare ci√≤ che hanno guadagnato con fatica. Arrendetevi, ladri!~
 
 //#7416
 @10173 = ~E dai piccoletto, dacci un'altra occasione.  Se ti dessi 100 pezzi d'oro?~
@@ -406,7 +406,7 @@ Mago~
 @10176 = ~Mi dispiace, noi non accettiamo mazzette.~
 
 //#7419
-@10177 = ~Voi che siete avventurieri, l'unica cosa che probabilmente vi puÚ interessare sono le rovine del ponte di Firewine.  Ci dovrebbe essere un tesoro lÏ, ma un gruppo di coboldi ci fa la guardia.  Hey, sarebbe un gran bel servizio per noi se li toglieste di mezzo. Ci hanno dato dei bei grattacapi recentemente.~
+@10177 = ~Voi che siete avventurieri, l'unica cosa che probabilmente vi pu√≤ interessare sono le rovine del ponte di Firewine.  Ci dovrebbe essere un tesoro l√¨, ma un gruppo di coboldi ci fa la guardia.  Hey, sarebbe un gran bel servizio per noi se li toglieste di mezzo. Ci hanno dato dei bei grattacapi recentemente.~
 
 //#4924
 @10178 = ~Stanno per arrivare tempi difficili, ti dico.~ [%tutu_var%HALFL01]
@@ -426,7 +426,7 @@ Mago~
 @10182 = ~~ [%tutu_var%STORE06]
 
 //#4882
-@10183 = ~Gli affari vanno male con questa scarsit‡ di ferro e tutto il resto.~ [%tutu_var%STORE02]
+@10183 = ~Gli affari vanno male con questa scarsit√† di ferro e tutto il resto.~ [%tutu_var%STORE02]
 
 //#4883
 @10184 = ~Il cliente ha sempre ragione.~ [%tutu_var%STORE03]
@@ -437,36 +437,36 @@ Mago~
 
 //vial/ubvial.d
 //#19438
-@20000 = ~Ho ripulito le miniere di Nashkel e sono stato ricompensato generosamente per i miei sforzi con 900 monete d'oro da Berrun Ghastkill accompagnate dai ringraziamenti dell'intera citt‡. Il ferro arriver‡ di nuovo sulla costa, anche se il trasporto rimane un affare pericoloso vista la presenza dei banditi sulle strade.~
+@20000 = ~Ho ripulito le miniere di Nashkel e sono stato ricompensato generosamente per i miei sforzi con 900 monete d'oro da Berrun Ghastkill accompagnate dai ringraziamenti dell'intera citt√†. Il ferro arriver√† di nuovo sulla costa, anche se il trasporto rimane un affare pericoloso vista la presenza dei banditi sulle strade.~
 
 //#5837
-@20001 = ~Taerom sta facendo una corazza con il mio guscio di ankheg. Sar‡ pronto al massimo tra dieci giorni.~
+@20001 = ~Taerom sta facendo una corazza con il mio guscio di ankheg. Sar√† pronto al massimo tra dieci giorni.~
 
 //#187
-@20165 = ~Non Ë ancora pronta. Forse ancora un giorno o due. Abbiate pazienza... la qualit‡ richiede tempo.~ //#187
+@20165 = ~Non √® ancora pronta. Forse ancora un giorno o due. Abbiate pazienza... la qualit√† richiede tempo.~ //#187
 
 //#15267
 @20166 = ~Potete mostrarci cosa avete da vendere?~
 
 //kagain/rKAGAIJ.d
 //#16782
-@20002 = ~Be', guardate cosa ho trovato; questo Ë il corpo del figlio di Silvershield. Credo proprio di essere in un mare di guai. Con la sua morte, diventerÚ un nano ricercato. Per quel che ne so, tutti voi siete dannati briganti, secondo loro. Be', poichÈ la mia reputazione ora Ë stata infangata, cosa ne dite se vi aiuto a vendicarvi di quei sacchi di merda?~
+@20002 = ~Be', guardate cosa ho trovato; questo √® il corpo del figlio di Silvershield. Credo proprio di essere in un mare di guai. Con la sua morte, diventer√≤ un nano ricercato. Per quel che ne so, tutti voi siete dannati briganti, secondo loro. Be', poich√© la mia reputazione ora √® stata infangata, cosa ne dite se vi aiuto a vendicarvi di quei sacchi di merda?~
 
 //#16783
-@20003 = ~Non vi vogliamo pi˘ vedere. Andatevene..~
+@20003 = ~Non vi vogliamo pi√π vedere. Andatevene..~
 
 //#7045
-@20004 = ~Il figlio di Entar Silvershield Ë stato ucciso.~
+@20004 = ~Il figlio di Entar Silvershield √® stato ucciso.~
 
 //#16784
-@20005 = ~Certo, le vostre capacit‡ possono farci comodo.~
+@20005 = ~Certo, le vostre capacit√† possono farci comodo.~
 
 //albert/_ALBERT.d
 //#6500
-@20006 = ~RUFIE!! Piccolo Rufie peloso! Chi Ë questo cucciolinoinoino? Vi ringrazio moltissimo! E meglio che riporti subito a casa questo piccolo vagabondo. Ecco, prendete questo. E un altro dei suoi giochi, tanto ne troveremo altri nel posto dove stiamo andando. Grazie ancora.~
+@20006 = ~RUFIE!! Piccolo Rufie peloso! Chi √® questo cucciolinoinoino? Vi ringrazio moltissimo! E meglio che riporti subito a casa questo piccolo vagabondo. Ecco, prendete questo. E un altro dei suoi giochi, tanto ne troveremo altri nel posto dove stiamo andando. Grazie ancora.~
 
 //#6509
-@20007 = ~Ho...salvato il "cagnolino" Rufie e l'ho riportato al... bambino... di nome Albert. Non voglio sapere dove sono andati. Se sono fortunato non lo scoprirÚ mai.~
+@20007 = ~Ho...salvato il "cagnolino" Rufie e l'ho riportato al... bambino... di nome Albert. Non voglio sapere dove sono andati. Se sono fortunato non lo scoprir√≤ mai.~
 
 //scar/ubscar.d
 //#10649
@@ -477,41 +477,41 @@ Mago~
 @20009 = ~Non disturbate le meditazioni dei santi.~
 
 //#15532
-@20010 = ~Mi Ë difficile meditare in mezzo alla confusione di questa citt‡. Potreste aiutarmi a trovare una pozione che mi aiuti a concentrarmi?~
+@20010 = ~Mi √® difficile meditare in mezzo alla confusione di questa citt√†. Potreste aiutarmi a trovare una pozione che mi aiuti a concentrarmi?~
 
 //#15809
-@20011 = ~Il sacerdote Quoningar, come me non abituato agli infiniti trambusti della citt‡, sta cercando una poziona per la focalizzazione dei pensieri. Senza di essa, dubito che riuscir‡ mai a terminare le sue meditazioni...~
+@20011 = ~Il sacerdote Quoningar, come me non abituato agli infiniti trambusti della citt√†, sta cercando una poziona per la focalizzazione dei pensieri. Senza di essa, dubito che riuscir√† mai a terminare le sue meditazioni...~
 
 //#15538
 @20012 = ~Vi prego, a meno che non possediate una pozione che mi aiuti a concentrare la mente, lasciatemi tornare alle mie quasi futili meditazioni~
 
 //#15539
-@20013 = ~Nonostante le vostre brutalit‡, sono grato di avere incontrato gente come voi per ammorbidire gli spigoli duri di questa citt‡. Potete chiamarmi Quoningar, se volete. Prego, prendete questo martello e ricordatevi di me durante la vostra prossima battaglia.~
+@20013 = ~Nonostante le vostre brutalit√†, sono grato di avere incontrato gente come voi per ammorbidire gli spigoli duri di questa citt√†. Potete chiamarmi Quoningar, se volete. Prego, prendete questo martello e ricordatevi di me durante la vostra prossima battaglia.~
 
 //#15540
-@20014 = ~Nonostante le vostre brutalit‡, sono grato di avere incontrato gente come voi per ammorbidire gli spigoli duri di questa citt‡. Potete chiamarmi Quoningar, se volete. Prego, prendete questi pozioni che blocco la magia e ricordatevi di me durante la vostra prossima battaglia.~
+@20014 = ~Nonostante le vostre brutalit√†, sono grato di avere incontrato gente come voi per ammorbidire gli spigoli duri di questa citt√†. Potete chiamarmi Quoningar, se volete. Prego, prendete questi pozioni che blocco la magia e ricordatevi di me durante la vostra prossima battaglia.~
 
 //#15541
-@20015 = ~Questa citt‡ mi fa paura, amico. Ogni giorno che passa divento sempre pi˘ inquieto.~
+@20015 = ~Questa citt√† mi fa paura, amico. Ogni giorno che passa divento sempre pi√π inquieto.~
 
 //#15542
-@20016 = ~Non sopporto questa citt‡, ma forse sarebbe pi˘ piacevole se mi muovessi senza voi tra i piedi!~
+@20016 = ~Non sopporto questa citt√†, ma forse sarebbe pi√π piacevole se mi muovessi senza voi tra i piedi!~
 
 //shilchen/ubshilo.d
 //#15182
-@20017 = ~Sento su di voi l'odore della citt‡.~
+@20017 = ~Sento su di voi l'odore della citt√†.~
 
 //#15772
-@20018 = ~Shilo Chen, un ranger del Bosco dei Denti Aguzzi, Ë in cerca di aiuto a Baldur's Gate. Un gruppo di orchi magi sta distruggendo la flora e la fauna della parte sudoccidentale del bosco. Mi ha chiesto di andare con lui a vedere. Se trover‡ altri avventurieri disposti a aiutarlo, li mander‡ come rinforzi.~
+@20018 = ~Shilo Chen, un ranger del Bosco dei Denti Aguzzi, √® in cerca di aiuto a Baldur's Gate. Un gruppo di orchi magi sta distruggendo la flora e la fauna della parte sudoccidentale del bosco. Mi ha chiesto di andare con lui a vedere. Se trover√† altri avventurieri disposti a aiutarlo, li mander√† come rinforzi.~
 
 //#15184
-@20019 = ~PerchÈ siete ancora in questa stupida citt‡ quando il bosco Ë in pericolo?!~
+@20019 = ~Perch√© siete ancora in questa stupida citt√† quando il bosco √® in pericolo?!~
 
 //#15185
-@20020 = ~I falchi mi hanno annunciato che avete ripulito da soli il bosco dagli orchi magi. Sono colpito dal vostro valore. Ecco, prendete questi guanti raffinati in segno di ringraziamento. Sono cosÏ sottili che riuscirete a percepire sul palmo anche la pi˘ delicata delle piume.~
+@20020 = ~I falchi mi hanno annunciato che avete ripulito da soli il bosco dagli orchi magi. Sono colpito dal vostro valore. Ecco, prendete questi guanti raffinati in segno di ringraziamento. Sono cos√¨ sottili che riuscirete a percepire sul palmo anche la pi√π delicata delle piume.~
 
 //#15186
-@20021 = ~Voi abitanti delle citt‡ siete tutti uguali!~
+@20021 = ~Voi abitanti delle citt√† siete tutti uguali!~
 
 //edie/ubedie.d
 //#15175
@@ -522,16 +522,16 @@ Mago~
 
 //creature/ubcre.d
 //#19945
-@20024 = ~Oh, salve <CHARNAME>, Ë parecchio che non ci vediamo. Certo che hai scelto un momento molto impegnato per visitarci. Mi piacerebbe parlare dei vecchi tempi, ma devo preparare le stanze delle riunioni per i nostri... ospiti.~
+@20024 = ~Oh, salve <CHARNAME>, √® parecchio che non ci vediamo. Certo che hai scelto un momento molto impegnato per visitarci. Mi piacerebbe parlare dei vecchi tempi, ma devo preparare le stanze delle riunioni per i nostri... ospiti.~
 
 //#19946
-@20025 = ~Non accadeva spesso che gli ospiti utilizzassero quelle stanze. Chi c'Ë?~
+@20025 = ~Non accadeva spesso che gli ospiti utilizzassero quelle stanze. Chi c'√®?~
 
 //#19947
 @20026 = ~Sembrate esitante, Feldane. Forse queste persone non sono affidabili?~
 
 //#19948
-@20027 = ~Oh, non dovrei parlarne. Hanno fatto una donazione molto generosa alla Fortezza; alcuni testi rari con un valore ben superiore alla normale tariffa d'ingresso. Non vedo perchÈ dovrei nascondertelo perÚ. Dopotutto, una volta questo posto era casa tua. Dicono di essere mercanti, ma sono sicuro che le loro organizzazioni si occupano anche di molte altre cose. I tre capi del Trono di ferro si incontreranno con dei rappresentanti dei Cavalieri dello Scudo.~
+@20027 = ~Oh, non dovrei parlarne. Hanno fatto una donazione molto generosa alla Fortezza; alcuni testi rari con un valore ben superiore alla normale tariffa d'ingresso. Non vedo perch√© dovrei nascondertelo per√≤. Dopotutto, una volta questo posto era casa tua. Dicono di essere mercanti, ma sono sicuro che le loro organizzazioni si occupano anche di molte altre cose. I tre capi del Trono di ferro si incontreranno con dei rappresentanti dei Cavalieri dello Scudo.~
 
 //#19950
 @20028 = ~Cosa sapete di queste due gruppi?~
@@ -540,16 +540,16 @@ Mago~
 @20029 = ~Interessante, ma non mi riguarda. Grazie per avermi dedicato il vostro tempo.~
 
 //#19957
-@20030 = ~Non sta a me dirlo, ma se fossi in te starei attento alla borsa in questo posto. Tre sono del Trono di Ferro, a quanto pare i capi in persona. Gli altri vengono da Amn, credo che rappresentino i Cavalieri dello Scudo. Tutti sostengono che lo scopo di questo viaggio Ë la discussione dei futuri rapporti commerciali, perchÈ il Trono di Ferro Ë cresciuto tanto ultimamente. So ben poco dell'economia di Baldur's Gate, ma credo di capire che non siano solo semplici mercanti.~
+@20030 = ~Non sta a me dirlo, ma se fossi in te starei attento alla borsa in questo posto. Tre sono del Trono di Ferro, a quanto pare i capi in persona. Gli altri vengono da Amn, credo che rappresentino i Cavalieri dello Scudo. Tutti sostengono che lo scopo di questo viaggio √® la discussione dei futuri rapporti commerciali, perch√© il Trono di Ferro √® cresciuto tanto ultimamente. So ben poco dell'economia di Baldur's Gate, ma credo di capire che non siano solo semplici mercanti.~
 
 //#19962
-@20031 = ~Che cosa volete dire con ciÚ? Ho avuto a che fare con il Trono di Ferro, pertanto mi piacerebbe sapere che cosa stanno combinan~
+@20031 = ~Che cosa volete dire con ci√≤? Ho avuto a che fare con il Trono di Ferro, pertanto mi piacerebbe sapere che cosa stanno combinan~
 
 //#19963
-@20032 = ~Bene, grazie per l'avvertimento. StarÚ attento.~
+@20032 = ~Bene, grazie per l'avvertimento. Star√≤ attento.~
 
 //#19964
-@20033 = ~Davvero poco, ma le voci non scarseggiano mai. Ho sentito dire che questi incontri sono pi˘ simili a negoziati, perchÈ il Trono di Ferro minaccia di entrare nel territorio dei Cavalieri dello Scudo. Ho sentito uno di loro, per puro caso naturalmente, e credo che il Trono di Ferro abbia guadagnato parecchio potere dalla penuria di ferro. Appropriato, non vi pare? Si incontrano qui perchÈ lo considerano un territorio neutrale e relativamente sicuro. Dubito che Ulraunt, il Custode dei Tomi, avrebbe permesso loro di entrare se avesse saputo chi erano, anche se non hanno fatto niente di male qui.~
+@20033 = ~Davvero poco, ma le voci non scarseggiano mai. Ho sentito dire che questi incontri sono pi√π simili a negoziati, perch√© il Trono di Ferro minaccia di entrare nel territorio dei Cavalieri dello Scudo. Ho sentito uno di loro, per puro caso naturalmente, e credo che il Trono di Ferro abbia guadagnato parecchio potere dalla penuria di ferro. Appropriato, non vi pare? Si incontrano qui perch√© lo considerano un territorio neutrale e relativamente sicuro. Dubito che Ulraunt, il Custode dei Tomi, avrebbe permesso loro di entrare se avesse saputo chi erano, anche se non hanno fatto niente di male qui.~
 
 //#19967
 @20034 = ~Grazie per le informazioni. Devo andare.~
@@ -561,28 +561,28 @@ Mago~
 @20036 = ~Nessun problema. Dobbiamo trovarci a chiacchierare prima o poi intanto che sei qui.~
 
 //#19966
-@20037 = ~Oh, spero proprio che non ti sia messo con loro. Pare che siano tipi molto sgradevoli. Pi˘ interessati al potere che al commercio. Li ho sentiti parlare per caso, e hanno addirittura guadagnato dalla crisi del ferro! Per questo i Cavalieri dello Scudo sono qui: l'influenza del Trono di Ferro Ë molto cresciuta ultimamente, e minaccia di rilevare certi interessi di Amn. Mi sorprende che Ulraunt, il Custode dei Tomi, abbia concesso loro di entrare, ma non ci sono prove che abbiano fatto niente di male.~
+@20037 = ~Oh, spero proprio che non ti sia messo con loro. Pare che siano tipi molto sgradevoli. Pi√π interessati al potere che al commercio. Li ho sentiti parlare per caso, e hanno addirittura guadagnato dalla crisi del ferro! Per questo i Cavalieri dello Scudo sono qui: l'influenza del Trono di Ferro √® molto cresciuta ultimamente, e minaccia di rilevare certi interessi di Amn. Mi sorprende che Ulraunt, il Custode dei Tomi, abbia concesso loro di entrare, ma non ci sono prove che abbiano fatto niente di male.~
 
 //#19970
-@20038 = ~Grazie per le informazioni. TornerÚ in camera mia.~
+@20038 = ~Grazie per le informazioni. Torner√≤ in camera mia.~
 
 //#19971
 @20039 = ~Immagino che non sappiate in quali stanze alloggiano?~
 
 //#19969
-@20040 = ~Ho gi‡ detto anche troppo. Non voglio certo sembrare un pettegolo. Farei meglio ad andare: ma dobbiamo fare qualche altra chiacchierata prima che tu riparta.~
+@20040 = ~Ho gi√† detto anche troppo. Non voglio certo sembrare un pettegolo. Farei meglio ad andare: ma dobbiamo fare qualche altra chiacchierata prima che tu riparta.~
 
 //#15543
-@20041 = ~Maledetti basilischi! Penso che stesse andando verso est ma ne ho abbastanza per oggi, grazie mille. Se date la caccia a quelle cose stupide, perÚ, non vi fermerÚ.~
+@20041 = ~Maledetti basilischi! Penso che stesse andando verso est ma ne ho abbastanza per oggi, grazie mille. Se date la caccia a quelle cose stupide, per√≤, non vi fermer√≤.~
 
 //#15810
-@20042 = ~Ho recuperato la ranger Corianna da dove si trovava, paralizzata dallo sguardo di un basilisco. Sebbene Corianna non abbia intenzione di incontrare la creatura per una seconda volta, Ë stata comunque abbastanza gentile da dirmi che il basilisco si stava dirigendo a est...~
+@20042 = ~Ho recuperato la ranger Corianna da dove si trovava, paralizzata dallo sguardo di un basilisco. Sebbene Corianna non abbia intenzione di incontrare la creatura per una seconda volta, √® stata comunque abbastanza gentile da dirmi che il basilisco si stava dirigendo a est...~
 
 //#15544
 @20043 = ~Mi fa piacere che mi abbiate trovata. Non bisognerebbe mai affrontare da soli i basilischi. Sto andando a casa, ma se volete dargli la caccia, ricordatevi di prendere questa pozione. La sua tana potrebbe essere troppo lontana da qui.~
 
 //#15811
-@20044 = ~Ho recuperato la ranger Corianna da dove si trovava, paralizzata dallo sguardo di un basilisco. Sebbene Corianna non abbia intenzione di incontrare la creatura per una seconda volta, Ë stata comunque abbastanza gentile da darmi una pozione di occhi specchiati e di informarmi che il basilisco si stava dirigendo a est...~
+@20044 = ~Ho recuperato la ranger Corianna da dove si trovava, paralizzata dallo sguardo di un basilisco. Sebbene Corianna non abbia intenzione di incontrare la creatura per una seconda volta, √® stata comunque abbastanza gentile da darmi una pozione di occhi specchiati e di informarmi che il basilisco si stava dirigendo a est...~
 
 //#15545
 @20045 = ~Oh no, no... Se volete affrontare quel basilisco, sono affari vostri. Io vado a casa.~
@@ -591,7 +591,7 @@ Mago~
 @20046 = ~Dovete proprio? Guardate, ho avuto una giornata molto pesante... Oh, maledetti!~
 
 //#6145
-@20047 = ~Sono solo un umile contadino. Non so granchÈ.~
+@20047 = ~Sono solo un umile contadino. Non so granch√©.~
 
 //#3991
 @20048 = ~Ehi! Chi siete?~
@@ -606,7 +606,7 @@ Mago~
 @20051 = ~Siamo solo normali viandanti.~
 
 //#6601
-@20052 = ~Un contadino che abbiamo incontrato nel Bosco dei Denti Aguzzi, ci ha detto che c'Ë qualcuno che scarica rifiuti nella foresta.~
+@20052 = ~Un contadino che abbiamo incontrato nel Bosco dei Denti Aguzzi, ci ha detto che c'√® qualcuno che scarica rifiuti nella foresta.~
 
 //#4004
 @20053 = ~D'accordo, se voi siete un gruppo di viandanti, allora io sono Elminster in persona. Bastardi sarcastici.~
@@ -615,7 +615,7 @@ Mago~
 @20054 = ~Lasciatemi in pace. Non ho nulla per voi.~
 
 //#106
-@20055 = ~Fermatevi un momento, giovanotto, perchÈ ho sentito dove siete andati e cosa avete fatto per il vecchio Brun. Mi vergogno di non aver tentato di aiutarlo io stesso. E bello sapere che c'Ë ancora qualcuno disposto a fare qualcosa, anche se forestiero. Vi voglio dare questo cimelio di famiglia per ciÚ che avete fatto: sar‡ senz'altro pi˘ utile a voi che sul mio caminetto. Quelli come voi fanno pensare a un vecchio malandato come me che esistono ancora persone per bene.~
+@20055 = ~Fermatevi un momento, giovanotto, perch√© ho sentito dove siete andati e cosa avete fatto per il vecchio Brun. Mi vergogno di non aver tentato di aiutarlo io stesso. E bello sapere che c'√® ancora qualcuno disposto a fare qualcosa, anche se forestiero. Vi voglio dare questo cimelio di famiglia per ci√≤ che avete fatto: sar√† senz'altro pi√π utile a voi che sul mio caminetto. Quelli come voi fanno pensare a un vecchio malandato come me che esistono ancora persone per bene.~
 
 //#5833
 @20056 = ~Un uomo di nome Wilton mi ha dato un premio per aver aiutato quel vecchio contadino di Brun. Si raccoglie quello che si semina, presumo.~
@@ -628,13 +628,13 @@ Mago~
 @20058 = ~Ehi voi! Ho bisogno di denaro e di cure; se sapete cosa fa bene a voi, datelo a me!~
 
 //#5097
-@20059 = ~Dovete scherzare?! Siete un hobgoblin, perchÈ non dovremo uccidervi?~
+@20059 = ~Dovete scherzare?! Siete un hobgoblin, perch√© non dovremo uccidervi?~
 
 //#5098
 @20060 = ~Ecco, prendete 25 monete d'oro.~
 
 //#5099
-@20061 = ~PerchÈ dovremmo aiutarvi?~
+@20061 = ~Perch√© dovremmo aiutarvi?~
 
 //#5100
 @20062 = ~Buon lavoro, non siete altro che imitazioni di esseri viventi.~
@@ -655,7 +655,7 @@ Mago~
 @20067 = ~Vi pentirete della vostra decisione.~
 
 //#5106
-@20068 = ~Un momento! Mi dispiace, non uccidetemi... vi prego. Vi dirÚ tutto degli Artigli Neri.~
+@20068 = ~Un momento! Mi dispiace, non uccidetemi... vi prego. Vi dir√≤ tutto degli Artigli Neri.~
 
 //#5107
 @20069 = ~Forza.~
@@ -670,7 +670,7 @@ Mago~
 @20072 = ~Un hobgoblin ci ha raccontato di aver lavorato per una banda di mercenari nota come il Gelo. Il Gelo ha compiuto delle scorrerie lungo la Strada della Costa.~
 
 //#6529
-@20073 = ~Salute ancora, avventurieri. Vedo che avete l'elemento che mancava. Bene, vediamo se riusciamo a salvare il nostro giovane amico, o se sar‡ servito per cena a qualcuno?~
+@20073 = ~Salute ancora, avventurieri. Vedo che avete l'elemento che mancava. Bene, vediamo se riusciamo a salvare il nostro giovane amico, o se sar√† servito per cena a qualcuno?~
 
 //#7012
 @20074 = ~Un hobgoblin che abbiamo charmato ci ha raccontato di aver lavorato per una banda di mercenari nota come il Gelo. Secondo lui il Gelo lavora per gli Zhent.~
@@ -694,7 +694,7 @@ Mago~
 @20080 = ~Con quali prove sono stati incriminati i Ladri Tenebrosi?~
 
 //#1764
-@20081 = ~Che malattia si Ë inventato Eltan?~
+@20081 = ~Che malattia si √® inventato Eltan?~
 
 //#1765
 @20082 = ~Per ora basta con le domande.~
@@ -703,28 +703,28 @@ Mago~
 @20083 = ~IthNal cOR dan osa KOZAH! Rrrackne dall'a osa KOZAH! L'idolo... trovare l'idolo...~
 
 //#14375
-@20084 = ~Se non desiderate oltre la nostra compagnia, cosÏ sia. Non mi imporrÚ se non sono apprezzata.~
+@20084 = ~Se non desiderate oltre la nostra compagnia, cos√¨ sia. Non mi imporr√≤ se non sono apprezzata.~
 
 //#16741
-@20085 = ~(I loro desideri mancano di prospettiva e originalit‡.) Se il semplice denaro Ë tutto ciÚ che volete, forse mi metterÚ a viaggiare con avventurieri pi˘ "avventurosi". Prendete quello che ho e ricordatevi la vostra scelta quando sar‡ passato un po' di tempo.~
+@20085 = ~(I loro desideri mancano di prospettiva e originalit√†.) Se il semplice denaro √® tutto ci√≤ che volete, forse mi metter√≤ a viaggiare con avventurieri pi√π "avventurosi". Prendete quello che ho e ricordatevi la vostra scelta quando sar√† passato un po' di tempo.~
 
 //#16172
-@20086 = ~Veramente? E sia. Sono sicuro che sarÚ qui da qualche parte se desideri la mia compagnia. VedrÚ di non farti cercare troppo.~
+@20086 = ~Veramente? E sia. Sono sicuro che sar√≤ qui da qualche parte se desideri la mia compagnia. Vedr√≤ di non farti cercare troppo.~
 
 //#6135
-@20087 = ~Essendo vostro buon amico, vi dico questo: c'Ë un branco di creature malvagie, simili a cani, che uccidono i miei uomini in miniera. Dovete fermarli!~
+@20087 = ~Essendo vostro buon amico, vi dico questo: c'√® un branco di creature malvagie, simili a cani, che uccidono i miei uomini in miniera. Dovete fermarli!~
 
 //#16558
-@20088 = ~Ho charmato il caposquadra della miniera di Nashkell. Dice che l‡ sotto c'erano creature simili a cani che creavano problemi.~
+@20088 = ~Ho charmato il caposquadra della miniera di Nashkell. Dice che l√† sotto c'erano creature simili a cani che creavano problemi.~
 
 //#14736
-@20089 = ~Ah bene, cosÏ avrÚ la possibilit‡ di lavorare alla nuova ballata che sto componendo... Scommetto che non indovinerete mai chi sono i protagonisti!~
+@20089 = ~Ah bene, cos√¨ avr√≤ la possibilit√† di lavorare alla nuova ballata che sto componendo... Scommetto che non indovinerete mai chi sono i protagonisti!~
 
 //#7592
-@20090 = ~Beh, se Ë cosÏ, non avete motivo per stare nei seminterrati. Fuori di qui.~
+@20090 = ~Beh, se √® cos√¨, non avete motivo per stare nei seminterrati. Fuori di qui.~
 
 //#16688
-@20091 = ~Contesto apertamente il tuo giudizio, ma Ë una decisione che devi prendere tu. Ti sei dimostrato un valido comandante e sarei lieta di poterti aiutare in futuro. Vieni Khalid, dobbiamo andare ora.~
+@20091 = ~Contesto apertamente il tuo giudizio, ma √® una decisione che devi prendere tu. Ti sei dimostrato un valido comandante e sarei lieta di poterti aiutare in futuro. Vieni Khalid, dobbiamo andare ora.~
 
 //#15351
 @20092 = ~Oh, molto bene. Allora mi incammino... Oh... Avanti...~
@@ -736,16 +736,16 @@ Mago~
 @20094 = ~Beh, grazie, grazie mille. Quel vecchio e pesante zoticone avrebbe potuto farmela se non fosse stato per voi, giovani e agili zoticoni. Ecco, se continuerete a vagabondare per queste montagne ancora per un po', forse dovreste procurarvi degli stivali adatti. Per quel che mi riguarda, non resterei in questo posto nemmeno se mi pagassero.~
 
 //#5710
-@20095 = ~Grazie! E proprio a ovest di Beregost. Thalantyr vive l‡ in una grande casa: starÚ con voi dentro il zaino fino a quando non ci arriviamo.~
+@20095 = ~Grazie! E proprio a ovest di Beregost. Thalantyr vive l√† in una grande casa: star√≤ con voi dentro il zaino fino a quando non ci arriviamo.~
 
 //#5728
-@20096 = ~Ho incontrato uno stregone sfortunato che aveva la forma di un pollo. Lo porterÚ da Thalantyr, proprio a ovest di Beregost.~
+@20096 = ~Ho incontrato uno stregone sfortunato che aveva la forma di un pollo. Lo porter√≤ da Thalantyr, proprio a ovest di Beregost.~
 
 //#8468
-@20097 = ~Ecco le 500 monete d'oro che vi devo. Sento di dovervi molto di pi˘ per le vostre valorose azioni. Prendete pure questa pietra preziosa. E una ricompensa meritata.~
+@20097 = ~Ecco le 500 monete d'oro che vi devo. Sento di dovervi molto di pi√π per le vostre valorose azioni. Prendete pure questa pietra preziosa. E una ricompensa meritata.~
 
 //#8469
-@20098 = ~Vorrei potervi dare tutto il denaro che vi ho promesso, ma ho solo queste 500 monete d'oro. Ecco, prendete questa pietra preziosa: forse baster‡ a ripagarvi degnamente.~
+@20098 = ~Vorrei potervi dare tutto il denaro che vi ho promesso, ma ho solo queste 500 monete d'oro. Ecco, prendete questa pietra preziosa: forse baster√† a ripagarvi degnamente.~
 
 //#15113
 @20099 = ~Come mi sta il mio nuovo mantello?~
@@ -760,92 +760,92 @@ Mago~
 @20102 = ~Non vi attaccheremo. Anzi, vogliamo unirci al vostro gruppo.~
 
 //#1164
-@20103 = ~Non vogliamo guai. Prendete ciÚ che volete e lasciateci in pace.~
+@20103 = ~Non vogliamo guai. Prendete ci√≤ che volete e lasciateci in pace.~
 
 //#14740
-@20104 = ~Non potrei rimanere con voi ancora un pochino? Questo periodo insieme Ë stato... eccitante. Ah bene, forse ci incontreremo ancora.~
+@20104 = ~Non potrei rimanere con voi ancora un pochino? Questo periodo insieme √® stato... eccitante. Ah bene, forse ci incontreremo ancora.~
 
 //#505
 @20105 = ~Non posso crederci, sono battuta, nientemeno che da un uomo. Credo di dover rispettare la mia parola. Impegno la mia spada per la vostra causa, per quanto stupida possa essere.~
 
 //#517
-@20106 = ~A dir la verit‡, non abbiamo bisogno del vostro aiuto.~
+@20106 = ~A dir la verit√†, non abbiamo bisogno del vostro aiuto.~
 
 //#518
 @20107 = ~Bene, fareste meglio a dimostrare quanto valete.~
 
 //#1994
-@20108 = ~Oh. Potrebbe essere interessante... SÏ, fatelo.~
+@20108 = ~Oh. Potrebbe essere interessante... S√¨, fatelo.~
 
 //#1995
-@20109 = ~Allora Ë meglio che voi andiate, ora, perchÈ Droth Ë vicino e questo potrebbe rendere le cose difficili a entrambi.~
+@20109 = ~Allora √® meglio che voi andiate, ora, perch√© Droth √® vicino e questo potrebbe rendere le cose difficili a entrambi.~
 
 //#1134
-@20110 = ~Mi sembra che abbiate ragione, Jeb; non c'Ë vento nelle loro vele! Lasciateci stare. Risolveremo da soli i nostri problemi.~
+@20110 = ~Mi sembra che abbiate ragione, Jeb; non c'√® vento nelle loro vele! Lasciateci stare. Risolveremo da soli i nostri problemi.~
 
 //#11215
-@20111 = ~Non avete scelta! Mi metterÚ davanti a voi, vi bloccherÚ la via!! Vi ostacolerÚ! Potrete andare... solo se vi batterete!~
+@20111 = ~Non avete scelta! Mi metter√≤ davanti a voi, vi bloccher√≤ la via!! Vi ostacoler√≤! Potrete andare... solo se vi batterete!~
 
 //#11216
-@20112 = ~Se per passare devo uccidervi, allora cosÏ sar‡. E lo faccio perdonando le vostre colpe nei miei confronti.~
+@20112 = ~Se per passare devo uccidervi, allora cos√¨ sar√†. E lo faccio perdonando le vostre colpe nei miei confronti.~
 
 //#11217
-@20113 = ~Se volete gettare via la vostra vita, allora siete gi‡ morto. Se Ë questa la vostra scelta, non avete bisogno di me.~
+@20113 = ~Se volete gettare via la vostra vita, allora siete gi√† morto. Se √® questa la vostra scelta, non avete bisogno di me.~
 
 //#13756
-@20114 = ~Siete stati tanto gentili con me in questo mondo strano e pieno di luce. Forse avete ragione, perÚ. I drow devono essere una razza a parte... Abbiate cura di voi, d'accordo?~
+@20114 = ~Siete stati tanto gentili con me in questo mondo strano e pieno di luce. Forse avete ragione, per√≤. I drow devono essere una razza a parte... Abbiate cura di voi, d'accordo?~
 
 //#6258
 @20115 = ~Siccome siete dei buoni amici, ho per voi un dono. Prendete quest'oro, non mi serve a nulla.~
 
 //#8146
-@20116 = ~Mi piacerebbe scappare con te, carino, ma mio marito puÚ diventare molto geloso. Non vorrei scatenare le sue ire! Prendi questo anello, che ti possa sempre ricordare me.~
+@20116 = ~Mi piacerebbe scappare con te, carino, ma mio marito pu√≤ diventare molto geloso. Non vorrei scatenare le sue ire! Prendi questo anello, che ti possa sempre ricordare me.~
 
 //#7926
-@20117 = ~Vorrei che la nonna mi lasciasse venire via con voi... Vorrei, vorrei oh oh oh! Non mi lascer‡ mai! Prima che andate, che ne dite se vi do qualcosa che potrebbe servirvi? So che vale molto, perchÈ la nonna lo tiene sotto chiave. Io l'ho preso in prestito per un po', diciamo, ma adesso lo voglio dare a voi. Ecco qua. Ritornate presto e raccontatemi tutto sulle vostre avventure.~
+@20117 = ~Vorrei che la nonna mi lasciasse venire via con voi... Vorrei, vorrei oh oh oh! Non mi lascer√† mai! Prima che andate, che ne dite se vi do qualcosa che potrebbe servirvi? So che vale molto, perch√© la nonna lo tiene sotto chiave. Io l'ho preso in prestito per un po', diciamo, ma adesso lo voglio dare a voi. Ecco qua. Ritornate presto e raccontatemi tutto sulle vostre avventure.~
 
 //#7912
-@20118 = ~Credo che sarei inospitale se non vi aiutassi nelle vostre future adventurre. Ho un gingillo che usavo ai vecchi tempi, qualcosa che potrebbe servirvi. Prendete questa fionda: non sembra gran che, ma vi assicuro che mi ha fatto comodo pi˘ di una volta.~
+@20118 = ~Credo che sarei inospitale se non vi aiutassi nelle vostre future adventurre. Ho un gingillo che usavo ai vecchi tempi, qualcosa che potrebbe servirvi. Prendete questa fionda: non sembra gran che, ma vi assicuro che mi ha fatto comodo pi√π di una volta.~
 
 //#8855
-@20119 = ~Se siete un amico, dovreste lasciarmi andare di qui! Una creatura ghoul mi perseguita dentro la testa. Non posso dormire tranquillamente neanche per un istante. Non volevo rubare dalla sua tomba! Be', forse l'ho fatto... perÚ mi spiace! Vi prego, riportatelo sulla sua tomba. Allora?~
+@20119 = ~Se siete un amico, dovreste lasciarmi andare di qui! Una creatura ghoul mi perseguita dentro la testa. Non posso dormire tranquillamente neanche per un istante. Non volevo rubare dalla sua tomba! Be', forse l'ho fatto... per√≤ mi spiace! Vi prego, riportatelo sulla sua tomba. Allora?~
 
 //#7661
-@20120 = ~Brav'uomo, perchÈ non prendete queste 25 monete d'oro e andate a divertirvi?!~
+@20120 = ~Brav'uomo, perch√© non prendete queste 25 monete d'oro e andate a divertirvi?!~
 
 //#8420
-@20121 = ~Poi chiamarmi Ithtyl, mio buon amico. Sono lieta di conoscere una persona allegra come te. PerchÈ non vai di sotto a divertirti? Prendete queste 20 monete d'oro e comprateti quello che ti va.~
+@20121 = ~Poi chiamarmi Ithtyl, mio buon amico. Sono lieta di conoscere una persona allegra come te. Perch√© non vai di sotto a divertirti? Prendete queste 20 monete d'oro e comprateti quello che ti va.~
 
 //#6296
 @20122 = ~Salute! In cosa posso aiutar... Ehi! Un momento! Voi siete gli assassini ricercati!~
 
 //#7511
-@20123 = ~Stasera non sono fortunato al gioco. Che ne dite se vi do questa moneta d'oro per farvi incominciare? Magari la fortuna di Tymora sar‡ con voi.~
+@20123 = ~Stasera non sono fortunato al gioco. Che ne dite se vi do questa moneta d'oro per farvi incominciare? Magari la fortuna di Tymora sar√† con voi.~
 
 //#8802
-@20124 = ~Non esco molto di casa, per cui so ben poco di quello che accade in citt‡. PerchÈ non accettate questa moneta d'oro e vi andate a divertire alla piazza del mercato?! Ci sono un sacco di cose da fare laggi˘.~
+@20124 = ~Non esco molto di casa, per cui so ben poco di quello che accade in citt√†. Perch√© non accettate questa moneta d'oro e vi andate a divertire alla piazza del mercato?! Ci sono un sacco di cose da fare laggi√π.~
 
 //#8115
-@20125 = ~Provo un improvviso desiderio di offrirvi un regalo, amico. Prendete questo giocattolino, Ë un ricordo della mia infanzia. Credo sia giusto che voi, il mio compagno migliore, lo teniate in mio ricordo.~
+@20125 = ~Provo un improvviso desiderio di offrirvi un regalo, amico. Prendete questo giocattolino, √® un ricordo della mia infanzia. Credo sia giusto che voi, il mio compagno migliore, lo teniate in mio ricordo.~
 
 //#7491
 @20126 = ~Ecco, amico. Se non avete il denaro, prendete queste 10 monete d'oro.~
 
 //#7780
-@20127 = ~E evidente di che cosa hai bisogno: vivendo in questa biblioteca-fortezza non avrete molta disponibilit‡ di denaro. Ecco, prendete queste 20 monete d'oro: per me non sono niente, ma a te faranno sicuramente comodo.~
+@20127 = ~E evidente di che cosa hai bisogno: vivendo in questa biblioteca-fortezza non avrete molta disponibilit√† di denaro. Ecco, prendete queste 20 monete d'oro: per me non sono niente, ma a te faranno sicuramente comodo.~
 
 //#7994
-@20128 = ~PoichÈ sono un buon amico, vorrei affidarvi questo prezioso anello. E un gioiello di famiglia e ho paura che mi venga sottratto. Con tutti i ladri e i briganti che circolano, non Ë avventato credere che ve ne siano anche qui alla taverna.~
+@20128 = ~Poich√© sono un buon amico, vorrei affidarvi questo prezioso anello. E un gioiello di famiglia e ho paura che mi venga sottratto. Con tutti i ladri e i briganti che circolano, non √® avventato credere che ve ne siano anche qui alla taverna.~
 
 //#8034
-@20129 = ~Amico, vorrei che portaste con voi questa corazza quando ve ne andrete. Mi sentirei in colpa se qualcuno vi ferisse quando sarete l‡ fuori.~
+@20129 = ~Amico, vorrei che portaste con voi questa corazza quando ve ne andrete. Mi sentirei in colpa se qualcuno vi ferisse quando sarete l√† fuori.~
 
 //dialogues/u!totscminor.d
 //#21708
-@20130 = ~Forza gente! Venite ad ASCOLTARE una vera storia di orrore! Venite con me, il grande avventuriero Ike Cascadion Vendar, e guiderÚ i pi˘ coraggiosi di voi alla scoperta del luogo pi˘ ARCANO di tutti i Reami. Forza, venite con me alla Torre di Durlag ad affrontare spavaldamente i pericoli e i tranelli nei quali sono - ahimË - caduti in centinaia prima di noi. Venite a TOCCARE la paura con mano; a PERCEPIRE la presenza dei defunti; a STUPIRVI davanti alle ricchezze e ai tesori seppelliti l‡ sotto! Deboli di cuore: NON Ë un posto adatto a voi!  La direzione DECLINA ogni responsabilit‡ in caso di infarto prima, durante o dopo la gita! Forza, venite! Solo UNO ALLA VOLTA!~
+@20130 = ~Forza gente! Venite ad ASCOLTARE una vera storia di orrore! Venite con me, il grande avventuriero Ike Cascadion Vendar, e guider√≤ i pi√π coraggiosi di voi alla scoperta del luogo pi√π ARCANO di tutti i Reami. Forza, venite con me alla Torre di Durlag ad affrontare spavaldamente i pericoli e i tranelli nei quali sono - ahim√® - caduti in centinaia prima di noi. Venite a TOCCARE la paura con mano; a PERCEPIRE la presenza dei defunti; a STUPIRVI davanti alle ricchezze e ai tesori seppelliti l√† sotto! Deboli di cuore: NON √® un posto adatto a voi!  La direzione DECLINA ogni responsabilit√† in caso di infarto prima, durante o dopo la gita! Forza, venite! Solo UNO ALLA VOLTA!~
 
 //#21709
-@20131 = ~Ah, voi che avete sangue blu nelle vene e che siete pronti a sfidare la fortuna! Venite a vedere quanto lontano un uomo debba andare per difendere ciÚ che Ë suo. Un prezzo speciale: solo 60 monete d'oro per tutto il gruppo. E non mi pare serva uno sconto per convincervi!~
+@20131 = ~Ah, voi che avete sangue blu nelle vene e che siete pronti a sfidare la fortuna! Venite a vedere quanto lontano un uomo debba andare per difendere ci√≤ che √® suo. Un prezzo speciale: solo 60 monete d'oro per tutto il gruppo. E non mi pare serva uno sconto per convincervi!~
 
 //#21715
 @20132 = ~Avete fatto un affare, signore! Quando partiamo?~
@@ -857,10 +857,10 @@ Mago~
 @20134 = ~Le tue gite "avventurose" non mi interessano, trafficone.~
 
 //#21710
-@20135 = ~Salute amici! Venite a vedere quanto lontano un riccone debba andare per difendere i suoi averi. Una vita che non auguro neanche ai cani.  Soltanto 80 monete d'oro per tutto il gruppo. Ehi, solo perchÈ siete voi!~
+@20135 = ~Salute amici! Venite a vedere quanto lontano un riccone debba andare per difendere i suoi averi. Una vita che non auguro neanche ai cani.  Soltanto 80 monete d'oro per tutto il gruppo. Ehi, solo perch√© siete voi!~
 
 //#21711
-@20136 = ~Va bene, in piedi plebaglia! Cento monete d'oro per tutto il branco, ma resterete in fondo! E se vi scopro a rubare un portafoglio o a fare altre sciocchezze vi faccio conciare per le feste. Il posto in cui andiamo Ë molto pericoloso e l‡ ho gi‡ "smarrito" qualche passeggero.~
+@20136 = ~Va bene, in piedi plebaglia! Cento monete d'oro per tutto il branco, ma resterete in fondo! E se vi scopro a rubare un portafoglio o a fare altre sciocchezze vi faccio conciare per le feste. Il posto in cui andiamo √® molto pericoloso e l√† ho gi√† "smarrito" qualche passeggero.~
 
 //#21712
 @20137 = ~Non tratto sul prezzo. Prendere o lasciare.~
@@ -875,56 +875,56 @@ Mago~
 @20140 = ~Vedete come incombe su di noi man mano che ci avviciniamo?  Mai avete visto o vedrete nulla di simile. Un monumento al trionfo di un uomo... e alla sua FOLLIA!~
 
 //#21714
-@20141 = ~SÏ, la torre tiene alla larga i migliori di noi... Io sarÚ qui tutti i giorni, nel caso troviate il fegato.~
+@20141 = ~S√¨, la torre tiene alla larga i migliori di noi... Io sar√≤ qui tutti i giorni, nel caso troviate il fegato.~
 
 //#21727
-@20142 = ~Tutto esaurito per oggi. Si parte subito! Ricordatevi di salutare i vostri cari, perchÈ potreste anche... non rivederli MAI PIU! Ci vediamo nel basamento della torre! Ci lascereste sicuramente LE PENNE senza di me, ma niente paura: io soltanto posso andare dove gli altri NON OSANO!~
+@20142 = ~Tutto esaurito per oggi. Si parte subito! Ricordatevi di salutare i vostri cari, perch√© potreste anche... non rivederli MAI PIU! Ci vediamo nel basamento della torre! Ci lascereste sicuramente LE PENNE senza di me, ma niente paura: io soltanto posso andare dove gli altri NON OSANO!~
 
 //#23532
 @20143 = ~Ho incontrato un venditore ambulante di nome Ike che offriva visite guidate della Torre di Durlang. Sembra che la grande trappola mortale sia diventata un'attrazione per turisti. Ho accettato di partecipare, quindi dovrei incontrarmi con Ike accanto alla torre tra poco. Non ci porterebbero la gente se ci fossero ancora dei pericoli.~
 
 //#22049
-@20144 = ~Ah, altri mozzi avete detto? Diamine, ho pi˘ mozzi di quelli che mi servono e - diamine! - non sono certo andato in giro a cercarli...  Forza, amici, abbiamo qui qualche rifiuto da... ehm... eliminare!~
+@20144 = ~Ah, altri mozzi avete detto? Diamine, ho pi√π mozzi di quelli che mi servono e - diamine! - non sono certo andato in giro a cercarli...  Forza, amici, abbiamo qui qualche rifiuto da... ehm... eliminare!~
 
 //#23519
-@20145 = ~Ho cercato di abbindolare con le chiacchiere Capitano Tollar Kieres per trovare quelle benedette carte nautiche, ma non ne ha voluto sapere. Be', vorr‡ dire che dovrÚ svignarmela o ricorrere alle mani, ma in ambedue i casi non rimarranno testimoni.~
+@20145 = ~Ho cercato di abbindolare con le chiacchiere Capitano Tollar Kieres per trovare quelle benedette carte nautiche, ma non ne ha voluto sapere. Be', vorr√† dire che dovr√≤ svignarmela o ricorrere alle mani, ma in ambedue i casi non rimarranno testimoni.~
 
 //#22050
-@20146 = ~Vi devo mostrare le mie carte nautiche, avete detto? Come! Non solo porta sfortuna - diamine! - farle vedere a qualcuno prima di prendere il largo, ma in pi˘ Ë anche contro la legge della Lega! Diamine! Svelti, ragazzi, facciamo provvista di cadaveri per Umberlee... se per caso fa brutto tempo...~
+@20146 = ~Vi devo mostrare le mie carte nautiche, avete detto? Come! Non solo porta sfortuna - diamine! - farle vedere a qualcuno prima di prendere il largo, ma in pi√π √® anche contro la legge della Lega! Diamine! Svelti, ragazzi, facciamo provvista di cadaveri per Umberlee... se per caso fa brutto tempo...~
 
 //#21498
-@20147 = ~Non dovete credergli! Non Ë uno di noi! E pazzo quanto quelle bestie e forse Ë ancor pi˘ pericoloso!~
+@20147 = ~Non dovete credergli! Non √® uno di noi! E pazzo quanto quelle bestie e forse √® ancor pi√π pericoloso!~
 
 //#21499
 @20148 = ~Egli ha detto che non sono stati gli scogli a prendere la vostra nave. C'erano delle bestie a bordo, che hanno ucciso i marinai.~
 
 //#21500
-@20149 = ~Non ne parlerÚ pi˘. E chiaro che era sconvolto.~
+@20149 = ~Non ne parler√≤ pi√π. E chiaro che era sconvolto.~
 
 //#21501
 @20150 = ~Ma ora basta. Ho ucciso tutte le bestie, come avevate chiesto.~
 
 //#21502
-@20151 = ~Non li ho ancora uccisi tutti. ContinuerÚ a provare.~
+@20151 = ~Non li ho ancora uccisi tutti. Continuer√≤ a provare.~
 
 //#21514
 @20152 = ~Quando arrivammo in questo posto alcuni morirono, ma vi assicuro che siamo sopravvissuti solo noi che viviamo in pace. Scappammo dalla nave che affondava e ricominciammo da zero. Alcuni non poterono o non vollero far parte del nostro gruppo. Costoro minacciarono di morte i fondatori.~
 
 //#21517
-@20153 = ~Allora tutto Ë andato per il meglio. Siete sopravvissuti e avete costruito questa bella casa. ContinuerÚ ad aiutarvi.~
+@20153 = ~Allora tutto √® andato per il meglio. Siete sopravvissuti e avete costruito questa bella casa. Continuer√≤ ad aiutarvi.~
 
 //#21519
 @20154 = ~Cosa significa non poter essere "dei nostri"?~
 
 //stores/ubstores.d
 //#15365
-@20155 = ~Non scaccerÚ le facce nuove, visto l'andazzo degli affari in questi giorni. Se avete bisogno di qualcosa, non esitate a chiedere.~
+@20155 = ~Non scaccer√≤ le facce nuove, visto l'andazzo degli affari in questi giorni. Se avete bisogno di qualcosa, non esitate a chiedere.~
 
 //#15366
-@20156 = ~C'Ë voluto un duro viaggio per arrivare qui. Cosa avete per sollevarci il morale?~
+@20156 = ~C'√® voluto un duro viaggio per arrivare qui. Cosa avete per sollevarci il morale?~
 
 //#15367
-@20157 = ~Per ora non ho bisogno di nulla, anche se la vostra offerta Ë gradita.~
+@20157 = ~Per ora non ho bisogno di nulla, anche se la vostra offerta √® gradita.~
 
 //#3629
 @20158 = ~Ehi tu, sembri un tipo avventuroso. Ti serve qualche nuova attrezzatura? I miei prezzi sembrano un po' alti, ma con la penuria di ferro e tutto il resto, non posso fare meglio~
@@ -936,7 +936,7 @@ Mago~
 @20160 = ~Oggi non abbiamo bisogno di niente.~
 
 //#6298
-@20161 = ~Ho sentito dire un sacco di cose ultimamente. Sembra che non si trovi pi˘ ferro, un po' per la presenza dei banditi e un po' perchÈ il metallo di Nashkell Ë rovinato. Poi c'Ë tensione tra Baldur's Gate e Amn: non sarei sorpreso se scoppiasse una guerra.~
+@20161 = ~Ho sentito dire un sacco di cose ultimamente. Sembra che non si trovi pi√π ferro, un po' per la presenza dei banditi e un po' perch√© il metallo di Nashkell √® rovinato. Poi c'√® tensione tra Baldur's Gate e Amn: non sarei sorpreso se scoppiasse una guerra.~
 
 //#7082
 @20162 = ~Quando ho charmato un mercante, ha accennato vagamente a mancanza di ferro, banditi, addirittura a una guerra.~
@@ -963,7 +963,7 @@ Mago~
 @20170 = ~Che tipo di malattia ha colpito Eltan?~
 
 //#11196
-@20171 = ~C'Ë... dell'altro. Su al quartier generale del Trono di Ferro c'Ë una donna la cui... la cui influenza Ë veleno per l'anima di Sarevok. Se fosse tolta di mezzo, so che lui darebbe ascolto alle voce della ragione, alle mie suppliche. Cythandria Ë il suo nome, e in questa faccenda ha molta voce in capitolo. Lei cerca l'appoggio di Sarevok, sebbene sarebbe ugualmente contenta della sua autodistruzione, se ci potesse guadagnare sopra. Io...Io devo andare ora. Non posso permettere che lui venga a sapere dell'aiuto che vi ho dato.~
+@20171 = ~C'√®... dell'altro. Su al quartier generale del Trono di Ferro c'√® una donna la cui... la cui influenza √® veleno per l'anima di Sarevok. Se fosse tolta di mezzo, so che lui darebbe ascolto alle voce della ragione, alle mie suppliche. Cythandria √® il suo nome, e in questa faccenda ha molta voce in capitolo. Lei cerca l'appoggio di Sarevok, sebbene sarebbe ugualmente contenta della sua autodistruzione, se ci potesse guadagnare sopra. Io...Io devo andare ora. Non posso permettere che lui venga a sapere dell'aiuto che vi ho dato.~
 
 //#1780
 @20172 = ~Sai chi ha ucciso Scar?~
@@ -978,26 +978,26 @@ Mago~
 //#6537 (add 'Afoul of the law')
 @20175 = ~In collisione con la legge
 
-Per qualche strana ragione, il Duca Eltan non Ë pi˘ al comando del Pugno Fiammante. Adesso c'Ë un uomo di nome Angelo che rivendica quella posizione.~
+Per qualche strana ragione, il Duca Eltan non √® pi√π al comando del Pugno Fiammante. Adesso c'√® un uomo di nome Angelo che rivendica quella posizione.~
 
 
 //BGT/Tutu SOLVED/UNSOLVED + Headers - DiaryEntries for Quoningar, added by Jarl
 
 //@20011 with header:
-@20176 = ~Quiete in una citt‡ attiva
+@20176 = ~Quiete in una citt√† attiva
 
-Il sacerdote Quoningar, come me non abituato agli infiniti trambusti della citt‡, sta cercando una pozione per la focalizzazione dei pensieri. Senza di essa, dubito che riuscir‡ mai a terminare le sue meditazioni...~
+Il sacerdote Quoningar, come me non abituato agli infiniti trambusti della citt√†, sta cercando una pozione per la focalizzazione dei pensieri. Senza di essa, dubito che riuscir√† mai a terminare le sue meditazioni...~
 
-@20177 = ~Quiete in una citt‡ attiva
+@20177 = ~Quiete in una citt√† attiva
 
-Dopo avere consegnato a Quoningar la pozione di cui aveva bisogno per le sue meditazioni, siamo stati generosamente ricompensati.  Almeno qualcuno in questa frenetica citt‡ puÚ trovare un po' di quiete e di pace interiore.~
+Dopo avere consegnato a Quoningar la pozione di cui aveva bisogno per le sue meditazioni, siamo stati generosamente ricompensati.  Almeno qualcuno in questa frenetica citt√† pu√≤ trovare un po' di quiete e di pace interiore.~
 
 
 //BGT/Tutu SOLVED/UNSOLVED + Headers - DiaryEntries for Shilo Chen, added by Jarl
 
 @20178 = ~Shilo Chen e l'orco magi
 
-Shilo Chen, un ranger del Bosco dei Denti Aguzzi, Ë in cerca di aiuto a Baldur's Gate. Un gruppo di orchi magi sta distruggendo la flora e la fauna della parte sudoccidentale del bosco. Mi ha chiesto di andare con lui a vedere. Se trover‡ altri avventurieri disposti a aiutarlo, li mander‡ come rinforzi.~
+Shilo Chen, un ranger del Bosco dei Denti Aguzzi, √® in cerca di aiuto a Baldur's Gate. Un gruppo di orchi magi sta distruggendo la flora e la fauna della parte sudoccidentale del bosco. Mi ha chiesto di andare con lui a vedere. Se trover√† altri avventurieri disposti a aiutarlo, li mander√† come rinforzi.~
 
 @20179 = ~Shilo Chen e l'orco magi
 
@@ -1013,10 +1013,10 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @30000 = ~Salve salve salve! Siete nella casa di Bunsen e vi diamo il benvenuto! Per favore, riposate i vostri glabri piedi al caldo del mio focolare.~
 
 //#7819
-@30001 = ~Siete sempre cosÏ cortese con gli estranei che entrano in casa vostra? Non mi sembra una cosa sicura.~
+@30001 = ~Siete sempre cos√¨ cortese con gli estranei che entrano in casa vostra? Non mi sembra una cosa sicura.~
 
 //#7821
-@30002 = ~Risparmia le smancerie, mezza cartuccia. Sono venuto solo a vedere se c'Ë qualcosa da prendere. Sei pazzo a lasciare il tuo rifugio aperto.~
+@30002 = ~Risparmia le smancerie, mezza cartuccia. Sono venuto solo a vedere se c'√® qualcosa da prendere. Sei pazzo a lasciare il tuo rifugio aperto.~
 
 //#7823
 @30003 = ~Scusatemi, ma la porta era aperta e pensavo non ci fosse nessuno nel rifugio. Non volevo violare la vostra casa.~
@@ -1027,28 +1027,28 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40000 = ~Benvenuti, viaggiatori. Confido che non userete le armi e che non provocherete disordini qui. E meglio per tutti. Vedrete che quasi tutti i nostri clienti sono ben attrezzati per difendere se stessi e, se necessario, anche il bar. Posso fare qualcosa per voi?~
 
 //#15072
-@40001 = ~SÏ.~
+@40001 = ~S√¨.~
 
 //#15073
 @40002 = ~No.~
 
 //#8331
-@40003 = ~Siete i benvenuti, almeno fintanto che non pagherete il conto. Fate attenzione agli angoli scuri del Canto del'Elfo, perchÈ la guardia chiude un occhio su quasi tutto quello che succede qui. Posso fare qualcosa per voi?~
+@40003 = ~Siete i benvenuti, almeno fintanto che non pagherete il conto. Fate attenzione agli angoli scuri del Canto del'Elfo, perch√© la guardia chiude un occhio su quasi tutto quello che succede qui. Posso fare qualcosa per voi?~
 
 //#8332
 @40004 = ~Bene bene, guarda un po' chi si vede! Vi avverto subito: qui potete fare quel che volete, ma se attirate l'attenzione della guardia cittadina su di noi vi ritroverete in alto mare senza una barca sotto ai piedi.~
 
 //#8380
-@40005 = ~Buona serata. All'Elmo e Mantello siamo pronti a servirvi in modo rapido e rilassante. Forse sapete che la nostra ospitalit‡ Ë un po' pi˘ costosa di quella offerta dalle taverne "meno rispettate" della citt‡. Ebbene, Ë vero, ma ritengo che si riceva sempre quello per cui si paga. Posso fare qualcosa per voi?~
+@40005 = ~Buona serata. All'Elmo e Mantello siamo pronti a servirvi in modo rapido e rilassante. Forse sapete che la nostra ospitalit√† √® un po' pi√π costosa di quella offerta dalle taverne "meno rispettate" della citt√†. Ebbene, √® vero, ma ritengo che si riceva sempre quello per cui si paga. Posso fare qualcosa per voi?~
 
 //#8381
-@40006 = ~Mmh? Ah, salve. Benvenuti all'Elmo e Mantello. Mentre sarete qui riceverete un servizio eccellente e una qualit‡ superiore... ehm... potete PAGARE, non Ë vero? Se Ë cosÏ, andremo d'accordo. Vi pregherei di non provocare guai mentre siete qui. Siamo ben protetti e chi fa confusione non ottiene altro che disturbare gli altri clienti. Posso fare qualcosa per voi?~
+@40006 = ~Mmh? Ah, salve. Benvenuti all'Elmo e Mantello. Mentre sarete qui riceverete un servizio eccellente e una qualit√† superiore... ehm... potete PAGARE, non √® vero? Se √® cos√¨, andremo d'accordo. Vi pregherei di non provocare guai mentre siete qui. Siamo ben protetti e chi fa confusione non ottiene altro che disturbare gli altri clienti. Posso fare qualcosa per voi?~
 
 //#8382
-@40007 = ~Oh, no no no. Penso piuttosto che gente del vostro... livello non si sentirebbe a suo agio all'Elmo e Mantello. Siamo orgogliosi delle nostre tariffe, costose ma rilassate, ma voi avete l'aspetto di chi potrebbe trovarsi meglio alla... Sirenetta Timida. Sono spiacente di doverlo dire, ma non era un complimento. E meglio che andiate adesso, o saranno solo guai. C'Ë qualcosa che posso fare per voi?~
+@40007 = ~Oh, no no no. Penso piuttosto che gente del vostro... livello non si sentirebbe a suo agio all'Elmo e Mantello. Siamo orgogliosi delle nostre tariffe, costose ma rilassate, ma voi avete l'aspetto di chi potrebbe trovarsi meglio alla... Sirenetta Timida. Sono spiacente di doverlo dire, ma non era un complimento. E meglio che andiate adesso, o saranno solo guai. C'√® qualcosa che posso fare per voi?~
 
 //#14220
-@40008 = ~SciÚ! Quelle galline non sono vostre! Erlin! Erlin, c'Ë qualcuno dalle galline!~
+@40008 = ~Sci√≤! Quelle galline non sono vostre! Erlin! Erlin, c'√® qualcuno dalle galline!~
 
 //#14360
 @40009 = ~Conosco i tuoi segreti, vecchia strega. Forse hai anche qualcosa sullo stomaco!~
@@ -1066,16 +1066,16 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40013 = ~Quanto chiedete per questi polli?~
 
 //#14226
-@40014 = ~Di chi Ë quella fattoria a est di qui?~
+@40014 = ~Di chi √® quella fattoria a est di qui?~
 
 //#14227
-@40015 = ~Mai stata l‡.~
+@40015 = ~Mai stata l√†.~
 
 //#14228
 @40016 = ~Non sono in vendita.~
 
 //#14229
-@40017 = ~PerchÈ, l‡ Ë dove sta Jeb. Non viene mai niente di buono da quella canaglia. Da quando sua moglie Ë morta, perlomeno.~
+@40017 = ~Perch√©, l√† √® dove sta Jeb. Non viene mai niente di buono da quella canaglia. Da quando sua moglie √® morta, perlomeno.~
 
 //#14230
 @40018 = ~Lasciateci stare, vi prego. Ci sono state anche troppe sventure qui.~
@@ -1087,25 +1087,25 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40020 = ~Andatevene dalla mia fattoria, zoticoni!~
 
 //#1517
-@40021 = ~Chi siete? Cosa fate nella mia propriet‡? Guardie! Abbiamo degli intrusi.~
+@40021 = ~Chi siete? Cosa fate nella mia propriet√†? Guardie! Abbiamo degli intrusi.~
 
 //#6136
-@40022 = ~Mi chiamo Entar Silvershield, sono uno dei Granduchi di Baldur's Gate. Posso raccontare un sacco di cose, ma forse devo iniziare dal Trono di Ferro. Si tratta di una nuova organizzazione mercantile che si Ë stabilita a Baldur's Gate. Molti di noi sono preoccupati per alcune operazioni svolte dal Trono, ma loro ci hanno promesso di procurarci il ferro, una risorsa rara in questi ultimi tempi. Sospettiamo che Amn, una nazione confinante con noi al sud, si sia alleata con Zhentarim per tentare di annettere al suo territorio la nostra gloriosa citt‡. Tuttavia, Scar crede che le prove contro Amn siano troppo palesi, come se qualcuno stesse tentando di incastrare Amn e alimentare l'attrito tra le nostre due nazioni. Visto che, devo ammetterlo, sei il mio migliore amico... ho una figlia bellissima. Si chiama Skie ed Ë gi‡ in et‡ da marito.~
+@40022 = ~Mi chiamo Entar Silvershield, sono uno dei Granduchi di Baldur's Gate. Posso raccontare un sacco di cose, ma forse devo iniziare dal Trono di Ferro. Si tratta di una nuova organizzazione mercantile che si √® stabilita a Baldur's Gate. Molti di noi sono preoccupati per alcune operazioni svolte dal Trono, ma loro ci hanno promesso di procurarci il ferro, una risorsa rara in questi ultimi tempi. Sospettiamo che Amn, una nazione confinante con noi al sud, si sia alleata con Zhentarim per tentare di annettere al suo territorio la nostra gloriosa citt√†. Tuttavia, Scar crede che le prove contro Amn siano troppo palesi, come se qualcuno stesse tentando di incastrare Amn e alimentare l'attrito tra le nostre due nazioni. Visto che, devo ammetterlo, sei il mio migliore amico... ho una figlia bellissima. Si chiama Skie ed √® gi√† in et√† da marito.~
 
 //#6598
-@40023 = ~Quando lo abbiamo charmato, Entar Silvershield ci ha raccontato parecchie cose. Ci ha detto che il Trono di Ferro si Ë stabilito di recente a Baldur's Gate e che sta cercando di vendere ferro alla citt‡. I Granduchi sono preoccupati per l'invasione da Amn e quindi stanno prendendo seriamente in considerazione l'offerta del Trono di Ferro, nonostante abbiano alcuni dubbi sulle loro vere intenzioni.~
+@40023 = ~Quando lo abbiamo charmato, Entar Silvershield ci ha raccontato parecchie cose. Ci ha detto che il Trono di Ferro si √® stabilito di recente a Baldur's Gate e che sta cercando di vendere ferro alla citt√†. I Granduchi sono preoccupati per l'invasione da Amn e quindi stanno prendendo seriamente in considerazione l'offerta del Trono di Ferro, nonostante abbiano alcuni dubbi sulle loro vere intenzioni.~
 
 //#8983
-@40024 = ~Esseri del vostro rango non troveranno pi˘ la porta aperta qui da me!~
+@40024 = ~Esseri del vostro rango non troveranno pi√π la porta aperta qui da me!~
 
 //#14221
-@40025 = ~Lasciali perdere, Enna. Sanno quello che cercano e in questa fattoria non ci sono pi˘ segreti per nessuno.~
+@40025 = ~Lasciali perdere, Enna. Sanno quello che cercano e in questa fattoria non ci sono pi√π segreti per nessuno.~
 
 //#14222
 @40026 = ~Per la maledizione di Beshaba, che cosa avete fatto alla mia Enna!~
 
 //#14232
-@40027 = ~Questo Ë un terreno privato. Non permettiamo che si vada in giro a curiosare.~
+@40027 = ~Questo √® un terreno privato. Non permettiamo che si vada in giro a curiosare.~
 
 //#14233
 @40028 = ~Se state cercando guai, li avete trovati, forestieri. Talos! Myrkul! Malar! Sistemateli, ragazzi!~
@@ -1114,7 +1114,7 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40029 = ~Sembra che sappiate trattare con i polli. Ecco, amico, offre la casa.~
 
 //#14235
-@40030 = ~Non hai capito bene, vero? Ho detto che Ë un terreno privato.~
+@40030 = ~Non hai capito bene, vero? Ho detto che √® un terreno privato.~
 
 //#1464
 @40031 = ~Jaheira e Khalid sono gli unici clienti decenti che abbiamo avuto da un po' di tempo.~
@@ -1135,31 +1135,31 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40036 = ~Chi siete mai? No, non rispondete, tanto non mi interessa. Vi siete intrufolati nella mia cucina senza essere stati invitati, con la porta chiusa a chiave! E meglio che ve ne andiate oppure dovrete chiamare voi la guardia per farvi sottrarre alla mia ira! Fuori!~
 
 //#8180
-@40037 = ~SciÚ!~
+@40037 = ~Sci√≤!~
 
 //#8181
-@40038 = ~Fuori di qui, o mi luciderÚ gli stivali col vostro didietro! Via!~
+@40038 = ~Fuori di qui, o mi lucider√≤ gli stivali col vostro didietro! Via!~
 
 //#8182
-@40039 = ~Se volete, vi posso insegnare a cucinare, perÚ conoscendo i tipi come voi, gli avventurieri, scommetto che non resterete qua per molto.~
+@40039 = ~Se volete, vi posso insegnare a cucinare, per√≤ conoscendo i tipi come voi, gli avventurieri, scommetto che non resterete qua per molto.~
 
 //#9061
 @40040 = ~Non siete benvenuti qui!~
 
 //#8192
-@40041 = ~Aspetto mio padre, che torner‡ a casa e mi rimboccher‡ le coperte. Sono sicura che arriver‡ presto. Non puÚ rimanere nelle miniere per sempre... vero?~
+@40041 = ~Aspetto mio padre, che torner√† a casa e mi rimboccher√† le coperte. Sono sicura che arriver√† presto. Non pu√≤ rimanere nelle miniere per sempre... vero?~
 
 //#8193
-@40042 = ~Senti, non torna a casa perchÈ Ë morto. E defunto, deceduto, spirato, ha tirato le cuoia, Ë arrivato al capolinea, Ë crepato.~
+@40042 = ~Senti, non torna a casa perch√© √® morto. E defunto, deceduto, spirato, ha tirato le cuoia, √® arrivato al capolinea, √® crepato.~
 
 //#8194
-@40043 = ~Pap‡ probabilmente torner‡ presto, non ti preoccupare.~
+@40043 = ~Pap√† probabilmente torner√† presto, non ti preoccupare.~
 
 //#8195
-@40044 = ~SÏ, ci spero. Mi manca tanto.~
+@40044 = ~S√¨, ci spero. Mi manca tanto.~
 
 //#8196
-@40045 = ~Buuuu...! Il mio pap‡ Ë morto!~
+@40045 = ~Buuuu...! Il mio pap√† √® morto!~
 
 //#8197
 @40046 = ~Sono la vostra migliore amica.~
@@ -1171,7 +1171,7 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40048 = ~Oh, il mio benvenuto a voi! E un peccato che mio figlio non sia qui per conoscervi. Ne sarebbe entusiasta.~
 
 //#7853
-@40049 = ~PerchÈ dovrebbe interessarsi a noi, madre?~
+@40049 = ~Perch√© dovrebbe interessarsi a noi, madre?~
 
 //#7855
 @40050 = ~Tenete il piccoletto alla larga. Non ho intenzione di passare il resto dei miei giorni a fare da balia al vostro monellaccio.~
@@ -1183,7 +1183,7 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40052 = ~Temo di avere poco tempo per stare in sua compagnia. Volevo solo fermarmi un momento.~
 
 //#7844
-@40053 = ~Ogni halfling Ë onorato di poter conoscere chi perpetua lo spirito di Littleman. Forse il vostro modo di essere Ë un po'... eccentrico, visto che rinunciate alle comodit‡ di un focolare, ma sono certa che le vostre scappatelle siano esilaranti... se Ë cosÏ che vi tenete occupati. Potete ritornare ogni volta che volete.~
+@40053 = ~Ogni halfling √® onorato di poter conoscere chi perpetua lo spirito di Littleman. Forse il vostro modo di essere √® un po'... eccentrico, visto che rinunciate alle comodit√† di un focolare, ma sono certa che le vostre scappatelle siano esilaranti... se √® cos√¨ che vi tenete occupati. Potete ritornare ogni volta che volete.~
 
 //#7845
 @40054 = ~E una stranezza diffusa tra i nostri giovani: credono di vedere nella gente come voi l'essenza del tanto fantasticato Littleman. Personalmente non mi attirerebbe lasciare la casa e il focolare. Restate quanto volete, ma non fatevi mettere sotto dai bambini.~
@@ -1192,16 +1192,16 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40055 = ~Mmmh! Non mi piace che si tenga un comportamento simile davanti a lui! E evidente che non passate molto tempo con la gente comune! Nessuno che conosce le nostre usanze potrebbe essere tanto maleducato. Vi prego di ritornare quando avrete imparato un po' di maniere.~
 
 //#7847
-@40056 = ~Davvero un peccato. Chiss‡ come mai si diventa tanto irritabili e asociali dopo una vita trascorsa a dormire sul pavimento freddo di una cella?! Mi fate pena... Restate pure, ma almeno comportatevi bene.~
+@40056 = ~Davvero un peccato. Chiss√† come mai si diventa tanto irritabili e asociali dopo una vita trascorsa a dormire sul pavimento freddo di una cella?! Mi fate pena... Restate pure, ma almeno comportatevi bene.~
 
 //#7848
-@40057 = ~Cielo! Come potete essere un tale mascalzone? Non si era mai sentito di un'intrusione come questa nella comunit‡ degli halfling. Il furto di per sÈ non Ë che una seccatura, ma il vostro atteggiamento sconsiderato... E pi˘ di quanto una donna civile possa sopportare! Vi prego, andatevene.~
+@40057 = ~Cielo! Come potete essere un tale mascalzone? Non si era mai sentito di un'intrusione come questa nella comunit√† degli halfling. Il furto di per s√© non √® che una seccatura, ma il vostro atteggiamento sconsiderato... E pi√π di quanto una donna civile possa sopportare! Vi prego, andatevene.~
 
 //#7849
-@40058 = ~Ecco ciÚ che spinge il viandante. E un desiderio del quale abbiamo sentito parlare nei racconti di Littleman, ma devo ammettere che non lo capisco a fondo. E molto pi˘ comodo passare le serate in famiglia, vicino al fuoco. Vi auguro buona fortuna nei vostri viaggi.~
+@40058 = ~Ecco ci√≤ che spinge il viandante. E un desiderio del quale abbiamo sentito parlare nei racconti di Littleman, ma devo ammettere che non lo capisco a fondo. E molto pi√π comodo passare le serate in famiglia, vicino al fuoco. Vi auguro buona fortuna nei vostri viaggi.~
 
 //#7850
-@40059 = ~Tale Ë la follia di Littleman! Che cosa spinge la gente normale ad abbandonare la famiglia per mettersi a vagare nei boschi? Be', comunque buona fortuna.~
+@40059 = ~Tale √® la follia di Littleman! Che cosa spinge la gente normale ad abbandonare la famiglia per mettersi a vagare nei boschi? Be', comunque buona fortuna.~
 
 //#7851
 @40060 = ~Siate di nuovo i benvenuti. Pensavo che ormai aveste proseguito, invece, questo piacere non l'avete avuto.~
@@ -1210,19 +1210,19 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40061 = ~Mi sorprende rivedervi. Vi ha colto di nuovo la febbre del girovago? Per Dallillia, spero che nessuno dei bambini vi segua.~
 
 //#7860
-@40062 = ~Forse vi andrebbe di fermarvi per un po' e magari raccontare qualche storia?! Mi piacciono le storie di eroi, ma io non sarÚ mai un'eroina.~
+@40062 = ~Forse vi andrebbe di fermarvi per un po' e magari raccontare qualche storia?! Mi piacciono le storie di eroi, ma io non sar√≤ mai un'eroina.~
 
 //#9293
-@40063 = ~Avete approfittato della nostra ospitalit‡!~
+@40063 = ~Avete approfittato della nostra ospitalit√†!~
 
 //#7810
 @40064 = ~Salve salve salve! Siete nella casa di Bunsen e vi diamo il benvenuto! Per favore, riposate i vostri glabri piedi al caldo del mio focolare.~
 
 //#7819
-@40065 = ~Siete sempre cosÏ cortese con gli estranei che entrano in casa vostra? Non mi sembra una cosa sicura.~
+@40065 = ~Siete sempre cos√¨ cortese con gli estranei che entrano in casa vostra? Non mi sembra una cosa sicura.~
 
 //#7821
-@40066 = ~Risparmia le smancerie, mezza cartuccia. Sono venuto solo a vedere se c'Ë qualcosa da prendere. Sei pazzo a lasciare il tuo rifugio aperto.~
+@40066 = ~Risparmia le smancerie, mezza cartuccia. Sono venuto solo a vedere se c'√® qualcosa da prendere. Sei pazzo a lasciare il tuo rifugio aperto.~
 
 //#7823
 @40067 = ~Scusatemi, ma la porta era aperta e pensavo non ci fosse nessuno nel rifugio. Non volevo violare la vostra casa.~
@@ -1231,28 +1231,28 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40068 = ~Non frequentate la gente comune da un po' di tempo, se fate queste domande. E un grande piacere coinvolgere nei nostri divertimenti familiari anche i nuovi amici. Potete restare e fare come volete, in onore di Cyrrollalee e dei suoi insegnamenti.~
 
 //#7812
-@40069 = ~Che maniere! Non ricordo nessun altro nella storia di questo paese che mi abbia offeso in questo modo! Per quanto Cyrrollalee insegni ad essere ospitali e cordiali, comunque ci si aspetta un minimo di gratitudine in cambio. La vostra presenza non Ë gradita nella mia tana e sono certo che sar‡ lo stesso per i miei vicini, se continuerete a comportarvi in questo modo.~
+@40069 = ~Che maniere! Non ricordo nessun altro nella storia di questo paese che mi abbia offeso in questo modo! Per quanto Cyrrollalee insegni ad essere ospitali e cordiali, comunque ci si aspetta un minimo di gratitudine in cambio. La vostra presenza non √® gradita nella mia tana e sono certo che sar√† lo stesso per i miei vicini, se continuerete a comportarvi in questo modo.~
 
 //#7813
-@40070 = ~Disabitata? E certo che se qui uno dovesse abbandonare il proprio focolare per anni, gli amici e i vicini gli terrebbero sempre acceso il fuoco in attesa del suo ritorno. E se nel frattempo un forestiero dovesse aver bisogno di scaldarsi, nessuno avrebbe qualcosa da obiettare. Non dovete scusarvi: se la mia casa vi era parsa disabitata significa che dovrÚ impegnarmi di pi˘ per renderla pi˘ accogliente. Cyrrollalee farebbe senz'altro cosÏ.~
+@40070 = ~Disabitata? E certo che se qui uno dovesse abbandonare il proprio focolare per anni, gli amici e i vicini gli terrebbero sempre acceso il fuoco in attesa del suo ritorno. E se nel frattempo un forestiero dovesse aver bisogno di scaldarsi, nessuno avrebbe qualcosa da obiettare. Non dovete scusarvi: se la mia casa vi era parsa disabitata significa che dovr√≤ impegnarmi di pi√π per renderla pi√π accogliente. Cyrrollalee farebbe senz'altro cos√¨.~
 
 //#7814
-@40071 = ~Vi sfido a trovare uno del nostro popolo che sbatta la porta in faccia a chi gli fa visita, sia esso conosciuto o sconosciuto. E una forma diffusa di cortesia quella di dare il benvenuto a chiunque si presenti, quale che sia il suo aspetto. Potete restare qui per un po', se volete, ma si Ë fatto un po' tardi.~
+@40071 = ~Vi sfido a trovare uno del nostro popolo che sbatta la porta in faccia a chi gli fa visita, sia esso conosciuto o sconosciuto. E una forma diffusa di cortesia quella di dare il benvenuto a chiunque si presenti, quale che sia il suo aspetto. Potete restare qui per un po', se volete, ma si √® fatto un po' tardi.~
 
 //#7815
-@40072 = ~Se avessi qualcosa che vi serve, non avreste neanche il bisogno di chiedere. I beni materiali hanno poco valore per il nostro popolo al confronto di un focolare sicuro. Con un atteggiamento cosÏ sgarbato non otterrete altro che occhiatacce. Non trattenetevi troppo a lungo a casa mia. Non vi vogliamo.~
+@40072 = ~Se avessi qualcosa che vi serve, non avreste neanche il bisogno di chiedere. I beni materiali hanno poco valore per il nostro popolo al confronto di un focolare sicuro. Con un atteggiamento cos√¨ sgarbato non otterrete altro che occhiatacce. Non trattenetevi troppo a lungo a casa mia. Non vi vogliamo.~
 
 //#7816
-@40073 = ~Con la vostra cortesia vi fate perdonare per l'offesa arrecataci entrando. La porta Ë sempre aperta per chi ha buone maniere, quale che sia la sua... origine. Trattenetevi per un po', se vi va.~
+@40073 = ~Con la vostra cortesia vi fate perdonare per l'offesa arrecataci entrando. La porta √® sempre aperta per chi ha buone maniere, quale che sia la sua... origine. Trattenetevi per un po', se vi va.~
 
 //#7817
 @40074 = ~Salute di nuovo. E ancora una volta un piacere.~
 
 //#7818
-@40075 = ~Vedo che siete ritornati. Immagino che non rimarrete pi˘ a lungo dell'ultima volta, eh?~
+@40075 = ~Vedo che siete ritornati. Immagino che non rimarrete pi√π a lungo dell'ultima volta, eh?~
 
 //#7826
-@40076 = ~PerchÈ non venite qua vicino al fuoco? Ci sono qualche pipe anche per voi. Ho perÚ il sospetto che voi tipi avventurosi non abbiate mai il tempo per rilassarvi.~
+@40076 = ~Perch√© non venite qua vicino al fuoco? Ci sono qualche pipe anche per voi. Ho per√≤ il sospetto che voi tipi avventurosi non abbiate mai il tempo per rilassarvi.~
 
 //#9294
 @40077 = ~Non per essere scortese, ma gradirei molto se ve ne andaste immediatamente.~
@@ -1261,10 +1261,10 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40078 = ~Mmh, preferisco non lavorare con i dilettanti.~
 
 //#15108
-@40079 = ~C'Ë un grassone che si chiama Algernon alla Locanda di Feldepost a Beregost. Tiene un mantello nella sua stanza e mi servite voi, esperto nei furti, per portarmelo. Vi assicuro che la vostra ricompensa sar‡ pi˘ che lauta. Cercate di non ucciderlo, derubatelo solamente.~
+@40079 = ~C'√® un grassone che si chiama Algernon alla Locanda di Feldepost a Beregost. Tiene un mantello nella sua stanza e mi servite voi, esperto nei furti, per portarmelo. Vi assicuro che la vostra ricompensa sar√† pi√π che lauta. Cercate di non ucciderlo, derubatelo solamente.~
 
 //#15742
-@40080 = ~Pheirkas, un nano guerriero di Baldur's Gate, mi ha chiesto di svolgere ciÚ che posso soltanto definire una missione in incognito. A Beregost, alla Locanda di Feldepost, alloggia Algernon, apparentemente obeso. Conserva un mantello che Pheirkas Ë molto interessato a...diciamo "procurarsi"...Il rischio Ë grande, ma la ricompensa, credo, sar‡ considerevole. Pheirkas puÚ essere trovaato nella parte nord-ovest della citt‡.~
+@40080 = ~Pheirkas, un nano guerriero di Baldur's Gate, mi ha chiesto di svolgere ci√≤ che posso soltanto definire una missione in incognito. A Beregost, alla Locanda di Feldepost, alloggia Algernon, apparentemente obeso. Conserva un mantello che Pheirkas √® molto interessato a...diciamo "procurarsi"...Il rischio √® grande, ma la ricompensa, credo, sar√† considerevole. Pheirkas pu√≤ essere trovaato nella parte nord-ovest della citt√†.~
 
 //#15109
 @40081 = ~Avete con voi il mantello di Algernon??~
@@ -1276,34 +1276,34 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40083 = ~Oh, apprezzo molto il vostro lavoro. Ecco 200 monete d'oro per il disturbo.~
 
 //#15112
-@40084 = ~Dannazione, speravo che foste un tipo pi˘ passivo-aggressivo.~
+@40084 = ~Dannazione, speravo che foste un tipo pi√π passivo-aggressivo.~
 
 //#15113
 @40085 = ~Come mi sta il mio nuovo mantello?~
 
 //#9765
-@40086 = ~Buongiorno, buongiorno. Non vi interesserebbe per caso qualche gingillo? Qualche moneta per le mie merci di squisita fattura? Eh, lo immaginavo. La scarsit‡ di ferro sta finendo, ma i clienti non sono ancora tornati lo stesso. E chi li puÚ biasimare? Hanno paura perchÈ vedono che i mercanti sono ancora senza merci. Chi volete che creda alla fine della scarsit‡, quando non possono ancora stringere in pugno una nuova lama. E colpa del Trono di Ferro, secondo me. E anche secondo molti altri.~
+@40086 = ~Buongiorno, buongiorno. Non vi interesserebbe per caso qualche gingillo? Qualche moneta per le mie merci di squisita fattura? Eh, lo immaginavo. La scarsit√† di ferro sta finendo, ma i clienti non sono ancora tornati lo stesso. E chi li pu√≤ biasimare? Hanno paura perch√© vedono che i mercanti sono ancora senza merci. Chi volete che creda alla fine della scarsit√†, quando non possono ancora stringere in pugno una nuova lama. E colpa del Trono di Ferro, secondo me. E anche secondo molti altri.~
 
 //#9766
-@40087 = ~PerchÈ prendersela con loro? Che cosa hanno fatto?~
+@40087 = ~Perch√© prendersela con loro? Che cosa hanno fatto?~
 
 //#9768
 @40088 = ~Non mi sorprende. Nella crisi del ferro si sono comportati da miserabili.~
 
 //#9769
-@40089 = ~Scusate? Dove avete sentito queste storie? Per quanto ci riguarda, in questa citt‡, il Trono di Ferro Ë un rispettabile gruppo mercantile. Discorsi come questi senza prove sicuramente non vi faranno fare molta strada.~
+@40089 = ~Scusate? Dove avete sentito queste storie? Per quanto ci riguarda, in questa citt√†, il Trono di Ferro √® un rispettabile gruppo mercantile. Discorsi come questi senza prove sicuramente non vi faranno fare molta strada.~
 
 //#9775
 @40090 = ~E allora che cosa intendevate dire?~
 
 //#9776
-@40091 = ~Stavo parlando delle azioni del Trono di Ferro da quando Sarevok ne ha preso il controllo. Se ne disinteressa e probabilmente lo sacrificher‡ per finanziare il riarmo di Baldur's Gate, e quindi anche il suo tentativo di diventare un Granduca. E stata l'instabilit‡ del Trono di Ferro a prolungare i disordini in citt‡, e per questo gli altri mercanti danno la colpa a loro. Erano importatori di rilievo e senza il loro aiuto ci vorr‡ molto pi˘ tempo per rassicurare la gente che tutto va bene. Commercialmente, le loro azioni non hanno senso, e credo che ci siano grossi problemi al loro quartier generale.~
+@40091 = ~Stavo parlando delle azioni del Trono di Ferro da quando Sarevok ne ha preso il controllo. Se ne disinteressa e probabilmente lo sacrificher√† per finanziare il riarmo di Baldur's Gate, e quindi anche il suo tentativo di diventare un Granduca. E stata l'instabilit√† del Trono di Ferro a prolungare i disordini in citt√†, e per questo gli altri mercanti danno la colpa a loro. Erano importatori di rilievo e senza il loro aiuto ci vorr√† molto pi√π tempo per rassicurare la gente che tutto va bene. Commercialmente, le loro azioni non hanno senso, e credo che ci siano grossi problemi al loro quartier generale.~
 
 //#10104
-@40092 = ~La penuria di ferro sta gradualmente finendo, ma i mercanti continuano a essere senza merce. E stata l'instabilit‡ del Trono di Ferro a prolungare la discordia nella citt‡ ed Ë di questo che lo accusano gli altri mercanti. Erano importatori di primo piano e senza il loro aiuto ci vorr‡ molto pi˘ tempo per riassicurare la gente che tutto Ë a posto. Da quando Sarevok ha preso il controllo, hanno interrotto la maggior parte delle transazioni d'affari e congelato la maggior parte dei loro beni. Il fatto di stare paralizzando una grande compagnia mercantile gli sembra irrilevante. E del tutto disinteressato e sembra essere disposto a sacrificare la compagnia per finanziare il riarmo di Baldur's Gate e sostenere il suo tentativo di diventare Granduca. Non riesco a immaginare come degli uomini d'affari sani di mente possano seguire tali direttive. C'Ë veramente qualcosa di molto strano al palazzo del Trono di Ferro.~
+@40092 = ~La penuria di ferro sta gradualmente finendo, ma i mercanti continuano a essere senza merce. E stata l'instabilit√† del Trono di Ferro a prolungare la discordia nella citt√† ed √® di questo che lo accusano gli altri mercanti. Erano importatori di primo piano e senza il loro aiuto ci vorr√† molto pi√π tempo per riassicurare la gente che tutto √® a posto. Da quando Sarevok ha preso il controllo, hanno interrotto la maggior parte delle transazioni d'affari e congelato la maggior parte dei loro beni. Il fatto di stare paralizzando una grande compagnia mercantile gli sembra irrilevante. E del tutto disinteressato e sembra essere disposto a sacrificare la compagnia per finanziare il riarmo di Baldur's Gate e sostenere il suo tentativo di diventare Granduca. Non riesco a immaginare come degli uomini d'affari sani di mente possano seguire tali direttive. C'√® veramente qualcosa di molto strano al palazzo del Trono di Ferro.~
 
 //#9779
-@40093 = ~Niente di diretto, immagino, anche se l'impatto rimane duro. Da quando Sarevok ha preso il comando, hanno interrotto quasi tutte le transazioni commerciali e hanno bloccato la maggior parte dei loro beni. Erano importatori di rilievo e senza il loro aiuto ci vorr‡ molto pi˘ tempo perchÈ il cittadino medio possa notare che la crisi Ë finita. Sembra che Sarevok abbia intenzione di usare il Trono di Ferro per alimentare la sua presa di posizione contro Amn e quindi il suo tentativo di diventare Granduca. Il fatto che sta paralizzando una grande impresa mercantile non sembra importargli minimamente. Non posso credere che uomini d'affari con la testa sulle spalle seguano questo genere di direttive. Sta veramente succedendo qualcosa di molto strano nel palazzo del Trono di Ferro.~
+@40093 = ~Niente di diretto, immagino, anche se l'impatto rimane duro. Da quando Sarevok ha preso il comando, hanno interrotto quasi tutte le transazioni commerciali e hanno bloccato la maggior parte dei loro beni. Erano importatori di rilievo e senza il loro aiuto ci vorr√† molto pi√π tempo perch√© il cittadino medio possa notare che la crisi √® finita. Sembra che Sarevok abbia intenzione di usare il Trono di Ferro per alimentare la sua presa di posizione contro Amn e quindi il suo tentativo di diventare Granduca. Il fatto che sta paralizzando una grande impresa mercantile non sembra importargli minimamente. Non posso credere che uomini d'affari con la testa sulle spalle seguano questo genere di direttive. Sta veramente succedendo qualcosa di molto strano nel palazzo del Trono di Ferro.~
 
 //#3661
 @40094 = ~Gli affari vanno veramente male, con tutti questi agguati dei banditi sulla Strada della Costa.~
@@ -1315,10 +1315,10 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40096 = ~Non abbiamo nessun interesse a comprare qualcosa proprio adesso.~
 
 //#3691
-@40097 = ~Sono un mercante con i cosiddetti. Non provateci con me. PARLO SERIAMENTE!! Quando vi ho fatto un prezzo, Ë quello e basta: niente giochi al ribasso. CHIARO?!!!~
+@40097 = ~Sono un mercante con i cosiddetti. Non provateci con me. PARLO SERIAMENTE!! Quando vi ho fatto un prezzo, √® quello e basta: niente giochi al ribasso. CHIARO?!!!~
 
 //#6297
-@40098 = ~Ho sentito dire un sacco di cose ultimamente. Sembra che non si trovi pi˘ ferro, un po' per la presenza dei briganti e un po' perchÈ il metallo di Nashkell Ë rovinato. Poi c'Ë tensione tra Baldur's Gate e Amn: non sarei sorpreso se scoppiasse una guerra.~
+@40098 = ~Ho sentito dire un sacco di cose ultimamente. Sembra che non si trovi pi√π ferro, un po' per la presenza dei briganti e un po' perch√© il metallo di Nashkell √® rovinato. Poi c'√® tensione tra Baldur's Gate e Amn: non sarei sorpreso se scoppiasse una guerra.~
 
 //#7082
 @40099 = ~Quando ho charmato un mercante, ha accennato vagamente a mancanza di ferro, banditi, addirittura a una guerra.~
@@ -1330,28 +1330,28 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40101 = ~So che allo Storione sarebbe meno caro che all'Elmo e Mantello, ma non ho intenzione di dividere la stanza con qualcuno! Fuori! Sono arrivato prima io!~
 
 //#8324
-@40102 = ~DividerÚ volentieri la stanza con voi. Mi piace un po' di compagnia.~
+@40102 = ~Divider√≤ volentieri la stanza con voi. Mi piace un po' di compagnia.~
 
 //#9178
-@40103 = ~Vi colpirÚ alle orecchie se vi avvicinate anche di un solo centimetro!~
+@40103 = ~Vi colpir√≤ alle orecchie se vi avvicinate anche di un solo centimetro!~
 
 //#8348
 @40104 = ~Fuori dalle scatole, idiota! Non voglio che ficchi il naso nei miei affari!~
 
 //#8349
-@40105 = ~Dubito che troverete qualcuno con cui fare conversazione, con la Signora che non canta pi˘. Se quella voce non torner‡ ci sono uomini gi˘ che non saranno pi˘ gli stessi.~
+@40105 = ~Dubito che troverete qualcuno con cui fare conversazione, con la Signora che non canta pi√π. Se quella voce non torner√† ci sono uomini gi√π che non saranno pi√π gli stessi.~
 
 //#8350
 @40106 = ~Fate tacere quel dannato bardo prima che lo faccia io col mio stivale!~
 
 //#8351
-@40107 = ~Preferisco ascoltare il maledetto silenzio che ha lasciato la Signora piuttosto che il vostro miagolio! Non voglio ripeterlo pi˘!~
+@40107 = ~Preferisco ascoltare il maledetto silenzio che ha lasciato la Signora piuttosto che il vostro miagolio! Non voglio ripeterlo pi√π!~
 
 //#8373
 @40108 = ~Ehi amico, dovremmo fare un salto ai Sotterranei a trovare le pollastrelle. Che ne pensi?~
 
 //#8799
-@40109 = ~Non c'Ë niente di valore qui. Vi supplico, lasciate la casa come l'avete trovata.~
+@40109 = ~Non c'√® niente di valore qui. Vi supplico, lasciate la casa come l'avete trovata.~
 
 //#8800
 @40110 = ~Le guardie vi faranno uscire! Devo chiamarle o ve ne andate ora?~
@@ -1360,49 +1360,49 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40111 = ~Guardie! Ladri! Assassini!~
 
 //#8802
-@40112 = ~Non esco molto di casa, per cui so ben poco di quello che accade in citt‡. PerchÈ non accettate questa moneta d'oro e vi andate a divertire alla piazza del mercato?! Ci sono un sacco di cose da fare laggi˘.~
+@40112 = ~Non esco molto di casa, per cui so ben poco di quello che accade in citt√†. Perch√© non accettate questa moneta d'oro e vi andate a divertire alla piazza del mercato?! Ci sono un sacco di cose da fare laggi√π.~
 
 //#9173
-@40113 = ~Lasciatemi! Avete approfittato della nostra ospitalit‡!~
+@40113 = ~Lasciatemi! Avete approfittato della nostra ospitalit√†!~
 
 //#8228
-@40114 = ~Ehi birichino! Guardare non Ë compreso nel prezzo.~
+@40114 = ~Ehi birichino! Guardare non √® compreso nel prezzo.~
 
 //#9105
-@40115 = ~Lui insiste a chiamarmi "Britannia". Qualunque cosa, se puÚ aiutare... non so se mi spiego.~
+@40115 = ~Lui insiste a chiamarmi "Britannia". Qualunque cosa, se pu√≤ aiutare... non so se mi spiego.~
 
 //#3520
 @40116 = ~alve. Mi spiace di non potervi aiutare, ma i miei studi mi attendono.~
 
 //#3524
-@40117 = ~Forse prima non mi avete sentito, ma come ho gi‡ detto, ho bisogno della mia intimit‡. Potreste andarvene, per favore?~
+@40117 = ~Forse prima non mi avete sentito, ma come ho gi√† detto, ho bisogno della mia intimit√†. Potreste andarvene, per favore?~
 
 //#6370
 @40118 = ~Sono solo un umile lettore, posso dirvi molto poco sul mondo al di fuori di Candlekeep.~
 
 //#9095
-@40119 = ~Non dirÚ pi˘ una sola parola dopo ciÚ che avete fatto!~
+@40119 = ~Non dir√≤ pi√π una sola parola dopo ci√≤ che avete fatto!~
 
 //#14135
 @40120 = ~Fate i vostri affari da qualche altra parte! Non mi serve nulla da gente come voi!~
 
 //#14138
-@40121 = ~Gli affari sono un po' fiacchi a Baldur's Gate ultimamente. Fa piacere vedere facce nuove in citt‡.~
+@40121 = ~Gli affari sono un po' fiacchi a Baldur's Gate ultimamente. Fa piacere vedere facce nuove in citt√†.~
 
 //#14139
-@40122 = ~Pensate che Baldur's Gate sia molto attiva? E una citt‡ fantasma in confronto a come era prima della carenza di ferro.~
+@40122 = ~Pensate che Baldur's Gate sia molto attiva? E una citt√† fantasma in confronto a come era prima della carenza di ferro.~
 
 //#14140
 @40123 = ~Qualsiasi cosa cerchiate, a Baldur's Gate la troverete.~
 
 //#14141
-@40124 = ~Vi ho per caso gi‡ visto qui intorno? Non arrivano molte facce nuove ultimamente, con tutti questi guai.~
+@40124 = ~Vi ho per caso gi√† visto qui intorno? Non arrivano molte facce nuove ultimamente, con tutti questi guai.~
 
 //#14142
-@40125 = ~E un peccato che non abbiate visto Baldur's Gate prima di questo disgraziato periodo. La quantit‡ di commerci era impressionante.~
+@40125 = ~E un peccato che non abbiate visto Baldur's Gate prima di questo disgraziato periodo. La quantit√† di commerci era impressionante.~
 
 //#7927
-@40126 = ~Per tutti gli dËi del focolare! Che piacere rivedere il Braccio Amico! Non so immaginare una vista migliore di queste stanze che mi appaiono davanti, dopo che i briganti mi hanno inseguito da Baldur's Gate fino a qui.~
+@40126 = ~Per tutti gli d√®i del focolare! Che piacere rivedere il Braccio Amico! Non so immaginare una vista migliore di queste stanze che mi appaiono davanti, dopo che i briganti mi hanno inseguito da Baldur's Gate fino a qui.~
 
 //#7936
 @40127 = ~Adesso che siete arrivato sembrate sollevato. E stato difficile il vostro viaggio?~
@@ -1411,51 +1411,51 @@ L'avere sconfitto quegli ogre magi nel Bosco dei Denti Aguzzi ci ha procurato un
 @40128 = ~Dacci un taglio, pazzo millantatore! Non mi importa affatto sapere del tuo viaggio.~
 
 //#7940
-@40129 = ~Una birra per questo viaggiatore stanco! Se vogliamo chiudergli il becco, Ë meglio dargli qualcosa da bere.~
+@40129 = ~Una birra per questo viaggiatore stanco! Se vogliamo chiudergli il becco, √® meglio dargli qualcosa da bere.~
 
 //#7928
-@40130 = ~Immondo? Solo immondo? Se la terra si fosse spaccata sotto ai piedi e avesse sputato i vermi che infestano tutti e nove gli inferni non sarebbe stato peggio! I briganti mi hanno circondato e io non avevo altro per difendermi se non le gambe! L'unico pensiero che avevo mentre scappavo? Raggiungere queste luci, arrivare in questa valle di gioia dove l'idromele si trova a buon mercato. Chiamatela come vi pare, ma la Locanda di Braccio Amico per me Ë come casa mia. Bently! Mi merito un bicchiere di idromele in omaggio, con tutta la pubblicit‡ che ho fatto, amico!~
+@40130 = ~Immondo? Solo immondo? Se la terra si fosse spaccata sotto ai piedi e avesse sputato i vermi che infestano tutti e nove gli inferni non sarebbe stato peggio! I briganti mi hanno circondato e io non avevo altro per difendermi se non le gambe! L'unico pensiero che avevo mentre scappavo? Raggiungere queste luci, arrivare in questa valle di gioia dove l'idromele si trova a buon mercato. Chiamatela come vi pare, ma la Locanda di Braccio Amico per me √® come casa mia. Bently! Mi merito un bicchiere di idromele in omaggio, con tutta la pubblicit√† che ho fatto, amico!~
 
 //#7944
-@40131 = ~Un viandante di ritorno da Baldur's Gate ci ha detto che Ë molto pericoloso viaggiare per la Strada della Costa. I banditi attaccano tutti coloro che passano per quella via.~
+@40131 = ~Un viandante di ritorno da Baldur's Gate ci ha detto che √® molto pericoloso viaggiare per la Strada della Costa. I banditi attaccano tutti coloro che passano per quella via.~
 
 //#7929
 @40132 = ~Eh? Quanto immondo? Abbastanza da dover rimandare il resoconto di questa mia inquietante avventura e salutarvi, amico, se non voglio morire di sete prima di raggiungere il bar. Evitate il nord se avete paura dei briganti! Bently! Una bottiglia del tuo vino meno caro!~
 
 //#7930
-@40133 = ~E a me non interessa affatto la vostra opinione. Se non condividete la mia gioia, allora sedetevi da un'altra parte e io eviterÚ di trasmettervela. Non vi pesterÚ i piedi, ma voi fate attenzione a non pestare i miei.~
+@40133 = ~E a me non interessa affatto la vostra opinione. Se non condividete la mia gioia, allora sedetevi da un'altra parte e io eviter√≤ di trasmettervela. Non vi pester√≤ i piedi, ma voi fate attenzione a non pestare i miei.~
 
 //#7931
-@40134 = ~Perdinci! Dall'aspetto sembrate un viaggiatore come me, ma dalle parole pare che il viaggio vi abbia innervosito. Io festeggio perchÈ Ë finita e voi vi rodete perchÈ Ë successo. Alleggerite il vostro cuore, come si dice, e dormirete sonni tranquilli.~
+@40134 = ~Perdinci! Dall'aspetto sembrate un viaggiatore come me, ma dalle parole pare che il viaggio vi abbia innervosito. Io festeggio perch√© √® finita e voi vi rodete perch√© √® successo. Alleggerite il vostro cuore, come si dice, e dormirete sonni tranquilli.~
 
 //#7932
-@40135 = ~Divertente, se fosse stata opera di qualcuno un po' pi˘ persuasivo. AhimË! CosÏ potrei arrabbiarmi come se mi avessero offeso... Ma non presterÚ attenzione pi˘ di tanto a queste cose... Vi dimenticherÚ e certo non vi rimpiangerÚ. Andate a trovar fortuna da qualche altra parte.~
+@40135 = ~Divertente, se fosse stata opera di qualcuno un po' pi√π persuasivo. Ahim√®! Cos√¨ potrei arrabbiarmi come se mi avessero offeso... Ma non prester√≤ attenzione pi√π di tanto a queste cose... Vi dimenticher√≤ e certo non vi rimpianger√≤. Andate a trovar fortuna da qualche altra parte.~
 
 //#7933
-@40136 = ~Ah! Mi conoscete bene eppure non ci siamo mai incontrati. Non importa, perchÈ resteremo amici fino alla morte! CosÏ giura il poco raffinato Wade. Vi consiglio di stare alla larga dalla via del commercio a nord, se non volete che la nostra amicizia muoia sul nascere.~
+@40136 = ~Ah! Mi conoscete bene eppure non ci siamo mai incontrati. Non importa, perch√© resteremo amici fino alla morte! Cos√¨ giura il poco raffinato Wade. Vi consiglio di stare alla larga dalla via del commercio a nord, se non volete che la nostra amicizia muoia sul nascere.~
 
 //#7934
-@40137 = ~Allora dico a questo: "Ma se quella Ë tua sorella, dov'Ë mia MOGLIE?". Oh! Vi ho sputato? Aah, ecco il mio amico che ritorna! Ancora un bicchiere per trovare il coraggio sufficiente a tornare indietro su quel sentiero polveroso. Ma forse 
-dovrei restare ancora un po': il cielo Ë chiaro, ma la mia testa Ë annebbiata.~
+@40137 = ~Allora dico a questo: "Ma se quella √® tua sorella, dov'√® mia MOGLIE?". Oh! Vi ho sputato? Aah, ecco il mio amico che ritorna! Ancora un bicchiere per trovare il coraggio sufficiente a tornare indietro su quel sentiero polveroso. Ma forse 
+dovrei restare ancora un po': il cielo √® chiaro, ma la mia testa √® annebbiata.~
 
 //#7935
-@40138 = ~Ehi, niente male per un calcio in testa a sorpresa! Il guastafeste Ë appena tornato nel paese dei divertimenti. Immagino che sarete un po' pi˘ gioviale ora, no?~
+@40138 = ~Ehi, niente male per un calcio in testa a sorpresa! Il guastafeste √® appena tornato nel paese dei divertimenti. Immagino che sarete un po' pi√π gioviale ora, no?~
 
 //#7942
 @40139 = ~Cari amici, fatevi una bevuta con me!~
 
 
 //#5096
-@40140 = ~Ehi, tu! Ho bisogno di denaro e di cure; se sai cosa Ë bene per te, dammele!~
+@40140 = ~Ehi, tu! Ho bisogno di denaro e di cure; se sai cosa √® bene per te, dammele!~
 
 //#5097
-@40141 = ~Stai scherzando?! Sei un hobgoblin, perchÈ non dovrei ucciderti?~
+@40141 = ~Stai scherzando?! Sei un hobgoblin, perch√© non dovrei ucciderti?~
 
 //#5098
 @40142 = ~Ecco, prendi 25 monete d'oro.~
 
 //#5099 
-@40143 = ~PerchÈ dovremmo aiutarti?~
+@40143 = ~Perch√© dovremmo aiutarti?~
 
 //#5100
 @40144 = ~Ottimo lavoro. Sono deboli giustificazioni in cambio della vita.~
@@ -1476,7 +1476,7 @@ dovrei restare ancora un po': il cielo Ë chiaro, ma la mia testa Ë annebbiata.~
 @40149 = ~Ti pentirai della tua decisione.~
 
 //#5106
-@40150 = ~Un momento! Mi dispiace, non uccidermi... Ti prego. Ti dirÚ tutto degli Artigli Neri.~
+@40150 = ~Un momento! Mi dispiace, non uccidermi... Ti prego. Ti dir√≤ tutto degli Artigli Neri.~
 
 //#5107
 @40151 = ~Forza.~
@@ -1506,7 +1506,7 @@ dovrei restare ancora un po': il cielo Ë chiaro, ma la mia testa Ë annebbiata.~
 @40158 = ~Benvenuto nel mio negozio. Sei libero di guardare in giro a tuo piacimento, ma cerca di non rompere nulla.~ ~Benvenuta nel mio negozio. Sei libera di guardare in giro a tuo piacimento, ma cerca di non rompere nulla.~
 
 //#15384
-@40159 = ~Mi muoverÚ con cura e con attenzione. Cos'hai da mostrarmi?~
+@40159 = ~Mi muover√≤ con cura e con attenzione. Cos'hai da mostrarmi?~
 
 //#15385
 @40160 = ~Non devi preoccuparti della tua mercanzia, visto che me ne sto giusto andando.~

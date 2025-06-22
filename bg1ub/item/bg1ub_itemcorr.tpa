@@ -150,7 +150,7 @@ COPY_EXISTING ~%tutu_var%SW2H05.ITM~ ~override~ //
   SAY NAME2 #16477
 BUT_ONLY
 
-ACTION_IF !GAME_IS ~bgt~ THEN BEGIN //BG, Tutu, BGEE
+ACTION_IF NOT GAME_IS ~bgt~ THEN BEGIN //BG, Tutu, BGEE
   COPY_EXISTING ~RNDTREAS.2DA~ ~override~
     READ_2DA_ENTRIES_NOW ~_#_#_#rndtreas~ 20
     FOR (row = 0; row < "%_#_#_#rndtreas%"; row += 1) BEGIN
@@ -222,7 +222,7 @@ COPY_EXISTING ~%tutu_var%MAGE02.ITM~ ~override~
   SAY NAME2 @95 // Item originally did not have a name
 BUT_ONLY
 
-ACTION_IF !GAME_IS ~bgee~ THEN BEGIN // Skip for BGEE
+ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN // Skip for BGEE
 	COPY_EXISTING ~%tutu_var%BOLT03.ITM~ ~override~ // Bolt of Lightning
   		WRITE_ASCIIE 0x11e ~%tutu_scripte%FF_M23C~ // Replace invalid wav file reference
 	BUT_ONLY
@@ -301,7 +301,7 @@ COPY_EXISTING ~%tutu_var%HENTOL.CRE~ ~override~ // Hentold
   ADD_CRE_ITEM ~%tutu_var%DAGG08~ #0 #0 #0 ~IDENTIFIED~ ~INV1 INV5~ // Assign Hentold's Dagger to his inventory
 BUT_ONLY
 
-ACTION_IF !GAME_IS ~bgee~ THEN BEGIN // BG, BGT, Tutu
+ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN // BG, BGT, Tutu
   COPY_EXISTING ~%tutu_var%AMARAN.CRE~ ~override~ // Amarande, the Arch Druid
 	REPLACE_CRE_ITEM "%tutu_var%blun10" #0 #0 #0 ~NONE~ ~WEAPON1~ EQUIP
   BUT_ONLY
@@ -448,7 +448,7 @@ BUT_ONLY
 
 /////////////////////////////////////////
 // Adds weight to the items' descriptions
-ACTION_IF !GAME_IS ~bgee~ THEN BEGIN  // Already included in BGEE
+ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN  // Already included in BGEE
 	COPY_EXISTING ~%tutu_var%MISC52.ITM~ ~override~ // Wyvern Head
 		SAY 0x54 @97
 

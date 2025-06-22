@@ -1,4 +1,4 @@
-//DOS prompts - use DOS encoding
+//Use UTF8 encoding
 @90000 = ~The BG1 NPC Project component "The BG1 NPC Project: Phase II (Quests and Interjections)" conflicts with this component.~
 @90001 = ~The BG1 NPC Project component "The BG1 NPC Project: Core Install" conflicts with this component.~
 @90002 = ~The BG1 NPC Project component "The BG1 NPC Project: Phase I (Banters)" conflicts with this component.~

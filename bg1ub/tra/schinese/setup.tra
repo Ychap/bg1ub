@@ -1,4 +1,4 @@
-//DOS prompts - use DOS encoding
+//Use UTF8 encoding
 @90000 = ~BG1 NPC Project 组件 “第二阶段（任务和感叹）” 与此组件冲突~
 @90001 = ~BG1 NPC Project 组件 “核心部分” 与此组件冲突~
 @90002 = ~BG1 NPC Project 组件 “第一阶段（插话）” 与此组件冲突~
