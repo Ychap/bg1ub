@@ -292,7 +292,7 @@ LANGUAGE ~English~
 LANGUAGE ~Deutsch~ // Timothy
 	 ~deutsch~
 	 ~bg1ub/tra/deutsch/setup.tra~
-     ~bg1ub/tra/deutsch/setup.tra~
+     ~bg1ub/tra/deutsch/bg1ub.tra~
 
 LANGUAGE ~Espanol~ // Immortality (clandlan.net)
 	 ~espanol~
