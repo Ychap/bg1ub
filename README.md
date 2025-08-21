@@ -3,7 +3,7 @@ A mod for BG1, BG1-TotSC, Tutu, BGT, and BGEE
 
 **Developed by:** icelus, devSin, SimDing0, Idobek, Ascension64, CamDawg, SixOfSpades, and Dudley
 
-**Current Maintainer:** AstroBryGuy, jastey
+**Current Maintainer:** PPG
 
 **BG1UB Support Forum:** http://forums.pocketplane.net/index.php/board,79.0.html
 
