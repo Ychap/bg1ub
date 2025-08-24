@@ -5,116 +5,126 @@ A mod for BG1, BG1-TotSC, Tutu, BGT, and BGEE
 
 **Current Maintainer:** PPG
 
-**BG1UB Support Forum:** http://forums.pocketplane.net/index.php/board,79.0.html
+[BG1UB Support Forum](http://forums.pocketplane.net/index.php/board,79.0.html)
 
-**BG1UB Homepage:** http://www.pocketplane.net/bg1ub
+[BG1UB Homepage](http://www.pocketplane.net/bg1ub)
 
-**BG1UB Discussion Thread at GibberlingsThree:** https://www.gibberlings3.net/forums/topic/29374-bg1-unfinished-business-bug-reporting-thread/
+[BG1UB Discussion Thread at GibberlingsThree](https://www.gibberlings3.net/forums/topic/29374-bg1-unfinished-business-bug-reporting-thread/)
 
-**BG1UB Discussion Thread at BeamDog Forums:** https://forums.beamdog.com/discussion/38254/bg1-unfinished-business-v16-0
+[BG1UB Discussion Thread at BeamDog Forums](https://forums.beamdog.com/discussion/38254/bg1-unfinished-business-v16-0)
 
-## GENERAL OVERVIEW
+---
+
+### GENERAL OVERVIEW
 
 BG1 Unfinished Business ("BG1UB") is a mod designed to restore many of the cut items, quests, and encounters from the original Baldur's Gate game's final release, as well as try to tie up some of the "loose ends."  As usual, BG1UB should be compatible with most other WeiDU-based mods, and should be installed after either conversion. BG1UB is compatible with Baldur's Gate 1 (with or without Tales of the Sword Coast), Tutu, BGT, and Baldur's Gate: Enhanced Edition.
 
 For version 13+ no additional audio pack is needed. Do not install the separate German, French or Spanish audio packs of earlier releases!
 
-## INSTALLATION
+---
+
+### INSTALLATION
 
 If you encounter any problems installing the mod, please post the contents of the file SETUP-bg1ub.DEBUG at the [BG1UB support forum](http://forums.pocketplane.net/index.php/board,79.0.html).
 
-### Special Note for Siege of Dragonspear from Steam/GOG
+#### Special Note for Siege of Dragonspear from Steam/GOG
 Good Old Games (GOG) and Steam both package the additional content for Siege of Dragonspear in a method that WeiDU, the tool used to install this mod, cannot access. You must install a mod called [DLC Merger](https://github.com/Argent77/A7-DlcMerger/releases/latest) on your SoD installation before you can install this or any other WeiDU-based mod.
 
-###Windows
+#### Windows
 If the mod was previously installed, uninstall it before extracting the new version. BG1UB is packaged and installed with WeiDU. To install, extract the mod archive, then copy of the contents of the archive into your game folder (the folder which contains the chitin.key file). If properly extracted, you should have a "bg1ub" folder and setup-bg1ub.exe in your game folder. To install, simply double-click setup-bg1ub.exe and follow the instructions on screen. 
 
 Please run setup-bg1ub.exe in your game folder to reinstall, uninstall or otherwise change components.
 
-###Mac OS X
+#### Mac OS X
 If the mod was previously installed, uninstall it before extracting the new version. BG1UB is packaged and installed with WeiDU. To install, extract the mod archive, then copy of the contents of the folder "OSX-bg1ub-v14" into your game folder (the folder which contains the chitin.key file). If properly extracted, you should have a "bg1ub" folder, setup-bg1ub, and setup-bg1ub.command in your game folder. To install, simply double-click setup-bg1ub.command and follow the instructions on screen. 
 
 Please run setup-bg1ub.command in your game folder to reinstall, uninstall or otherwise change components. 
 
-## CONTENTS
+---
+
+### CONTENTS
 
 Listed below is an explanation of some of the mod's components:
 
-**0. Ice Island Level Two Restoration:** Developed by devSin, this component restores the second level of the Ice Island from the Tales of the Sword Coast expansion. In the original release, some of the files for this area were damaged and summarily cut from the original game.
+- 0 - Ice Island Level Two Restoration:** Developed by devSin, this component restores the second level of the Ice Island from the Tales of the Sword Coast expansion. In the original release, some of the files for this area were damaged and summarily cut from the original game.
 
-**1. The Mysterious Vial:** One of the biggest "unsolved mysteries" from the original game involves the "mysterious vial" that you find in the Nashkel Mines. SimDing0 has rectified this, and now we can finally tie up this notorious loose end.
+- 1 - The Mysterious Vial:** One of the biggest "unsolved mysteries" from the original game involves the "mysterious vial" that you find in the Nashkel Mines. SimDing0 has rectified this, and now we can finally tie up this notorious loose end.
 
-**2. Additional Elminster Encounter:** In the original game, a bug prevented an additional encounter with Elminster from occurring. Thanks to SimDing0, however, this should no longer be the case, so expect to meet the famous wizard once more outside of the Friendly Arm Inn.
+- 2 - Additional Elminster Encounter:** In the original game, a bug prevented an additional encounter with Elminster from occurring. Thanks to SimDing0, however, this should no longer be the case, so expect to meet the famous wizard once more outside of the Friendly Arm Inn.
 
-**3. Angelo Notices Shar-teel:** Donated by Ascension64, this component originally appeared in the BGT Tweak Pack. From the BGT Tweak Pack readme: *"Father and daughter relationship saves the day when the party is captured by the Flaming Fist."*
+- 3 - Angelo Notices Shar- teel:** Donated by Ascension64, this component originally appeared in the BGT Tweak Pack. From the BGT Tweak Pack readme: *"Father and daughter relationship saves the day when the party is captured by the Flaming Fist."*
 
-**4. Finishable Kagain Caravan Quest:** Donated by Ascension64, this component originally appeared in the BGT Tweak Pack. From the BGT Tweak Pack readme: *"Finding the son of Duke Entar Silvershield is not a futile wander unless the player waits too long..."*
+- 4 - Finishable Kagain Caravan Quest:** Donated by Ascension64, this component originally appeared in the BGT Tweak Pack. From the BGT Tweak Pack readme: *"Finding the son of Duke Entar Silvershield is not a futile wander unless the player waits too long..."*
 
-**5. Coran and the Wyverns:** A bug in Coran's original scripting and dialogue caused him to introduce himself over and over again if the player refused his quest. Thanks to this fix by Idobek, Coran should finally recognize that he had already introduced himself. Additionally, the wyverns that Coran want dead have been made unique, preventing the player from killing any wyvern to complete his quest.
+- 5 - Coran and the Wyverns:** A bug in Coran's original scripting and dialogue caused him to introduce himself over and over again if the player refused his quest. Thanks to this fix by Idobek, Coran should finally recognize that he had already introduced himself. Additionally, the wyverns that Coran want dead have been made unique, preventing the player from killing any wyvern to complete his quest.
 
-**6. Kivan and Tazok:** Tazok murdered Kivan's lover, Deheriana, and yet Kivan has nothing to say to Tazok when the party initially meets him in the Bandit Camp. The mourning lover will be silent no more.
+- 6 - Kivan and Tazok:** Tazok murdered Kivan's lover, Deheriana, and yet Kivan has nothing to say to Tazok when the party initially meets him in the Bandit Camp. The mourning lover will be silent no more.
 
-**7. Branwen and Tranzig:** Tranzig was the man responsible for turning Branwen into a decorative statue at the Nashkel Carnival, and yet she said nothing to him in the original game. After installing this component, the exotic priestess will not be so forgiving.
+- 7 - Branwen and Tranzig:** Tranzig was the man responsible for turning Branwen into a decorative statue at the Nashkel Carnival, and yet she said nothing to him in the original game. After installing this component, the exotic priestess will not be so forgiving.
 
-**8. Safana the Flirt:** Donated by Dudley, this component originally appeared in the Dudleyville Tweaks package: *"Have you ever wondered why Safana, who chats up the men in your party, and is generally a bit of a babe, has Charm Animal as her innate ability? Well now she has "Flirt" instead, which isn't as reliable as magic but when it does work those who fall for her charms will be very forthcoming."*
+- 8 - Safana the Flirt:** Donated by Dudley, this component originally appeared in the Dudleyville Tweaks package: *"Have you ever wondered why Safana, who chats up the men in your party, and is generally a bit of a babe, has Charm Animal as her innate ability? Well now she has "Flirt" instead, which isn't as reliable as magic but when it does work those who fall for her charms will be very forthcoming."*
 
-**9. Appropriate Albert and Rufie Reward:** Different versions of the game and Baldurdash all affected this sequence in the game differently. The original release of the game gave the player a Horn Coral gem. Baldurdash changed it to a bandit scalp. TOTSC broke the dialogue completely. This component should hopefully standardize the reward across the various versions of the game.
+- 9 - Appropriate Albert and Rufie Reward:** Different versions of the game and Baldurdash all affected this sequence in the game differently. The original release of the game gave the player a Horn Coral gem. Baldurdash changed it to a bandit scalp. TOTSC broke the dialogue completely. This component should hopefully standardize the reward across the various versions of the game.
 
-**10. Place Entar Silvershield in His Home:** On the player's first trip to the city of Baldur's Gate, Entar Silvershield was not in his home, though his murder had not yet occurred. This component, coded by SimDing0, restores him during this timeframe, using dialogue from the original game release that was never implemented.
+- 10 - Place Entar Silvershield in His Home:** On the player's first trip to the city of Baldur's Gate, Entar Silvershield was not in his home, though his murder had not yet occurred. This component, coded by SimDing0, restores him during this timeframe, using dialogue from the original game release that was never implemented.
 
-**11. Scar and the Sashenstar's Daughter:** One of the quests given to you by Scar is to investigate the disappearance of people from the city of Baldur's Gate. Included among the missing is the daughter of the Sashenstars. This component will expand upon the quest a bit, allowing you to bring a bit more closure for the family. Special thanks to SixOfSpades for this component's concept.
+- 11 - Scar and the Sashenstar's Daughter:** One of the quests given to you by Scar is to investigate the disappearance of people from the city of Baldur's Gate. Included among the missing is the daughter of the Sashenstars. This component will expand upon the quest a bit, allowing you to bring a bit more closure for the family. Special thanks to SixOfSpades for this component's concept.
 
-**12. Quoningar, the Cleric:** Quoningar is one of several minor characters that were cut prior to the game's initial release. Thanks to devSin, CHARNAME can now help out this old cleric.
+- 12 - Quoningar, the Cleric:** Quoningar is one of several minor characters that were cut prior to the game's initial release. Thanks to devSin, CHARNAME can now help out this old cleric.
 
-**13. Shilo Chen and the Ogre-Magi:** Like Quoningar, Shilo Chen never appeared in the original game, but this component will now allow you to help him with his problem.
+- 13 - Shilo Chen and the Ogre- Magi:** Like Quoningar, Shilo Chen never appeared in the original game, but this component will now allow you to help him with his problem.
 
-**14. Edie, the Merchant League Applicant:** Edie, another cut encounter, is trying to get accepted into the Merchant League. Will CHARNAME be able to help her pass her entrance exam?
+- 14 - Edie, the Merchant League Applicant:** Edie, another cut encounter, is trying to get accepted into the Merchant League. Will CHARNAME be able to help her pass her entrance exam?
 
-**15. Flaming Fist Mercenary Reinforcements:** The road to Beregost is dangerous these days, so why would a Flaming Fist Mercenary be guarding it alone? Thanks to devSin, this oversight from the original game is now solved.
+- 15 - Flaming Fist Mercenary Reinforcements:** The road to Beregost is dangerous these days, so why would a Flaming Fist Mercenary be guarding it alone? Thanks to devSin, this oversight from the original game is now solved.
 
-**16. Creature Corrections:** This component contains numerous small edits to many of the game's creature files. Edits include alignment, gender, script, dialogue, death variable, class, and inventory corrections; providing weapons to unarmed creatures; and adds scalps to more bandits.
+- 16 - Creature Corrections:** This component contains numerous small edits to many of the game's creature files. Edits include alignment, gender, script, dialogue, death variable, class, and inventory corrections; providing weapons to unarmed creatures; and adds scalps to more bandits.
 
-**17. Creature Restorations:** There are many minor NPCs that were not included in the game's original release, and this component restores many of them. Most are generic "scenery" NPCs, but a few will provide important information.
+- 17 - Creature Restorations:** There are many minor NPCs that were not included in the game's original release, and this component restores many of them. Most are generic "scenery" NPCs, but a few will provide important information.
 
-**18. Creature Name Restorations:** By digging through various game files, many NPCs can now be given specific names, rather than, for example, "Noblewoman".
+- 18 - Creature Name Restorations:** By digging through various game files, many NPCs can now be given specific names, rather than, for example, "Noblewoman".
 
-**19. Minor Dialogue Restorations:** There are many small pieces of dialogue that never made it to the game's final release, but that is no longer the case due to this component. Also included are reward fixes, Dudley's Hobgoblin Fix (modified to work better) and Ike's Reaction-Based Costs, and modification of dialogues in Chapter 7 that is sensitive to the order in which you perform the quests.
+- 19 - Minor Dialogue Restorations:** There are many small pieces of dialogue that never made it to the game's final release, but that is no longer the case due to this component. Also included are reward fixes, Dudley's Hobgoblin Fix (modified to work better) and Ike's Reaction- Based Costs, and modification of dialogues in Chapter 7 that is sensitive to the order in which you perform the quests.
 
-**20. Audio Restorations:** Due to some coding bugs, several creature soundsets did not function properly--or at all. devSin has graciously corrected this problem, however, and now Ajantis, Garrick, Xan, Delsvirftanyon, and several other NPCs can be fully heard.
+- 20 - Audio Restorations:** Due to some coding bugs, several creature soundsets did not function properly--or at all. devSin has graciously corrected this problem, however, and now Ajantis, Garrick, Xan, Delsvirftanyon, and several other NPCs can be fully heard.
 
-**21. Store, Tavern and Inn Fixes and Restorations:** To put it bluntly, stores, taverns, and inns in the original game are a mess. This component restores a few unused stores, assigns the correct bartenders, adds more specific names to the establishments, and fixes an oversight at the Ulgoth's Beard store.
+- 21 - Store, Tavern and Inn Fixes and Restorations:** To put it bluntly, stores, taverns, and inns in the original game are a mess. This component restores a few unused stores, assigns the correct bartenders, adds more specific names to the establishments, and fixes an oversight at the Ulgoth's Beard store.
 
-**22. Item Corrections and Restorations:** Like the Creature Corrections component, this component contains many fixes and restorations. Several items that were unavailable in the original game have now been added to strategic locations, item-related bugs have been fixed, stores have received new inventory, and item graphics which were previously unused have been restored.
+- 22 - Item Corrections and Restorations:** Like the Creature Corrections component, this component contains many fixes and restorations. Several items that were unavailable in the original game have now been added to strategic locations, item- related bugs have been fixed, stores have received new inventory, and item graphics which were previously unused have been restored.
 
-**23. Area Corrections and Restorations:** This is a rather small component, but installing it will introduce the Halfling Enforcers, alter the Firedrake trap in Durlag's Tower, and fix the game crashing bug for AR0717 (courtesy of Idobek).
+- 23 - Area Corrections and Restorations:** This is a rather small component, but installing it will introduce the Halfling Enforcers, alter the Firedrake trap in Durlag's Tower, and fix the game crashing bug for AR0717 (courtesy of Idobek).
 
-**24. Permanent Corpses:** A few encounters in the game, such as the Ogre Mage in the Cloakwood Mines, involved corpses, but because of a coding issue, these corpses would disappear prematurely. Installing this component will make some of the more important corpses in the game permanent.
+- 24 - Permanent Corpses:** A few encounters in the game, such as the Ogre Mage in the Cloakwood Mines, involved corpses, but because of a coding issue, these corpses would disappear prematurely. Installing this component will make some of the more important corpses in the game permanent.
 
-**25. Elven Charm & Sleep Racial Resistance:** TOTSC/TOS ONLY. Courtesy of CamDawg, this component restores the natural resistance that Elves and Half-Elves should have toward charm and sleep spells. Elves gain 90% resistance and Half-Elves 30%.
+- 25 - Elven Charm & Sleep Racial Resistance:** TOTSC/TOS ONLY. Courtesy of CamDawg, this component restores the natural resistance that Elves and Half- Elves should have toward charm and sleep spells. Elves gain 90% resistance and Half- Elves 30%.
 
-**26. The Original Saga Music Playlist Corrections:** TOS ONLY. The Original Saga, the re-release of the original Baldur's Gate that included the Tales of the Sword Coast expansion, had an error regarding in-game music, which this component should correct. Quote Dudley: *"A couple of respondents have noted that the 3CD Original Saga contains duplicate MUS files in certain instances. It is believed all MUS files should be unique."*
+- 26 - The Original Saga Music Playlist Corrections:** TOS ONLY. The Original Saga, the re- release of the original Baldur's Gate that included the Tales of the Sword Coast expansion, had an error regarding in- game music, which this component should correct. Quote Dudley: *"A couple of respondents have noted that the 3CD Original Saga contains duplicate MUS files in certain instances. It is believed all MUS files should be unique."*
 
-**27. Sarevok's Diary Corrections:** SixOfSpades has spent a lot of time overhauling Sarevok's Diary and a few related documents so that the dates make a bit more sense, and this component is the result of his effort. It will also correct some of the inconsistency regarding Sarevok's last name (Anchev vs. Costak).
+- 27 - Sarevok's Diary Corrections:** SixOfSpades has spent a lot of time overhauling Sarevok's Diary and a few related documents so that the dates make a bit more sense, and this component is the result of his effort. It will also correct some of the inconsistency regarding Sarevok's last name (Anchev vs. Costak).
 
-**28. Prism and the Emeralds Tweak:** This new component was provided by plainab. Features are: it fixes the exploit of being able to turn in Prism's emeralds one at a time by making them unique items; it provides new options to obtain the emeralds; it provides split rewards if the player is only able to obtain one of the emeralds; it puts the emeralds in the sculpture's eyes if Prism finished it.
+- 28 - Prism and the Emeralds Tweak:** This new component was provided by plainab. Features are: it fixes the exploit of being able to turn in Prism's emeralds one at a time by making them unique items; it provides new options to obtain the emeralds; it provides split rewards if the player is only able to obtain one of the emeralds; it puts the emeralds in the sculpture's eyes if Prism finished it.
 
-**29. Duke Eltan in the Harbor Master's Building:** This new component was provided by Balquo and jastey. Duke Eltan has so far unused dialogue states for thanking the PC after bringing him to the Harbor Master, so this component makes sure he appears after being brought there so he can actually say them. This component is compatible with the BG1RE component "Duke Eltan's Spare Minute".
+- 29 - Duke Eltan in the Harbor Master's Building:** This new component was provided by Balquo and jastey. Duke Eltan has so far unused dialogue states for thanking the PC after bringing him to the Harbor Master, so this component makes sure he appears after being brought there so he can actually say them. This component is compatible with the BG1RE component "Duke Eltan's Spare Minute".
 
-**30. Nim Furlwing Encounter:** This new component was provided by AstroBryGuy. In the Wood of Sharp Teeth, a elven hunter and her hounds need your help. Can you save them before it's too late?
+- 30 - Nim Furlwing Encounter:** This new component was provided by AstroBryGuy. In the Wood of Sharp Teeth, a elven hunter and her hounds need your help. Can you save them before it's too late?
 
-**31. Restored Elfsong Tavern Movie:** This new component was provided by Sams and AstroBryGuy. This component restores an unfinished movie that was to be played upon entering the Elfsong Tavern. This component is or BG/BGT/Tutu installs only. BGEE users should check out Sams' BG:EE Classic Movies mod.
+- 31 - Restored Elfsong Tavern Movie:** This new component was provided by Sams and AstroBryGuy. This component restores an unfinished movie that was to be played upon entering the Elfsong Tavern. This component is or BG/BGT/Tutu installs only. BGEE users should check out Sams' BG:EE Classic Movies mod.
 
-**32. Svlast, the Fallen Paladin Encounter:** This new component was provided by AstroBryGuy. An ex-paladin by the name of Svlast is being hunted in the night near the Firewine Ruins. Can you help him?
+- 32 - Svlast, the Fallen Paladin Encounter:** This new component was provided by AstroBryGuy. An ex- paladin by the name of Svlast is being hunted in the night near the Firewine Ruins. Can you help him?
 
-**33. Mal-Kalen, the Ulcaster Ghost:** This new component was provided by AstroBryGuy. The spirit of Mal-Kalen haunts the depths of the Ulcaster Ruins.
+- 33 - Mal-Kalen, the Ulcaster Ghost:** This new component was provided by AstroBryGuy. The spirit of Mal-Kalen haunts the depths of the Ulcaster Ruins.
 
-**34. Chapter 6 Dialogue Restorations:** This new component was provided by AstroBryGuy. Did you ever want to have a little chat with Tethtoril in Candlekeep Library? Did it ever bug you that the Gatewarden was waiting for you on the 6th floor, no matter how fast you go there after talking to Koveras? This component changes that. Now, you can visit Tethtoril, have a little chat, and then stumble into Koveras' clever scheme. Many thanks to Salk for suggestions for this component.
+- 34 - Chapter 6 Dialogue Restorations:** This new component was provided by AstroBryGuy. Did you ever want to have a little chat with Tethtoril in Candlekeep Library? Did it ever bug you that the Gatewarden was waiting for you on the 6th floor, no matter how fast you go there after talking to Koveras? This component changes that. Now, you can visit Tethtoril, have a little chat, and then stumble into Koveras' clever scheme. Many thanks to Salk for suggestions for this component.
 
-## COMPATIBILITY
+---
+
+### COMPATIBILITY
 
 We are striving to make BG1 Unfinished Business compatible with as many other mods as possible. Some BG1 Unfinished Business components contain checks for BG1 NPC Project and Northern Tales of the Sword Coast to prevent mod conflicts. Currently there are no other known incompatibilities with Tutu or BGT mods.
 
-## FAQS
+---
+
+### FAQS
 
 Q: What do I need to use this mod?  
 A: This version of BG1 Unfinished Business will require BG1, BG1Tutu or Baldur's Gate Trilogy.
@@ -129,7 +139,10 @@ Q: Who is behind Unfinished Business's development?
 A: The mod was started by myself, Erik Manning (a.k.a. icelus). After I publicly announced my desire to begin the mod, help came flooding in from people like SimDing0, devSin, SixOfSpades, and many others. This mod, like its BG2 predecessor, is truly a community effort.
 
 Q: What items have been restored with this mod?  
-A: There were actually less than we initially believed, but as of the current release, the restored items are as follows:
+A: There were actually less than we initially believed, but as of the current release.
+
+<details>
+  <summary>The restored items are as follows:</summary>
 
 * BOLT OF POLYMORPHING
 * BRACERS
@@ -154,13 +167,24 @@ A: There were actually less than we initially believed, but as of the current re
 * SPEAR +3, BACKBITER
 * STUDDED LEATHER ARMOR +2: MISSILE ATTRACTION
 
-## SPOILERS
+---
+
+</details>
+
+---
+
+### SPOILERS
 
 Q: Will there be spoilers in this section soon?  
 A: Of course!
 
 Q: Where can I find the Restored Items?  
-A: We tried to place the items in places that made at least a little sense. None of them should be too difficult to find. Nevertheless, here is the list:
+A: We tried to place the items in places that made at least a little sense. None of them should be too difficult to find. Nevertheless.
+
+<details>
+  <summary>Here is the list:</summary>
+
+---
 
 * BOLT OF POLYMORPHING - Ulgoth's Beard Store and Inn, Erdane, Sorcerous Sundries
 * BRACERS - AR3300 "Beregost": Container 1, Kivan, Coran, Friendly Arm Inn, Candlekeep Inn, Jovial Juggler, General Store, Nashkel Store, Thunderhammer Smithy
@@ -185,7 +209,13 @@ A: We tried to place the items in places that made at least a little sense. None
 * SPEAR +3, BACKBITER - AR5201 "Firewine Ruins": Undead Knight
 * STUDDED LEATHER ARMOR +2: MISSILE ATTRACTION - Lucky Aello's
 
-## LEGAL MATTERS
+---
+
+</details>
+
+---
+
+### LEGAL MATTERS
 
 BG1 Unfinished Business is copyright © 2006 by Erik Manning (aka icelus)
 
@@ -195,7 +225,9 @@ REDISTRIBUTION NOTE: BG1 Unfinished Business was created to be freely enjoyed by
 
 BG1 Unfinished Business is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards of the Coast, Bioware, Interplay/Black Isle, or Beamdog. Portions of the materials used are property of Wizards of the Coast, Bioware, Interplay/Black Isle, or Beamdog. ©Wizards of the Coast LLC, Bioware/EA, Interplay/Black Isle, Beamdog.
 
-## CREDITS
+---
+
+### CREDITS
 
 Many people are to be thanked for their support of this mod.
 
@@ -203,40 +235,47 @@ First and foremost, we'd like to thank BioWare and Black Isle for supplying us w
 
 On a more personal level, we would like to thank the following individuals for their assistance with this mod:
 
-* The conversion of the mod from BG1 to Tutu and BGT was performed by Ascension64.
-* A huge thanks goes out to devSin, SimDing0, and SixOfSpades for helping with much of the coding and content for the mod. Without you guys, the mod would likely still be vaporware.
-* Special thanks goes out to Ascension64, Dudley, Idobek, CamDawg, and Macready for their lending us the use of their various components.
-* SixOfSpades, Echon, Idobek, Andyr, Salk, NiGHTMARE, Bex, Hendryk, Caedwyr, Ghreyfain, Marauder, Finellach, Demonious, Drew, amazinggameguru, and many others for providing invaluable input
-* CamDawg, SimDing0, devSin, Andyr, and Idobek for their patience and assistance with our technical problems
-* Immortality of ClanDLAN and IronFistedGiant for the Spanish and French translations, respectively
-* Westley Weimer, TheBigg, the DragonLance TC team, Jon Olav Hauglid, and Dmitry Jemerov for the invaluable tools they have developed for the modding community
-* Salk, Aran, LoneRogue, and ElfBane for their help in beta testing
-* Jason Compton and the Pocket Plane Group for hosting the mod and providing us with a development and support forum
+- The conversion of the mod from BG1 to Tutu and BGT was performed by Ascension64.
+- A huge thanks goes out to devSin, SimDing0, and SixOfSpades for helping with much of the coding and content for the mod. Without you guys, the mod would likely still be vaporware.
+- Special thanks goes out to Ascension64, Dudley, Idobek, CamDawg, and Macready for their lending us the use of their various components.
+- SixOfSpades, Echon, Idobek, Andyr, Salk, NiGHTMARE, Bex, Hendryk, Caedwyr, Ghreyfain, Marauder, Finellach, Demonious, Drew, amazinggameguru, and many others for providing invaluable input
+- CamDawg, SimDing0, devSin, Andyr, and Idobek for their patience and assistance with our technical problems
+- Immortality of ClanDLAN and IronFistedGiant for the Spanish and French translations, respectively
+- Westley Weimer, TheBigg, the DragonLance TC team, Jon Olav Hauglid, and Dmitry Jemerov for the invaluable tools they have developed for the modding community
+- Salk, Aran, LoneRogue, and ElfBane for their help in beta testing
+- Jason Compton and the Pocket Plane Group for hosting the mod and providing us with a development and support forum
 
 Below are links to community-related sites:
 
-* http://www.baldurdash.org/ - Baldurdash
-* http://www.pocketplane.net/ - The Pocket Plane Group modding community
-* http://www.gibberlings3.net/ - The Gibberlings Three modding community
-* http://modlist.pocketplane.net - Infinity Engine Modlist
-* http://forums.bioware.com/ - BioWare Forums
-* http://www.idi.ntnu.no/~joh/ni/ - Near Infinity
-* http://www.weidu.org/ - WeiDU
-* http://forums.gibberlings3.net/index.php?showtopic=11045 - DLTCEP
-* http://infexp.sourceforge.net/ - Infinity Explorer
+- [Baldurdash](http://www.baldurdash.org/)
+- [The Pocket Plane Group modding community](http://www.pocketplane.net/)
+- [The Gibberlings Three modding community](http://www.gibberlings3.net/)
+- [Infinity Engine Modlist](http://modlist.pocketplane.net)
+- [BioWare Forums](http://forums.bioware.com/)
+- [Near Infinity](https://github.com/NearInfinityBrowser/NearInfinity/wiki)
+- [WeiDU](http://www.weidu.org/)
+- [DLTCEP](http://forums.gibberlings3.net/index.php?showtopic=11045)
+- [Infinity Explorer](http://infexp.sourceforge.net/)
 
-## VERSION HISTORY
+---
 
-### Version BETA1 (8 April, 2006) - Initial BETA Release
+### VERSION HISTORY
 
-### Version BETA2 (29 April, 2006) - Second BETA Release
+<details>
+  <summary>Previous versions:</summary>
 
-### Version 1 (7 May, 2006) - Initial Public Release
+---
+
+#### Version BETA1 (8 April, 2006) - Initial BETA Release
+
+#### Version BETA2 (29 April, 2006) - Second BETA Release
+
+#### Version 1 (7 May, 2006) - Initial Public Release
  - NEW ADDITIONS
   - Initial public release of the mod
   - Components include: Ice Island Level Two Restoration, The Mysterious Vial, Additional Elminster Encounter, Angelo Notices Shar-teel, Finishable Kagain Caravan Quest, Coran and the Wyverns, Kivan and Tazok, Branwen and Tranzig, Safana the Flirt, Appropriate Albert and Rufie Reward, Place Entar Silvershield in His Home, Scar and the Sashenstar's Daughter, Quoningar, the Cleric, Shilo Chen and the Ogre-Magi, Edie, the Merchant League Applicant, Flaming Fist Mercenary Reinforcements, Creature Corrections, Creature Restorations, Creature Name Restorations, Minor Dialogue Restorations, Audio Restorations, Store, Tavern and Inn Fixes and Restorations, Item Corrections and Restorations, Area Corrections and Restorations, Permanent Corpses, Elven Charm & Sleep Racial Immunity, The Original Saga Music Playlist Corrections, Sarevok's Diary Corrections
 
-### Version 2 (14 May, 2006)
+#### Version 2 (14 May, 2006)
  - BUGFIXES
   - Fixed a typo in the journal entry for Quoningar's quest ('bring'-->'bringing')
   - Error with fixing STO1115 in the Store, Tavern, and Inn Corrections component (copy command did not include .sto extension)
@@ -244,7 +283,7 @@ Below are links to community-related sites:
   - Fixed a coding error that would cause Dezkiel to spawn twice on the Ice Island
   - Corrected various readme typos
 
-### Version 3 (29 May, 2006)
+#### Version 3 (29 May, 2006)
  - NEW ADDITIONS
   - Spanish translation (Thanks, Immortality!)
   - French translation (Thanks, IronFistedGiant!)
@@ -261,7 +300,7 @@ Below are links to community-related sites:
   - Fixed typo on Scar's quest: "Sashenstar's" --> "Sashenstars'"
   - Fixed a bug where Arkion wouldn't take the female body from the party's inventory
 
-### Version 4 (Dawn of the Ding0)
+#### Version 4 (Dawn of the Ding0)
  - NEW ADDITIONS
   - Item Corrections and Restorations now restore numerous unused item graphics
  - CHANGES
@@ -280,7 +319,7 @@ Below are links to community-related sites:
   - Removed Corianna's script to initiate dialogue which could prevent the game from being saved while in the area
   - Bunsen's dialogue responses are no longer duplicated
 
-### Version 5 (Ascension64 Dabbles)
+#### Version 5 (Ascension64 Dabbles)
  - NEW ADDITIONS
   - Added Italian translation (by Andrea Colombo)
  - CHANGES
@@ -300,13 +339,13 @@ Below are links to community-related sites:
   - Revised coding of Appropriate Albert/Rufie Reward
   - Reworked coding of "Minor Dialogue Restorations" component
 
-### Version 6 (Return of the Ding0)
+#### Version 6 (Return of the Ding0)
  - BUGFIXES
   - Baresh no longer erroneously transforms into Kaishas Gan
   - Further corrected Root of the Problem
   - Failed stealing from the Jovial Juggler now turns the bartender hostile
 
-### Version 7 (The Saga Coalesces)
+#### Version 7 (The Saga Coalesces)
  - NEW ADDITIONS
   - Added German translation (by Timothy)
   - Updated Castilian translation (by Immortality - www.clandlan.net)
@@ -333,7 +372,7 @@ Below are links to community-related sites:
   - Corrected misleading readme description of Coran and the Wyverns component
   - Blink Dog (DOGBLINK) now has a real bite
 
-### Version 8 (It)
+#### Version 8 (It)
  - NEW ADDITIONS
   - Added German translation (by Timothy)
  - BUGFIXES
@@ -342,15 +381,15 @@ Below are links to community-related sites:
   - Fixed non-translated dialogue for Kagain
  - CHANGES
   - CamDawg's Inventory Checker changes don't replace items added by other modifications
-### Version 9 (Damage Control)
+#### Version 9 (Damage Control)
  - BUGFIXES
   - Fixed typo that could cause problems installing Scar and the Sashenstar's daughter on modded installations
 
-### Version 10
+#### Version 10
   - Added Russian translation (aerie.ru, Darktech)
   - Revised Italian translation (Stone Angel, ilot)
 
-### Version 11
+#### Version 11
  - BUGFIXES
   - Angelo now properly kills some player, not just Player2, so that Player2 already being dead does not result in no death
   - Fixed a problem with the party not being transferred to jail in Angelo notices Shar-Teel component
@@ -359,12 +398,12 @@ Below are links to community-related sites:
   - Placeholder file is now 1 byte to allow detection by FILE\_EXISTS\_*
   - Updated compatibility checks for BG1NPC components to be in line with v18
 
-### Version 12
+#### Version 12
   - Added Polish translation (Barek)
   - Revised German translation (Leomar)
   - Updated to WeiDU v215
 
-### Version 13
+#### Version 13
  - BUGFIXES
   - Imoen portrait patching now checks whether another portrait was assigned
   - Assigns the SIL script as General script instead of Class script (component "Creature Corrections") to ensure compatibility with "The Lure of the Sirine's Call"
@@ -385,7 +424,7 @@ Below are links to community-related sites:
   - Revised Russian translation (arcanecoast.ru team). Sound references in "extra\_tmp.tra" are unified (formerly missing the Tutu-recognition)
   - Updated to WeiDU v231
 
-### Version 13.1
+#### Version 13.1
  - BUGFIXES
   - "Scar and the Sashenstar's Daughter": corrected the OUTER\_SPRINT to %tutu\_scriptbg%MISC79.ITM. Now the correct file BGMISC79 for the body is used instead of a replica of "Raissa's skin" (MISC79) (BGT).
   - Made the expanded Winter Wolf Pelt's description visible (by Hurricane).
@@ -401,7 +440,7 @@ Below are links to community-related sites:
   - Edited Russian translation by aerie.ru & Darktech (now maintained by arcanecoast.ru team)
   - Update to WeiDU v236
 
-### Version 13.2
+#### Version 13.2
  - CHANGES
   - BG-version: "Minor Dialogue Restorations" Compatibility with Dudleyfixes: Several charmed dialogues fixed so gifts are not doubled
   - BG: item creation via script did not work because of the spaces in the container names - fixed.
@@ -413,7 +452,11 @@ Below are links to community-related sites:
   - Polish: for BG1, the correct text format is applied - by Zed Nocear
   - Prism and the Emeralds Tweak: Added fix to make install order for bg1ub and BG1NPC Project / Gavin no longer a problem (Added a REPLACE\_ACTION\_TEXT for the whole Oublek.dlg and Prism.dlg to account for new states introduced by NPC mods doing I\_C\_T with passback line (namely BG1NPC Project and Gavin))
 
-### Version 14 (BGEE Compatibility)
+---
+
+</details>
+
+#### Version 14 (BGEE Compatibility)
  - CHANGES
   - General Updates for BGEE Compatibility: Replace FILE\_EXISTS checks to GAME\_IS checks where appropriate. Add BGEE variables to getcpmvara/getcpmvarp calls.
   - Update to WeiDU v237, Windows and OS X binaries
@@ -464,7 +507,7 @@ Below are links to community-related sites:
   - Updated Italian Translation - thanks Aedan!
   - Added extra\_tmp\_ee.tra with BGEE Dialog.tlk strings
 
-### Version 14.1
+#### Version 14.1
  - BUGFIXES
   	* Fixed bug on Tutu with Unshey's restored dialog
  - CHANGES
@@ -472,7 +515,7 @@ Below are links to community-related sites:
   - Svlast, the Fallen Paladin: Made Svlast's items unidentified
   - Updating BGT\_VAR for EET Support
 
-### Version 15
+#### Version 15
  - NEW COMPONENT: Chapter 6 Dialog Restorations
  - Mal-Kalen updates:
   - Fear effect centered on caster
@@ -485,16 +528,16 @@ Below are links to community-related sites:
   - Updating DV changes to write 32 bytes
   - Removing change of DV for %tutu_var%NOBW4.cre
 
-### Version 15.1
+#### Version 15.1
  - Ch 6 Restorations: Updates to improve scripting and dialog options
  - Shilo Chen: Updated item description for Gloves of Pick Pocketing in BGEE
  - Updated Polish translations - Thanks Cahir!
 
-### Version 15.2
+#### Version 15.2
  - Updated French translations - Thanks Isaya!
  - Updated Italian translations - Thanks Aedan!
 
-### Version 16.0
+#### Version 16.0
  - Block the following components from being installed on BGEE v2.5:
   - The Mysterious Vial
   - Finishable Kagain Caravan Quest
@@ -514,7 +557,7 @@ Below are links to community-related sites:
  - Nim Furlwing Encounter: Fix issue with reward scroll
  - Chapter 6 Dialogue Restorations: Fixed issue installing on BG1-TotSC
 
-### Version 16.1
+#### Version 16.1
  - Russian version completed by d0lphin.
  - Component "Additional Elminster Encounter" will be skipped for BGT (encounter is already restored in BGT)
  - Component "Coran and the Wyverns" will be skipped for BGT: Wyvern is already unique, and dialogue fix currently destroys Coran's greetings dialogue.
@@ -522,18 +565,18 @@ Below are links to community-related sites:
  - Readme renamed to README.bg1ub.english.html.
  - bg1ub.ini with mod info added.
 
-### Version 16.2
+#### Version 16.2
 
  - Re-eabled Coran and The Wyvern component for BGT
  - Svlast will be at his place at all times of day.
  - Moved NimFurlwing and her dogs further south to make the encounter compatible with Aurora Shoes and Boots which spawns a great horde of monsters where bg1ub placed the Furlwing encounter * originally.
  - Chapter 6 Dialogue Restorations: Watch on level 6 will now have same random dialogue as the watches on the other library levels (spawn watch9.cre instead of custom version of watch2).
 
-### Version 16.3
+#### Version 16.3
 
  - Update and correction of Russian translation by d0lphin.
 
-### Version 16.4
+#### Version 16.4
 
  - Changed syntax of Kivan's interjection with Tazok to make it more stable (I_C_T instead of I_C_T2).
  - Spanish version updated and completed by OmegaZeroVIII.
@@ -548,13 +591,13 @@ Below are links to community-related sites:
 - Removed duplicate `abprismemeralds` folder.
 - *Note: The fix code for EE compatibility by **Jastey** ([link](https://forums.pocketplane.net/index.php?topic=30046.msg340860#msg340860)) was correct but was applied to the wrong file via a PR from a community member.*
 
-### Version 16.6
+#### Version 16.6
 - Fixed malformed `tra\deutsch\bg1ub.tra`.
 
-### Version 16.7
+#### Version 16.7
 - Added missing `LANGUAGE` entry for the Chinese translation.
 
-### Version 17
+#### Version 17
 - Re-applied EE compatibility fix by **Jastey** ([link](https://forums.pocketplane.net/index.php?topic=30046.msg340860#msg340860)) to the correct file.
 - Converted the mod to use **UTF-8** encoding for translation files.
 - Added `DESIGNATED` and `LABEL` entries for each component.
@@ -563,3 +606,9 @@ Below are links to community-related sites:
 - Updated **PI metadata**.
 - Renamed `setup-bg1ub.tp2` to `bg1ub.tp2`.
 - Lowercased filenames.
+
+#### Version 17.1
+- MODDER tag commented out to avoid irrelevant warnings at install by Camdawg.
+- German LANGUAGE entry typo by Ychap.
+- Chinese LANGUAGE adjusted by MephistoSatanDevil.
+- Readmes update.
